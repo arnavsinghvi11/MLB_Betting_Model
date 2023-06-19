@@ -1,0 +1,129 @@
+,Unnamed: 0,Name,Team,Opponent,Hmcrt_adv,IP,H,R,ER,BB,SO,HR
+0,0,Gerrit Cole,New York Yankees,Cleveland Guardians,0,7.0,5,2,2,2,3,0
+1,1,Albert Abreu,New York Yankees,Cleveland Guardians,0,2.0,2,0,0,0,1,0
+2,2,Hunter Gaddis,Cleveland Guardians,New York Yankees,1,3.0,8,8,8,2,3,1
+3,3,Tim Herrin,Cleveland Guardians,New York Yankees,1,2.0,1,0,0,0,1,0
+4,4,Xzavion Curry,Cleveland Guardians,New York Yankees,1,4.0,4,3,3,1,3,0
+5,0,Kyle Muller,Oakland Athletics,Baltimore Orioles,0,4.0,7,6,6,3,3,1
+6,1,Zach Jackson,Oakland Athletics,Baltimore Orioles,0,1.0,1,0,0,0,1,0
+7,2,Trevor May,Oakland Athletics,Baltimore Orioles,0,1.0,2,1,1,1,2,1
+8,3,Sam Moll,Oakland Athletics,Baltimore Orioles,0,0.2,0,2,2,1,1,0
+9,4,Dany Jiménez,Oakland Athletics,Baltimore Orioles,0,1.1,2,3,3,1,2,1
+10,5,Grayson Rodriguez,Baltimore Orioles,Oakland Athletics,1,4.1,6,5,5,4,6,0
+11,6,Austin Voth,Baltimore Orioles,Oakland Athletics,1,1.2,4,2,2,0,1,1
+12,7,Bryan Baker,Baltimore Orioles,Oakland Athletics,1,1.0,0,0,0,0,1,0
+13,8,Danny Coulombe,Baltimore Orioles,Oakland Athletics,1,1.0,0,0,0,0,3,0
+14,9,Logan Gillaspie,Baltimore Orioles,Oakland Athletics,1,1.0,2,1,1,0,2,0
+15,0,Cristian Javier,Houston Astros,Pittsburgh Pirates,0,6.0,5,4,4,1,3,2
+16,1,Ryne Stanek,Houston Astros,Pittsburgh Pirates,0,1.0,0,0,0,0,1,0
+17,2,Rafael Montero,Houston Astros,Pittsburgh Pirates,0,1.0,2,0,0,0,2,0
+18,3,Ryan Pressly,Houston Astros,Pittsburgh Pirates,0,0.1,3,3,3,0,1,1
+19,4,Mitch Keller,Pittsburgh Pirates,Houston Astros,1,6.0,6,2,2,2,7,2
+20,5,Duane Underwood Jr.,Pittsburgh Pirates,Houston Astros,1,1.0,0,0,0,0,0,0
+21,6,Colin Holderman,Pittsburgh Pirates,Houston Astros,1,1.0,1,0,0,0,1,0
+22,7,David Bednar,Pittsburgh Pirates,Houston Astros,1,1.0,2,2,1,1,1,0
+23,0,Jesús Luzardo,Miami Marlins,Philadelphia Phillies,0,6.0,8,3,3,1,5,1
+24,1,Dylan Floro,Miami Marlins,Philadelphia Phillies,0,1.0,0,0,0,2,0,0
+25,2,Huascar Brazoban,Miami Marlins,Philadelphia Phillies,0,2.0,3,1,1,1,4,0
+26,3,Aaron Nola,Philadelphia Phillies,Miami Marlins,1,5.2,9,4,4,0,6,1
+27,4,Gregory Soto,Philadelphia Phillies,Miami Marlins,1,0.1,0,0,0,1,0,0
+28,5,Connor Brogdon,Philadelphia Phillies,Miami Marlins,1,1.0,1,1,1,0,1,1
+29,6,Andrew Bellatti,Philadelphia Phillies,Miami Marlins,1,1.0,4,3,3,1,2,0
+30,7,Craig Kimbrel,Philadelphia Phillies,Miami Marlins,1,1.0,0,0,0,1,1,0
+31,0,Garrett Whitlock,Boston Red Sox,Tampa Bay Rays,0,5.0,8,5,5,0,5,3
+32,1,Richard Bleier,Boston Red Sox,Tampa Bay Rays,0,1.0,1,0,0,0,1,0
+33,2,Kaleb Ort,Boston Red Sox,Tampa Bay Rays,0,1.0,2,2,1,1,2,1
+34,3,Ryan Brasier,Boston Red Sox,Tampa Bay Rays,0,1.0,0,0,0,0,1,0
+35,4,Shane McClanahan,Tampa Bay Rays,Boston Red Sox,1,5.0,2,1,1,4,9,0
+36,5,Garrett Cleavinger,Tampa Bay Rays,Boston Red Sox,1,1.0,0,0,0,0,0,0
+37,6,Jason Adam,Tampa Bay Rays,Boston Red Sox,1,1.0,0,0,0,0,0,0
+38,7,Ryan Thompson,Tampa Bay Rays,Boston Red Sox,1,1.0,1,0,0,1,0,0
+39,8,Calvin Faucher,Tampa Bay Rays,Boston Red Sox,1,1.0,3,1,1,0,1,0
+40,0,Matt Manning,Detroit Tigers,Toronto Blue Jays,0,6.0,6,4,4,1,3,3
+41,1,Mason Englert,Detroit Tigers,Toronto Blue Jays,0,2.0,4,5,5,1,4,2
+42,2,Alek Manoah,Toronto Blue Jays,Detroit Tigers,1,4.1,4,3,3,5,3,1
+43,3,Zach Pop,Toronto Blue Jays,Detroit Tigers,1,1.2,0,0,0,0,2,0
+44,4,Erik Swanson,Toronto Blue Jays,Detroit Tigers,1,1.0,0,0,0,1,2,0
+45,5,Yimi García,Toronto Blue Jays,Detroit Tigers,1,1.0,1,0,0,0,2,0
+46,6,Anthony Bass,Toronto Blue Jays,Detroit Tigers,1,1.0,0,0,0,0,0,0
+47,0,Ryan Weathers,San Diego Padres,New York Mets,0,5.0,3,1,1,2,3,0
+48,1,Brent Honeywell Jr.,San Diego Padres,New York Mets,0,1.0,0,0,0,0,1,0
+49,2,Luis García,San Diego Padres,New York Mets,0,1.0,1,0,0,0,0,0
+50,3,Steven Wilson,San Diego Padres,New York Mets,0,1.0,0,0,0,2,2,0
+51,4,Josh Hader,San Diego Padres,New York Mets,0,1.0,1,1,1,2,2,0
+52,5,David Peterson,New York Mets,San Diego Padres,1,5.2,6,2,2,2,6,0
+53,6,Denyi Reyes,New York Mets,San Diego Padres,1,1.1,1,0,0,0,2,0
+54,7,Brooks Raley,New York Mets,San Diego Padres,1,1.0,0,0,0,0,0,0
+55,8,Dennis Santana,New York Mets,San Diego Padres,1,1.0,2,2,2,0,1,1
+56,0,Luis Cessa,Cincinnati Reds,Atlanta Braves,0,3.2,7,5,5,2,1,2
+57,1,Alex Young,Cincinnati Reds,Atlanta Braves,0,0.2,2,1,1,0,1,0
+58,2,Fernando Cruz,Cincinnati Reds,Atlanta Braves,0,1.2,1,0,0,0,2,0
+59,3,Kevin Herget,Cincinnati Reds,Atlanta Braves,0,1.0,1,1,1,2,0,0
+60,4,Derek Law,Cincinnati Reds,Atlanta Braves,0,1.0,0,0,0,2,2,0
+61,5,Kyle Wright,Atlanta Braves,Cincinnati Reds,1,3.0,4,4,4,4,3,0
+62,6,Michael Tonkin,Atlanta Braves,Cincinnati Reds,1,3.0,1,0,0,0,3,0
+63,7,Jesse Chavez,Atlanta Braves,Cincinnati Reds,1,1.0,1,0,0,0,1,0
+64,8,Joe Jiménez,Atlanta Braves,Cincinnati Reds,1,0.1,2,2,2,1,1,1
+65,9,Dylan Lee,Atlanta Braves,Cincinnati Reds,1,0.2,0,0,0,0,1,0
+66,10,Nick Anderson,Atlanta Braves,Cincinnati Reds,1,1.0,0,0,0,0,1,0
+67,0,Chris Flexen,Seattle Mariners,Chicago Cubs,0,2.1,10,8,8,2,1,2
+68,1,Trevor Gott,Seattle Mariners,Chicago Cubs,0,1.2,2,1,1,0,2,0
+69,2,Diego Castillo,Seattle Mariners,Chicago Cubs,0,1.0,3,2,2,1,0,0
+70,3,José Rodríguez,Seattle Mariners,Chicago Cubs,0,3.0,3,3,3,1,1,0
+71,4,Hayden Wesneski,Chicago Cubs,Seattle Mariners,1,1.1,6,7,5,4,0,1
+72,5,Michael Rucker,Chicago Cubs,Seattle Mariners,1,2.2,2,1,1,0,3,1
+73,6,Adbert Alzolay,Chicago Cubs,Seattle Mariners,1,2.0,0,0,0,0,1,0
+74,7,Mark Leiter Jr.,Chicago Cubs,Seattle Mariners,1,1.0,1,0,0,0,2,0
+75,8,Julian Merryweather,Chicago Cubs,Seattle Mariners,1,2.0,2,1,1,0,2,0
+76,0,Lance Lynn,Chicago White Sox,Minnesota Twins,0,6.0,7,3,3,0,10,2
+77,1,Keynan Middleton,Chicago White Sox,Minnesota Twins,0,1.1,0,0,0,0,3,0
+78,2,Jake Diekman,Chicago White Sox,Minnesota Twins,0,0.2,0,0,0,1,0,0
+79,3,Reynaldo López,Chicago White Sox,Minnesota Twins,0,1.0,1,0,0,0,2,0
+80,4,Jesse Scholtens,Chicago White Sox,Minnesota Twins,0,0.0,1,1,0,0,0,0
+81,5,Pablo López,Minnesota Twins,Chicago White Sox,1,7.2,3,2,2,1,10,0
+82,6,Caleb Thielbar,Minnesota Twins,Chicago White Sox,1,0.1,0,0,0,0,1,0
+83,7,Jhoan Duran,Minnesota Twins,Chicago White Sox,1,1.0,1,1,1,0,3,1
+84,8,Griffin Jax,Minnesota Twins,Chicago White Sox,1,1.0,0,0,0,0,0,0
+85,0,Jordan Lyles,Kansas City Royals,Texas Rangers,0,6.1,8,4,4,2,4,0
+86,1,Amir Garrett,Kansas City Royals,Texas Rangers,0,0.2,0,0,0,1,0,0
+87,2,Carlos Hernández,Kansas City Royals,Texas Rangers,0,1.0,0,0,0,1,1,0
+88,3,Aroldis Chapman,Kansas City Royals,Texas Rangers,0,1.0,0,0,0,0,1,0
+89,4,Scott Barlow,Kansas City Royals,Texas Rangers,0,0.2,2,4,3,1,0,1
+90,5,Jacob deGrom,Texas Rangers,Kansas City Royals,1,7.0,7,2,2,0,9,0
+91,6,Jonathan Hernández,Texas Rangers,Kansas City Royals,1,0.0,2,1,1,1,0,0
+92,7,Will Smith,Texas Rangers,Kansas City Royals,1,1.0,1,1,1,1,2,0
+93,8,José Leclerc,Texas Rangers,Kansas City Royals,1,1.1,1,1,0,2,0,0
+94,9,Cole Ragans,Texas Rangers,Kansas City Royals,1,0.2,0,0,0,0,0,0
+95,0,Miles Mikolas,St. Louis Cardinals,Colorado Rockies,0,5.0,10,6,6,2,3,3
+96,1,Génesis Cabrera,St. Louis Cardinals,Colorado Rockies,0,1.2,0,0,0,0,3,0
+97,2,Giovanny Gallegos,St. Louis Cardinals,Colorado Rockies,0,1.1,0,0,0,0,2,0
+98,3,Ryan Helsley,St. Louis Cardinals,Colorado Rockies,0,1.0,2,0,0,0,2,0
+99,4,Kyle Freeland,Colorado Rockies,St. Louis Cardinals,1,6.0,6,2,2,2,5,2
+100,5,Jake Bird,Colorado Rockies,St. Louis Cardinals,1,0.2,1,3,0,1,0,0
+101,6,Dinelson Lamet,Colorado Rockies,St. Louis Cardinals,1,1.1,1,1,1,1,3,0
+102,7,Pierce Johnson,Colorado Rockies,St. Louis Cardinals,1,0.2,3,3,3,2,0,1
+103,8,Connor Seabold,Colorado Rockies,St. Louis Cardinals,1,0.1,0,0,0,0,0,0
+104,0,Josiah Gray,Washington Nationals,Los Angeles Angels,0,5.2,4,2,2,2,3,1
+105,1,Thaddeus Ward,Washington Nationals,Los Angeles Angels,0,1.2,1,0,0,0,2,0
+106,2,Anthony Banda,Washington Nationals,Los Angeles Angels,0,0.2,0,0,0,2,2,0
+107,3,Shohei Ohtani,Los Angeles Angels,Washington Nationals,1,7.0,1,0,0,5,6,0
+108,4,José Quijada,Los Angeles Angels,Washington Nationals,1,1.0,0,0,0,0,0,0
+109,5,Carlos Estévez,Los Angeles Angels,Washington Nationals,1,1.0,0,0,0,1,0,0
+110,0,Corbin Burnes,Milwaukee Brewers,Arizona Diamondbacks,0,8.0,3,0,0,0,8,0
+111,1,Joel Payamps,Milwaukee Brewers,Arizona Diamondbacks,0,1.0,1,1,1,1,0,0
+112,2,Merrill Kelly,Arizona Diamondbacks,Milwaukee Brewers,1,6.0,1,3,3,4,7,1
+113,3,Miguel Castro,Arizona Diamondbacks,Milwaukee Brewers,1,0.2,2,2,2,1,0,0
+114,4,Kyle Nelson,Arizona Diamondbacks,Milwaukee Brewers,1,0.1,0,0,0,0,0,0
+115,5,José Ruiz,Arizona Diamondbacks,Milwaukee Brewers,1,1.0,3,1,1,0,1,1
+116,6,Carlos Vargas,Arizona Diamondbacks,Milwaukee Brewers,1,1.0,2,1,1,0,1,1
+117,0,Dustin May,Los Angeles Dodgers,San Francisco Giants,0,5.1,2,2,2,4,3,0
+118,1,Caleb Ferguson,Los Angeles Dodgers,San Francisco Giants,0,0.2,1,0,0,0,1,0
+119,2,Shelby Miller,Los Angeles Dodgers,San Francisco Giants,0,0.2,1,0,0,1,0,0
+120,3,Brusdar Graterol,Los Angeles Dodgers,San Francisco Giants,0,0.1,0,0,0,1,0,0
+121,4,Evan Phillips,Los Angeles Dodgers,San Francisco Giants,0,1.0,3,3,3,0,3,2
+122,5,Alex Wood,San Francisco Giants,Los Angeles Dodgers,1,4.2,1,0,0,3,5,0
+123,6,Jakob Junis,San Francisco Giants,Los Angeles Dodgers,1,0.2,2,0,0,0,1,0
+124,7,Scott Alexander,San Francisco Giants,Los Angeles Dodgers,1,0.2,0,0,0,0,1,0
+125,8,John Brebbia,San Francisco Giants,Los Angeles Dodgers,1,1.0,0,0,0,1,1,0
+126,9,Tyler Rogers,San Francisco Giants,Los Angeles Dodgers,1,1.0,0,0,0,0,1,0
+127,10,Camilo Doval,San Francisco Giants,Los Angeles Dodgers,1,1.0,0,0,0,1,2,0

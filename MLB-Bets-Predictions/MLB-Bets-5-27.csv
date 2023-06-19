@@ -1,0 +1,35 @@
+,Unnamed: 0.1,Unnamed: 0,Play,Expert,Odds,Units,Name,Payout,Profit,Team,Opponent,Hmcrt_adv
+0,0.0,0,R.Mountcastle o0.5 RBI,Thespinzone,145,0.11,R.Mountcastle,0.2695,0.15950000000000003,Baltimore Orioles,Texas Rangers,1.0
+1,2.0,2,N.Lowe o0.5 Runs Scored,Thespinzone,125,0.08,N.Lowe,0.18,0.09999999999999999,Texas Rangers,Baltimore Orioles,0.0
+2,3.0,3,M.Semien o0.5 Runs Scored,Thespinzone,-105,0.1,M.Semien,0.1952380952380952,0.0952380952380952,Texas Rangers,Baltimore Orioles,0.0
+3,4.0,4,M.Semien o0.5 RBI,Thespinzone,180,0.08,M.Semien,0.2239999999999999,0.1439999999999999,Texas Rangers,Baltimore Orioles,0.0
+4,5.0,5,R.Mountcastle o0.5 HR,Thespinzone,475,0.04,R.Mountcastle,0.23,0.19,Baltimore Orioles,Texas Rangers,1.0
+5,8.0,8,J.Gallo o0.5 HR,Thespinzone,290,0.04,J.Gallo,0.156,0.11599999999999999,Minnesota Twins,Toronto Blue Jays,1.0
+6,9.0,9,C.Bassitt u5.5 Ks,Thespinzone,124,0.09,C.Bassitt,0.2016,0.1116,Toronto Blue Jays,Minnesota Twins,0.0
+7,11.0,11,A.Judge o0.5 RBI,Thespinzone,114,0.08,A.Judge,0.1712,0.09119999999999999,New York Yankees,San Diego Padres,1.0
+8,12.0,12,A.Judge o0.5 HR,Thespinzone,210,0.04,A.Judge,0.124,0.08399999999999999,New York Yankees,San Diego Padres,1.0
+9,13.0,13,A.Rizzo o1.5 Total Bases,charliedisturco,150,0.5,A.Rizzo,1.25,0.75,New York Yankees,San Diego Padres,1.0
+10,14.0,14,A.Rizzo o1.5 RBI,charliedisturco,700,0.25,A.Rizzo,2.0,1.75,New York Yankees,San Diego Padres,1.0
+11,15.0,15,A.Judge o1.5 RBI,charliedisturco,400,0.25,A.Judge,1.25,1.0,New York Yankees,San Diego Padres,1.0
+12,16.0,16,A.Rizzo o0.5 HR,charliedisturco,500,0.1,A.Rizzo,0.6000000000000001,0.5000000000000001,New York Yankees,San Diego Padres,1.0
+13,17.0,17,T.Turner o0.5 Runs Scored,Thespinzone,110,0.08,T.Turner,0.168,0.08800000000000001,Philadelphia Phillies,Atlanta Braves,0.0
+14,18.0,18,B.Harper o0.5 Runs Scored,Thespinzone,100,0.08,B.Harper,0.16,0.08,Philadelphia Phillies,Atlanta Braves,0.0
+15,19.0,19,C.Dickerson o0.5 RBI,Thespinzone,170,0.08,C.Dickerson,0.216,0.136,Washington Nationals,Kansas City Royals,0.0
+16,20.0,20,J.Meneses o0.5 RBI,Thespinzone,160,0.08,J.Meneses,0.208,0.128,Washington Nationals,Kansas City Royals,0.0
+17,21.0,21,J.Gray o4.5 Ks,PropBetGuy,-122,1.22,J.Gray,2.22,1.0000000000000002,Washington Nationals,Kansas City Royals,0.0
+18,22.0,22,C.Schmitt o0.5 Runs Scored,Thespinzone,210,0.05,C.Schmitt,0.155,0.105,San Francisco Giants,Milwaukee Brewers,0.0
+19,23.0,23,C.Schmitt o0.5 RBI,Thespinzone,250,0.05,C.Schmitt,0.175,0.12499999999999999,San Francisco Giants,Milwaukee Brewers,0.0
+20,25.0,25,J.Palacios o0.5 RBI,Thespinzone,320,0.08,J.Palacios,0.336,0.256,Pittsburgh Pirates,Seattle Mariners,0.0
+21,30.0,30,N.Gorman o0.5 RBI,Thespinzone,170,0.08,N.Gorman,0.216,0.136,St. Louis Cardinals,Cleveland Guardians,0.0
+22,31.0,31,M.Moniak o0.5 RBI,Thespinzone,260,0.08,M.Moniak,0.288,0.20799999999999996,Los Angeles Angels,Miami Marlins,1.0
+23,32.0,32,X.Edwards o0.5 Runs Scored,Thespinzone,250,0.05,X.Edwards,0.175,0.12499999999999999,Miami Marlins,Los Angeles Angels,0.0
+24,35.0,35,J.Scholtens u3.5 Ks,Thespinzone,126,0.13,J.Scholtens,0.2938,0.1638,Chicago White Sox,Detroit Tigers,0.0
+25,36.0,36,C.Frazier o0.5 Runs Scored,Thespinzone,175,0.08,C.Frazier,0.22,0.14,Chicago White Sox,Detroit Tigers,0.0
+26,38.0,38,C.Morel o0.5 Runs Scored,Thespinzone,140,0.08,C.Morel,0.192,0.112,Chicago Cubs,Cincinnati Reds,1.0
+27,39.0,39,Y.Gomes o0.5 HR,Thespinzone,575,0.04,Y.Gomes,0.27,0.23,Chicago Cubs,Cincinnati Reds,1.0
+28,40.0,40,J.India o0.5 Runs Scored,Thespinzone,148,0.11,J.India,0.2728,0.1628,Cincinnati Reds,Chicago Cubs,0.0
+29,41.0,41,J.Fraley o0.5 RBI,Thespinzone,188,0.08,J.Fraley,0.2304,0.15039999999999998,Cincinnati Reds,Chicago Cubs,0.0
+30,0.0,0,S.Ohtani o7.5 strikeouts,Chris Landers,-105,1.0,S.Ohtani,1.9523809523809523,0.9523809523809523,Los Angeles Angels,Miami Marlins,1.0
+31,1.0,2,N.Lowe o1.5 total bases,Chris Landers,125,1.0,N.Lowe,2.25,1.25,Texas Rangers,Baltimore Orioles,0.0
+32,,0,C.Kershaw u6.5 strikeouts,Colby Conway,-110,1.0,C.Kershaw,1.9090909090909087,0.9090909090909087,Los Angeles Dodgers,Tampa Bay Rays,0.0
+33,,2,E.Cabrera u6.5 strikeouts,Colby Conway,-110,1.0,E.Cabrera,1.9090909090909087,0.9090909090909087,Miami Marlins,Los Angeles Angels,0.0
