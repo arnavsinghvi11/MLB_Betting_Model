@@ -865,6 +865,20 @@
 21,21,M.Gore o5.5 Ks,The_Oddsmaker,125,1.25,2.8125,Washington Nationals,M.Gore,Los Angeles Angels,0.0,1.5625,Y,1.0,1,1.0,1,1.0,1
 22,22,L.Giolito o5.5 Ks,_Collin1,105,1.05,2.1525,Chicago White Sox,L.Giolito,Minnesota Twins,0.0,1.1024999999999998,Y,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1
 23,23,C.Kershaw o6.5 strikeouts,Dan Servodidio,-110,1.0,1.9090909090909087,Los Angeles Dodgers,C.Kershaw,San Francisco Giants,0.0,0.9090909090909088,N,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0
+0,0,A.Rosario u1.5 hits,Teddy Ricketson,-210,1.0,1.4761904761904765,Cleveland Guardians,A.Rosario,Arizona Diamondbacks,0.0,0.4761904761904763,N,0.765625,1,0.4,0,0.7,1
+1,1,L.Lynn u6.5 strikeouts,Teddy Ricketson,-120,1.0,1.8333333333333333,Chicago White Sox,L.Lynn,Seattle Mariners,0.0,0.8333333333333335,N,0.6,1,0.8,1,0.6,1
+2,2,L.Thomas o1.5 rbi,Colby Conway,-110,1.0,1.9090909090909087,Washington Nationals,L.Thomas,Miami Marlins,1.0,0.9090909090909092,Y,0.1323529411764706,0,0.4,0,0.3,0
+3,3,C.Morel o0.5 HR,Thespinzone,460,0.08,0.4479999999999999,Chicago Cubs,C.Morel,Baltimore Orioles,1.0,0.3679999999999999,Y,0.3225806451612903,0,0.4,0,0.3,0
+4,4,J.Taillon o2.5 Earned Runs,JoeDellera,-125,0.5,0.9,Chicago Cubs,J.Taillon,Baltimore Orioles,1.0,0.4,Y,0.8333333333333334,1,0.8,1,0.8,1
+5,6,A.Duvall o0.5 RBI,Thespinzone,160,0.1,0.26,Boston Red Sox,A.Duvall,New York Yankees,1.0,0.16,Y,0.4375,0,0.2,0,0.2,0
+6,7,M.Yoshida o0.5 Runs Scored,Thespinzone,120,0.1,0.22,Boston Red Sox,M.Yoshida,New York Yankees,1.0,0.12,Y,0.4516129032258064,0,0.4,0,0.3,0
+7,8,B.McKinney o0.5 Runs Scored,Thespinzone,150,0.1,0.25,New York Yankees,B.McKinney,Boston Red Sox,0.0,0.15,N,0.4,0,0.2,0,0.4,0
+8,9,R.Devers o1.5 Total Bases,NicholaskMartin,-105,1.0,1.9523809523809523,Boston Red Sox,R.Devers,New York Yankees,1.0,0.9523809523809524,N,0.4411764705882353,0,0.2,0,0.4,0
+9,10,J.Soler o0.5 RBI,Thespinzone,115,0.1,0.215,Miami Marlins,J.Soler,Washington Nationals,0.0,0.1149999999999999,Y,0.3529411764705882,0,0.8,1,0.5,0
+10,11,J.Soler o0.5 HR,Thespinzone,250,0.1,0.35,Miami Marlins,J.Soler,Washington Nationals,0.0,0.25,N,0.1911764705882352,0,0.0,0,0.1,0
+11,12,S.Ohtani o0.5 HR,JoeDellera,340,0.1,0.44,Los Angeles Angels,S.Ohtani,Kansas City Royals,0.0,0.3400000000000001,N,0.2222222222222222,0,0.4,0,0.5,0
+12,13,J.Martinez o0.5 HR,JoeDellera,600,0.1,0.7000000000000001,Los Angeles Dodgers,J.Martinez,San Francisco Giants,1.0,0.6000000000000001,N,0.1964285714285714,0,0.0,0,0.0,0
+13,14,N.Arenado o0.5 RBI,Thespinzone,135,0.1,0.235,St. Louis Cardinals,N.Arenado,New York Mets,0.0,0.135,Y,0.391304347826087,0,0.2,0,0.4,0
 0,0,A.Bohm o0.5 RBI,Thespinzone,165,0.12,0.318,Philadelphia Phillies,A.Bohm,Colorado Rockies,1.0,0.198,Y,0.3043478260869565,0,0.2,0,0.4,0
 1,1,N.Castellanos o0.5 Runs Scored,Thespinzone,115,0.11,0.2365,Philadelphia Phillies,N.Castellanos,Colorado Rockies,1.0,0.1265,Y,0.6086956521739131,1,0.6,1,0.6,1
 2,2,K.Gausman o6.5 Ks,PropBetGuy,115,1.15,2.4725,Toronto Blue Jays,K.Gausman,New York Yankees,0.0,1.3225000000000002,Y,0.8,1,0.8,1,0.8,1
