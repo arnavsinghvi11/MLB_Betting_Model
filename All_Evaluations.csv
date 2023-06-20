@@ -324,6 +324,22 @@
 18,18,C.Schmidt o5.5 Ks,PropBetGuy,-115,1.0,1.869565217391304,New York Yankees,C.Schmidt,Cincinnati Reds,0.0,0.869565217391304,Y,0.4,0,0.6,1,0.4,0
 19,19,J.Lowe o0.5 RBI,Thespinzone,210,0.08,0.248,Tampa Bay Rays,J.Lowe,Milwaukee Brewers,1.0,0.1679999999999999,N,0.4864864864864865,0,0.4,0,0.4,0
 20,20,X.Bogaerts o0.5 hits,Teddy Ricketson,-245,1.0,1.4081632653061225,San Diego Padres,X.Bogaerts,Boston Red Sox,1.0,0.4081632653061224,N,0.7727272727272727,1,0.8,1,0.7,1
+0,0,M.Kelly o6.5 strikeouts,Teddy Ricketson,110,1.0,2.1,Arizona Diamondbacks,M.Kelly,Milwaukee Brewers,0.0,1.1,Y,0.5333333333333333,1,0.8,1,0.6,1
+1,1,K.Carpenter o0.5 hits,Teddy Ricketson,-250,1.0,1.4,Detroit Tigers,K.Carpenter,Kansas City Royals,1.0,0.3999999999999999,Y,0.5483870967741935,1,0.8,1,0.7,1
+2,2,J.Berrios o4.5 strikeouts,Dan Servodidio,-110,1.0,1.9090909090909087,Toronto Blue Jays,J.Berrios,Miami Marlins,0.0,0.9090909090909092,N,0.6666666666666666,1,0.6,1,0.6,1
+3,3,C.Burnes u6.5 strikeouts,Dan Servodidio,-110,1.0,1.9090909090909087,Milwaukee Brewers,C.Burnes,Arizona Diamondbacks,1.0,0.9090909090909092,Y,0.5333333333333333,1,0.2,0,0.4,0
+4,4,M.McLain o1.5 Total Bases,cowhitchurch,137,0.5,1.185,Cincinnati Reds,M.McLain,Colorado Rockies,1.0,0.685,N,0.53125,1,0.4,0,0.4,0
+5,5,B.Williamson o4.5 Ks,MikeRandle,105,1.0,2.05,Cincinnati Reds,B.Williamson,Colorado Rockies,1.0,1.0499999999999998,Y,0.4285714285714285,0,0.4,0,0.4285714285714285,0
+6,6,M.McLain o1.5 Total Bases,charliedisturco,115,0.5,1.075,Cincinnati Reds,M.McLain,Colorado Rockies,1.0,0.575,N,0.53125,1,0.4,0,0.4,0
+7,7,M.McLain o0.5 HR,charliedisturco,450,0.1,0.55,Cincinnati Reds,M.McLain,Colorado Rockies,1.0,0.45,N,0.0625,0,0.0,0,0.0,0
+8,8,B.Reynolds o1.5 Total Bases,NicholaskMartin,100,0.75,1.5,Pittsburgh Pirates,B.Reynolds,Chicago Cubs,1.0,0.75,N,0.3382352941176471,0,0.4,0,0.3,0
+9,9,K.Carpenter o1.5 Total Bases,charliedisturco,120,0.5,1.1,Detroit Tigers,K.Carpenter,Kansas City Royals,1.0,0.6000000000000001,Y,0.4193548387096774,0,0.4,0,0.4,0
+10,10,K.Carpenter o0.5 HR,charliedisturco,525,0.1,0.625,Detroit Tigers,K.Carpenter,Kansas City Royals,1.0,0.525,Y,0.1290322580645161,0,0.2,0,0.1,0
+11,11,J.Berrios o4.5 Ks,JoeDellera,105,0.5,1.025,Toronto Blue Jays,J.Berrios,Miami Marlins,0.0,0.5249999999999999,N,0.6666666666666666,1,0.6,1,0.6,1
+12,12,M.Machado o1.5 Total Bases,charliedisturco,110,0.5,1.05,San Diego Padres,M.Machado,San Francisco Giants,0.0,0.55,N,0.2321428571428571,0,0.2,0,0.2,0
+13,13,M.Machado o0.5 HR,charliedisturco,525,0.1,0.625,San Diego Padres,M.Machado,San Francisco Giants,0.0,0.525,N,0.1071428571428571,0,0.2,0,0.3,0
+14,14,H.Brown o5.5 Ks,JoeDellera,-118,0.5,0.923728813559322,Houston Astros,H.Brown,New York Mets,1.0,0.423728813559322,Y,0.5714285714285714,1,0.6,1,0.6,1
+15,15,N.Arenado o0.5 RBI,Thespinzone,115,0.1,0.215,St. Louis Cardinals,N.Arenado,Washington Nationals,0.0,0.1149999999999999,Y,0.4,0,0.4,0,0.5,0
 0,0,J.Springs o5.5 Ks,JoeDellera,-160,0.25,0.40625,Tampa Bay Rays,J.Springs,Boston Red Sox,1.0,0.15625,N,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1
 1,1,S.Turnbull o2.5 Earned Runs,GreenDotDaily,-166,1.0,1.6024096385542168,Detroit Tigers,S.Turnbull,Toronto Blue Jays,0.0,0.6024096385542168,N,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1
 2,2,V.Velasquez u4.0 strikeouts,Dan Servodidio,-110,1.0,1.9090909090909087,Pittsburgh Pirates,V.Velasquez,St. Louis Cardinals,0.0,0.9090909090909088,N,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1

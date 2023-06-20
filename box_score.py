@@ -4,6 +4,7 @@ import helper_functions
 import pandas as pd
 import re
 import requests
+import time
 from unidecode import unidecode
 
 class BoxScore:
@@ -12,7 +13,6 @@ class BoxScore:
     def full_box_scores(self, month, day):
         #extract yesterday's box score statistics
         total_site_data = helper_functions.site_scrape('https://www.baseball-reference.com' + '?month=' + month + '&day=' + day + '&year=2023')
-        print(total_site_data)
         links = []
         for a_href in total_site_data.find_all("a", href=True):
             if "boxes" in a_href["href"] and "shtml" in a_href["href"]:
@@ -20,6 +20,7 @@ class BoxScore:
         links = ['https://www.baseball-reference.com' + i for i in links]
         hitting_box_scores, pitching_box_scores = pd.DataFrame(), pd.DataFrame()
         for link in links:
+            time.sleep(10)
             columns_hitting = {'Name': [], 'Team': [], 'Opponent': [], 'Hmcrt_adv': [], 'AB': [], 'R': [], 'H': [], 'RBI': [], 'BB': [], 'SO': [], 'PA': []}
             a = []
             page = requests.get(link)
@@ -234,9 +235,9 @@ class BoxScore:
             pitching_box_score = pd.DataFrame.from_dict(columns_pitching)
             pitching_box_scores = pitching_box_scores.append(pitching_box_score)
         hitting_box_scores = hitting_box_scores.astype(
-            {'AB': int, 'R': int, 'H': int, 'RBI': int, 'BB': int, 'SO': int, 'PA': int, 'TB': int, 'HRs': int})
+            {'AB': int, 'R': int, 'H': int, 'RBI': int, 'BB': int, 'SO': int, 'PA': int, 'TB': int, 'HRs': int}).drop_duplicates()
         pitching_box_scores = pitching_box_scores.astype(
-            {'IP': float, 'H': int, 'R': int, 'ER': int, 'BB': int, 'SO': int, 'HR': int})
+            {'IP': float, 'H': int, 'R': int, 'ER': int, 'BB': int, 'SO': int, 'HR': int}).drop_duplicates()
 
         return hitting_box_scores, pitching_box_scores
 
