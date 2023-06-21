@@ -12,7 +12,9 @@ class BoxScore:
 
     def full_box_scores(self, month, day):
         #extract yesterday's box score statistics
+        time.sleep(60)
         total_site_data = helper_functions.site_scrape('https://www.baseball-reference.com' + '?month=' + month + '&day=' + day + '&year=2023')
+        time.sleep(60)
         links = []
         for a_href in total_site_data.find_all("a", href=True):
             if "boxes" in a_href["href"] and "shtml" in a_href["href"]:
