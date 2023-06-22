@@ -14,6 +14,7 @@ class BoxScore:
         #extract yesterday's box score statistics
         time.sleep(60)
         total_site_data = helper_functions.site_scrape('https://www.baseball-reference.com' + '?month=' + month + '&day=' + day + '&year=2023')
+        print('got site data')
         time.sleep(60)
         links = []
         for a_href in total_site_data.find_all("a", href=True):
@@ -23,6 +24,7 @@ class BoxScore:
         hitting_box_scores, pitching_box_scores = pd.DataFrame(), pd.DataFrame()
         for link in links:
             time.sleep(10)
+            print('each link')
             columns_hitting = {'Name': [], 'Team': [], 'Opponent': [], 'Hmcrt_adv': [], 'AB': [], 'R': [], 'H': [], 'RBI': [], 'BB': [], 'SO': [], 'PA': []}
             a = []
             page = requests.get(link)
