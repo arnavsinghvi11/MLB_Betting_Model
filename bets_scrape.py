@@ -32,16 +32,17 @@ class Bets:
 
     def site_scrape_chrome(self, url):
         # initiating webdriver settings for Google Chrome
-        chromedriver_autoinstaller.install()
+        path = chromedriver_autoinstaller.install()
         os.environ["LANG"] = "en_US.UTF-8"
         options = Options()
         options.headless = True
-        options.add_argument("disable-infobars")
-        options.add_argument("--disable-extensions")
-        options.add_argument("--disable-dev-shm-usage")
-        options.add_argument("--no-sandbox")
+        options.add_argument('--headless')
+        options.add_argument('--no-sandbox')
+        options.add_argument('--no-gpu')
+        options.add_argument('--disable-extensions')
+        options.add_argument('--dns-prefetch-disable')
         options.add_experimental_option('excludeSwitches', ['enable-logging'])
-        driver = Chrome(options=options)
+        driver = webdriver.Chrome(options=options)
         tz_params = {'timezoneId': 'America/Los_Angeles'}
         driver.execute_cdp_cmd('Emulation.setTimezoneOverride', tz_params)
         driver.get(url)
@@ -359,38 +360,7 @@ class Bets:
 
 
         
-    def output(self, matchups, all_hitting_box_score_results, all_pitching_box_score_results):
-        #extract bets predictions for today's games
-        #build dataset for today's predictions and remove any duplicate bet entries
-        date_format = '%m/%d/%Y %H:%M:%S %Z'
-        date = datetime.now(timezone('US/Pacific'))
-        date = date.astimezone(timezone('US/Pacific'))
-        today_date = date.strftime(date_format)
-        today = today_date.split('/')[0] + '/' + date.strftime(date_format).split('/')[1]
-        today_date = today_date.split(' ')[0]
-        month_name = datetime.strptime(today.split('/')[0].strip(), "%m").strftime("%B").lower()
-        month = today.split('/')[0].lstrip('0')
-        day = today.split('/')[1].lstrip('0')
-        dk_date = month + '/' + day + '/'
-        underdog_date = month_name + '-' + day
-        draftkings_bets = self.draftkings(dk_date)
-        print('DRAFTKINGS')
-        print(draftkings_bets)
-        underdog_bets = self.underdog(underdog_date)
-        print('UNDERDOG')
-        print(underdog_bets)
-        action_bets = self.action('https://www.actionnetwork.com/mlb/picks')
-        print('ACTION')
-        print(action_bets)
-
-        bets = pd.DataFrame(columns=['Play', 'Expert', 'Odds', 'Units', 'Payout', 'Profit', 'Name']) 
-        if not draftkings_bets.empty:
-            bets = pd.concat([bets, draftkings_bets], ignore_index=True)
-        if not underdog_bets.empty:
-            bets = pd.concat([bets, underdog_bets], ignore_index=True)
-        if not action_bets.empty:
-            bets = pd.concat([bets, action_bets], ignore_index=True)
-
+    def output(self, bets, matchups, all_hitting_box_score_results, all_pitching_box_score_results):
         #determine variables for each bet - player's current team, matchup oppponent, matchup's homecourt advantage
         names, set_teams, opponents, hmcrt_advantages = [], [], [], []
         all_teams = set(all_hitting_box_score_results['Team'].values)
@@ -451,14 +421,12 @@ class Bets:
         bets = bets.dropna()
         return bets
 
-    def retro_output(self, matchups, all_hitting_box_score_results, all_pitching_box_score_results):
+    def draftkings_output(self, matchups, all_hitting_box_score_results, all_pitching_box_score_results):
         #extract bets predictions for today's games
         #build dataset for today's predictions and remove any duplicate bet entries
         date_format = '%m/%d/%Y %H:%M:%S %Z'
         date = datetime.now(timezone('US/Pacific'))
         date = date.astimezone(timezone('US/Pacific'))
-        time_delta = timedelta(days=1)
-        date -= time_delta 
         today_date = date.strftime(date_format)
         today = today_date.split('/')[0] + '/' + date.strftime(date_format).split('/')[1]
         today_date = today_date.split(' ')[0]
@@ -466,81 +434,42 @@ class Bets:
         month = today.split('/')[0].lstrip('0')
         day = today.split('/')[1].lstrip('0')
         dk_date = month + '/' + day + '/'
-        underdog_date = month_name + '-' + day
         draftkings_bets = self.draftkings(dk_date)
         print('DRAFTKINGS')
         print(draftkings_bets)
+        return draftkings_bets
+
+    def underdog_output(self, matchups, all_hitting_box_score_results, all_pitching_box_score_results):
+        #extract bets predictions for today's games
+        #build dataset for today's predictions and remove any duplicate bet entries
+        date_format = '%m/%d/%Y %H:%M:%S %Z'
+        date = datetime.now(timezone('US/Pacific'))
+        date = date.astimezone(timezone('US/Pacific'))
+        today_date = date.strftime(date_format)
+        today = today_date.split('/')[0] + '/' + date.strftime(date_format).split('/')[1]
+        today_date = today_date.split(' ')[0]
+        month_name = datetime.strptime(today.split('/')[0].strip(), "%m").strftime("%B").lower()
+        month = today.split('/')[0].lstrip('0')
+        day = today.split('/')[1].lstrip('0')
+        underdog_date = month_name + '-' + day
         underdog_bets = self.underdog(underdog_date)
         print('UNDERDOG')
         print(underdog_bets)
+        return underdog_bets
+
+    def action_output(self, matchups, all_hitting_box_score_results, all_pitching_box_score_results):
+        #extract bets predictions for today's games
+        #build dataset for today's predictions and remove any duplicate bet entries
+        date_format = '%m/%d/%Y %H:%M:%S %Z'
+        date = datetime.now(timezone('US/Pacific'))
+        date = date.astimezone(timezone('US/Pacific'))
+        today_date = date.strftime(date_format)
+        today = today_date.split('/')[0] + '/' + date.strftime(date_format).split('/')[1]
+        today_date = today_date.split(' ')[0]
+        month_name = datetime.strptime(today.split('/')[0].strip(), "%m").strftime("%B").lower()
+        month = today.split('/')[0].lstrip('0')
+        day = today.split('/')[1].lstrip('0')
         action_bets = self.action('https://www.actionnetwork.com/mlb/picks')
         print('ACTION')
         print(action_bets)
-
-        bets = pd.DataFrame(columns=['Play', 'Expert', 'Odds', 'Units', 'Payout', 'Profit', 'Name']) 
-        if not draftkings_bets.empty:
-            bets = pd.concat([bets, draftkings_bets], ignore_index=True)
-        if not underdog_bets.empty:
-            bets = pd.concat([bets, underdog_bets], ignore_index=True)
-        if not action_bets.empty:
-            bets = pd.concat([bets, action_bets], ignore_index=True)
-
-        #determine variables for each bet - player's current team, matchup oppponent, matchup's homecourt advantage
-        names, set_teams, opponents, hmcrt_advantages = [], [], [], []
-        all_teams = set(all_hitting_box_score_results['Team'].values)
-        for i in range(len(bets)):
-            bet = bets.loc[i]
-            bet['Play'] = bet['Play'].lower()
-            name = bet['Name'].split(' ')[0]
-            print(name)
-            print(bet['Play'])
-            if 'ks' in bet['Play'] or 'strikeouts' in bet['Play'] or 'earned runs' in bet['Play'] or 'hits allowed' in bet['Play'] or 'earned runs allowed' in bet['Play']:
-                matching_name = all_pitching_box_score_results[all_pitching_box_score_results['Name'] == name]
-            elif 'total bases' in bet['Play'] or 'hits' in bet['Play'] or 'home runs' in bet['Play'] or 'hr' in bet['Play'] or 'rbi' in bet['Play'] or 'hits+runs+rbi' in bet['Play'] or 'hits + runs + rbis' in bet['Play'] or 'runs scored' in bet['Play'] or 'bb' in bet['Play'] or 'walks' in bet['Play']:
-                matching_name = all_hitting_box_score_results[all_hitting_box_score_results['Name'] == name]
-            else:
-                bets = bets.drop(i)
-                continue 
-            if len(set(matching_name['Name'].values)) > 1:
-                print('more than 1')
-                set_teams.append('')
-                names.append(np.NAN)
-                opponents.append(np.NAN)
-                hmcrt_advantages.append(np.NAN)
-            elif len(set(matching_name['Name'].values)) < 1:
-                print('less than 1')
-                set_teams.append('')
-                names.append(np.NAN)
-                opponents.append(np.NAN)
-                hmcrt_advantages.append(np.NAN)
-            else:
-                #gets most recent team regardless
-                team = matching_name.iloc[0]['Team']
-                print(team)
-                for matchup in matchups:
-                    matchup_home = matchup.split('vs')[0].strip()
-                    matchup_away = matchup.split('vs')[1].strip()
-                    if matchup_home in team:
-                        set_teams.append(team)
-                        names.append(name)
-                        for t in all_teams:
-                            if matchup_away in t:
-                                opponents.append(t)
-                                break
-                        hmcrt_advantages.append(1)
-                        break
-                    elif matchup_away in team:
-                        set_teams.append(team)
-                        names.append(name)
-                        for t in all_teams:
-                            if matchup_home in t:
-                                opponents.append(t)
-                                break
-                        hmcrt_advantages.append(0)
-                        break
-        bets['Name'] = names
-        bets['Team'] = set_teams
-        bets['Opponent'] = opponents
-        bets['Hmcrt_adv'] = hmcrt_advantages
-        bets = bets.dropna()
-        return bets
+        return action_bets
