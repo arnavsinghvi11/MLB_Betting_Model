@@ -423,7 +423,14 @@ class Bets:
 
     def draftkings_output(self, matchups, all_hitting_box_score_results, all_pitching_box_score_results):
         #extract bets predictions for today's games
-        month, day = date.date_month_day(0)
+        date_format = '%m/%d/%Y %H:%M:%S %Z'
+        date = datetime.now(timezone('US/Pacific'))
+        date = date.astimezone(timezone('US/Pacific'))
+        today_date = date.strftime(date_format)
+        today = today_date.split('/')[0] + '/' + date.strftime(date_format).split('/')[1]
+        today_date = today_date.split(' ')[0]
+        month = today.split('/')[0].lstrip('0')
+        day = today.split('/')[1].lstrip('0')
         dk_date = month + '/' + day + '/'
         draftkings_bets = self.draftkings(dk_date)
         print('DRAFTKINGS')
