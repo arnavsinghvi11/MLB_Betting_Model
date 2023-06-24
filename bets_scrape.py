@@ -78,7 +78,7 @@ class Bets:
         # running_time = str(pacific_time.hour) + ':' + \
         #     str(pacific_time.minute) + ':00'
         earliest = soup.select_one('tr.MuiTableRow-root a[href^="https://theathletic.com/mlb/game/"]').text
-        if int(earliest.split(':')[0]) < 13:
+        if int(earliest.split(':')[0]) < 13 and int(earliest.split(':')[0]) > 8:
             pacific_time = datetime.strptime((str(int(earliest.split(':')[0])) + ':' + earliest.split(':')[1]).strip().split(' ')[0], "%H:%M") - timedelta(minutes=15)
         else:
             pacific_time = datetime.strptime((str(int(earliest.split(':')[0]) + 12) + ':' + earliest.split(':')[1]).strip().split(' ')[0], "%H:%M") - timedelta(minutes=15)
