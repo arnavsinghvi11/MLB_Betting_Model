@@ -400,6 +400,25 @@
 14,14,E.Haase o1.5 total bases,Chris Landers,130,1.0,2.3,Detroit Tigers,E.Haase,St. Louis Cardinals,0.0,1.2999999999999998,N,0.2222222222222222,0,0.2,0,0.2,0
 15,15,B.Rooker o1.5 rbi,Colby Conway,-110,1.0,1.9090909090909087,Oakland Athletics,B.Rooker,Kansas City Royals,0.0,0.9090909090909088,N,0.2857142857142857,0,0.2,0,0.4,0
 16,16,B.Harper o1.5 total bases,Colby Conway,-110,1.0,1.9090909090909087,Philadelphia Phillies,B.Harper,Boston Red Sox,1.0,0.9090909090909088,N,0.4,0,0.4,0,0.4,0
+0,0,A.Civale o5.5 strikeouts,Teddy Ricketson,115,1.0,2.15,Cleveland Guardians,A.Civale,Milwaukee Brewers,1.0,1.15,N,0.2857142857142857,0,0.4,0,0.2857142857142857,0
+1,1,T.Grisham o0.5 hits,Teddy Ricketson,-115,1.0,1.869565217391304,San Diego Padres,T.Grisham,Washington Nationals,1.0,0.8695652173913042,N,0.4594594594594595,0,0.6,1,0.6,1
+2,2,C.Mullins o0.5 RBI,Thespinzone,205,0.1,0.305,Baltimore Orioles,C.Mullins,Seattle Mariners,1.0,0.205,N,0.3818181818181818,0,0.0,0,0.3,0
+3,3,C.Seager o0.5 RBI,Thespinzone,155,0.1,0.255,Texas Rangers,C.Seager,New York Yankees,0.0,0.155,Y,0.5,0,0.4,0,0.4,0
+4,4,G.Cole o9.5 Ks,JoeDellera,390,0.2,0.98,New York Yankees,G.Cole,Texas Rangers,1.0,0.78,N,0.1176470588235294,0,0.0,0,0.0,0
+5,5,G.Cole o8.5 Ks,JoeDellera,215,0.3,0.945,New York Yankees,G.Cole,Texas Rangers,1.0,0.645,N,0.1764705882352941,0,0.0,0,0.1,0
+6,6,T.Walls o0.5 Runs Scored,Thespinzone,140,0.11,0.264,Tampa Bay Rays,T.Walls,Kansas City Royals,1.0,0.154,N,0.4090909090909091,0,0.2,0,0.3,0
+7,8,W.Franco o0.5 Runs Scored,Thespinzone,-110,0.15,0.2863636363636364,Tampa Bay Rays,W.Franco,Kansas City Royals,1.0,0.1363636363636363,N,0.4189189189189189,0,0.2,0,0.1,0
+8,9,T.Walls o0.5 Runs Scored,Thespinzone,140,0.11,0.264,Tampa Bay Rays,T.Walls,Kansas City Royals,1.0,0.154,N,0.4090909090909091,0,0.2,0,0.3,0
+9,11,W.Franco o0.5 Runs Scored,Thespinzone,-110,0.15,0.2863636363636364,Tampa Bay Rays,W.Franco,Kansas City Royals,1.0,0.1363636363636363,N,0.4189189189189189,0,0.2,0,0.1,0
+10,12,C.Perez o0.5 RBI,Thespinzone,185,0.1,0.285,Oakland Athletics,C.Perez,Toronto Blue Jays,0.0,0.185,N,0.3095238095238095,0,0.2,0,0.3,0
+11,13,T.Banks u3.5 Ks,cowhitchurch,-116,1.16,2.16,Chicago White Sox,T.Banks,Boston Red Sox,1.0,0.9999999999999998,N,0.75,1,0.6,1,0.75,1
+12,14,T.Anderson u5.5 Ks,SBK5065,-155,0.78,1.2832258064516129,Los Angeles Angels,T.Anderson,Colorado Rockies,0.0,0.5032258064516129,N,0.6428571428571429,1,0.4,0,0.5,0
+13,15,R.Lewis o0.5 RBI,Thespinzone,1600000,0.0,0.0,Minnesota Twins,R.Lewis,Detroit Tigers,0.0,0.0,Y,0.4090909090909091,0,0.6,1,0.5,0
+14,16,M.Liberatore u3.5 Ks,AnthonyDabbundo,-143,0.7,1.189510489510489,St. Louis Cardinals,M.Liberatore,Chicago Cubs,1.0,0.4895104895104893,Y,0.7142857142857143,1,0.8,1,0.7142857142857143,1
+15,17,M.Stroman u4.5 Ks,AnthonyDabbundo,105,1.05,2.1525,Chicago Cubs,M.Stroman,St. Louis Cardinals,0.0,1.1024999999999998,Y,0.2941176470588235,0,0.2,0,0.4,0
+16,18,M.Liberatore u3.5 Ks,Zerillo,-140,0.25,0.4285714285714286,St. Louis Cardinals,M.Liberatore,Chicago Cubs,1.0,0.1785714285714286,Y,0.7142857142857143,1,0.8,1,0.7142857142857143,1
+17,19,S.Suzuki o1.5 Total Bases,Zerillo,-105,0.26,0.5076190476190476,Chicago Cubs,S.Suzuki,St. Louis Cardinals,0.0,0.2476190476190476,N,0.4098360655737705,0,0.4,0,0.3,0
+18,20,N.Gorman o1.5 Total Bases,Zerillo,125,0.31,0.6975,St. Louis Cardinals,N.Gorman,Chicago Cubs,1.0,0.3875,Y,0.3623188405797101,0,0.2,0,0.1,0
 0,0,H.Ramos o0.5 Runs Scored,Thespinzone,155,0.12,0.306,Cincinnati Reds,H.Ramos,Texas Rangers,1.0,0.186,Y,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1
 1,1,J.Heim o0.5 RBI,Thespinzone,210,0.08,0.248,Texas Rangers,J.Heim,Cincinnati Reds,0.0,0.1679999999999999,N,0.4210526315789473,0,0.4,0,0.5,0
 2,2,J.Gray o5.5 Ks,PropBetGuy,-120,1.2,2.2,Texas Rangers,J.Gray,Cincinnati Reds,0.0,1.0000000000000002,N,0.2,0,0.2,0,0.2,0
