@@ -1590,6 +1590,32 @@
 22,22,J.Lowe o1.5 total bases,Chris Landers,130,1.0,2.3,Tampa Bay Rays,J.Lowe,Chicago Cubs,0.0,1.2999999999999998,N,0.3478260869565217,0,0.2,0,0.3,0
 23,23,K.Marte o1.5 total bases,Dan Servodidio,-110,1.0,1.9090909090909087,Arizona Diamondbacks,K.Marte,Colorado Rockies,1.0,0.9090909090909088,Y,0.3725490196078431,0,0.6,1,0.5,0
 24,24,F.Freeman o1.5 total bases,Dan Servodidio,-110,1.0,1.9090909090909087,Los Angeles Dodgers,F.Freeman,Washington Nationals,1.0,0.9090909090909088,Y,0.5,0,1.0,1,0.7,1
+0,0,Y.Diaz o1.5 hits,Henry Palattella,150,1.0,2.5,Houston Astros,Y.Diaz,St. Louis Cardinals,0.0,1.5,N,0.1951219512195122,0,0.2,0,0.3,0
+1,1,L.Allen o4.5 strikeouts,Henry Palattella,-110,1.0,1.9090909090909087,Cleveland Guardians,L.Allen,Kansas City Royals,0.0,0.9090909090909092,Y,0.5833333333333334,1,0.4,0,0.5,0
+2,2,K.Senga o6.5 strikeouts,Dan Servodidio,-110,1.0,1.9090909090909087,New York Mets,K.Senga,Milwaukee Brewers,1.0,0.9090909090909092,Y,0.5333333333333333,1,0.4,0,0.5,0
+3,3,I.Vargas o0.5 Runs Scored,Thespinzone,190,0.1,0.29,Washington Nationals,I.Vargas,Seattle Mariners,0.0,0.1899999999999999,N,0.4074074074074074,0,0.2,0,0.5,0
+4,4,J.Rodriguez o0.5 RBI,Thespinzone,150,0.1,0.25,Seattle Mariners,J.Rodriguez,Washington Nationals,1.0,0.15,N,0.3636363636363636,0,0.4,0,0.4,0
+5,5,T.Hernandez o0.5 RBI,Thespinzone,100,0.1,0.2,Seattle Mariners,T.Hernandez,Washington Nationals,1.0,0.1,N,0.3924050632911392,0,0.4,0,0.4,0
+6,6,L.Thomas o0.5 Runs Scored,Thespinzone,120,0.1,0.22,Washington Nationals,L.Thomas,Seattle Mariners,0.0,0.12,Y,0.5769230769230769,1,1.0,1,0.7,1
+7,7,T.France o0.5 RBI,Thespinzone,145,0.1,0.245,Seattle Mariners,T.France,Washington Nationals,1.0,0.145,N,0.3333333333333333,0,0.2,0,0.3,0
+8,8,T.Hernandez o0.5 HR,Thespinzone,300,0.08,0.32,Seattle Mariners,T.Hernandez,Washington Nationals,1.0,0.24,N,0.0,0,0.0,0,0.0,0
+9,9,L.Gilbert u5.5 Ks,charliedisturco,-110,1.1,2.1,Seattle Mariners,L.Gilbert,Washington Nationals,1.0,1.0,Y,0.375,0,0.8,1,0.6,1
+10,10,L.Gilbert u5.5 Ks,AnthonyDabbundo,100,1.1,2.2,Seattle Mariners,L.Gilbert,Washington Nationals,1.0,1.1,Y,0.375,0,0.8,1,0.6,1
+11,11,L.Gilbert u5.5 Ks,cowhitchurch,-110,1.1,2.1,Seattle Mariners,L.Gilbert,Washington Nationals,1.0,1.0,Y,0.375,0,0.8,1,0.6,1
+12,12,L.Gilbert u5.5 Ks,SBK5065,-110,0.55,1.05,Seattle Mariners,L.Gilbert,Washington Nationals,1.0,0.5,Y,0.375,0,0.8,1,0.6,1
+13,13,L.Gilbert u5.5 Ks,The_Oddsmaker,-110,1.1,2.1,Seattle Mariners,L.Gilbert,Washington Nationals,1.0,1.0,Y,0.375,0,0.8,1,0.6,1
+14,14,M.Keller o5.5 Ks,jimsannes,-122,1.0,1.819672131147541,Pittsburgh Pirates,M.Keller,San Diego Padres,1.0,0.819672131147541,N,0.7058823529411765,1,0.4,0,0.7,1
+15,15,J.Fraley o1.5 Total Bases,charliedisturco,165,0.5,1.325,Cincinnati Reds,J.Fraley,Baltimore Orioles,0.0,0.825,N,0.375,0,0.2,0,0.3,0
+16,16,J.Fraley o0.5 HR,charliedisturco,750,0.1,0.8500000000000001,Cincinnati Reds,J.Fraley,Baltimore Orioles,0.0,0.7500000000000001,N,0.15625,0,0.4,0,0.4,0
+17,17,A.Nola o5.5 Ks,cowhitchurch,-165,1.65,2.65,Philadelphia Phillies,A.Nola,Chicago Cubs,0.0,1.0,N,0.4705882352941176,0,0.6,1,0.6,1
+18,18,A.Nola o6.5 Ks,AnthonyDabbundo,125,1.0,2.25,Philadelphia Phillies,A.Nola,Chicago Cubs,0.0,1.25,N,0.2941176470588235,0,0.6,1,0.5,0
+19,19,J.Ramirez o0.5 HR,charliedisturco,420,0.1,0.52,Cleveland Guardians,J.Ramirez,Kansas City Royals,0.0,0.42,N,0.0,0,0.0,0,0.0,0
+20,20,J.Ramirez o1.5 Total Bases,charliedisturco,-120,0.6,1.1,Cleveland Guardians,J.Ramirez,Kansas City Royals,0.0,0.5000000000000001,N,0.0,0,0.0,0,0.0,0
+21,21,P.Alonso o1.5 Total Bases,charliedisturco,135,0.5,1.175,New York Mets,P.Alonso,Milwaukee Brewers,1.0,0.675,N,0.4305555555555556,0,0.2,0,0.4,0
+22,22,P.Alonso o0.5 HR,charliedisturco,390,0.1,0.49,New York Mets,P.Alonso,Milwaukee Brewers,1.0,0.39,N,0.25,0,0.2,0,0.2,0
+23,23,L.Giolito u6.5 Ks,PropBetGuy,-132,1.32,2.3200000000000003,Chicago White Sox,L.Giolito,Los Angeles Angels,0.0,1.0000000000000002,N,0.5294117647058824,1,0.2,0,0.5,0
+24,24,B.Garrett o5.5 Ks,PropBetGuy,105,1.0,2.05,Miami Marlins,B.Garrett,Boston Red Sox,0.0,1.0499999999999998,N,0.5625,1,0.8,1,0.8,1
+25,25,R.Lewis o0.5 RBI,Thespinzone,190,0.1,0.29,Minnesota Twins,R.Lewis,Atlanta Braves,0.0,0.1899999999999999,N,0.375,0,0.4,0,0.5,0
 0,0,W.Franco o0.5 Runs Scored,Thespinzone,-120,0.09,0.165,Tampa Bay Rays,W.Franco,Los Angeles Dodgers,1.0,0.075,Y,0.490566037735849,0,1.0,1,0.6,1
 1,1,Y.Diaz o0.5 Runs Scored,Thespinzone,-120,0.15,0.275,Houston Astros,Y.Diaz,Oakland Athletics,0.0,0.125,Y,0.4,0,0.6,1,0.3,0
 2,2,J.Lowe o0.5 RBI,Thespinzone,185,0.14,0.3990000000000001,Tampa Bay Rays,J.Lowe,Los Angeles Dodgers,1.0,0.259,Y,0.5,0,0.6,1,0.6,1
