@@ -798,6 +798,16 @@
 30,30,R.Detmers o6.5 strikeouts,Chris Landers,-135,1.0,1.7407407407407407,Los Angeles Angels,R.Detmers,Milwaukee Brewers,0.0,0.7407407407407407,N,0.4,0,0.4,0,0.4,0
 31,31,B.Keller o2.5 earned runs,Chris Landers,-120,1.0,1.8333333333333333,Kansas City Royals,B.Keller,Minnesota Twins,0.0,0.8333333333333333,N,0.3333333333333333,0,0.4,0,0.3333333333333333,0
 32,32,N.Eovaldi o5.5 strikeouts,Colby Conway,-110,1.0,1.9090909090909087,Texas Rangers,N.Eovaldi,New York Yankees,1.0,0.9090909090909088,Y,0.8333333333333334,1,0.8,1,0.8333333333333334,1
+0,0,T.Estrada u1.5 hits,Teddy Ricketson,-280,1.0,1.3571428571428572,San Francisco Giants,T.Estrada,New York Mets,0.0,0.3571428571428572,Y,0.7,1,1.0,1,0.9,1
+1,1,J.Heim o0.5 hits,Teddy Ricketson,-155,1.0,1.6451612903225803,Texas Rangers,J.Heim,Houston Astros,1.0,0.6451612903225805,N,0.7162162162162162,1,0.6,1,0.7,1
+2,2,N.Castellanos o0.5 RBI,Thespinzone,120,0.1,0.22,Philadelphia Phillies,N.Castellanos,Washington Nationals,1.0,0.12,Y,0.3950617283950617,0,0.6,1,0.5,0
+3,3,L.Thomas o0.5 Runs Scored,Thespinzone,112,0.15,0.318,Washington Nationals,L.Thomas,Philadelphia Phillies,0.0,0.168,N,0.5679012345679012,1,0.6,1,0.7,1
+4,4,T.Bradley u6.5 Ks,AnthonyDabbundo,-125,1.25,2.25,Tampa Bay Rays,T.Bradley,Seattle Mariners,0.0,1.0,Y,0.5,0,0.6,1,0.6,1
+5,5,D.Peterson o5.5 Ks,AnthonyDabbundo,115,1.0,2.15,New York Mets,D.Peterson,San Francisco Giants,1.0,1.15,N,0.4,0,0.2,0,0.4,0
+6,6,K.Gausman o6.5 Ks,AnthonyDabbundo,-120,1.2,2.2,Toronto Blue Jays,K.Gausman,Boston Red Sox,1.0,1.0000000000000002,Y,0.6666666666666666,1,0.4,0,0.6,1
+7,7,J.Taillon u3.5 Ks,AnthonyDabbundo,115,1.0,2.15,Chicago Cubs,J.Taillon,Cleveland Guardians,1.0,1.15,N,0.3571428571428571,0,0.2,0,0.4,0
+8,8,A.Santander o0.5 RBI,Thespinzone,140,0.1,0.24,Baltimore Orioles,A.Santander,Minnesota Twins,1.0,0.1399999999999999,N,0.3846153846153846,0,0.0,0,0.3,0
+9,9,G.Henderson o0.5 Runs Scored,Thespinzone,-105,0.1,0.1952380952380952,Baltimore Orioles,G.Henderson,Minnesota Twins,1.0,0.0952380952380952,N,0.4583333333333333,0,0.0,0,0.3,0
 0,0,C.Walker o0.5 RBI,Thespinzone,155,0.08,0.204,Arizona Diamondbacks,C.Walker,Washington Nationals,1.0,0.1239999999999999,N,0.5161290322580645,1,0.4,0,0.5,0
 1,1,S.Garrett o0.5 RBI,Thespinzone,160,0.08,0.208,Washington Nationals,S.Garrett,Arizona Diamondbacks,0.0,0.128,N,0.0769230769230769,0,0.0,0,0.0,0
 2,2,M.Andujar o0.5 RBI,Thespinzone,185,0.08,0.228,Pittsburgh Pirates,M.Andujar,Toronto Blue Jays,1.0,0.148,N,0.2857142857142857,0,0.0,0,0.2857142857142857,0
