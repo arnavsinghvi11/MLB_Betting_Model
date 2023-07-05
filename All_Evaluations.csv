@@ -495,6 +495,37 @@
 23,23,L.Webb o5.5 Ks,cowhitchurch,-128,0.62,1.104375,San Francisco Giants,L.Webb,Seattle Mariners,1.0,0.4843749999999999,Y,0.6111111111111112,1,0.4,0,0.5,0
 24,24,A.Rizzo o1.5 Total Bases,charliedisturco,155,0.5,1.275,New York Yankees,A.Rizzo,Baltimore Orioles,1.0,0.7749999999999999,N,0.3461538461538461,0,0.0,0,0.1,0
 25,25,A.Rizzo o0.5 HR,charliedisturco,450,0.1,0.55,New York Yankees,A.Rizzo,Baltimore Orioles,1.0,0.45,N,0.1025641025641025,0,0.0,0,0.0,0
+0,0,B.Reynolds o0.5 hits,Teddy Ricketson,-205,1.0,1.4878048780487805,Pittsburgh Pirates,B.Reynolds,Los Angeles Dodgers,0.0,0.4878048780487805,Y,0.7323943661971831,1,0.6,1,0.6,1
+1,1,S.Ohtani o7.5 strikeouts,Teddy Ricketson,-110,1.0,1.9090909090909087,Los Angeles Angels,S.Ohtani,San Diego Padres,0.0,0.9090909090909092,N,0.5294117647058824,1,0.4,0,0.4,0
+2,2,J.Winker o0.5 hits,Teddy Ricketson,-165,1.0,1.606060606060606,Milwaukee Brewers,J.Winker,Chicago Cubs,1.0,0.606060606060606,N,0.4509803921568627,0,0.6,1,0.5,0
+3,4,L.Giolito o5.5 strikeouts,Dan Servodidio,-110,1.0,1.9090909090909087,Chicago White Sox,L.Giolito,Toronto Blue Jays,1.0,0.9090909090909092,N,0.6111111111111112,1,0.6,1,0.5,0
+4,5,L.Arraez o0.5 Runs Scored,Thespinzone,-105,0.1,0.1952380952380952,Miami Marlins,L.Arraez,St. Louis Cardinals,1.0,0.0952380952380952,Y,0.3950617283950617,0,0.4,0,0.4,0
+5,6,N.Arenado o0.5 RBI,Thespinzone,143,0.1,0.243,St. Louis Cardinals,N.Arenado,Miami Marlins,0.0,0.143,N,0.3950617283950617,0,0.2,0,0.3,0
+6,7,T.Edman o0.5 Runs Scored,Thespinzone,128,0.1,0.228,St. Louis Cardinals,T.Edman,Miami Marlins,0.0,0.128,N,0.3658536585365853,0,0.4,0,0.4,0
+7,8,L.Arraez o1.5 Total Bases,Zerillo,-110,0.11,0.21,Miami Marlins,L.Arraez,St. Louis Cardinals,1.0,0.1,N,0.2592592592592592,0,0.2,0,0.2,0
+8,9,G.Cooper o0.5 HR,Zerillo,700,0.05,0.4,Miami Marlins,G.Cooper,St. Louis Cardinals,1.0,0.35,Y,0.1384615384615384,0,0.2,0,0.2,0
+9,10,A.Wainwright o6.5 Hits Allowed,JoeDellera,-125,0.5,0.9,St. Louis Cardinals,A.Wainwright,Miami Marlins,0.0,0.4,Y,0.8181818181818182,1,0.8,1,0.8,1
+10,11,A.Wainwright o2.5 Earned Runs,cowhitchurch,-149,1.49,2.49,St. Louis Cardinals,A.Wainwright,Miami Marlins,0.0,0.9999999999999998,Y,0.9090909090909092,1,1.0,1,0.9,1
+11,12,A.Verdugo o0.5 Runs Scored,Thespinzone,-107,0.11,0.212803738317757,Boston Red Sox,A.Verdugo,Texas Rangers,1.0,0.102803738317757,N,0.5384615384615384,1,0.4,0,0.4,0
+12,13,J.Jung o0.5 Runs Scored,Thespinzone,-112,0.15,0.2839285714285714,Texas Rangers,J.Jung,Boston Red Sox,0.0,0.1339285714285714,N,0.4698795180722891,0,0.4,0,0.4,0
+13,14,M.Yoshida o0.5 HR,Zerillo,750,0.05,0.425,Boston Red Sox,M.Yoshida,Texas Rangers,1.0,0.375,N,0.081081081081081,0,0.0,0,0.0,0
+14,15,B.Nimmo o1.5 Total Bases,charliedisturco,105,0.5,1.025,New York Mets,B.Nimmo,Arizona Diamondbacks,0.0,0.5249999999999999,Y,0.4578313253012048,0,0.6,1,0.7,1
+15,16,B.Nimmo o0.5 HR,charliedisturco,680,0.1,0.78,New York Mets,B.Nimmo,Arizona Diamondbacks,0.0,0.68,Y,0.1325301204819277,0,0.6,1,0.4,0
+16,18,K.Winn o3.5 Ks,SBK5065,114,0.5,1.0699999999999998,San Francisco Giants,K.Winn,Seattle Mariners,1.0,0.5699999999999998,N,0.2,0,0.2,0,0.2,0
+17,19,K.Winn o3.5 Ks,AnthonyDabbundo,116,1.0,2.16,San Francisco Giants,K.Winn,Seattle Mariners,1.0,1.16,N,0.2,0,0.2,0,0.2,0
+18,20,K.Winn o4.5 Ks,AnthonyDabbundo,285,0.5,1.925,San Francisco Giants,K.Winn,Seattle Mariners,1.0,1.425,N,0.0,0,0.0,0,0.0,0
+19,21,S.Perez o0.5 RBI,Thespinzone,135,0.1,0.235,Kansas City Royals,S.Perez,Minnesota Twins,0.0,0.135,N,0.3506493506493506,0,0.2,0,0.2,0
+20,22,G.Torres o0.5 Runs Scored,Thespinzone,-104,0.1,0.1961538461538461,New York Yankees,G.Torres,Baltimore Orioles,1.0,0.0961538461538461,Y,0.4470588235294118,0,0.2,0,0.3,0
+21,23,A.Santander o0.5 RBI,Thespinzone,130,0.1,0.2299999999999999,Baltimore Orioles,A.Santander,New York Yankees,0.0,0.1299999999999999,N,0.375,0,0.0,0,0.2,0
+22,24,J.Bauers o0.5 HR,Zerillo,540,0.05,0.32,New York Yankees,J.Bauers,Baltimore Orioles,1.0,0.2700000000000001,N,0.1041666666666666,0,0.2,0,0.2,0
+23,25,A.Volpe o1.5 Total Bases,Zerillo,160,0.1,0.26,New York Yankees,A.Volpe,Baltimore Orioles,1.0,0.16,N,0.3023255813953488,0,0.6,1,0.5,0
+24,26,C.Schmidt u4.5 Ks,AnthonyDabbundo,120,1.0,2.2,New York Yankees,C.Schmidt,Baltimore Orioles,1.0,1.2000000000000002,N,0.5,0,0.8,1,0.6,1
+25,27,J.Meneses o0.5 RBI,Thespinzone,155,0.08,0.204,Washington Nationals,J.Meneses,Cincinnati Reds,1.0,0.1239999999999999,Y,0.3461538461538461,0,0.2,0,0.3,0
+26,28,S.Steer o0.5 RBI,Thespinzone,125,0.1,0.225,Cincinnati Reds,S.Steer,Washington Nationals,0.0,0.125,Y,0.4216867469879518,0,0.6,1,0.6,1
+27,29,M.McLain o0.5 RBI,Thespinzone,185,0.1,0.285,Cincinnati Reds,M.McLain,Washington Nationals,0.0,0.185,N,0.3555555555555555,0,0.4,0,0.6,1
+28,30,M.McLain o0.5 HR,Thespinzone,525,0.08,0.5,Cincinnati Reds,M.McLain,Washington Nationals,0.0,0.42,N,0.1111111111111111,0,0.2,0,0.3,0
+29,31,S.Steer o1.5 Total Bases,charliedisturco,105,0.5,1.025,Cincinnati Reds,S.Steer,Washington Nationals,0.0,0.5249999999999999,Y,0.4457831325301205,0,0.6,1,0.6,1
+30,32,S.Steer o0.5 HR,charliedisturco,475,0.1,0.5750000000000001,Cincinnati Reds,S.Steer,Washington Nationals,0.0,0.4750000000000001,N,0.1325301204819277,0,0.4,0,0.3,0
 0,0,J.Outman o0.5 RBI,Thespinzone,160,0.08,0.208,Los Angeles Dodgers,J.Outman,St. Louis Cardinals,0.0,0.128,N,0.2666666666666666,0,0.2,0,0.1,0
 1,1,M.Muncy o0.5 RBI,Thespinzone,125,0.09,0.2024999999999999,Los Angeles Dodgers,M.Muncy,St. Louis Cardinals,0.0,0.1124999999999999,Y,0.4,0,0.4,0,0.3,0
 2,2,M.Chapman o0.5 RBI,Thespinzone,128,0.08,0.1824,Toronto Blue Jays,M.Chapman,New York Yankees,1.0,0.1024,N,0.3255813953488372,0,0.0,0,0.1,0
