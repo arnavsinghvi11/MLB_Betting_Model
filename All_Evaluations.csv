@@ -812,6 +812,39 @@
 25,25,S.Perez o0.5 RBI,Thespinzone,180,0.1,0.2799999999999999,Kansas City Royals,S.Perez,Baltimore Orioles,0.0,0.1799999999999999,N,0.4035087719298245,0,0.2,0,0.2,0
 26,26,J.Mateo o0.5 Runs Scored,Thespinzone,155,0.1,0.255,Baltimore Orioles,J.Mateo,Kansas City Royals,1.0,0.155,N,0.4821428571428571,0,0.6,1,0.5,0
 27,27,C.Yelich o0.5 hits,Teddy Ricketson,-250,1.0,1.4,Milwaukee Brewers,C.Yelich,Oakland Athletics,1.0,,N,0.6229508196721312,1,0.6,1,0.7,1
+0,0,F.Freeman o1.5 total bases,Teddy Ricketson,190,1.0,2.9,Los Angeles Dodgers,F.Freeman,Pittsburgh Pirates,1.0,1.9,Y,0.4651162790697674,0,0.2,0,0.5,0
+1,1,T.Henry o4.5 strikeouts,Teddy Ricketson,110,1.0,2.1,Arizona Diamondbacks,T.Henry,New York Mets,1.0,1.1,N,0.3571428571428571,0,0.6,1,0.5,0
+2,2,M.Olson o1.5 total bases,Dan Servodidio,-110,1.0,1.9090909090909087,Atlanta Braves,M.Olson,Cleveland Guardians,0.0,0.9090909090909092,Y,0.3720930232558139,0,0.4,0,0.5,0
+3,3,K.Senga u5.5 strikeouts,Dan Servodidio,-110,1.0,1.9090909090909087,New York Mets,K.Senga,Arizona Diamondbacks,0.0,0.9090909090909092,N,0.1875,0,0.0,0,0.1,0
+4,4,M.McLain o0.5 Runs Scored,Thespinzone,-110,0.15,0.2863636363636364,Cincinnati Reds,M.McLain,Washington Nationals,0.0,0.1363636363636363,N,0.5434782608695652,1,0.4,0,0.6,1
+5,5,G.Torres o0.5 Runs Scored,Thespinzone,108,0.11,0.2288,New York Yankees,G.Torres,Baltimore Orioles,1.0,0.1188,N,0.4418604651162791,0,0.2,0,0.3,0
+6,6,A.Riley o0.5 RBI,Thespinzone,110,0.1,0.21,Atlanta Braves,A.Riley,Cleveland Guardians,0.0,0.11,Y,0.3604651162790697,0,0.2,0,0.3,0
+7,7,M.Olson o0.5 HR,Thespinzone,235,0.08,0.268,Atlanta Braves,M.Olson,Cleveland Guardians,0.0,0.188,N,0.2325581395348837,0,0.0,0,0.3,0
+8,8,J.Ramirez o0.5 Runs Scored,Thespinzone,-103,0.1,0.1970873786407767,Cleveland Guardians,J.Ramirez,Atlanta Braves,1.0,0.0970873786407767,N,0.524390243902439,1,0.2,0,0.4,0
+9,9,J.Steele o5.5 Ks,PropBetGuy,-134,1.34,2.34,Chicago Cubs,J.Steele,Milwaukee Brewers,0.0,0.9999999999999998,N,0.375,0,0.4,0,0.4,0
+10,10,J.Soler o0.5 RBI,Thespinzone,130,0.1,0.2299999999999999,Miami Marlins,J.Soler,St. Louis Cardinals,1.0,0.1299999999999999,N,0.3333333333333333,0,0.2,0,0.3,0
+11,11,J.Soler o0.5 HR,Thespinzone,320,0.08,0.336,Miami Marlins,J.Soler,St. Louis Cardinals,1.0,0.256,N,0.1785714285714285,0,0.0,0,0.1,0
+12,12,L.Arraez o0.5 RBI,Thespinzone,190,0.08,0.2319999999999999,Miami Marlins,L.Arraez,St. Louis Cardinals,1.0,0.1519999999999999,N,0.3292682926829268,0,0.2,0,0.3,0
+13,13,J.Turner o0.5 Runs Scored,Thespinzone,110,0.1,0.21,Boston Red Sox,J.Turner,Texas Rangers,1.0,0.11,Y,0.4819277108433735,0,0.8,1,0.6,1
+14,14,C.Seager o0.5 RBI,Thespinzone,125,0.1,0.225,Texas Rangers,C.Seager,Boston Red Sox,0.0,0.125,N,0.4909090909090909,0,0.4,0,0.5,0
+15,15,C.Seager o1.5 Total Bases,charliedisturco,-115,0.58,1.0843478260869563,Texas Rangers,C.Seager,Boston Red Sox,0.0,0.5043478260869564,Y,0.5818181818181818,1,0.8,1,0.6,1
+16,16,C.Seager o0.5 HR,charliedisturco,500,0.1,0.6000000000000001,Texas Rangers,C.Seager,Boston Red Sox,0.0,0.5000000000000001,N,0.1636363636363636,0,0.0,0,0.0,0
+17,17,S.Lugo u5.5 Ks,cowhitchurch,-130,0.65,1.15,San Diego Padres,S.Lugo,Los Angeles Angels,1.0,0.4999999999999999,N,0.6666666666666666,1,0.6,1,0.7,1
+18,18,J.Lowe o0.5 RBI,Thespinzone,182,0.1,0.282,Tampa Bay Rays,J.Lowe,Philadelphia Phillies,1.0,0.182,N,0.4166666666666667,0,0.2,0,0.4,0
+19,19,L.Raley o0.5 Runs Scored,Thespinzone,115,0.1,0.215,Tampa Bay Rays,L.Raley,Philadelphia Phillies,1.0,0.1149999999999999,Y,0.4776119402985074,0,0.8,1,0.7,1
+20,20,Y.Diaz o0.5 Runs Scored,Thespinzone,-105,0.1,0.1952380952380952,Houston Astros,Y.Diaz,Colorado Rockies,1.0,0.0952380952380952,Y,0.3958333333333333,0,0.4,0,0.3,0
+21,21,A.Cobb o5.5 Ks,cowhitchurch,120,0.5,1.1,San Francisco Giants,A.Cobb,Seattle Mariners,1.0,0.6000000000000001,Y,0.5,0,0.6,1,0.4,0
+22,24,S.Perez o0.5 RBI,Thespinzone,185,0.1,0.285,Kansas City Royals,S.Perez,Minnesota Twins,0.0,0.185,N,0.3461538461538461,0,0.2,0,0.2,0
+23,25,S.Perez o0.5 HR,Thespinzone,480,0.05,0.29,Kansas City Royals,S.Perez,Minnesota Twins,0.0,0.24,N,0.1538461538461538,0,0.0,0,0.1,0
+24,26,K.Senga o5.5 Ks,PropBetGuy,110,1.0,2.1,New York Mets,K.Senga,Arizona Diamondbacks,0.0,1.1,Y,0.8125,1,1.0,1,0.9,1
+25,27,K.Senga o5.5 Ks,JoeDellera,108,0.5,1.04,New York Mets,K.Senga,Arizona Diamondbacks,0.0,0.54,Y,0.8125,1,1.0,1,0.9,1
+26,28,R.McMahon o1.5 Total Bases,charliedisturco,145,0.5,1.225,Colorado Rockies,R.McMahon,Houston Astros,0.0,0.7250000000000001,N,0.3529411764705882,0,0.4,0,0.2,0
+27,29,R.McMahon o0.5 HR,charliedisturco,525,0.1,0.625,Colorado Rockies,R.McMahon,Houston Astros,0.0,0.525,N,0.1411764705882353,0,0.2,0,0.1,0
+28,30,J.France u5.5 Ks,Thespinzone,-120,0.09,0.165,Houston Astros,J.France,Colorado Rockies,1.0,0.075,Y,0.7272727272727273,1,0.8,1,0.7,1
+29,31,Y.Diaz o0.5 Runs Scored,Thespinzone,100,0.1,0.2,Houston Astros,Y.Diaz,Colorado Rockies,1.0,0.1,Y,0.3958333333333333,0,0.4,0,0.3,0
+30,32,M.Dubon o0.5 Runs Scored,Thespinzone,-110,0.11,0.21,Houston Astros,M.Dubon,Colorado Rockies,1.0,0.1,N,0.5588235294117647,1,0.6,1,0.8,1
+31,33,N.Jones o0.5 Runs Scored,Thespinzone,150,0.15,0.375,Colorado Rockies,N.Jones,Houston Astros,0.0,0.225,Y,0.4117647058823529,0,0.6,1,0.4,0
+32,34,E.Diaz o0.5 RBI,Thespinzone,188,0.1,0.288,Colorado Rockies,E.Diaz,Houston Astros,0.0,0.1879999999999999,N,0.3506493506493506,0,0.0,0,0.3,0
 0,0,M.Moustakas o0.5 Runs Scored,Thespinzone,170,0.08,0.216,Colorado Rockies,M.Moustakas,Pittsburgh Pirates,0.0,0.136,N,0.4090909090909091,0,0.4,0,0.3,0
 1,1,M.Keller o5.5 Ks,PropBetGuy,-119,1.0,1.8403361344537816,Pittsburgh Pirates,M.Keller,Colorado Rockies,1.0,0.8403361344537816,Y,0.75,1,0.6,1,0.75,1
 2,2,J.Gray u5.5 Ks,jimsannes,108,1.0,2.08,Texas Rangers,J.Gray,Seattle Mariners,0.0,1.08,N,0.7142857142857143,1,0.8,1,0.7142857142857143,1
