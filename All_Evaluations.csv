@@ -1696,6 +1696,29 @@
 7,7,R.Mountcastle u1.5 Total Bases,_Collin1,-135,0.68,1.1837037037037037,Baltimore Orioles,R.Mountcastle,Boston Red Sox,1.0,0.5037037037037037,N,0.5652173913043478,1,0.6,1,0.8,1
 8,8,A.Santander o1.5 Total Bases,_Collin1,115,0.5,1.075,Baltimore Orioles,A.Santander,Boston Red Sox,1.0,0.575,N,0.3809523809523809,0,0.4,0,0.4,0
 9,9,N.Cortes o6.0 strikeouts,Dan Servodidio,-110,1.0,1.9090909090909087,New York Yankees,N.Cortes,Minnesota Twins,0.0,0.9090909090909088,N,0.4,0,0.4,0,0.4,0
+0,0,L.Raley o0.5 Runs Scored,Thespinzone,112,0.1,0.212,Tampa Bay Rays,L.Raley,Atlanta Braves,1.0,0.112,N,0.4571428571428571,0,0.2,0,0.6,1
+1,1,Y.Diaz o0.5 Runs Scored,Thespinzone,-105,0.09,0.1757142857142857,Tampa Bay Rays,Y.Diaz,Atlanta Braves,1.0,0.0857142857142857,Y,0.5512820512820513,1,0.4,0,0.5,0
+2,2,G.Torres o0.5 Runs Scored,Thespinzone,100,0.15,0.3,New York Yankees,G.Torres,Chicago Cubs,1.0,0.15,Y,0.4444444444444444,0,0.4,0,0.3,0
+3,3,C.Morel o0.5 RBI,Thespinzone,195,0.08,0.236,Chicago Cubs,C.Morel,New York Yankees,0.0,0.156,N,0.4081632653061224,0,0.0,0,0.3,0
+4,4,C.Morel o0.5 HR,Thespinzone,450,0.08,0.44,Chicago Cubs,C.Morel,New York Yankees,0.0,0.36,N,0.2448979591836734,0,0.0,0,0.2,0
+5,5,R.Greene o0.5 Runs Scored,Thespinzone,115,0.1,0.215,Detroit Tigers,R.Greene,Toronto Blue Jays,1.0,0.1149999999999999,Y,0.4814814814814814,0,0.6,1,0.6,1
+6,6,Z.McKinstry o0.5 Runs Scored,Thespinzone,110,0.1,0.21,Detroit Tigers,Z.McKinstry,Toronto Blue Jays,1.0,0.11,Y,0.4074074074074074,0,0.4,0,0.5,0
+7,7,M.Chapman o0.5 RBI,Thespinzone,145,0.1,0.245,Toronto Blue Jays,M.Chapman,Detroit Tigers,0.0,0.145,N,0.2727272727272727,0,0.2,0,0.2,0
+8,8,D.Myers o0.5 Runs Scored,Thespinzone,220,0.15,0.48,Miami Marlins,D.Myers,Philadelphia Phillies,1.0,0.3299999999999999,Y,0.5,0,0.4,0,0.5,0
+9,9,A.Bohm o0.5 RBI,Thespinzone,205,0.08,0.244,Philadelphia Phillies,A.Bohm,Miami Marlins,0.0,0.1639999999999999,N,0.4210526315789473,0,0.4,0,0.5,0
+10,10,M.Ford o0.5 HR,Thespinzone,600,0.04,0.28,Seattle Mariners,M.Ford,Houston Astros,0.0,0.24,N,0.1333333333333333,0,0.0,0,0.0,0
+11,11,S.Kwan o0.5 Runs Scored,Thespinzone,-105,0.15,0.2928571428571428,Cleveland Guardians,S.Kwan,Kansas City Royals,1.0,0.1428571428571428,N,0.5168539325842697,1,0.2,0,0.5,0
+12,12,F.Fermin o0.5 RBI,Thespinzone,200,0.08,0.24,Kansas City Royals,F.Fermin,Cleveland Guardians,0.0,0.1599999999999999,Y,0.3714285714285714,0,0.4,0,0.5,0
+13,13,S.Perez o0.5 RBI,Thespinzone,150,0.1,0.25,Kansas City Royals,S.Perez,Cleveland Guardians,0.0,0.15,N,0.3333333333333333,0,0.0,0,0.1,0
+14,14,R.Devers o0.5 RBI,Thespinzone,135,0.1,0.235,Boston Red Sox,R.Devers,Oakland Athletics,1.0,0.135,N,0.4712643678160919,0,0.6,1,0.5,0
+15,15,R.Devers o0.5 HR,Thespinzone,425,0.08,0.42,Boston Red Sox,R.Devers,Oakland Athletics,1.0,0.3399999999999999,N,0.160919540229885,0,0.0,0,0.1,0
+16,16,R.Refsnyder o0.5 RBI,Thespinzone,185,0.08,0.228,Boston Red Sox,R.Refsnyder,Oakland Athletics,1.0,0.148,N,0.2631578947368421,0,0.2,0,0.1,0
+17,17,L.Webb o5.5 Ks,JoeDellera,-130,0.35,0.6192307692307691,San Francisco Giants,L.Webb,Colorado Rockies,1.0,0.2692307692307691,Y,0.631578947368421,1,0.4,0,0.6,1
+18,18,L.Webb o5.5 Ks,PropBetGuy,-120,1.2,2.2,San Francisco Giants,L.Webb,Colorado Rockies,1.0,1.0000000000000002,Y,0.631578947368421,1,0.4,0,0.6,1
+19,19,J.Meneses o0.5 RBI,Thespinzone,145,0.1,0.245,Washington Nationals,J.Meneses,Texas Rangers,1.0,0.145,Y,0.3734939759036144,0,0.8,1,0.5,0
+20,20,L.Thomas o0.5 Runs Scored,Thespinzone,104,0.15,0.306,Washington Nationals,L.Thomas,Texas Rangers,1.0,0.156,N,0.5454545454545454,1,0.4,0,0.3,0
+21,21,C.Seager o0.5 RBI,Thespinzone,120,0.11,0.242,Texas Rangers,C.Seager,Washington Nationals,0.0,0.132,N,0.4915254237288136,0,0.4,0,0.4,0
+22,22,J.Jung o0.5 HR,Thespinzone,330,0.1,0.43,Texas Rangers,J.Jung,Washington Nationals,0.0,0.3299999999999999,N,0.1477272727272727,0,0.2,0,0.2,0
 0,0,D.Peterson o5.5 Ks,PropBetGuy,-115,1.0,1.869565217391304,New York Mets,D.Peterson,San Francisco Giants,0.0,0.869565217391304,Y,0.6,1,0.6,1,0.6,1
 1,1,G.Cole u7.5 Ks,PropBetGuy,-105,1.0,1.9523809523809523,New York Yankees,G.Cole,Toronto Blue Jays,1.0,0.9523809523809524,Y,0.4,0,0.4,0,0.4,0
 2,2,W.Miley u4.5 Ks,The_Oddsmaker,-138,1.0,1.7246376811594204,Milwaukee Brewers,W.Miley,Boston Red Sox,1.0,0.7246376811594204,Y,0.75,1,0.75,1,0.75,1
