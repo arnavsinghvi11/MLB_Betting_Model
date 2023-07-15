@@ -4,16 +4,23 @@
 2,A.Civale u4.5 strikeouts,Chris Landers,+105,1,2.05,1.0499999999999998,A.Civale,Cleveland Guardians,Texas Rangers,0
 3,L.Arraez o1.5 total bases,Dan Servodidio,-110,1.0,1.9090909090909092,0.9090909090909092,L.Arraez,Miami Marlins,Baltimore Orioles,0
 5,C.Burnes o6.5 Ks,cowhitchurch,+145,0.5,1.225,0.7250000000000001,C.Burnes,Milwaukee Brewers,Cincinnati Reds,0
-6,M.Kopech o4.5 Ks,AnthonyDabbundo,+130,1.0,2.3,1.2999999999999998,M.Kopech,Chicago White Sox,Atlanta Braves,0
-7,S.Murphy o1.5 Total Bases,charliedisturco,+120,0.5,1.1,0.6000000000000001,S.Murphy,Atlanta Braves,Chicago White Sox,1
-8,S.Murphy o0.5 HR,charliedisturco,+400,0.1,0.5,0.4,S.Murphy,Atlanta Braves,Chicago White Sox,1
-9,M.Machado o0.5 RBI,Thespinzone,+115,0.1,0.215,0.11499999999999999,M.Machado,San Diego Padres,Philadelphia Phillies,0
-10,B.Bello o4.5 Ks,SBK5065,-135,0.68,1.1837037037037037,0.5037037037037037,B.Bello,Boston Red Sox,Chicago Cubs,0
-11,B.Bello o4.5 Ks,The_Oddsmaker,-130,1.3,2.3,0.9999999999999998,B.Bello,Boston Red Sox,Chicago Cubs,0
-12,D.LeMahieu o1.5 Total Bases,cowhitchurch,-105,0.53,1.0347619047619048,0.5047619047619047,D.LeMahieu,New York Yankees,Colorado Rockies,0
-13,A.Volpe o1.5 Total Bases,charliedisturco,-110,0.55,1.05,0.5,A.Volpe,New York Yankees,Colorado Rockies,0
-14,A.Volpe o0.5 HR,charliedisturco,+575,0.1,0.675,0.5750000000000001,A.Volpe,New York Yankees,Colorado Rockies,0
-15,C.Santana o1.5 Total Bases,cowhitchurch,+130,0.5,1.15,0.6499999999999999,C.Santana,Pittsburgh Pirates,San Francisco Giants,1
-16,P.Bailey o1.5 Total Bases,charliedisturco,+110,0.5,1.05,0.55,P.Bailey,San Francisco Giants,Pittsburgh Pirates,0
-17,P.Bailey o0.5 HR,charliedisturco,+680,0.1,0.78,0.68,P.Bailey,San Francisco Giants,Pittsburgh Pirates,0
-18,L.Castillo u7.5 Ks,The_Oddsmaker,-120,1.2,2.2,1.0000000000000002,L.Castillo,Seattle Mariners,Detroit Tigers,1
+6,N.Gonzales o0.5 RBI,Thespinzone,+185,0.08,0.228,0.14800000000000002,N.Gonzales,Pittsburgh Pirates,San Francisco Giants,1
+7,P.Bailey o0.5 RBI,Thespinzone,+165,0.08,0.212,0.132,P.Bailey,San Francisco Giants,Pittsburgh Pirates,0
+8,J.Davis o0.5 RBI,Thespinzone,+145,0.08,0.196,0.116,J.Davis,San Francisco Giants,Pittsburgh Pirates,0
+9,A.Slater o0.5 RBI,Thespinzone,+230,0.08,0.264,0.184,A.Slater,San Francisco Giants,Pittsburgh Pirates,0
+10,C.Santana o1.5 Total Bases,cowhitchurch,+130,0.5,1.15,0.6499999999999999,C.Santana,Pittsburgh Pirates,San Francisco Giants,1
+11,P.Bailey o1.5 Total Bases,charliedisturco,+110,0.5,1.05,0.55,P.Bailey,San Francisco Giants,Pittsburgh Pirates,0
+12,P.Bailey o0.5 HR,charliedisturco,+680,0.1,0.78,0.68,P.Bailey,San Francisco Giants,Pittsburgh Pirates,0
+13,M.Kopech o4.5 Ks,AnthonyDabbundo,+130,1.0,2.3,1.2999999999999998,M.Kopech,Chicago White Sox,Atlanta Braves,0
+14,S.Murphy o1.5 Total Bases,charliedisturco,+120,0.5,1.1,0.6000000000000001,S.Murphy,Atlanta Braves,Chicago White Sox,1
+15,S.Murphy o0.5 HR,charliedisturco,+400,0.1,0.5,0.4,S.Murphy,Atlanta Braves,Chicago White Sox,1
+16,B.Bello o4.5 Ks,SBK5065,-135,0.68,1.1837037037037037,0.5037037037037037,B.Bello,Boston Red Sox,Chicago Cubs,0
+17,B.Bello o4.5 Ks,The_Oddsmaker,-130,1.3,2.3,0.9999999999999998,B.Bello,Boston Red Sox,Chicago Cubs,0
+18,D.LeMahieu o1.5 Total Bases,cowhitchurch,-105,0.53,1.0347619047619048,0.5047619047619047,D.LeMahieu,New York Yankees,Colorado Rockies,0
+19,A.Volpe o1.5 Total Bases,charliedisturco,-110,0.55,1.05,0.5,A.Volpe,New York Yankees,Colorado Rockies,0
+20,A.Volpe o0.5 HR,charliedisturco,+575,0.1,0.675,0.5750000000000001,A.Volpe,New York Yankees,Colorado Rockies,0
+21,L.Castillo u7.5 Ks,The_Oddsmaker,-120,1.2,2.2,1.0000000000000002,L.Castillo,Seattle Mariners,Detroit Tigers,1
+22,C.Carroll o0.5 Runs Scored,Thespinzone,+112,0.1,0.21200000000000002,0.11200000000000002,C.Carroll,Arizona Diamondbacks,Toronto Blue Jays,0
+25,D.Myers o0.5 Runs Scored,Thespinzone,+205,0.08,0.244,0.16399999999999998,D.Myers,Miami Marlins,Baltimore Orioles,0
+26,N.Castellanos o0.5 RBI,Thespinzone,+150,0.1,0.25,0.15,N.Castellanos,Philadelphia Phillies,San Diego Padres,1
+27,M.Machado o0.5 RBI,Thespinzone,+115,0.1,0.215,0.11499999999999999,M.Machado,San Diego Padres,Philadelphia Phillies,0
