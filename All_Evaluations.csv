@@ -1368,6 +1368,24 @@
 8,8,Y.Alvarez o1.5 total bases,Henry Palattella,100,1.0,2.0,Houston Astros,Y.Alvarez,Toronto Blue Jays,1.0,1.0,N,0.5,0,0.4,0,0.4,0
 9,9,L.Lynn o5.5 hits allowed,Henry Palattella,125,1.0,2.25,Chicago White Sox,L.Lynn,Philadelphia Phillies,1.0,1.25,Y,0.75,1,0.75,1,0.75,1
 10,10,J.Gray u4.5 strikeouts,Dan Servodidio,-110,1.0,1.9090909090909087,Washington Nationals,J.Gray,Baltimore Orioles,1.0,0.9090909090909088,Y,0.75,1,0.75,1,0.75,1
+0,0,Z.Eflin o5.5 strikeouts,Chris Landers,-105,1.0,1.9523809523809523,Tampa Bay Rays,Z.Eflin,Kansas City Royals,0.0,0.9523809523809524,N,0.5,0,0.6,1,0.5,0
+1,1,R.Olson o4.5 strikeouts,Chris Landers,-125,1.0,1.8,Detroit Tigers,R.Olson,Seattle Mariners,0.0,0.8,Y,0.5555555555555556,1,0.6,1,0.5555555555555556,1
+2,2,C.Cowser o0.5 RBI,Thespinzone,220,0.08,0.256,Baltimore Orioles,C.Cowser,Miami Marlins,1.0,0.176,N,0.2857142857142857,0,0.2,0,0.2857142857142857,0
+3,3,C.Cowser o0.5 Runs Scored,Thespinzone,150,0.08,0.2,Baltimore Orioles,C.Cowser,Miami Marlins,1.0,0.12,Y,1.0,1,1.0,1,1.0,1
+4,4,D.Myers o0.5 RBI,Thespinzone,240,0.08,0.272,Miami Marlins,D.Myers,Baltimore Orioles,0.0,0.192,Y,0.7777777777777778,1,0.8,1,0.7777777777777778,1
+5,5,D.Myers o0.5 Runs Scored,Thespinzone,188,0.08,0.2304,Miami Marlins,D.Myers,Baltimore Orioles,0.0,0.1503999999999999,N,0.4444444444444444,0,0.6,1,0.4444444444444444,0
+6,6,K.Bradish o7.5 Ks,charliedisturco,900,0.1,1.0,Baltimore Orioles,K.Bradish,Miami Marlins,1.0,0.9,Y,0.1764705882352941,0,0.4,0,0.3,0
+7,7,K.Bradish o5.5 Ks,charliedisturco,230,0.25,0.825,Baltimore Orioles,K.Bradish,Miami Marlins,1.0,0.575,Y,0.4117647058823529,0,0.8,1,0.5,0
+8,8,K.Bradish o4.5 Ks,charliedisturco,104,0.75,1.53,Baltimore Orioles,K.Bradish,Miami Marlins,1.0,0.78,Y,0.6470588235294118,1,1.0,1,0.7,1
+9,9,K.Bradish o4.5 Ks,AnthonyDabbundo,104,1.0,2.04,Baltimore Orioles,K.Bradish,Miami Marlins,1.0,1.04,Y,0.6470588235294118,1,1.0,1,0.7,1
+10,10,K.Bradish o7.5 Ks,AnthonyDabbundo,800,0.25,2.25,Baltimore Orioles,K.Bradish,Miami Marlins,1.0,2.0,Y,0.1764705882352941,0,0.4,0,0.3,0
+11,11,E.Jimenez o0.5 RBI,Thespinzone,128,0.1,0.228,Chicago White Sox,E.Jimenez,Atlanta Braves,0.0,0.128,N,0.4516129032258064,0,0.0,0,0.2,0
+12,12,R.Olson o4.5 Ks,PropBetGuy,-115,1.15,2.1499999999999995,Detroit Tigers,R.Olson,Seattle Mariners,0.0,0.9999999999999996,Y,0.5555555555555556,1,0.6,1,0.5555555555555556,1
+13,13,M.Chapman o0.5 RBI,Thespinzone,120,0.1,0.22,Toronto Blue Jays,M.Chapman,Arizona Diamondbacks,1.0,0.12,N,0.2747252747252747,0,0.2,0,0.2,0
+14,14,Z.Eflin o5.5 Ks,MikeRandle,-118,1.0,1.847457627118644,Tampa Bay Rays,Z.Eflin,Kansas City Royals,0.0,0.847457627118644,N,0.5,0,0.6,1,0.5,0
+15,15,B.Harper o0.5 Runs Scored,Thespinzone,-105,0.1,0.1952380952380952,Philadelphia Phillies,B.Harper,San Diego Padres,1.0,0.0952380952380952,Y,0.5,0,0.6,1,0.6,1
+16,16,D.Ellis o0.5 Runs Scored,Thespinzone,150,0.08,0.2,Philadelphia Phillies,D.Ellis,San Diego Padres,1.0,0.12,N,0.0833333333333333,0,0.0,0,0.1,0
+17,17,D.Ellis o0.5 HR,Thespinzone,550,0.04,0.26,Philadelphia Phillies,D.Ellis,San Diego Padres,1.0,0.22,N,0.0833333333333333,0,0.0,0,0.1,0
 0,0,J.Springs o5.5 Ks,JoeDellera,-140,0.18,0.3085714285714286,Tampa Bay Rays,J.Springs,Detroit Tigers,1.0,0.1285714285714286,Y,1.0,1,1.0,1,1.0,1
 1,1,K.Senga o4.5 Ks,charliedisturco,104,0.52,1.0608,New York Mets,K.Senga,Miami Marlins,0.0,0.5408,Y,1.0,1,1.0,1,1.0,1
 2,2,K.Senga o4.5 Ks,NicholaskMartin,110,0.55,1.1550000000000002,New York Mets,K.Senga,Miami Marlins,0.0,0.6050000000000002,Y,1.0,1,1.0,1,1.0,1
