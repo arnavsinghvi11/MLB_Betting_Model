@@ -393,9 +393,10 @@ class Bets:
                 #gets most recent team regardless
                 team = matching_name.iloc[0]['Team']
                 print(team)
+                found_today = False
                 for matchup in matchups:
                     matchup_home = matchup.split('vs')[0].strip()
-                    matchup_away = matchup.split('vs')[1].strip()
+                    matchup_away = matchup.split('vs')[1].strip()            
                     if matchup_home in team:
                         set_teams.append(team)
                         names.append(name)
@@ -404,6 +405,7 @@ class Bets:
                                 opponents.append(t)
                                 break
                         hmcrt_advantages.append(1)
+                        found_today = True
                         break
                     elif matchup_away in team:
                         set_teams.append(team)
@@ -413,7 +415,15 @@ class Bets:
                                 opponents.append(t)
                                 break
                         hmcrt_advantages.append(0)
+                        found_today = True
                         break
+                if found_today:
+                    continue
+                else:
+                    set_teams.append('')
+                    names.append(np.NAN)
+                    opponents.append(np.NAN)
+                    hmcrt_advantages.append(np.NAN)
         bets['Name'] = names
         bets['Team'] = set_teams
         bets['Opponent'] = opponents
