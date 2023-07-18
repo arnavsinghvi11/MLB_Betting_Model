@@ -165,6 +165,7 @@ class Bets:
                 df['Props'] = df['Props'].str.replace(r'over(\d+\.\d+)', r'o\1')
                 df['Props'] = df['Props'].str.replace(r'under(\d+\.\d+)', r'u\1')
                 df['Props'] = df['Props'].str.replace(r'o\s+(\d+\.\d+)', r'o\1')
+                df['Props'] = df['Props'].str.replace(r'u\s+(\d+\.\d+)', r'u\1')
                 # Save the df DataFrame as a single CSV file
                 df['First Initial'] = df['Props'].str.split().str[:1].str.join(' ').str.replace('[,.]', '').str[:1].str.capitalize() + '.'
                 df['Last Name'] = df['Props'].str.split().str[1:2].str.join(' ').str.replace('[,.]', '').str.capitalize()
