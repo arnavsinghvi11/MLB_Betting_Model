@@ -1,15 +1,34 @@
 ,Play,Expert,Odds,Units,Payout,Profit,Name,Team,Opponent,Hmcrt_adv
 0,K.Tucker o0.5 hits,Teddy Ricketson,-275,1,1.3636363636363638,0.36363636363636376,K.Tucker,Houston Astros,Oakland Athletics,0.0
 1,T.Glasnow o7.5 strikeouts,Teddy Ricketson,-155,1,1.6451612903225805,0.6451612903225805,T.Glasnow,Tampa Bay Rays,Baltimore Orioles,1.0
-2,C.Burnes u6.5 Ks,Thespinzone,+100,0.1,0.2,0.1,C.Burnes,Milwaukee Brewers,Philadelphia Phillies,0.0
-3,B.Harper o0.5 Runs Scored,Thespinzone,+110,0.15,0.315,0.165,B.Harper,Philadelphia Phillies,Milwaukee Brewers,1.0
-4,N.Castellanos o0.5 RBI,Thespinzone,+170,0.1,0.27,0.17,N.Castellanos,Philadelphia Phillies,Milwaukee Brewers,1.0
-5,T.Walker o4.5 Ks,PropBetGuy,-119,1.19,2.19,1.0,T.Walker,Philadelphia Phillies,Milwaukee Brewers,1.0
-7,A.Slater o0.5 Runs Scored,Thespinzone,+105,0.15,0.30749999999999994,0.15749999999999995,A.Slater,San Francisco Giants,Cincinnati Reds,0.0
-8,P.Bailey o0.5 RBI,Thespinzone,+160,0.1,0.26,0.16,P.Bailey,San Francisco Giants,Cincinnati Reds,0.0
-9,A.Abbott o5.5 Ks,PropBetGuy,-118,1.18,2.1799999999999997,0.9999999999999998,A.Abbott,Cincinnati Reds,San Francisco Giants,1.0
-10,G.Kirby u6.5 Ks,The_Oddsmaker,+100,1.0,2.0,1.0,G.Kirby,Seattle Mariners,Minnesota Twins,1.0
-13,K.Marte o0.5 Runs Scored,Thespinzone,+115,0.15,0.32249999999999995,0.17249999999999996,K.Marte,Arizona Diamondbacks,Atlanta Braves,0.0
-14,C.Carroll o0.5 Runs Scored,Thespinzone,+115,0.15,0.32249999999999995,0.17249999999999996,C.Carroll,Arizona Diamondbacks,Atlanta Braves,0.0
-15,B.Snell u6.5 Ks,cowhitchurch,-118,0.59,1.0899999999999999,0.4999999999999999,B.Snell,San Diego Padres,Toronto Blue Jays,0.0
-16,B.Snell u6.5 Ks,The_Oddsmaker,-118,1.18,2.1799999999999997,0.9999999999999998,B.Snell,San Diego Padres,Toronto Blue Jays,0.0
+2,T.Glasnow u8.0 strikeouts,Dan Servodidio,-110,1.0,1.9090909090909092,0.9090909090909092,T.Glasnow,Tampa Bay Rays,Baltimore Orioles,1.0
+3,R.Arozarena o0.5 RBI,Thespinzone,+145,0.1,0.24500000000000002,0.14500000000000002,R.Arozarena,Tampa Bay Rays,Baltimore Orioles,1.0
+4,L.Raley o0.5 Runs Scored,Thespinzone,+118,0.15,0.32699999999999996,0.17699999999999996,L.Raley,Tampa Bay Rays,Baltimore Orioles,1.0
+5,Y.Diaz o0.5 Runs Scored,Thespinzone,-105,0.15,0.2928571428571428,0.14285714285714282,Y.Diaz,Tampa Bay Rays,Baltimore Orioles,1.0
+6,G.Henderson o0.5 HR,Thespinzone,+600,0.05,0.35000000000000003,0.30000000000000004,G.Henderson,Baltimore Orioles,Tampa Bay Rays,0.0
+8,L.Nootbaar o0.5 Runs Scored,Thespinzone,+110,0.15,0.315,0.165,L.Nootbaar,St. Louis Cardinals,Chicago Cubs,0.0
+9,N.Arenado o0.5 RBI,Thespinzone,+165,0.1,0.265,0.165,N.Arenado,St. Louis Cardinals,Chicago Cubs,0.0
+10,N.Hoerner o0.5 RBI,Thespinzone,+230,0.08,0.264,0.184,N.Hoerner,Chicago Cubs,St. Louis Cardinals,1.0
+11,C.Bellinger o0.5 Runs Scored,Thespinzone,+145,0.1,0.24500000000000002,0.14500000000000002,C.Bellinger,Chicago Cubs,St. Louis Cardinals,1.0
+14,C.Burnes u6.5 Ks,Thespinzone,+100,0.1,0.2,0.1,C.Burnes,Milwaukee Brewers,Philadelphia Phillies,0.0
+15,B.Harper o0.5 Runs Scored,Thespinzone,+110,0.15,0.315,0.165,B.Harper,Philadelphia Phillies,Milwaukee Brewers,1.0
+16,N.Castellanos o0.5 RBI,Thespinzone,+170,0.1,0.27,0.17,N.Castellanos,Philadelphia Phillies,Milwaukee Brewers,1.0
+17,T.Walker o4.5 Ks,PropBetGuy,-119,1.0,1.8403361344537816,0.8403361344537816,T.Walker,Philadelphia Phillies,Milwaukee Brewers,1.0
+19,A.Slater o0.5 Runs Scored,Thespinzone,+105,0.15,0.30749999999999994,0.15749999999999995,A.Slater,San Francisco Giants,Cincinnati Reds,0.0
+20,P.Bailey o0.5 RBI,Thespinzone,+160,0.1,0.26,0.16,P.Bailey,San Francisco Giants,Cincinnati Reds,0.0
+21,A.Abbott o5.5 Ks,PropBetGuy,-118,1.0,1.847457627118644,0.847457627118644,A.Abbott,Cincinnati Reds,San Francisco Giants,1.0
+22,M.Ford o0.5 RBI,Thespinzone,+200,0.2,0.6000000000000001,0.4000000000000001,M.Ford,Seattle Mariners,Minnesota Twins,1.0
+23,M.Wallner o0.5 RBI,Thespinzone,+180,0.1,0.27999999999999997,0.17999999999999997,M.Wallner,Minnesota Twins,Seattle Mariners,0.0
+24,E.Julien o0.5 Runs Scored,Thespinzone,+125,0.15,0.33749999999999997,0.18749999999999997,E.Julien,Minnesota Twins,Seattle Mariners,0.0
+26,P.Lopez u8.5 Ks,The_Oddsmaker,-154,1.0,1.6493506493506493,0.6493506493506493,P.Lopez,Minnesota Twins,Seattle Mariners,0.0
+27,G.Kirby u6.5 Ks,The_Oddsmaker,+100,1.0,2.0,1.0,G.Kirby,Seattle Mariners,Minnesota Twins,1.0
+30,T.Pham o0.5 RBI,Thespinzone,+170,0.1,0.27,0.17,T.Pham,New York Mets,Chicago White Sox,1.0
+31,E.Jimenez o0.5 RBI,Thespinzone,+135,0.14,0.32900000000000007,0.18900000000000006,E.Jimenez,Chicago White Sox,New York Mets,0.0
+32,F.Alvarez o0.5 RBI,Thespinzone,+175,0.1,0.275,0.17500000000000002,F.Alvarez,New York Mets,Chicago White Sox,1.0
+33,F.Alvarez o0.5 HR,Thespinzone,+460,0.08,0.44799999999999995,0.36799999999999994,F.Alvarez,New York Mets,Chicago White Sox,1.0
+34,T.Anderson o0.5 Runs Scored,Thespinzone,+120,0.12,0.264,0.14400000000000002,T.Anderson,Chicago White Sox,New York Mets,0.0
+35,K.Marte o0.5 Runs Scored,Thespinzone,+115,0.15,0.32249999999999995,0.17249999999999996,K.Marte,Arizona Diamondbacks,Atlanta Braves,0.0
+36,C.Carroll o0.5 Runs Scored,Thespinzone,+115,0.17,0.3655,0.19549999999999998,C.Carroll,Arizona Diamondbacks,Atlanta Braves,0.0
+37,B.Snell u6.5 Ks,cowhitchurch,-118,0.5,0.923728813559322,0.423728813559322,B.Snell,San Diego Padres,Toronto Blue Jays,0.0
+38,B.Snell u6.5 Ks,The_Oddsmaker,-118,1.0,1.847457627118644,0.847457627118644,B.Snell,San Diego Padres,Toronto Blue Jays,0.0
+39,K.Carpenter o0.5 RBI,Thespinzone,+140,0.1,0.24,0.13999999999999999,K.Carpenter,Detroit Tigers,Kansas City Royals,0.0
