@@ -1,0 +1,42 @@
+,Play,Expert,Odds,Units,Payout,Team,Name,Opponent,Hmcrt_adv,Profit,Correct,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct
+0,L.Castillo u7.5 strikeouts,Teddy Ricketson,105,1.0,2.05,Seattle Mariners,L.Castillo,Minnesota Twins,1.0,1.0499999999999998,N,0.65,1,0.8,1,0.7,1
+1,S.Torkelson u1.5 hits,Teddy Ricketson,-215,1.0,1.4651162790697674,Detroit Tigers,S.Torkelson,Kansas City Royals,0.0,0.4651162790697674,Y,0.7741935483870968,1,0.8,1,0.8,1
+2,Z.Neto o0.5 RBI,Thespinzone,240,0.08,0.272,Los Angeles Angels,Z.Neto,New York Yankees,1.0,0.192,N,0.29508196721311475,0,0.4,0,0.5,0
+3,S.Ohtani o0.5 RBI,Thespinzone,200,0.15,0.4499999999999999,Los Angeles Angels,S.Ohtani,New York Yankees,1.0,0.2999999999999999,N,0.4842105263157895,0,0.8,1,0.5,0
+4,G.Torres o0.5 Runs Scored,Thespinzone,-105,0.15,0.2928571428571428,New York Yankees,G.Torres,Los Angeles Angels,0.0,0.1428571428571428,N,0.4583333333333333,0,0.6,1,0.6,1
+5,C.Silseth o3.5 Ks,SBK5065,-120,0.6,1.1,Los Angeles Angels,C.Silseth,New York Yankees,1.0,0.5000000000000001,Y,0.2,0,0.2,0,0.2,0
+6,N.Castellanos o0.5 RBI,Thespinzone,145,0.1,0.245,Philadelphia Phillies,N.Castellanos,Milwaukee Brewers,1.0,0.145,Y,0.3763440860215054,0,0.4,0,0.2,0
+7,W.Contreras o0.5 RBI,Thespinzone,170,0.1,0.27,Milwaukee Brewers,W.Contreras,Philadelphia Phillies,0.0,0.17,Y,0.3157894736842105,0,0.4,0,0.4,0
+8,J.Jones o0.5 RBI,Thespinzone,230,0.08,0.264,Milwaukee Brewers,J.Jones,Philadelphia Phillies,0.0,0.184,N,0.2,0,0.2,0,0.2,0
+9,M.Machado o1.5 Total Bases,charliedisturco,-105,0.53,1.0347619047619048,San Diego Padres,M.Machado,Toronto Blue Jays,0.0,0.5047619047619047,N,0.2625,0,0.4,0,0.5,0
+10,M.Machado o0.5 HR,charliedisturco,450,0.1,0.55,San Diego Padres,M.Machado,Toronto Blue Jays,0.0,0.45,N,0.15,0,0.2,0,0.5,0
+11,J.Verlander u6.5 Ks,SBK5065,-125,0.63,1.134,New York Mets,J.Verlander,Chicago White Sox,1.0,0.5040000000000001,N,0.7857142857142857,1,0.8,1,0.8,1
+12,E.Rodriguez o5.5 Ks,PropBetGuy,-125,1.25,2.25,Detroit Tigers,E.Rodriguez,Kansas City Royals,0.0,1.0,Y,0.6428571428571429,1,1.0,1,0.8,1
+13,M.Yoshida o0.5 RBI,Thespinzone,225,0.08,0.26,Boston Red Sox,M.Yoshida,Oakland Athletics,0.0,0.18,N,0.32142857142857145,0,0.2,0,0.4,0
+14,J.Turner o0.5 Runs Scored,Thespinzone,125,0.1,0.225,Boston Red Sox,J.Turner,Oakland Athletics,0.0,0.125,Y,0.5053763440860215,1,0.8,1,0.7,1
+15,J.Diaz o0.5 RBI,Thespinzone,225,0.1,0.325,Oakland Athletics,J.Diaz,Boston Red Sox,1.0,0.225,N,0.1891891891891892,0,0.2,0,0.2,0
+16,R.Refsnyder o0.5 RBI,Thespinzone,320,0.1,0.42,Boston Red Sox,R.Refsnyder,Oakland Athletics,0.0,0.32,Y,0.2833333333333333,0,0.4,0,0.3,0
+17,B.Bello u5.5 Ks,SBK5065,-120,0.6,1.1,Boston Red Sox,B.Bello,Oakland Athletics,0.0,0.5000000000000001,Y,0.75,1,1.0,1,0.8,1
+18,J.Sanchez o0.5 RBI,Thespinzone,150,0.15,0.375,Miami Marlins,J.Sanchez,St. Louis Cardinals,0.0,0.225,Y,0.26865671641791045,0,0.6,1,0.5,0
+19,L.Nootbaar o0.5 Runs Scored,Thespinzone,130,0.13,0.299,St. Louis Cardinals,L.Nootbaar,Miami Marlins,1.0,0.1689999999999999,Y,0.47692307692307695,0,0.6,1,0.7,1
+20,N.Arenado o0.5 RBI,Thespinzone,150,0.15,0.375,St. Louis Cardinals,N.Arenado,Miami Marlins,1.0,0.225,Y,0.42857142857142855,0,0.8,1,0.7,1
+21,P.Goldschmidt o0.5 Runs Scored,Thespinzone,120,0.13,0.286,St. Louis Cardinals,P.Goldschmidt,Miami Marlins,1.0,0.156,Y,0.4673913043478261,0,0.8,1,0.5,0
+22,I.Herrera o0.5 Runs Scored,Thespinzone,210,0.1,0.31,St. Louis Cardinals,I.Herrera,Miami Marlins,1.0,0.21,N,0.6,1,0.6,1,0.6,1
+23,S.Alcantara u5.5 Ks,cowhitchurch,-140,0.7,1.2,Miami Marlins,S.Alcantara,St. Louis Cardinals,0.0,0.5,N,0.6,1,0.6,1,0.6,1
+24,S.Alcantara u5.5 Ks,SBK5065,-125,0.63,1.134,Miami Marlins,S.Alcantara,St. Louis Cardinals,0.0,0.5040000000000001,N,0.6,1,0.6,1,0.6,1
+25,S.Alcantara u5.5 Ks,AnthonyDabbundo,-140,1.4,2.4,Miami Marlins,S.Alcantara,St. Louis Cardinals,0.0,1.0,N,0.6,1,0.6,1,0.6,1
+26,S.Alcantara u5.5 Ks,The_Oddsmaker,-140,1.4,2.4,Miami Marlins,S.Alcantara,St. Louis Cardinals,0.0,1.0,N,0.6,1,0.6,1,0.6,1
+27,S.Alcantara u5.5 Ks,PropBetGuy,-108,1.08,2.08,Miami Marlins,S.Alcantara,St. Louis Cardinals,0.0,1.0,N,0.6,1,0.6,1,0.6,1
+28,R.Hill u4.5 Ks,The_Oddsmaker,-142,1.0,1.704225352112676,Pittsburgh Pirates,R.Hill,Cleveland Guardians,1.0,0.704225352112676,Y,0.45,0,0.8,1,0.6,1
+29,H.Davis o0.5 Runs Scored,Thespinzone,140,0.15,0.36,Pittsburgh Pirates,H.Davis,Cleveland Guardians,1.0,0.21,Y,0.5384615384615384,1,0.6,1,0.5,0
+30,D.Fry o0.5 RBI,Thespinzone,175,0.1,0.275,Cleveland Guardians,D.Fry,Pittsburgh Pirates,0.0,0.175,N,0.15151515151515152,0,0.2,0,0.3,0
+31,R.Mountcastle o0.5 HR,Thespinzone,500,0.08,0.48,Baltimore Orioles,R.Mountcastle,Los Angeles Dodgers,1.0,0.3999999999999999,N,0.12121212121212122,0,0.0,0,0.0,0
+32,R.Mountcastle o0.5 RBI,Thespinzone,175,0.1,0.275,Baltimore Orioles,R.Mountcastle,Los Angeles Dodgers,1.0,0.175,N,0.3181818181818182,0,0.2,0,0.3,0
+33,D.Peralta o0.5 RBI,Thespinzone,135,0.15,0.3525,Los Angeles Dodgers,D.Peralta,Baltimore Orioles,0.0,0.2024999999999999,Y,0.3,0,0.4,0,0.4,0
+34,M.Betts o1.5 Total Bases,charliedisturco,-110,0.55,1.05,Los Angeles Dodgers,M.Betts,Baltimore Orioles,0.0,0.5,N,0.5108695652173914,1,0.2,0,0.5,0
+35,M.Betts o0.5 HR,charliedisturco,450,0.1,0.55,Los Angeles Dodgers,M.Betts,Baltimore Orioles,0.0,0.45,N,0.20652173913043478,0,0.2,0,0.3,0
+36,C.Seager o0.5 RBI,Thespinzone,130,0.11,0.253,Texas Rangers,C.Seager,Tampa Bay Rays,1.0,0.143,N,0.47692307692307695,0,0.2,0,0.4,0
+38,R.McMahon o1.5 Total Bases,charliedisturco,-110,0.55,1.05,Colorado Rockies,R.McMahon,Houston Astros,1.0,0.5,N,0.34408602150537637,0,0.2,0,0.2,0
+39,R.McMahon o0.5 HR,charliedisturco,440,0.1,0.54,Colorado Rockies,R.McMahon,Houston Astros,1.0,0.44,N,0.15053763440860216,0,0.2,0,0.2,0
+40,R.McMahon o0.5 RBI,Thespinzone,120,0.1,0.22,Colorado Rockies,R.McMahon,Houston Astros,1.0,0.12,N,0.3118279569892473,0,0.2,0,0.2,0
+41,C.McCormick o0.5 HR,Thespinzone,375,0.28,1.33,Houston Astros,C.McCormick,Colorado Rockies,0.0,1.05,Y,0.17857142857142858,0,0.6,1,0.3,0
