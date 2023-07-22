@@ -1,5 +1,14 @@
 ,Play,Expert,Odds,Units,Payout,Profit,Name,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct
-0,R.Detmers o6.5 strikeouts,Teddy Ricketson,-120,1,1.8333333333333335,0.8333333333333335,R.Detmers,Los Angeles Angels,Pittsburgh Pirates,1,0.5294117647058824,1,0.6,1,0.6,1
-1,K.Tucker o0.5 hits,Teddy Ricketson,-260,1,1.3846153846153846,0.3846153846153846,K.Tucker,Houston Astros,Oakland Athletics,0,0.6875,1,1.0,1,0.8,1
-8,G.Cole u8.5 Ks,PropBetGuy,-128,1.28,2.2800000000000002,1.0000000000000002,G.Cole,New York Yankees,Kansas City Royals,1,0.8,1,0.8,1,0.8,1
-10,L.Webb o4.5 Ks,JoeDellera,-105,0.35,0.6833333333333332,0.33333333333333326,L.Webb,San Francisco Giants,Washington Nationals,0,0.85,1,1.0,1,0.9,1
+0,R.Detmers o6.5 strikeouts,Teddy Ricketson,-120,1,1.8333333333333335,0.8333333333333335,R.Detmers,Los Angeles Angels,Pittsburgh Pirates,1.0,0.5294117647058824,1,0.6,1,0.6,1
+1,K.Tucker o0.5 hits,Teddy Ricketson,-260,1,1.3846153846153846,0.3846153846153846,K.Tucker,Houston Astros,Oakland Athletics,0.0,0.6875,1,1.0,1,0.8,1
+3,L.Thomas o0.5 Runs Scored,Thespinzone,+143,0.11,0.2673,0.1573,L.Thomas,Washington Nationals,San Francisco Giants,1.0,0.5531914893617021,1,0.6,1,0.5,0
+5,C.Abrams o0.5 Runs Scored,Thespinzone,+133,0.1,0.233,0.133,C.Abrams,Washington Nationals,San Francisco Giants,1.0,0.40229885057471265,0,0.6,1,0.6,1
+6,L.Webb o4.5 Ks,JoeDellera,-105,0.35,0.6833333333333332,0.33333333333333326,L.Webb,San Francisco Giants,Washington Nationals,0.0,0.85,1,1.0,1,0.9,1
+9,J.Martinez o0.5 RBI,Thespinzone,+135,0.1,0.23500000000000001,0.135,J.Martinez,Los Angeles Dodgers,Texas Rangers,0.0,0.4810126582278481,0,0.8,1,0.8,1
+13,C.Bellinger o0.5 Runs Scored,Thespinzone,+115,0.11,0.2365,0.1265,C.Bellinger,Chicago Cubs,St. Louis Cardinals,1.0,0.6060606060606061,1,0.6,1,0.6,1
+14,M.Tauchman o0.5 Runs Scored,Thespinzone,+100,0.15,0.3,0.15,M.Tauchman,Chicago Cubs,St. Louis Cardinals,1.0,0.5102040816326531,1,0.6,1,0.6,1
+15,P.Goldschmidt o0.5 Runs Scored,Thespinzone,-110,0.15,0.2863636363636364,0.13636363636363638,P.Goldschmidt,St. Louis Cardinals,Chicago Cubs,0.0,0.4787234042553192,0,0.8,1,0.6,1
+16,N.Arenado o0.5 RBI,Thespinzone,+130,0.1,0.22999999999999998,0.12999999999999998,N.Arenado,St. Louis Cardinals,Chicago Cubs,0.0,0.44086021505376344,0,1.0,1,0.7,1
+22,M.McLain o0.5 Runs Scored,Thespinzone,+105,0.12,0.24599999999999997,0.12599999999999997,M.McLain,Cincinnati Reds,Arizona Diamondbacks,1.0,0.5263157894736842,1,0.8,1,0.5,0
+23,J.Fraley o0.5 RBI,Thespinzone,+175,0.18,0.495,0.315,J.Fraley,Cincinnati Reds,Arizona Diamondbacks,1.0,0.43209876543209874,0,0.4,0,0.3,0
+30,G.Cole u8.5 Ks,PropBetGuy,-128,1.28,2.2800000000000002,1.0000000000000002,G.Cole,New York Yankees,Kansas City Royals,1.0,0.8,1,0.8,1,0.8,1
