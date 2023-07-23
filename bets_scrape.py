@@ -208,7 +208,7 @@ class Bets:
         return props, author
     
     def convert_value(self, value):
-        match = re.search(r'[ou]\d+ ', value)
+        match = re.search(r'[ou]\s?\d+\.?\d* ', value)
         if match:
             match_value = match.group()
             letter = match_value[0]
@@ -217,7 +217,7 @@ class Bets:
                 number -= 0.5
             elif letter == 'u':
                 number += 0.5
-            return re.sub(r'[ou]\d+ ', f'{letter}{number} ', value)
+            return re.sub(r'[ou]\s?\d+\.?\d* ', f'{letter}{number} ', value)
         return value
 
     def underdog(self, underdog_date):
@@ -247,6 +247,7 @@ class Bets:
             df['Props'] = df['Props'].str.replace('RBIs', 'RBI')
             df['Props'] = df['Props'].str.replace(r'(OVER|UNDER) (\d+\.?\d*)', r'\1\2')
             df['Props'] = df['Props'].str.replace('OVER', 'o').str.replace('UNDER', 'u')
+            df['Props'] = df['Props'].str.replace('MORE than', 'o').str.replace('LESS than', 'u')
             df['Props'] = df['Props'].apply(self.convert_value)
             df['First Initial'] = df['Props'].str.split().str[:1].str.join(' ').str.replace('[,.]', '').str[:1].str.capitalize() + '.'
             df['Last Name'] = df['Props'].str.split().str[1:2].str.join(' ').str.replace('[,.]', '').str.capitalize()
