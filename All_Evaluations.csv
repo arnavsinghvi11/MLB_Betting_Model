@@ -1632,6 +1632,37 @@
 25,25,J.Martinez o0.5 RBI,Thespinzone,125,0.11,0.2475,Los Angeles Dodgers,J.Martinez,Philadelphia Phillies,0.0,0.1375,N,0.52,1,0.4,0,0.5,0
 26,26,M.Yoshida o1.5 total bases,Chris Landers,130,1.0,2.3,Boston Red Sox,M.Yoshida,New York Yankees,0.0,,N,0.5517241379310345,1,0.0,0,0.4,0
 27,27,J.Naylor o1.5 total bases,Colby Conway,-110,1.0,1.9090909090909087,Cleveland Guardians,J.Naylor,Houston Astros,1.0,,N,0.4210526315789473,0,0.8,1,0.7,1
+0,0,T.Casas o0.5 hits,Teddy Ricketson,-230,1.0,1.434782608695652,Boston Red Sox,T.Casas,New York Mets,1.0,0.4347826086956521,Y,0.5348837209302325,1,0.8,1,0.9,1
+1,1,C.Raleigh o0.5 hits,Teddy Ricketson,-140,1.0,1.7142857142857144,Seattle Mariners,C.Raleigh,Toronto Blue Jays,1.0,0.7142857142857144,Y,0.5411764705882353,1,0.6,1,0.5,0
+2,2,M.Moustakas o0.5 hits,Teddy Ricketson,-150,1.0,1.6666666666666663,Los Angeles Angels,M.Moustakas,Pittsburgh Pirates,1.0,0.6666666666666665,Y,0.6842105263157895,1,0.8,1,0.9,1
+3,3,K.Marte o1.0 total bases,Colby Conway,-110,1.0,1.9090909090909087,Arizona Diamondbacks,K.Marte,Cincinnati Reds,0.0,0.9090909090909092,Y,0.3870967741935484,0,0.6,1,0.6,1
+4,4,B.Ober o5.0 strikeouts,Colby Conway,-110,1.0,1.9090909090909087,Minnesota Twins,B.Ober,Chicago White Sox,1.0,0.9090909090909092,Y,0.625,1,0.6,1,0.6,1
+5,5,A.Riley o1.0 total bases,Colby Conway,-110,1.0,1.9090909090909087,Atlanta Braves,A.Riley,Milwaukee Brewers,0.0,0.9090909090909092,N,0.3061224489795918,0,0.8,1,0.6,1
+6,6,Z.Gelof o0.5 Runs Scored,Thespinzone,139,0.1,0.239,Oakland Athletics,Z.Gelof,Houston Astros,1.0,0.1389999999999999,N,0.4444444444444444,0,0.4,0,0.4444444444444444,0
+7,7,K.Tucker o0.5 RBI,Thespinzone,130,0.1,0.2299999999999999,Houston Astros,K.Tucker,Oakland Athletics,0.0,0.1299999999999999,N,0.4081632653061224,0,0.4,0,0.5,0
+8,8,A.Bregman o0.5 RBI,Thespinzone,140,0.1,0.24,Houston Astros,A.Bregman,Oakland Athletics,0.0,0.1399999999999999,N,0.404040404040404,0,0.6,1,0.5,0
+9,9,J.Triolo o0.5 Runs Scored,Thespinzone,165,0.1,0.265,Pittsburgh Pirates,J.Triolo,Los Angeles Angels,0.0,0.165,N,0.4,0,0.2,0,0.3,0
+10,10,T.Cabbage o0.5 RBI,Thespinzone,250,0.1,0.35,Los Angeles Angels,T.Cabbage,Pittsburgh Pirates,1.0,0.25,N,0.25,0,0.2,0,0.25,0
+11,11,M.Moniak o0.5 RBI,Thespinzone,195,0.1,0.295,Los Angeles Angels,M.Moniak,Pittsburgh Pirates,1.0,0.195,N,0.425531914893617,0,0.6,1,0.4,0
+12,12,S.Ohtani o0.5 RBI,Thespinzone,175,0.1,0.275,Los Angeles Angels,S.Ohtani,Pittsburgh Pirates,1.0,0.175,Y,0.4795918367346938,0,0.4,0,0.6,1
+13,13,R.Adams o0.5 RBI,Thespinzone,200,0.1,0.3,Washington Nationals,R.Adams,San Francisco Giants,1.0,0.2,Y,0.2916666666666667,0,0.4,0,0.4,0
+14,14,L.Thomas o0.5 Runs Scored,Thespinzone,120,0.1,0.22,Washington Nationals,L.Thomas,San Francisco Giants,1.0,0.12,Y,0.5625,1,0.8,1,0.7,1
+15,15,L.Matos o0.5 Runs Scored,Thespinzone,120,0.1,0.22,San Francisco Giants,L.Matos,Washington Nationals,0.0,0.12,N,0.28125,0,0.0,0,0.2,0
+16,16,A.Slater o0.5 RBI,Thespinzone,225,0.1,0.325,San Francisco Giants,A.Slater,Washington Nationals,0.0,0.225,N,0.2195121951219512,0,0.2,0,0.2,0
+17,17,P.Bailey o0.5 RBI,Thespinzone,160,0.1,0.26,San Francisco Giants,P.Bailey,Washington Nationals,0.0,0.16,N,0.3541666666666667,0,0.0,0,0.2,0
+18,18,J.Naylor o0.5 RBI,Thespinzone,140,0.1,0.24,Cleveland Guardians,J.Naylor,Philadelphia Phillies,1.0,0.1399999999999999,N,0.4545454545454545,0,0.4,0,0.4,0
+19,19,T.Freeman o0.5 Runs Scored,Thespinzone,120,0.1,0.22,Cleveland Guardians,T.Freeman,Philadelphia Phillies,1.0,0.12,N,0.3235294117647059,0,0.2,0,0.3,0
+20,20,X.Curry o1.5 Ks,SBK5065,-105,0.53,1.0347619047619048,Cleveland Guardians,X.Curry,Philadelphia Phillies,1.0,0.5047619047619047,Y,0.48,0,0.8,1,0.6,1
+21,21,X.Curry o1.5 Ks,AnthonyDabbundo,105,1.5,3.075,Cleveland Guardians,X.Curry,Philadelphia Phillies,1.0,1.5749999999999995,Y,0.48,0,0.8,1,0.6,1
+22,22,X.Curry o1.5 Ks,SBK5065,110,0.5,1.05,Cleveland Guardians,X.Curry,Philadelphia Phillies,1.0,0.55,Y,0.48,0,0.8,1,0.6,1
+23,23,R.Grichuk o0.5 Runs Scored,Thespinzone,185,0.1,0.285,Colorado Rockies,R.Grichuk,Miami Marlins,0.0,0.185,Y,0.4827586206896552,0,0.6,1,0.6,1
+24,24,J.Soler o0.5 RBI,Thespinzone,145,0.1,0.245,Miami Marlins,J.Soler,Colorado Rockies,1.0,0.145,N,0.3298969072164948,0,0.4,0,0.3,0
+25,25,D.Myers o0.5 RBI,Thespinzone,185,0.1,0.285,Miami Marlins,D.Myers,Colorado Rockies,1.0,0.185,N,0.5,0,0.0,0,0.4,0
+26,26,M.McLain o0.5 Runs Scored,Thespinzone,105,0.1,0.205,Cincinnati Reds,M.McLain,Arizona Diamondbacks,1.0,0.1049999999999999,Y,0.5423728813559322,1,0.8,1,0.6,1
+27,27,B.Ober o5.5 Ks,SBK5065,-122,0.61,1.11,Minnesota Twins,B.Ober,Chicago White Sox,1.0,0.5000000000000001,Y,0.625,1,0.6,1,0.6,1
+28,28,F.Fermin o0.5 Runs Scored,Thespinzone,163,0.1,0.263,Kansas City Royals,F.Fermin,New York Yankees,0.0,0.163,Y,0.275,0,0.6,1,0.6,1
+29,29,K.Carpenter o0.5 RBI,Thespinzone,225,0.17,0.5525,Detroit Tigers,K.Carpenter,San Diego Padres,1.0,0.3824999999999999,Y,0.3035714285714285,0,0.4,0,0.5,0
+30,30,R.Greene o0.5 Runs Scored,Thespinzone,150,0.15,0.375,Detroit Tigers,R.Greene,San Diego Padres,1.0,0.225,Y,0.484375,0,0.6,1,0.5,0
 0,0,J.Meneses o0.5 RBI,Thespinzone,145,0.08,0.196,Washington Nationals,J.Meneses,Detroit Tigers,1.0,0.116,N,0.3255813953488372,0,0.2,0,0.5,0
 1,1,S.Torkelson o0.5 HR,charliedisturco,460,0.46,2.576,Detroit Tigers,S.Torkelson,Washington Nationals,0.0,2.116,Y,0.0952380952380952,0,0.2,0,0.1,0
 2,2,S.Torkelson o1.5 Total Bases,charliedisturco,100,0.5,1.0,Detroit Tigers,S.Torkelson,Washington Nationals,0.0,0.5,Y,0.2857142857142857,0,0.4,0,0.4,0
