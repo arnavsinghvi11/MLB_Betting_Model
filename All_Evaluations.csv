@@ -1604,6 +1604,26 @@
 20,20,M.Grove u4.5 strikeouts,Chris Landers,-135,1.0,1.7407407407407407,Los Angeles Dodgers,M.Grove,New York Yankees,1.0,0.7407407407407407,N,0.6,1,0.6,1,0.6,1
 21,21,A.Bregman o1.5 total bases,Chris Landers,120,1.0,2.2,Houston Astros,A.Bregman,Los Angeles Angels,1.0,1.2000000000000002,Y,0.3103448275862069,0,0.6,1,0.6,1
 22,22,D.Lynch o4.5 strikeouts,Colby Conway,-110,1.0,1.9090909090909087,Kansas City Royals,D.Lynch,Colorado Rockies,1.0,0.9090909090909088,Y,1.0,1,1.0,1,1.0,1
+0,0,J.Berrios o5.5 hits allowed,Chris Landers,-110,1.0,1.9090909090909087,Toronto Blue Jays,J.Berrios,Los Angeles Dodgers,0.0,0.9090909090909092,N,0.3809523809523809,0,0.2,0,0.3,0
+1,1,P.Corbin o5.5 strikeouts,Chris Landers,125,1.0,2.25,Washington Nationals,P.Corbin,Colorado Rockies,1.0,1.25,N,0.2857142857142857,0,0.6,1,0.3,0
+2,2,K.Maeda o5.5 strikeouts,Dan Servodidio,-110,1.0,1.9090909090909087,Minnesota Twins,K.Maeda,Seattle Mariners,1.0,0.9090909090909092,Y,0.6,1,0.8,1,0.6,1
+3,3,J.Meneses o0.5 RBI,Thespinzone,150,0.1,0.25,Washington Nationals,J.Meneses,Colorado Rockies,1.0,0.15,N,0.358695652173913,0,0.2,0,0.3,0
+4,4,R.Grichuk o0.5 Runs Scored,Thespinzone,115,0.11,0.2365,Colorado Rockies,R.Grichuk,Washington Nationals,0.0,0.1265,Y,0.4915254237288136,0,0.8,1,0.7,1
+5,5,P.Corbin u4.5 Ks,cowhitchurch,130,1.0,2.3,Washington Nationals,P.Corbin,Colorado Rockies,1.0,1.2999999999999998,N,0.6190476190476191,1,0.2,0,0.5,0
+6,6,J.Naylor o0.5 RBI,Thespinzone,135,0.1,0.235,Cleveland Guardians,J.Naylor,Kansas City Royals,1.0,0.135,N,0.449438202247191,0,0.2,0,0.4,0
+7,7,D.Fry o0.5 RBI,Thespinzone,175,0.1,0.275,Cleveland Guardians,D.Fry,Kansas City Royals,1.0,0.175,N,0.1944444444444444,0,0.4,0,0.3,0
+8,8,M.Garcia o0.5 Runs Scored,Thespinzone,120,0.11,0.242,Kansas City Royals,M.Garcia,Cleveland Guardians,0.0,0.132,Y,0.3529411764705882,0,0.4,0,0.2,0
+9,9,M.Ford o0.5 HR,Thespinzone,540,0.08,0.512,Seattle Mariners,M.Ford,Minnesota Twins,0.0,0.432,N,0.1707317073170731,0,0.4,0,0.2,0
+10,10,K.Maeda o5.5 Ks,cowhitchurch,-160,0.8,1.3,Minnesota Twins,K.Maeda,Seattle Mariners,1.0,0.5,Y,0.6,1,0.8,1,0.6,1
+11,11,K.Maeda o5.5 Ks,JoeDellera,-140,0.35,0.6,Minnesota Twins,K.Maeda,Seattle Mariners,1.0,0.25,Y,0.6,1,0.8,1,0.6,1
+12,12,N.Lowe o1.5 Total Bases,NicholaskMartin,125,1.0,2.25,Texas Rangers,N.Lowe,Houston Astros,0.0,1.25,N,0.45,0,0.6,1,0.5,0
+13,13,B.Belt o0.5 Hits,Noto,-162,1.62,2.62,Toronto Blue Jays,B.Belt,Los Angeles Dodgers,0.0,1.0,Y,0.6086956521739131,1,1.0,1,0.7,1
+14,14,N.Castellanos o0.5 RBI,Thespinzone,125,0.1,0.225,Philadelphia Phillies,N.Castellanos,Baltimore Orioles,1.0,0.125,Y,0.3775510204081632,0,0.4,0,0.4,0
+15,15,R.Mountcastle o0.5 RBI,Thespinzone,170,0.11,0.297,Baltimore Orioles,R.Mountcastle,Philadelphia Phillies,0.0,0.187,Y,0.3142857142857143,0,0.2,0,0.3,0
+16,16,R.Greene o0.5 Runs Scored,Thespinzone,105,0.12,0.2459999999999999,Detroit Tigers,R.Greene,San Francisco Giants,1.0,0.1259999999999999,Y,0.4923076923076923,0,0.6,1,0.6,1
+17,17,K.Carpenter o0.5 RBI,Thespinzone,180,0.18,0.504,Detroit Tigers,K.Carpenter,San Francisco Giants,1.0,0.324,Y,0.3157894736842105,0,0.6,1,0.6,1
+18,18,L.Matos o0.5 Runs Scored,Thespinzone,135,0.1,0.235,San Francisco Giants,L.Matos,Detroit Tigers,0.0,0.135,N,0.2727272727272727,0,0.0,0,0.1,0
+19,19,P.Bailey o0.5 RBI,Thespinzone,170,0.1,0.27,San Francisco Giants,P.Bailey,Detroit Tigers,0.0,0.17,N,0.3469387755102041,0,0.0,0,0.2,0
 0,0,A.Rizzo o0.5 HR,JoeDellera,650,0.1,0.75,New York Yankees,A.Rizzo,Boston Red Sox,1.0,0.65,N,0.1311475409836065,0,0.0,0,0.0,0
 1,1,A.Verdugo o1.5 Total Bases,MikeRandle,122,1.0,2.22,Boston Red Sox,A.Verdugo,New York Yankees,0.0,1.2199999999999998,N,0.4354838709677419,0,0.2,0,0.3,0
 2,2,G.Torres o0.5 Runs Scored,Thespinzone,115,0.11,0.2365,New York Yankees,G.Torres,Boston Red Sox,1.0,0.1265,N,0.4848484848484848,0,0.4,0,0.2,0
