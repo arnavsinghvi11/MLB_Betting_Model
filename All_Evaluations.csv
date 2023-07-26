@@ -2284,6 +2284,21 @@
 22,22,S.Ohtani u7.5 strikeouts,Teddy Ricketson,-130,1.0,1.7692307692307692,Los Angeles Angels,S.Ohtani,Houston Astros,0.0,0.7692307692307692,Y,0.4166666666666667,0,0.6,1,0.5,0
 23,23,F.Freeman o1.5 total bases,Dan Servodidio,-110,1.0,1.9090909090909087,Los Angeles Dodgers,F.Freeman,New York Yankees,1.0,0.9090909090909088,N,0.5,0,0.8,1,0.7,1
 24,24,M.Kelly o5.5 strikeouts,Dan Servodidio,-110,1.0,1.9090909090909087,Arizona Diamondbacks,M.Kelly,Atlanta Braves,1.0,0.9090909090909088,Y,0.5833333333333334,1,0.8,1,0.7,1
+0,0,A.Diaz o0.5 hits,Teddy Ricketson,-150,1.0,1.6666666666666663,Oakland Athletics,A.Diaz,San Francisco Giants,0.0,0.6666666666666665,Y,0.4864864864864865,0,0.4,0,0.5,0
+1,1,C.Carroll o0.5 hits,Teddy Ricketson,-235,1.0,1.425531914893617,Arizona Diamondbacks,C.Carroll,St. Louis Cardinals,1.0,0.4255319148936169,Y,0.6701030927835051,1,0.6,1,0.5,0
+2,2,C.Bellinger o1.0 hits+runs+rbi,Dan Servodidio,-110,1.0,1.9090909090909087,Chicago Cubs,C.Bellinger,Chicago White Sox,0.0,0.9090909090909092,N,0.6521739130434783,1,0.6,1,0.7,1
+3,3,D.German u6.0 strikeouts,Dan Servodidio,-110,1.0,1.9090909090909087,New York Yankees,D.German,New York Mets,1.0,0.9090909090909092,N,0.4736842105263157,0,0.2,0,0.5,0
+4,4,D.German u5.5 Ks,cowhitchurch,-112,0.56,1.06,New York Yankees,D.German,New York Mets,1.0,0.5,N,0.4736842105263157,0,0.2,0,0.5,0
+5,5,D.German u5.5 Ks,AnthonyDabbundo,-103,1.03,2.03,New York Yankees,D.German,New York Mets,1.0,1.0000000000000002,N,0.4736842105263157,0,0.2,0,0.5,0
+6,6,J.Verlander u6.5 Ks,PropBetGuy,-140,1.4,2.4,New York Mets,J.Verlander,New York Yankees,0.0,1.0,Y,0.8,1,0.8,1,0.8,1
+7,7,L.Rengifo o0.5 RBI,Thespinzone,225,0.1,0.325,Los Angeles Angels,L.Rengifo,Detroit Tigers,0.0,0.225,Y,0.2209302325581395,0,0.6,1,0.4,0
+8,8,K.Hendricks o4.5 Ks,cowhitchurch,132,0.5,1.16,Chicago Cubs,K.Hendricks,Chicago White Sox,0.0,0.6600000000000001,N,0.4166666666666667,0,0.8,1,0.4,0
+9,9,M.Machado o1.5 Total Bases,JoeDellera,112,0.25,0.53,San Diego Padres,M.Machado,Pittsburgh Pirates,1.0,0.28,N,0.2441860465116279,0,0.0,0,0.2,0
+10,10,M.Machado o0.5 HR,JoeDellera,360,0.1,0.4599999999999999,San Diego Padres,M.Machado,Pittsburgh Pirates,1.0,0.36,Y,0.1511627906976744,0,0.2,0,0.2,0
+11,11,B.Snell o7.5 Ks,JoeDellera,-140,0.35,0.6,San Diego Padres,B.Snell,Pittsburgh Pirates,1.0,0.25,N,0.3333333333333333,0,0.2,0,0.6,1
+12,12,T.Glasnow o8.5 Ks,Noto,104,1.0,2.04,Tampa Bay Rays,T.Glasnow,Miami Marlins,1.0,1.04,N,0.2727272727272727,0,0.4,0,0.3,0
+13,13,T.Walker o4.5 Ks,PropBetGuy,-118,1.18,2.18,Philadelphia Phillies,T.Walker,Baltimore Orioles,1.0,0.9999999999999998,N,0.5714285714285714,1,0.6,1,0.7,1
+14,14,J.France u4.5 Ks,PropBetGuy,122,1.0,2.22,Houston Astros,J.France,Texas Rangers,1.0,1.2199999999999998,Y,0.6428571428571429,1,0.8,1,0.7,1
 0,0,L.Taveras o0.5 Runs Scored,Thespinzone,145,0.08,0.196,Texas Rangers,L.Taveras,Oakland Athletics,0.0,0.116,N,0.4230769230769231,0,0.0,0,0.4,0
 1,1,J.Bleday o0.5 Runs Scored,Thespinzone,155,0.06,0.153,Oakland Athletics,J.Bleday,Texas Rangers,1.0,0.093,N,0.5454545454545454,1,0.6,1,0.6,1
 2,3,J.Jung o0.5 RBI,Thespinzone,180,0.08,0.2239999999999999,Texas Rangers,J.Jung,Oakland Athletics,0.0,0.1439999999999999,N,0.2972972972972973,0,0.0,0,0.2,0
