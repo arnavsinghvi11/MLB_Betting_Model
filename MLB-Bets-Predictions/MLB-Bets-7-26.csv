@@ -2,30 +2,35 @@
 0,B.Miller o5.5 strikeouts,Chris Landers,+100,1,2.0,1.0,B.Miller,Texas Rangers,Houston Astros,0.0
 2,C.Bellinger o1.0 hits+runs+rbi,Dan Servodidio,-110,1.0,1.9090909090909092,0.9090909090909092,C.Bellinger,Chicago Cubs,Chicago White Sox,0.0
 4,A.Heaney u4.5 Ks,jimsannes,+126,0.9,2.034,1.134,A.Heaney,Texas Rangers,Houston Astros,0.0
-10,S.Strider u8.5 Ks,AnthonyDabbundo,-115,1.15,2.1499999999999995,0.9999999999999996,S.Strider,Atlanta Braves,Boston Red Sox,0.0
-12,L.Nootbaar o0.5 Runs Scored,Thespinzone,+130,0.1,0.22999999999999998,0.12999999999999998,L.Nootbaar,St. Louis Cardinals,Arizona Diamondbacks,0.0
-13,E.Rivera o0.5 Runs Scored,Thespinzone,+145,0.1,0.24500000000000002,0.14500000000000002,E.Rivera,Arizona Diamondbacks,St. Louis Cardinals,1.0
-14,C.Carroll o0.5 RBI,Thespinzone,+150,0.1,0.25,0.15,C.Carroll,Arizona Diamondbacks,St. Louis Cardinals,1.0
-15,P.Goldschmidt o0.5 Runs Scored,Thespinzone,+100,0.13,0.26,0.13,P.Goldschmidt,St. Louis Cardinals,Arizona Diamondbacks,0.0
-16,B.Donovan o0.5 Runs Scored,Thespinzone,+110,0.11,0.231,0.12100000000000001,B.Donovan,St. Louis Cardinals,Arizona Diamondbacks,0.0
-17,D.Canzone o1.5 Total Bases,NicholaskMartin,+150,0.5,1.25,0.75,D.Canzone,Arizona Diamondbacks,St. Louis Cardinals,1.0
-18,Z.Gallen o2.5 Earned Runs,NicholaskMartin,+105,0.5,1.025,0.5249999999999999,Z.Gallen,Arizona Diamondbacks,St. Louis Cardinals,1.0
-20,S.Frelick o0.5 HR,Thespinzone,+637,0.08,0.5896,0.5096,S.Frelick,Milwaukee Brewers,Cincinnati Reds,1.0
-21,J.Fraley o0.5 RBI,Thespinzone,+175,0.1,0.275,0.17500000000000002,J.Fraley,Cincinnati Reds,Milwaukee Brewers,0.0
-22,M.McLain o0.5 Runs Scored,Thespinzone,+128,0.1,0.22800000000000004,0.12800000000000003,M.McLain,Cincinnati Reds,Milwaukee Brewers,0.0
-23,S.Frelick o0.5 Runs Scored,Thespinzone,+127,0.1,0.227,0.127,S.Frelick,Milwaukee Brewers,Cincinnati Reds,1.0
-24,J.Naylor o0.5 HR,Thespinzone,+400,0.08,0.4,0.32,J.Naylor,Cleveland Guardians,Kansas City Royals,1.0
-25,F.Fermin o0.5 RBI,Thespinzone,+190,0.1,0.29,0.18999999999999997,F.Fermin,Kansas City Royals,Cleveland Guardians,0.0
-26,J.Naylor o0.5 RBI,Thespinzone,+100,0.11,0.22,0.11,J.Naylor,Cleveland Guardians,Kansas City Royals,1.0
-27,T.Freeman o0.5 Runs Scored,Thespinzone,+125,0.1,0.225,0.125,T.Freeman,Cleveland Guardians,Kansas City Royals,1.0
-28,J.Irvin u5.5 Ks,Thespinzone,+120,0.1,0.22000000000000003,0.12000000000000002,J.Irvin,Washington Nationals,Colorado Rockies,1.0
-29,J.Meneses o0.5 RBI,Thespinzone,+170,0.1,0.27,0.17,J.Meneses,Washington Nationals,Colorado Rockies,1.0
-30,L.Thomas o0.5 Runs Scored,Thespinzone,-105,0.1,0.19523809523809524,0.09523809523809523,L.Thomas,Washington Nationals,Colorado Rockies,1.0
-31,N.Jones o0.5 Runs Scored,Thespinzone,+110,0.11,0.231,0.12100000000000001,N.Jones,Colorado Rockies,Washington Nationals,0.0
-33,C.Marlowe u0.5 Hits,SBK5065,+160,0.8,2.08,1.28,C.Marlowe,Seattle Mariners,Minnesota Twins,0.0
-34,M.Ford o0.5 HR,Thespinzone,+390,0.08,0.392,0.312,M.Ford,Seattle Mariners,Minnesota Twins,0.0
-35,M.Ford o0.5 RBI,Thespinzone,+175,0.1,0.275,0.17500000000000002,M.Ford,Seattle Mariners,Minnesota Twins,0.0
-36,E.Julien o0.5 Runs Scored,Thespinzone,+104,0.11,0.22440000000000002,0.11440000000000002,E.Julien,Minnesota Twins,Seattle Mariners,1.0
-40,Z.Eflin o5.5 Ks,Thespinzone,-105,0.1,0.19523809523809524,0.09523809523809523,Z.Eflin,Tampa Bay Rays,Miami Marlins,1.0
-41,J.Sanchez o0.5 RBI,Thespinzone,+210,0.1,0.31000000000000005,0.21000000000000005,J.Sanchez,Miami Marlins,Tampa Bay Rays,0.0
-42,J.Lowe o0.5 RBI,Thespinzone,+210,0.1,0.31000000000000005,0.21000000000000005,J.Lowe,Tampa Bay Rays,Miami Marlins,1.0
+6,A.Verdugo o0.5 Runs Scored,Thespinzone,+155,0.1,0.255,0.155,A.Verdugo,Boston Red Sox,Atlanta Braves,1.0
+7,J.Turner o0.5 RBI,Thespinzone,+190,0.1,0.29,0.18999999999999997,J.Turner,Boston Red Sox,Atlanta Braves,1.0
+8,S.Strider u8.5 Ks,AnthonyDabbundo,-115,1.15,2.1499999999999995,0.9999999999999996,S.Strider,Atlanta Braves,Boston Red Sox,0.0
+12,G.Stanton o0.5 Runs Scored,Thespinzone,+100,0.1,0.2,0.1,G.Stanton,New York Yankees,New York Mets,1.0
+13,H.Bader o0.5 RBI,Thespinzone,+185,0.1,0.28500000000000003,0.18500000000000003,H.Bader,New York Yankees,New York Mets,1.0
+14,G.Stanton o0.5 HR,Thespinzone,+310,0.08,0.32799999999999996,0.24799999999999994,G.Stanton,New York Yankees,New York Mets,1.0
+15,L.Nootbaar o0.5 Runs Scored,Thespinzone,+130,0.1,0.22999999999999998,0.12999999999999998,L.Nootbaar,St. Louis Cardinals,Arizona Diamondbacks,0.0
+16,C.Carroll o0.5 RBI,Thespinzone,+150,0.1,0.25,0.15,C.Carroll,Arizona Diamondbacks,St. Louis Cardinals,1.0
+17,E.Rivera o0.5 Runs Scored,Thespinzone,+145,0.1,0.24500000000000002,0.14500000000000002,E.Rivera,Arizona Diamondbacks,St. Louis Cardinals,1.0
+18,B.Donovan o0.5 Runs Scored,Thespinzone,+110,0.11,0.231,0.12100000000000001,B.Donovan,St. Louis Cardinals,Arizona Diamondbacks,0.0
+19,P.Goldschmidt o0.5 Runs Scored,Thespinzone,+100,0.13,0.26,0.13,P.Goldschmidt,St. Louis Cardinals,Arizona Diamondbacks,0.0
+20,D.Canzone o1.5 Total Bases,NicholaskMartin,+150,0.5,1.25,0.75,D.Canzone,Arizona Diamondbacks,St. Louis Cardinals,1.0
+21,Z.Gallen o2.5 Earned Runs,NicholaskMartin,+105,0.5,1.025,0.5249999999999999,Z.Gallen,Arizona Diamondbacks,St. Louis Cardinals,1.0
+23,J.Irvin u5.5 Ks,Thespinzone,+120,0.1,0.22000000000000003,0.12000000000000002,J.Irvin,Washington Nationals,Colorado Rockies,1.0
+24,J.Meneses o0.5 RBI,Thespinzone,+170,0.1,0.27,0.17,J.Meneses,Washington Nationals,Colorado Rockies,1.0
+25,L.Thomas o0.5 Runs Scored,Thespinzone,-105,0.1,0.19523809523809524,0.09523809523809523,L.Thomas,Washington Nationals,Colorado Rockies,1.0
+26,N.Jones o0.5 Runs Scored,Thespinzone,+110,0.11,0.231,0.12100000000000001,N.Jones,Colorado Rockies,Washington Nationals,0.0
+28,C.Marlowe u0.5 Hits,SBK5065,+160,0.8,2.08,1.28,C.Marlowe,Seattle Mariners,Minnesota Twins,0.0
+29,M.Ford o0.5 HR,Thespinzone,+390,0.08,0.392,0.312,M.Ford,Seattle Mariners,Minnesota Twins,0.0
+30,M.Ford o0.5 RBI,Thespinzone,+175,0.1,0.275,0.17500000000000002,M.Ford,Seattle Mariners,Minnesota Twins,0.0
+31,E.Julien o0.5 Runs Scored,Thespinzone,+104,0.11,0.22440000000000002,0.11440000000000002,E.Julien,Minnesota Twins,Seattle Mariners,1.0
+35,Z.Eflin o5.5 Ks,Thespinzone,-105,0.1,0.19523809523809524,0.09523809523809523,Z.Eflin,Tampa Bay Rays,Miami Marlins,1.0
+36,J.Sanchez o0.5 RBI,Thespinzone,+210,0.1,0.31000000000000005,0.21000000000000005,J.Sanchez,Miami Marlins,Tampa Bay Rays,0.0
+37,J.Lowe o0.5 RBI,Thespinzone,+210,0.1,0.31000000000000005,0.21000000000000005,J.Lowe,Tampa Bay Rays,Miami Marlins,1.0
+38,S.Frelick o0.5 HR,Thespinzone,+637,0.08,0.5896,0.5096,S.Frelick,Milwaukee Brewers,Cincinnati Reds,1.0
+39,J.Fraley o0.5 RBI,Thespinzone,+175,0.1,0.275,0.17500000000000002,J.Fraley,Cincinnati Reds,Milwaukee Brewers,0.0
+40,M.McLain o0.5 Runs Scored,Thespinzone,+128,0.1,0.22800000000000004,0.12800000000000003,M.McLain,Cincinnati Reds,Milwaukee Brewers,0.0
+41,S.Frelick o0.5 Runs Scored,Thespinzone,+127,0.13,0.29510000000000003,0.16510000000000002,S.Frelick,Milwaukee Brewers,Cincinnati Reds,1.0
+42,J.Naylor o0.5 HR,Thespinzone,+400,0.08,0.4,0.32,J.Naylor,Cleveland Guardians,Kansas City Royals,1.0
+43,F.Fermin o0.5 RBI,Thespinzone,+190,0.1,0.29,0.18999999999999997,F.Fermin,Kansas City Royals,Cleveland Guardians,0.0
+44,J.Naylor o0.5 RBI,Thespinzone,+100,0.11,0.22,0.11,J.Naylor,Cleveland Guardians,Kansas City Royals,1.0
+45,T.Freeman o0.5 Runs Scored,Thespinzone,+125,0.13,0.2925,0.16249999999999998,T.Freeman,Cleveland Guardians,Kansas City Royals,1.0
