@@ -213,9 +213,10 @@ class Bets:
             match_value = match.group()
             letter = match_value[0]
             number = float(match_value[1:])
-            if letter == 'o':
+            print(str(number)[-1:])
+            if letter == 'o' and str(number)[-1:] != '5':
                 number -= 0.5
-            elif letter == 'u':
+            elif letter == 'u' and str(number)[-1:] != '5':
                 number += 0.5
             return re.sub(r'[ou]\s?\d+\.?\d* ', f'{letter}{number} ', value)
         return value
@@ -249,11 +250,14 @@ class Bets:
             df['Props'] = df['Props'].str.replace('OVER', 'o').str.replace('UNDER', 'u')
             df['Props'] = df['Props'].str.replace('MORE than', 'o').str.replace('LESS than', 'u')
             df['Props'] = df['Props'].apply(self.convert_value)
+            print(df['Props'])
             df['First Initial'] = df['Props'].str.split().str[:1].str.join(' ').str.replace('[,.]', '').str[:1].str.capitalize() + '.'
             df['Last Name'] = df['Props'].str.split().str[1:2].str.join(' ').str.replace('[,.]', '').str.capitalize()
             df['Name'] = df['First Initial'] + df['Last Name'] 
             df['Prop Num'] = df['Props'].str.split().str[2:3].str.join(' ')
             df['Prop Type'] = df['Props'].str.extract(r'(\w+(?:\+\w+)*)$')
+            print('this is prop type')
+            print(df['Prop Type'])
             df['Prop Type'] = df['Prop Type'].apply(lambda x: re.sub(r'\bBases\b', 'Total Bases', x)).str.lower()
             df['Odds'] = -110
             df['Units'] = 1
