@@ -908,6 +908,17 @@
 33,33,G.Springer o1.5 total bases,Chris Landers,130,1.0,2.3,Toronto Blue Jays,G.Springer,Tampa Bay Rays,0.0,1.2999999999999998,N,0.2916666666666667,0,0.6,1,0.5,0
 34,34,A.Judge o1.5 total bases,Dan Servodidio,-110,1.0,1.9090909090909087,New York Yankees,A.Judge,Baltimore Orioles,1.0,0.9090909090909088,N,0.45,0,0.8,1,0.6,1
 35,35,J.Turner o1.5 total bases,Dan Servodidio,-110,1.0,1.9090909090909087,Boston Red Sox,J.Turner,Los Angeles Angels,0.0,0.9090909090909088,N,0.3333333333333333,0,0.2,0,0.3,0
+0,0,G.Arias o0.5 hits,Teddy Ricketson,-120,1.0,1.8333333333333333,Cleveland Guardians,G.Arias,Chicago White Sox,0.0,0.8333333333333335,Y,0.3066666666666666,0,0.4,0,0.2,0
+1,1,K.Senga o5.5 strikeouts,Teddy Ricketson,-175,1.0,1.5714285714285714,New York Mets,K.Senga,Washington Nationals,1.0,0.5714285714285714,N,0.7777777777777778,1,0.8,1,0.8,1
+2,2,D.Swanson o0.5 hits,Teddy Ricketson,-275,1.0,1.3636363636363638,Chicago Cubs,D.Swanson,St. Louis Cardinals,0.0,0.3636363636363637,Y,0.625,1,0.8,1,0.6,1
+3,3,N.Hoerner o1.0 total bases,Dan Servodidio,-110,1.0,1.9090909090909087,Chicago Cubs,N.Hoerner,St. Louis Cardinals,0.0,0.9090909090909092,Y,0.4574468085106383,0,1.0,1,0.7,1
+4,4,R.Greene o0.5 HR,charliedisturco,650,0.1,0.75,Detroit Tigers,R.Greene,Los Angeles Angels,1.0,0.65,N,0.0895522388059701,0,0.0,0,0.1,0
+5,5,R.Greene o1.5 Total Bases,charliedisturco,150,0.5,1.25,Detroit Tigers,R.Greene,Los Angeles Angels,1.0,0.75,N,0.417910447761194,0,0.6,1,0.5,0
+6,6,K.Carpenter o0.5 HR,Thespinzone,650,0.08,0.6,Detroit Tigers,K.Carpenter,Los Angeles Angels,1.0,0.52,N,0.1166666666666666,0,0.0,0,0.0,0
+7,7,R.Greene o0.5 Runs Scored,Thespinzone,130,0.11,0.253,Detroit Tigers,R.Greene,Los Angeles Angels,1.0,0.143,N,0.4925373134328358,0,0.6,1,0.6,1
+8,8,K.Carpenter o0.5 RBI,Thespinzone,210,0.1,0.31,Detroit Tigers,K.Carpenter,Los Angeles Angels,1.0,0.21,Y,0.3166666666666666,0,0.6,1,0.5,0
+9,9,M.Moniak o0.5 RBI,Thespinzone,170,0.1,0.27,Los Angeles Angels,M.Moniak,Detroit Tigers,0.0,0.17,N,0.42,0,0.2,0,0.4,0
+10,10,S.Ohtani o0.5 RBI,Thespinzone,200,0.1,0.3,Los Angeles Angels,S.Ohtani,Detroit Tigers,0.0,0.2,Y,0.48,0,0.4,0,0.6,1
 0,0,K.Kiermaier o0.5 Runs Scored,Thespinzone,175,0.1,0.275,Toronto Blue Jays,K.Kiermaier,Baltimore Orioles,0.0,0.175,N,0.4210526315789473,0,0.4,0,0.4,0
 1,1,A.Hays o0.5 Runs Scored,Thespinzone,-105,0.1,0.1952380952380952,Baltimore Orioles,A.Hays,Toronto Blue Jays,1.0,0.0952380952380952,Y,0.3870967741935484,0,0.4,0,0.5,0
 2,2,A.Santander o0.5 Runs Scored,Thespinzone,110,0.12,0.252,Baltimore Orioles,A.Santander,Toronto Blue Jays,1.0,0.132,Y,0.390625,0,0.6,1,0.4,0
