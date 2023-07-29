@@ -1,21 +1,25 @@
 ,Play,Expert,Odds,Units,Payout,Profit,Name,Team,Opponent,Hmcrt_adv
-0,M.Vierling o0.5 Runs Scored,Thespinzone,+132,0.1,0.23200000000000004,0.13200000000000003,M.Vierling,Detroit Tigers,Miami Marlins,0.0
-3,Z.Wheeler o6.5 Ks,cowhitchurch,-150,0.75,1.25,0.5,Z.Wheeler,Philadelphia Phillies,Pittsburgh Pirates,0.0
-4,H.Davis o0.5 Runs Scored,Thespinzone,+170,0.1,0.27,0.17,H.Davis,Pittsburgh Pirates,Philadelphia Phillies,1.0
-5,N.Castellanos o0.5 RBI,Thespinzone,+135,0.1,0.23500000000000001,0.135,N.Castellanos,Philadelphia Phillies,Pittsburgh Pirates,0.0
-7,B.Harper o0.5 Runs Scored,Thespinzone,+100,0.11,0.22,0.11,B.Harper,Philadelphia Phillies,Pittsburgh Pirates,0.0
-9,Z.Wheeler o6.5 Ks,JoeDellera,-145,0.4,0.6758620689655173,0.27586206896551724,Z.Wheeler,Philadelphia Phillies,Pittsburgh Pirates,0.0
-13,A.Santander o0.5 RBI,Thespinzone,+160,0.1,0.26,0.16,A.Santander,Baltimore Orioles,New York Yankees,1.0
-16,S.Ohtani o0.5 RBI,Thespinzone,+175,0.1,0.275,0.17500000000000002,S.Ohtani,Los Angeles Angels,Toronto Blue Jays,0.0
-17,M.Moniak o0.5 RBI,Thespinzone,+200,0.1,0.30000000000000004,0.20000000000000004,M.Moniak,Los Angeles Angels,Toronto Blue Jays,0.0
-19,K.Gausman o7.5 Ks,JoeDellera,-137,0.5,0.864963503649635,0.36496350364963503,K.Gausman,Toronto Blue Jays,Los Angeles Angels,1.0
-21,J.Candelario o0.5 RBI,Thespinzone,+200,0.1,0.30000000000000004,0.20000000000000004,J.Candelario,Washington Nationals,New York Mets,0.0
-22,L.Thomas o0.5 Runs Scored,Thespinzone,+150,0.1,0.25,0.15,L.Thomas,Washington Nationals,New York Mets,0.0
-23,C.Abrams o0.5 Runs Scored,Thespinzone,+125,0.1,0.225,0.125,C.Abrams,Washington Nationals,New York Mets,0.0
-25,P.Alonso o0.5 RBI,charliedisturco,+145,0.5,1.225,0.7250000000000001,P.Alonso,New York Mets,Washington Nationals,1.0
-26,L.Webb o5.5 Ks,cowhitchurch,-105,0.53,1.0347619047619048,0.5047619047619047,L.Webb,San Francisco Giants,Boston Red Sox,1.0
-28,B.Miller u6.5 Ks,cowhitchurch,-125,0.63,1.1340000000000001,0.5040000000000001,B.Miller,Seattle Mariners,Arizona Diamondbacks,0.0
-29,B.Miller u6.5 Ks,PropBetGuy,-116,1.16,2.1599999999999997,0.9999999999999998,B.Miller,Seattle Mariners,Arizona Diamondbacks,0.0
-30,A.Houser o3.5 Ks,JoeDellera,-108,0.4,0.7703703703703705,0.37037037037037046,A.Houser,Milwaukee Brewers,Atlanta Braves,0.0
-31,E.Julien o1.5 Total Bases,charliedisturco,+120,0.5,1.1,0.6000000000000001,E.Julien,Minnesota Twins,Kansas City Royals,0.0
-32,E.Julien o0.5 HR,charliedisturco,+550,0.1,0.65,0.55,E.Julien,Minnesota Twins,Kansas City Royals,0.0
+0,M.Vierling o0.5 Runs Scored,Thespinzone,132,0.1,0.232,0.132,M.Vierling,Detroit Tigers,Miami Marlins,0
+3,Z.Wheeler o6.5 Ks,cowhitchurch,-150,0.75,1.25,0.5,Z.Wheeler,Philadelphia Phillies,Pittsburgh Pirates,0
+4,H.Davis o0.5 Runs Scored,Thespinzone,170,0.1,0.27,0.17,H.Davis,Pittsburgh Pirates,Philadelphia Phillies,1
+5,N.Castellanos o0.5 RBI,Thespinzone,135,0.1,0.235,0.135,N.Castellanos,Philadelphia Phillies,Pittsburgh Pirates,0
+7,B.Harper o0.5 Runs Scored,Thespinzone,100,0.11,0.22,0.11,B.Harper,Philadelphia Phillies,Pittsburgh Pirates,0
+9,Z.Wheeler o6.5 Ks,JoeDellera,-145,0.4,0.675862069,0.275862069,Z.Wheeler,Philadelphia Phillies,Pittsburgh Pirates,0
+13,A.Santander o0.5 RBI,Thespinzone,160,0.1,0.26,0.16,A.Santander,Baltimore Orioles,New York Yankees,1
+16,S.Ohtani o0.5 RBI,Thespinzone,175,0.1,0.275,0.175,S.Ohtani,Los Angeles Angels,Toronto Blue Jays,0
+17,M.Moniak o0.5 RBI,Thespinzone,200,0.1,0.3,0.2,M.Moniak,Los Angeles Angels,Toronto Blue Jays,0
+19,K.Gausman o7.5 Ks,JoeDellera,-137,0.5,0.864963504,0.364963504,K.Gausman,Toronto Blue Jays,Los Angeles Angels,1
+21,J.Candelario o0.5 RBI,Thespinzone,200,0.1,0.3,0.2,J.Candelario,Washington Nationals,New York Mets,0
+22,L.Thomas o0.5 Runs Scored,Thespinzone,150,0.1,0.25,0.15,L.Thomas,Washington Nationals,New York Mets,0
+23,C.Abrams o0.5 Runs Scored,Thespinzone,125,0.1,0.225,0.125,C.Abrams,Washington Nationals,New York Mets,0
+25,P.Alonso o0.5 RBI,charliedisturco,145,0.5,1.225,0.725,P.Alonso,New York Mets,Washington Nationals,1
+26,L.Webb o5.5 Ks,cowhitchurch,-105,0.53,1.034761905,0.504761905,L.Webb,San Francisco Giants,Boston Red Sox,1
+28,B.Miller u6.5 Ks,cowhitchurch,-125,0.63,1.134,0.504,B.Miller,Los Angeles Dodgers,Cincinnati Reds,1
+29,B.Miller u6.5 Ks,PropBetGuy,-116,1.16,2.16,1,B.Miller,Los Angeles Dodgers,Cincinnati Reds,1
+30,A.Houser o3.5 Ks,JoeDellera,-108,0.4,0.77037037,0.37037037,A.Houser,Milwaukee Brewers,Atlanta Braves,0
+31,E.Julien o1.5 Total Bases,charliedisturco,120,0.5,1.1,0.6,E.Julien,Minnesota Twins,Kansas City Royals,0
+32,E.Julien o0.5 HR,charliedisturco,550,0.1,0.65,0.55,E.Julien,Minnesota Twins,Kansas City Royals,0
+33,L.Gilbert o5.5 strikeouts,DKNetworkStaff,130,1,2.3,1.3,L.Gilbert,Seattle Mariners,Arizona Diamondbacks,0
+34,A.Duvall o0.5 hits,DKNetworkStaff,-210,1,1.476190476,0.476190476,A.Duvall,Boston Red Sox,San Francisco Giants,0
+35,G.Cole u2.5 Earned Runs Allowed,Dan Servodidio,-110,1,1.909090909,0.909090909,G.Cole,New York Yankees,Baltimore Orioles,0
+36,D.Dunning o2.5 Earned Runs Allowed,Dan Servodidio,-110,1,1.909090909,0.909090909,D.Dunning,Texas Rangers,San Diego Padres,0
