@@ -96,6 +96,12 @@ class Bets:
             multiplier = (-100 / int(odds)) + 1
         return float(multiplier * units)
 
+    def extract_prop_type(self, props):
+        match = re.search(r'\b(\w+(?: \w+)*) (?:o|u)\d+(?:\.\d+)? (\w+(?: \w+)*)\b', props)
+        if match:
+            return match.group(2)
+        return None
+
     def draftkings_scrape_player_prop_bets(self, url):
         page = requests.get(url)
         soup = BeautifulSoup(page.content, "html.parser")
@@ -250,15 +256,11 @@ class Bets:
             df['Props'] = df['Props'].str.replace('OVER', 'o').str.replace('UNDER', 'u')
             df['Props'] = df['Props'].str.replace('MORE than', 'o').str.replace('LESS than', 'u')
             df['Props'] = df['Props'].apply(self.convert_value)
-            print(df['Props'])
             df['First Initial'] = df['Props'].str.split().str[:1].str.join(' ').str.replace('[,.]', '').str[:1].str.capitalize() + '.'
             df['Last Name'] = df['Props'].str.split().str[1:2].str.join(' ').str.replace('[,.]', '').str.capitalize()
             df['Name'] = df['First Initial'] + df['Last Name'] 
             df['Prop Num'] = df['Props'].str.split().str[2:3].str.join(' ')
-            df['Prop Type'] = df['Props'].str.extract(r'(\w+(?:\+\w+)*)$')
-            print('this is prop type')
-            print(df['Prop Type'])
-            df['Prop Type'] = df['Prop Type'].apply(lambda x: re.sub(r'\bBases\b', 'Total Bases', x)).str.lower()
+            df['Prop Type'] = df['Props'].apply(self.extract_prop_type)
             df['Odds'] = -110
             df['Units'] = 1
             df = df.dropna()
