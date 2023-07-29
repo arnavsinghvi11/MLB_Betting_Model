@@ -5,15 +5,23 @@
 3,L.Weaver o4.5 Hits Allowed,Colby Conway,-110,1.0,1.9090909090909092,0.9090909090909092,L.Weaver,Cincinnati Reds,Los Angeles Dodgers,0
 4,B.Ober o4.5 Strikeouts,Colby Conway,-110,1.0,1.9090909090909092,0.9090909090909092,B.Ober,Minnesota Twins,Kansas City Royals,0
 5,P.Alonso o1.5 Total Bases,Colby Conway,-110,1.0,1.9090909090909092,0.9090909090909092,P.Alonso,New York Mets,Washington Nationals,1
-6,S.Ohtani o0.5 HR,Thespinzone,+285,0.08,0.308,0.22799999999999998,S.Ohtani,Los Angeles Angels,Toronto Blue Jays,0
-7,S.Ohtani o0.5 RBI,Thespinzone,+150,0.1,0.25,0.15,S.Ohtani,Los Angeles Angels,Toronto Blue Jays,0
-8,M.Moniak o0.5 RBI,Thespinzone,+165,0.1,0.265,0.165,M.Moniak,Los Angeles Angels,Toronto Blue Jays,0
-9,M.Chapman o0.5 RBI,Thespinzone,+145,0.1,0.24500000000000002,0.14500000000000002,M.Chapman,Toronto Blue Jays,Los Angeles Angels,1
-10,A.Manoah u4.5 Ks,Thespinzone,+150,0.08,0.2,0.12000000000000001,A.Manoah,Toronto Blue Jays,Los Angeles Angels,1
-13,A.Manoah u5.5 Ks,SBK5065,-130,0.65,1.15,0.4999999999999999,A.Manoah,Toronto Blue Jays,Los Angeles Angels,1
-14,A.Manoah u5.5 Ks,The_Oddsmaker,-120,1.2,2.2,1.0000000000000002,A.Manoah,Toronto Blue Jays,Los Angeles Angels,1
-15,A.Manoah o5.5 Ks,JoeDellera,-110,0.5,0.9545454545454546,0.4545454545454546,A.Manoah,Toronto Blue Jays,Los Angeles Angels,1
-17,J.Cueto u4.5 Ks,SBK5065,-105,0.53,1.0347619047619048,0.5047619047619047,J.Cueto,Miami Marlins,Detroit Tigers,1
-18,J.Cueto u4.5 Ks,The_Oddsmaker,-104,1.04,2.04,1.0,J.Cueto,Miami Marlins,Detroit Tigers,1
-19,A.Nola o6.5 Ks,JoeDellera,-130,0.5,0.8846153846153846,0.3846153846153846,A.Nola,Philadelphia Phillies,Pittsburgh Pirates,0
-20,A.Nola o6.5 Ks,AnthonyDabbundo,-122,1.22,2.22,1.0000000000000002,A.Nola,Philadelphia Phillies,Pittsburgh Pirates,0
+6,A.Nola o6.5 Ks,cowhitchurch,-130,0.65,1.15,0.4999999999999999,A.Nola,Philadelphia Phillies,Pittsburgh Pirates,0
+8,A.Nola o6.5 Ks,JoeDellera,-130,0.5,0.8846153846153846,0.3846153846153846,A.Nola,Philadelphia Phillies,Pittsburgh Pirates,0
+9,A.Nola o6.5 Ks,AnthonyDabbundo,-122,1.22,2.22,1.0000000000000002,A.Nola,Philadelphia Phillies,Pittsburgh Pirates,0
+12,B.Woo o4.5 Ks,The_Oddsmaker,-140,1.4,2.4,1.0,B.Woo,Seattle Mariners,Arizona Diamondbacks,0
+17,B.Ober o5.5 Ks,cowhitchurch,+118,0.5,1.0899999999999999,0.5899999999999999,B.Ober,Minnesota Twins,Kansas City Royals,0
+19,R.Greene o0.5 Runs Scored,Thespinzone,+110,0.1,0.21000000000000002,0.11000000000000001,R.Greene,Detroit Tigers,Miami Marlins,0
+20,K.Carpenter o0.5 RBI,Thespinzone,+163,0.1,0.263,0.163,K.Carpenter,Detroit Tigers,Miami Marlins,0
+21,J.Cueto u4.5 Ks,SBK5065,-105,0.53,1.0347619047619048,0.5047619047619047,J.Cueto,Miami Marlins,Detroit Tigers,1
+22,J.Cueto u4.5 Ks,The_Oddsmaker,-104,1.04,2.04,1.0,J.Cueto,Miami Marlins,Detroit Tigers,1
+23,J.Candelario o0.5 HR,Thespinzone,+560,0.08,0.528,0.448,J.Candelario,Washington Nationals,New York Mets,0
+24,J.Candelario o0.5 RBI,Thespinzone,+175,0.1,0.275,0.17500000000000002,J.Candelario,Washington Nationals,New York Mets,0
+25,L.Thomas o0.5 Runs Scored,Thespinzone,+110,0.1,0.21000000000000002,0.11000000000000001,L.Thomas,Washington Nationals,New York Mets,0
+26,M.Moniak o0.5 RBI,Thespinzone,+165,0.1,0.265,0.165,M.Moniak,Los Angeles Angels,Toronto Blue Jays,0
+27,M.Chapman o0.5 RBI,Thespinzone,+145,0.1,0.24500000000000002,0.14500000000000002,M.Chapman,Toronto Blue Jays,Los Angeles Angels,1
+28,A.Manoah u4.5 Ks,Thespinzone,+150,0.08,0.2,0.12000000000000001,A.Manoah,Toronto Blue Jays,Los Angeles Angels,1
+30,S.Ohtani o0.5 HR,Thespinzone,+285,0.08,0.308,0.22799999999999998,S.Ohtani,Los Angeles Angels,Toronto Blue Jays,0
+31,S.Ohtani o0.5 RBI,Thespinzone,+150,0.1,0.25,0.15,S.Ohtani,Los Angeles Angels,Toronto Blue Jays,0
+33,A.Manoah u5.5 Ks,SBK5065,-130,0.65,1.15,0.4999999999999999,A.Manoah,Toronto Blue Jays,Los Angeles Angels,1
+34,A.Manoah u5.5 Ks,The_Oddsmaker,-120,1.2,2.2,1.0000000000000002,A.Manoah,Toronto Blue Jays,Los Angeles Angels,1
+35,A.Manoah o5.5 Ks,JoeDellera,-110,0.45,0.8590909090909091,0.4090909090909091,A.Manoah,Toronto Blue Jays,Los Angeles Angels,1
