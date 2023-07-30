@@ -961,6 +961,31 @@
 15,15,D.Solano o1.5 Total Bases,MikeRandle,100,1.0,2.0,Minnesota Twins,D.Solano,Detroit Tigers,1.0,1.0,Y,0.2758620689655172,0,0.8,1,0.5,0
 16,16,C.Montes o0.5 RBI,Thespinzone,220,0.1,0.32,Colorado Rockies,C.Montes,Atlanta Braves,0.0,0.22,N,0.25,0,0.25,0,0.25,0
 17,17,C.Montes o0.5 HR,Thespinzone,650,0.04,0.3,Colorado Rockies,C.Montes,Atlanta Braves,0.0,0.26,N,0.25,0,0.25,0,0.25,0
+0,0,N.Arenado o1.5 total bases,Henry Palattella,100,1.0,2.0,St. Louis Cardinals,N.Arenado,Chicago Cubs,1.0,1.0,N,0.49,0,0.4,0,0.5,0
+1,1,J.Baez u0.5 hits,Henry Palattella,165,1.0,2.65,Detroit Tigers,J.Baez,Miami Marlins,0.0,1.65,Y,0.42,0,0.6,1,0.6,1
+2,3,L.Weaver o4.5 Hits Allowed,Colby Conway,-110,1.0,1.9090909090909087,Cincinnati Reds,L.Weaver,Los Angeles Dodgers,0.0,0.9090909090909092,N,0.7222222222222222,1,0.6,1,0.8,1
+3,4,B.Ober o4.5 Strikeouts,Colby Conway,-110,1.0,1.9090909090909087,Minnesota Twins,B.Ober,Kansas City Royals,0.0,0.9090909090909092,Y,0.7647058823529411,1,1.0,1,0.8,1
+4,5,P.Alonso o1.5 Total Bases,Colby Conway,-110,1.0,1.9090909090909087,New York Mets,P.Alonso,Washington Nationals,1.0,0.9090909090909092,N,0.3789473684210526,0,0.4,0,0.3,0
+5,6,A.Nola o6.5 Ks,cowhitchurch,-130,0.65,1.15,Philadelphia Phillies,A.Nola,Pittsburgh Pirates,0.0,0.4999999999999999,N,0.3181818181818182,0,0.4,0,0.5,0
+6,7,A.Nola o6.5 Ks,JoeDellera,-130,0.5,0.8846153846153846,Philadelphia Phillies,A.Nola,Pittsburgh Pirates,0.0,0.3846153846153846,N,0.3181818181818182,0,0.4,0,0.5,0
+7,8,A.Nola o6.5 Ks,AnthonyDabbundo,-122,1.22,2.22,Philadelphia Phillies,A.Nola,Pittsburgh Pirates,0.0,1.0000000000000002,N,0.3181818181818182,0,0.4,0,0.5,0
+8,9,B.Woo o4.5 Ks,The_Oddsmaker,-140,1.4,2.4,Seattle Mariners,B.Woo,Arizona Diamondbacks,0.0,1.0,N,0.6,1,0.4,0,0.6,1
+9,10,B.Ober o5.5 Ks,cowhitchurch,118,0.5,1.09,Minnesota Twins,B.Ober,Kansas City Royals,0.0,0.5899999999999999,N,0.5882352941176471,1,0.4,0,0.5,0
+10,11,R.Greene o0.5 Runs Scored,Thespinzone,110,0.1,0.21,Detroit Tigers,R.Greene,Miami Marlins,0.0,0.11,Y,0.4927536231884058,0,0.6,1,0.6,1
+11,12,K.Carpenter o0.5 RBI,Thespinzone,163,0.1,0.263,Detroit Tigers,K.Carpenter,Miami Marlins,0.0,0.163,N,0.3064516129032258,0,0.2,0,0.4,0
+12,13,J.Cueto u4.5 Ks,SBK5065,-105,0.53,1.0347619047619048,Miami Marlins,J.Cueto,Detroit Tigers,1.0,0.5047619047619047,N,0.5,0,0.5,0,0.5,0
+13,14,J.Cueto u4.5 Ks,The_Oddsmaker,-104,1.04,2.04,Miami Marlins,J.Cueto,Detroit Tigers,1.0,1.0,N,0.5,0,0.5,0,0.5,0
+14,15,J.Candelario o0.5 HR,Thespinzone,560,0.08,0.528,Washington Nationals,J.Candelario,New York Mets,0.0,0.448,N,0.1443298969072164,0,0.0,0,0.2,0
+15,16,J.Candelario o0.5 RBI,Thespinzone,175,0.1,0.275,Washington Nationals,J.Candelario,New York Mets,0.0,0.175,Y,0.3298969072164948,0,0.6,1,0.6,1
+16,17,L.Thomas o0.5 Runs Scored,Thespinzone,110,0.1,0.21,Washington Nationals,L.Thomas,New York Mets,0.0,0.11,N,0.5490196078431373,1,0.4,0,0.5,0
+17,18,M.Moniak o0.5 RBI,Thespinzone,165,0.1,0.265,Los Angeles Angels,M.Moniak,Toronto Blue Jays,0.0,0.165,N,0.4038461538461538,0,0.2,0,0.4,0
+18,19,M.Chapman o0.5 RBI,Thespinzone,145,0.1,0.245,Toronto Blue Jays,M.Chapman,Los Angeles Angels,1.0,0.145,N,0.284313725490196,0,0.4,0,0.3,0
+19,20,A.Manoah u4.5 Ks,Thespinzone,150,0.08,0.2,Toronto Blue Jays,A.Manoah,Los Angeles Angels,1.0,0.12,N,0.4705882352941176,0,0.4,0,0.5,0
+20,21,S.Ohtani o0.5 HR,Thespinzone,285,0.08,0.308,Los Angeles Angels,S.Ohtani,Toronto Blue Jays,0.0,0.2279999999999999,N,0.2745098039215686,0,0.4,0,0.3,0
+21,22,S.Ohtani o0.5 RBI,Thespinzone,150,0.1,0.25,Los Angeles Angels,S.Ohtani,Toronto Blue Jays,0.0,0.15,N,0.4803921568627451,0,0.6,1,0.5,0
+22,23,A.Manoah u5.5 Ks,SBK5065,-130,0.65,1.15,Toronto Blue Jays,A.Manoah,Los Angeles Angels,1.0,0.4999999999999999,N,0.7058823529411765,1,0.4,0,0.6,1
+23,24,A.Manoah u5.5 Ks,The_Oddsmaker,-120,1.2,2.2,Toronto Blue Jays,A.Manoah,Los Angeles Angels,1.0,1.0000000000000002,N,0.7058823529411765,1,0.4,0,0.6,1
+24,25,A.Manoah o5.5 Ks,JoeDellera,-110,0.45,0.8590909090909091,Toronto Blue Jays,A.Manoah,Los Angeles Angels,1.0,0.4090909090909091,Y,0.2941176470588235,0,0.6,1,0.4,0
 0,0,C.Bethancourt o0.5 Runs Scored,Thespinzone,135,0.2,0.47,Tampa Bay Rays,C.Bethancourt,Texas Rangers,1.0,0.27,Y,0.4523809523809524,0,0.6,1,0.6,1
 1,1,W.Franco o0.5 Runs Scored,Thespinzone,105,0.1,0.205,Tampa Bay Rays,W.Franco,Texas Rangers,1.0,0.1049999999999999,N,0.4754098360655737,0,0.4,0,0.5,0
 2,2,J.Siri o0.5 HR,Thespinzone,560,0.04,0.264,Tampa Bay Rays,J.Siri,Texas Rangers,1.0,0.224,N,0.2432432432432432,0,0.2,0,0.2,0
