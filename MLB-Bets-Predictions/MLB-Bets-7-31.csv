@@ -4,14 +4,22 @@
 2,J.Ramirez o1.5 Hits,Dan Servodidio,-110,1.0,1.9090909090909092,0.9090909090909092,J.Ramirez,Cleveland Guardians,Houston Astros,0.0
 3,C.Bassitt u2.5 Earned Runs Allowed,Dan Servodidio,-110,1.0,1.9090909090909092,0.9090909090909092,C.Bassitt,Toronto Blue Jays,Baltimore Orioles,1.0
 4,A.Riley o1.5 Total Bases,Dan Servodidio,-110,1.0,1.9090909090909092,0.9090909090909092,A.Riley,Atlanta Braves,Los Angeles Angels,1.0
-6,C.Morton o6.5 Ks,Noto,-183,1.83,2.8300000000000005,1.0000000000000004,C.Morton,Atlanta Braves,Los Angeles Angels,1.0
-7,C.Morton u7.5 Ks,cowhitchurch,-150,0.75,1.25,0.5,C.Morton,Atlanta Braves,Los Angeles Angels,1.0
-10,M.Stroman o4.5 Ks,JoeDellera,-130,0.5,0.8846153846153846,0.3846153846153846,M.Stroman,Chicago Cubs,Cincinnati Reds,1.0
-11,M.Stroman o4.5 Ks,Noto,-130,1.3,2.3,0.9999999999999998,M.Stroman,Chicago Cubs,Cincinnati Reds,1.0
-12,A.Bohm o0.5 RBI,Thespinzone,+205,0.1,0.305,0.205,A.Bohm,Philadelphia Phillies,Miami Marlins,0.0
-13,J.Rojas o0.5 RBI,Thespinzone,+200,0.1,0.30000000000000004,0.20000000000000004,J.Rojas,Philadelphia Phillies,Miami Marlins,0.0
+5,G.Henderson o0.5 Runs Scored,Thespinzone,+105,0.1,0.205,0.10499999999999998,G.Henderson,Baltimore Orioles,Toronto Blue Jays,0.0
+8,C.Morton o6.5 Ks,Noto,-183,1.83,2.8300000000000005,1.0000000000000004,C.Morton,Atlanta Braves,Los Angeles Angels,1.0
+9,C.Morton u7.5 Ks,cowhitchurch,-150,0.75,1.25,0.5,C.Morton,Atlanta Braves,Los Angeles Angels,1.0
+11,A.Judge o0.5 HR,Thespinzone,+240,0.08,0.272,0.192,A.Judge,New York Yankees,Tampa Bay Rays,1.0
+12,J.Lowe o0.5 RBI,Thespinzone,+185,0.1,0.28500000000000003,0.18500000000000003,J.Lowe,Tampa Bay Rays,New York Yankees,0.0
+13,A.Judge o0.5 RBI,Thespinzone,+150,0.1,0.25,0.15,A.Judge,New York Yankees,Tampa Bay Rays,1.0
 14,T.Glasnow o7.5 Ks,PropBetGuy,-122,1.22,2.22,1.0000000000000002,T.Glasnow,Tampa Bay Rays,New York Yankees,0.0
 15,A.Rizzo o0.5 HR,charliedisturco,+575,0.1,0.675,0.5750000000000001,A.Rizzo,New York Yankees,Tampa Bay Rays,1.0
-18,C.Carroll o0.5 HR,charliedisturco,+1025,0.1,1.125,1.025,C.Carroll,Arizona Diamondbacks,San Francisco Giants,0.0
-19,G.Kirby o5.5 Hits Allowed,PropBetGuy,-105,1.05,2.05,0.9999999999999998,G.Kirby,Seattle Mariners,Boston Red Sox,1.0
-20,G.Sanchez o0.5 HR,charliedisturco,+360,0.1,0.45999999999999996,0.36,G.Sanchez,San Diego Padres,Colorado Rockies,0.0
+16,M.Stroman o4.5 Ks,JoeDellera,-130,0.5,0.8846153846153846,0.3846153846153846,M.Stroman,Chicago Cubs,Cincinnati Reds,1.0
+17,M.Stroman o4.5 Ks,Noto,-130,1.3,2.3,0.9999999999999998,M.Stroman,Chicago Cubs,Cincinnati Reds,1.0
+19,I.Vargas o0.5 Runs Scored,Thespinzone,+210,0.1,0.31000000000000005,0.21000000000000005,I.Vargas,Washington Nationals,Milwaukee Brewers,1.0
+20,J.Meneses o0.5 RBI,Thespinzone,+210,0.1,0.31000000000000005,0.21000000000000005,J.Meneses,Washington Nationals,Milwaukee Brewers,1.0
+21,S.Frelick o0.5 Runs Scored,Thespinzone,+116,0.1,0.21600000000000003,0.11600000000000002,S.Frelick,Milwaukee Brewers,Washington Nationals,0.0
+25,C.Carroll o0.5 HR,charliedisturco,+1025,0.1,1.125,1.025,C.Carroll,Arizona Diamondbacks,San Francisco Giants,0.0
+26,G.Kirby o5.5 Hits Allowed,PropBetGuy,-105,1.05,2.05,0.9999999999999998,G.Kirby,Seattle Mariners,Boston Red Sox,1.0
+27,G.Sanchez o0.5 HR,charliedisturco,+360,0.1,0.45999999999999996,0.36,G.Sanchez,San Diego Padres,Colorado Rockies,0.0
+28,T.Walker o4.5 Ks,Thespinzone,+130,0.1,0.22999999999999998,0.12999999999999998,T.Walker,Philadelphia Phillies,Miami Marlins,0.0
+29,A.Bohm o0.5 RBI,Thespinzone,+205,0.1,0.305,0.205,A.Bohm,Philadelphia Phillies,Miami Marlins,0.0
+30,J.Rojas o0.5 RBI,Thespinzone,+200,0.1,0.30000000000000004,0.20000000000000004,J.Rojas,Philadelphia Phillies,Miami Marlins,0.0
