@@ -254,6 +254,7 @@ class Bets:
             df['Props'] = df['Props'].str.replace('RBIs', 'RBI')
             df['Props'] = df['Props'].str.replace(r'(OVER|UNDER) (\d+\.?\d*)', r'\1\2')
             df['Props'] = df['Props'].str.replace('OVER', 'o').str.replace('UNDER', 'u')
+            df['Props'] = df['Props'].str.replace('HIGHER than', 'o').str.replace('LOWER than', 'u')
             df['Props'] = df['Props'].str.replace('MORE than', 'o').str.replace('LESS than', 'u')
             df['Props'] = df['Props'].apply(self.convert_value)
             df['First Initial'] = df['Props'].str.split().str[:1].str.join(' ').str.replace('[,.]', '').str[:1].str.capitalize() + '.'
@@ -263,6 +264,7 @@ class Bets:
             df['Prop Type'] = df['Props'].apply(self.extract_prop_type)
             df['Odds'] = -110
             df['Units'] = 1
+            print(df)
             df = df.dropna()
             df['Payout'] = df.apply(self.calculate_payout, axis=1).astype(float)
             df['Units'] = df['Units'].astype(float)
