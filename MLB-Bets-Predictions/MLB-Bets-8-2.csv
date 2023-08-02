@@ -1,17 +1,32 @@
 ,Play,Expert,Odds,Units,Payout,Profit,Name,Team,Opponent,Hmcrt_adv
-0,K.Senga u2.5 Earned Runs Allowed,Colby Conway,-110,1.0,1.9090909090909092,0.9090909090909092,K.Senga,New York Mets,Kansas City Royals,0.0
-1,G.Rodriguez o4.5 Strikeouts,Colby Conway,-110,1.0,1.9090909090909092,0.9090909090909092,G.Rodriguez,Baltimore Orioles,Toronto Blue Jays,0.0
-2,M.Olson o0.5 HR,Thespinzone,+240,0.08,0.272,0.192,M.Olson,Atlanta Braves,Los Angeles Angels,1.0
-3,C.Cron o0.5 RBI,Thespinzone,+155,0.1,0.255,0.155,C.Cron,Los Angeles Angels,Atlanta Braves,0.0
-4,S.Ohtani o0.5 RBI,Thespinzone,+123,0.1,0.223,0.123,S.Ohtani,Los Angeles Angels,Atlanta Braves,0.0
-5,S.Garrett o0.5 RBI,Thespinzone,+145,0.1,0.24500000000000002,0.14500000000000002,S.Garrett,Washington Nationals,Milwaukee Brewers,1.0
-6,R.Adams o0.5 RBI,Thespinzone,+210,0.1,0.31000000000000005,0.21000000000000005,R.Adams,Washington Nationals,Milwaukee Brewers,1.0
-7,A.Monasterio o0.5 Runs Scored,Thespinzone,+135,0.1,0.23500000000000001,0.135,A.Monasterio,Milwaukee Brewers,Washington Nationals,0.0
-8,L.Thomas o0.5 Runs Scored,Thespinzone,+104,0.11,0.22440000000000002,0.11440000000000002,L.Thomas,Washington Nationals,Milwaukee Brewers,1.0
-9,W.Contreras o0.5 RBI,Thespinzone,+145,0.1,0.24500000000000002,0.14500000000000002,W.Contreras,St. Louis Cardinals,Minnesota Twins,1.0
-10,W.Miley u3.5 Ks,PropBetGuy,+120,1.0,2.2,1.2000000000000002,W.Miley,Milwaukee Brewers,Washington Nationals,0.0
-14,C.Joe o0.5 Runs Scored,Thespinzone,+120,0.1,0.22000000000000003,0.12000000000000002,C.Joe,Pittsburgh Pirates,Detroit Tigers,1.0
-15,J.Delay o0.5 RBI,Thespinzone,+300,0.1,0.4,0.30000000000000004,J.Delay,Pittsburgh Pirates,Detroit Tigers,1.0
-16,K.Carpenter o0.5 RBI,Thespinzone,+155,0.1,0.255,0.155,K.Carpenter,Detroit Tigers,Pittsburgh Pirates,0.0
-19,H.Kim o0.5 HR,charliedisturco,+525,0.1,0.625,0.525,H.Kim,San Diego Padres,Colorado Rockies,0.0
-20,D.Hudson u4.5 Ks,SBK5065,-135,0.68,1.1837037037037037,0.5037037037037037,D.Hudson,St. Louis Cardinals,Minnesota Twins,1.0
+0,T.Gonsolin o5.5 strikeouts,Teddy Ricketson,-140,1,1.7142857142857144,0.7142857142857144,T.Gonsolin,Los Angeles Dodgers,Oakland Athletics,1.0
+1,P.Alonso o0.5 hits,Teddy Ricketson,-230,1,1.434782608695652,0.4347826086956521,P.Alonso,New York Mets,Kansas City Royals,0.0
+2,L.Webb o4.5 strikeouts,Teddy Ricketson,-165,1,1.606060606060606,0.606060606060606,L.Webb,San Francisco Giants,Arizona Diamondbacks,1.0
+3,K.Senga u2.5 Earned Runs Allowed,Colby Conway,-110,1.0,1.9090909090909092,0.9090909090909092,K.Senga,New York Mets,Kansas City Royals,0.0
+4,G.Rodriguez o4.5 Strikeouts,Colby Conway,-110,1.0,1.9090909090909092,0.9090909090909092,G.Rodriguez,Baltimore Orioles,Toronto Blue Jays,0.0
+5,J.Crawford o0.5 Runs Scored,Thespinzone,+115,0.1,0.215,0.11499999999999999,J.Crawford,Seattle Mariners,Boston Red Sox,1.0
+6,A.Verdugo o0.5 Runs Scored,Thespinzone,+123,0.1,0.223,0.123,A.Verdugo,Boston Red Sox,Seattle Mariners,0.0
+11,N.Senzel u0.5 Hits,SBK5065,+180,0.5,1.4,0.8999999999999999,N.Senzel,Cincinnati Reds,Chicago Cubs,0.0
+12,M.McLain o0.5 HR,charliedisturco,+500,0.1,0.6000000000000001,0.5000000000000001,M.McLain,Cincinnati Reds,Chicago Cubs,0.0
+13,M.McLain o1.5 Total Bases,charliedisturco,+150,0.5,1.25,0.75,M.McLain,Cincinnati Reds,Chicago Cubs,0.0
+15,D.Hudson u4.5 Ks,SBK5065,-135,0.68,1.1837037037037037,0.5037037037037037,D.Hudson,St. Louis Cardinals,Minnesota Twins,1.0
+16,K.Senga o6.5 Ks,JoeDellera,+114,0.6,1.2839999999999998,0.6839999999999998,K.Senga,New York Mets,Kansas City Royals,0.0
+17,M.Batten o0.5 HR,Thespinzone,+650,0.08,0.6,0.52,M.Batten,San Diego Padres,Colorado Rockies,0.0
+18,H.Kim o0.5 RBI,Thespinzone,+140,0.1,0.24,0.13999999999999999,H.Kim,San Diego Padres,Colorado Rockies,0.0
+19,R.McMahon o0.5 RBI,Thespinzone,+170,0.1,0.27,0.17,R.McMahon,Colorado Rockies,San Diego Padres,1.0
+20,G.Sanchez o0.5 HR,Thespinzone,+340,0.08,0.35200000000000004,0.272,G.Sanchez,San Diego Padres,Colorado Rockies,0.0
+21,X.Bogaerts o0.5 RBI,charliedisturco,+120,0.5,1.1,0.6000000000000001,X.Bogaerts,San Diego Padres,Colorado Rockies,0.0
+22,H.Kim o1.5 Total Bases,charliedisturco,-135,0.68,1.1837037037037037,0.5037037037037037,H.Kim,San Diego Padres,Colorado Rockies,0.0
+23,H.Kim o0.5 HR,charliedisturco,+525,0.1,0.625,0.525,H.Kim,San Diego Padres,Colorado Rockies,0.0
+24,M.Olson o0.5 HR,Thespinzone,+240,0.18,0.612,0.432,M.Olson,Atlanta Braves,Los Angeles Angels,1.0
+25,C.Cron o0.5 RBI,Thespinzone,+155,0.1,0.255,0.155,C.Cron,Los Angeles Angels,Atlanta Braves,0.0
+26,S.Ohtani o0.5 RBI,Thespinzone,+123,0.1,0.223,0.123,S.Ohtani,Los Angeles Angels,Atlanta Braves,0.0
+28,C.Joe o0.5 Runs Scored,Thespinzone,+120,0.12,0.264,0.14400000000000002,C.Joe,Pittsburgh Pirates,Detroit Tigers,1.0
+29,J.Delay o0.5 RBI,Thespinzone,+300,0.1,0.4,0.30000000000000004,J.Delay,Pittsburgh Pirates,Detroit Tigers,1.0
+30,K.Carpenter o0.5 RBI,Thespinzone,+155,0.1,0.255,0.155,K.Carpenter,Detroit Tigers,Pittsburgh Pirates,0.0
+31,S.Garrett o0.5 RBI,Thespinzone,+145,0.1,0.24500000000000002,0.14500000000000002,S.Garrett,Washington Nationals,Milwaukee Brewers,1.0
+32,R.Adams o0.5 RBI,Thespinzone,+210,0.1,0.31000000000000005,0.21000000000000005,R.Adams,Washington Nationals,Milwaukee Brewers,1.0
+33,L.Thomas o0.5 Runs Scored,Thespinzone,+104,0.11,0.22440000000000002,0.11440000000000002,L.Thomas,Washington Nationals,Milwaukee Brewers,1.0
+34,A.Monasterio o0.5 Runs Scored,Thespinzone,+135,0.1,0.23500000000000001,0.135,A.Monasterio,Milwaukee Brewers,Washington Nationals,0.0
+35,W.Contreras o0.5 RBI,Thespinzone,+145,0.1,0.24500000000000002,0.14500000000000002,W.Contreras,St. Louis Cardinals,Minnesota Twins,1.0
+36,W.Miley u3.5 Ks,PropBetGuy,+120,1.0,2.2,1.2000000000000002,W.Miley,Milwaukee Brewers,Washington Nationals,0.0
