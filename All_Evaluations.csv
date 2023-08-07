@@ -2562,6 +2562,55 @@
 22,22,S.Ohtani u7.5 strikeouts,Teddy Ricketson,-130,1.0,1.7692307692307692,Los Angeles Angels,S.Ohtani,Houston Astros,0.0,0.7692307692307692,Y,0.4166666666666667,0,0.6,1,0.5,0
 23,23,F.Freeman o1.5 total bases,Dan Servodidio,-110,1.0,1.9090909090909087,Los Angeles Dodgers,F.Freeman,New York Yankees,1.0,0.9090909090909088,N,0.5,0,0.8,1,0.7,1
 24,24,M.Kelly o5.5 strikeouts,Dan Servodidio,-110,1.0,1.9090909090909087,Arizona Diamondbacks,M.Kelly,Atlanta Braves,1.0,0.9090909090909088,Y,0.5833333333333334,1,0.8,1,0.7,1
+0,0,B.Woodruff u7.5 strikeouts,Chris Landers,-125,1.0,1.8,Milwaukee Brewers,B.Woodruff,Pittsburgh Pirates,1.0,0.8,N,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0
+1,2,B.Harper o1.5 Total Bases,Colby Conway,-110,1.0,1.9090909090909087,Philadelphia Phillies,B.Harper,Kansas City Royals,1.0,0.9090909090909092,Y,0.4430379746835443,0,0.8,1,0.5,0
+2,3,R.Mountcastle o1.5 Total Bases,Colby Conway,-110,1.0,1.9090909090909087,Baltimore Orioles,R.Mountcastle,New York Mets,1.0,0.9090909090909092,N,0.4074074074074074,0,0.4,0,0.5,0
+3,4,B.Woodruff u1.5 Walks Allowed,Colby Conway,-110,1.0,1.9090909090909087,Milwaukee Brewers,B.Woodruff,Pittsburgh Pirates,1.0,0.9090909090909092,Y,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1
+4,5,M.Betts o0.5 HR,Thespinzone,300,0.22,0.88,Los Angeles Dodgers,M.Betts,San Diego Padres,0.0,0.66,Y,0.2095238095238095,0,0.4,0,0.3,0
+5,6,J.Soto o0.5 RBI,Thespinzone,170,0.1,0.27,San Diego Padres,J.Soto,Los Angeles Dodgers,1.0,0.17,N,0.3928571428571428,0,0.8,1,0.7,1
+6,7,F.Freeman o0.5 RBI,Thespinzone,180,0.18,0.504,Los Angeles Dodgers,F.Freeman,San Diego Padres,0.0,0.324,Y,0.4363636363636363,0,0.8,1,0.6,1
+7,8,H.Kim o0.5 Runs Scored,Thespinzone,115,0.12,0.258,San Diego Padres,H.Kim,Los Angeles Dodgers,1.0,0.138,N,0.4018691588785046,0,0.4,0,0.5,0
+8,9,M.Betts o0.5 RBI,Thespinzone,135,0.2,0.47,Los Angeles Dodgers,M.Betts,San Diego Padres,0.0,0.27,Y,0.4095238095238095,0,0.4,0,0.4,0
+9,10,C.Morel o0.5 RBI,Thespinzone,230,0.1,0.33,Chicago Cubs,C.Morel,Atlanta Braves,1.0,0.23,N,0.463768115942029,0,0.6,1,0.5,0
+10,11,M.Tauchman o0.5 RBI,Thespinzone,255,0.1,0.355,Chicago Cubs,M.Tauchman,Atlanta Braves,1.0,0.255,N,0.3968253968253968,0,0.2,0,0.3,0
+11,12,C.Bellinger o0.5 Runs Scored,Thespinzone,140,0.14,0.336,Chicago Cubs,C.Bellinger,Atlanta Braves,1.0,0.196,Y,0.5925925925925926,1,0.6,1,0.5,0
+12,13,O.Arcia o0.5 Runs Scored,Thespinzone,165,0.1,0.265,Atlanta Braves,O.Arcia,Chicago Cubs,0.0,0.165,N,0.3863636363636363,0,0.6,1,0.5,0
+13,14,A.Riley o0.5 RBI,Thespinzone,140,0.1,0.24,Atlanta Braves,A.Riley,Chicago Cubs,0.0,0.1399999999999999,N,0.3761467889908257,0,0.4,0,0.4,0
+14,15,E.Julien o0.5 Runs Scored,Thespinzone,117,0.12,0.2603999999999999,Minnesota Twins,E.Julien,Arizona Diamondbacks,1.0,0.1403999999999999,Y,0.40625,0,0.6,1,0.5,0
+15,16,M.Wallner o0.5 Runs Scored,Thespinzone,160,0.16,0.416,Minnesota Twins,M.Wallner,Arizona Diamondbacks,1.0,0.256,Y,0.4666666666666667,0,0.6,1,0.7,1
+16,18,M.Moniak o0.5 RBI,Thespinzone,190,0.1,0.29,Los Angeles Angels,M.Moniak,Seattle Mariners,1.0,0.1899999999999999,N,0.3728813559322034,0,0.2,0,0.1,0
+17,19,M.Moustakas o0.5 Runs Scored,Thespinzone,140,0.1,0.24,Los Angeles Angels,M.Moustakas,Seattle Mariners,1.0,0.1399999999999999,N,0.4516129032258064,0,0.2,0,0.3,0
+18,20,B.Drury o0.5 RBI,Thespinzone,145,0.1,0.245,Los Angeles Angels,B.Drury,Seattle Mariners,1.0,0.145,N,0.3461538461538461,0,0.4,0,0.4,0
+19,21,S.Ohtani o0.5 HR,Thespinzone,200,0.1,0.3,Los Angeles Angels,S.Ohtani,Seattle Mariners,1.0,0.2,N,0.2636363636363636,0,0.2,0,0.2,0
+20,22,C.Marlowe o0.5 Runs Scored,Thespinzone,145,0.1,0.245,Seattle Mariners,C.Marlowe,Los Angeles Angels,0.0,0.145,N,0.3571428571428571,0,0.4,0,0.4,0
+21,23,J.Crawford o0.5 Runs Scored,Thespinzone,102,0.1,0.202,Seattle Mariners,J.Crawford,Los Angeles Angels,0.0,0.102,Y,0.4476190476190476,0,0.6,1,0.7,1
+22,24,N.Lowe o0.5 Runs Scored,Thespinzone,135,0.14,0.329,Texas Rangers,N.Lowe,Miami Marlins,1.0,0.189,Y,0.4684684684684684,0,0.4,0,0.3,0
+23,25,J.Soler o0.5 HR,Thespinzone,250,0.1,0.35,Miami Marlins,J.Soler,Texas Rangers,0.0,0.25,N,0.1759259259259259,0,0.2,0,0.2,0
+24,26,J.Mateo o0.5 Runs Scored,Thespinzone,130,0.13,0.299,Baltimore Orioles,J.Mateo,New York Mets,1.0,0.1689999999999999,Y,0.3846153846153846,0,0.4,0,0.4,0
+25,27,R.Mountcastle o0.5 RBI,Thespinzone,155,0.15,0.3824999999999999,Baltimore Orioles,R.Mountcastle,New York Mets,1.0,0.2324999999999999,N,0.3209876543209876,0,0.2,0,0.4,0
+26,28,A.Verdugo o0.5 Runs Scored,Thespinzone,125,0.1,0.225,Boston Red Sox,A.Verdugo,Toronto Blue Jays,1.0,0.125,N,0.4693877551020408,0,0.2,0,0.1,0
+27,29,J.Turner o0.5 RBI,Thespinzone,133,0.1,0.233,Boston Red Sox,J.Turner,Toronto Blue Jays,1.0,0.133,N,0.4368932038834951,0,0.6,1,0.5,0
+28,30,D.Schneider o0.5 HR,Thespinzone,650,0.49,3.675,Toronto Blue Jays,D.Schneider,Boston Red Sox,0.0,3.185,Y,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1
+29,31,D.Schneider o0.5 Runs Scored,Thespinzone,116,0.17,0.3672,Toronto Blue Jays,D.Schneider,Boston Red Sox,0.0,0.1972,Y,1.0,1,1.0,1,1.0,1
+30,32,J.Bauers o0.5 RBI,Thespinzone,175,0.18,0.495,New York Yankees,J.Bauers,Houston Astros,1.0,0.315,Y,0.25,0,0.6,1,0.5,0
+31,33,A.Judge o0.5 HR,Thespinzone,165,0.1,0.265,New York Yankees,A.Judge,Houston Astros,1.0,0.165,N,0.2068965517241379,0,0.0,0,0.1,0
+32,34,K.Tucker o0.5 RBI,Thespinzone,150,0.1,0.25,Houston Astros,K.Tucker,New York Yankees,0.0,0.15,N,0.4144144144144144,0,0.4,0,0.5,0
+33,35,Y.Alvarez o0.5 RBI,Thespinzone,135,0.14,0.329,Houston Astros,Y.Alvarez,New York Yankees,0.0,0.189,Y,0.4776119402985074,0,0.4,0,0.4,0
+34,36,Y.Diaz o0.5 Runs Scored,Thespinzone,100,0.11,0.22,Tampa Bay Rays,Y.Diaz,Detroit Tigers,0.0,0.11,Y,0.5263157894736842,1,0.6,1,0.5,0
+35,37,R.Greene o0.5 Runs Scored,Thespinzone,135,0.1,0.235,Detroit Tigers,R.Greene,Tampa Bay Rays,1.0,0.135,N,0.48,0,0.2,0,0.4,0
+36,38,L.Peguero o0.5 RBI,Thespinzone,290,0.1,0.39,Pittsburgh Pirates,L.Peguero,Milwaukee Brewers,0.0,0.29,N,0.2857142857142857,0,0.2,0,0.3,0
+37,39,C.Yelich o0.5 Runs Scored,Thespinzone,-110,0.15,0.2863636363636364,Milwaukee Brewers,C.Yelich,Pittsburgh Pirates,1.0,0.1363636363636363,N,0.4954128440366973,0,0.2,0,0.3,0
+38,40,B.Woodruff u7.5 Ks,SBK5065,-150,0.75,1.25,Milwaukee Brewers,B.Woodruff,Pittsburgh Pirates,1.0,0.5,N,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0
+39,41,J.Oviedo u5.5 Ks,SBK5065,-155,0.78,1.2832258064516129,Pittsburgh Pirates,J.Oviedo,Milwaukee Brewers,0.0,0.5032258064516129,N,0.6521739130434783,1,0.6,1,0.5,0
+40,42,J.Ramirez o0.5 RBI,charliedisturco,115,0.5,1.075,Cleveland Guardians,J.Ramirez,Chicago White Sox,1.0,0.575,N,0.3981481481481481,0,0.4,0,0.3,0
+41,43,J.Ramirez o1.5 RBI,charliedisturco,450,0.1,0.55,Cleveland Guardians,J.Ramirez,Chicago White Sox,1.0,0.45,N,0.1018518518518518,0,0.0,0,0.1,0
+42,44,K.Calhoun o0.5 RBI,Thespinzone,148,0.1,0.248,Cleveland Guardians,K.Calhoun,Chicago White Sox,1.0,0.148,N,0.5,0,0.5,0,0.5,0
+43,45,F.Fermin o0.5 RBI,Thespinzone,200,0.1,0.3,Kansas City Royals,F.Fermin,Philadelphia Phillies,0.0,0.2,N,0.4166666666666667,0,0.6,1,0.6,1
+44,46,A.Bohm o0.5 RBI,Thespinzone,163,0.1,0.263,Philadelphia Phillies,A.Bohm,Kansas City Royals,1.0,0.163,N,0.404040404040404,0,0.4,0,0.4,0
+45,47,M.Beaty o0.5 RBI,Thespinzone,250,0.25,0.875,Kansas City Royals,M.Beaty,Philadelphia Phillies,0.0,0.625,Y,0.4285714285714285,0,0.4,0,0.4285714285714285,0
+46,48,A.Knizner o0.5 HR,Thespinzone,750,0.08,0.68,St. Louis Cardinals,A.Knizner,Colorado Rockies,1.0,0.6000000000000001,N,0.0909090909090909,0,0.2,0,0.2,0
+47,49,N.Arenado o0.5 RBI,Thespinzone,100,0.1,0.2,St. Louis Cardinals,N.Arenado,Colorado Rockies,1.0,0.1,N,0.4150943396226415,0,0.4,0,0.2,0
+48,50,J.Meneses o0.5 RBI,Thespinzone,163,0.1,0.263,Washington Nationals,J.Meneses,Cincinnati Reds,0.0,0.163,N,0.3592233009708738,0,0.2,0,0.3,0
 0,0,A.Diaz o0.5 hits,Teddy Ricketson,-150,1.0,1.6666666666666663,Oakland Athletics,A.Diaz,San Francisco Giants,0.0,0.6666666666666665,Y,0.4864864864864865,0,0.4,0,0.5,0
 1,1,C.Carroll o0.5 hits,Teddy Ricketson,-235,1.0,1.425531914893617,Arizona Diamondbacks,C.Carroll,St. Louis Cardinals,1.0,0.4255319148936169,Y,0.6701030927835051,1,0.6,1,0.5,0
 2,2,C.Bellinger o1.0 hits+runs+rbi,Dan Servodidio,-110,1.0,1.9090909090909087,Chicago Cubs,C.Bellinger,Chicago White Sox,0.0,0.9090909090909092,N,0.6521739130434783,1,0.6,1,0.7,1
