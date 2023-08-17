@@ -56,17 +56,25 @@ class Bets:
 
     def today_games(self, month, day):
         if int(day) < 10:
-            soup = self.site_scrape_chrome('https://theathletic.com/mlb/schedule/2023-' + '0' + month + '-' + '0' + day + '/')
+            soup = site_scrape_chrome('https://theathletic.com/mlb/schedule/2023-' + '0' + month + '-' + '0' + day + '/')
         else:
-            soup = self.site_scrape_chrome('https://theathletic.com/mlb/schedule/2023-' + '0' + month + '-' + day + '/')
+            soup = site_scrape_chrome('https://theathletic.com/mlb/schedule/2023-' + '0' + month + '-' + day + '/')
         games = soup.select('tr.MuiTableRow-root .jss6')
         matchups = []
-        for i in range(0, len(games), 2):
-            home_team = str(games[i]).split('>')[2].split('<')[0]
-            away_team = str(games[i+1]).split('>')[2].split('<')[0]
-            matchup = f"{home_team} vs {away_team}"
-            matchups.append(matchup)
-        return matchups
+        if games:
+            for i in range(0, len(games), 2):
+                home_team = str(games[i]).split('>')[2].split('<')[0]
+                away_team = str(games[i+1]).split('>')[2].split('<')[0]
+                matchup = f"{home_team} vs {away_team}"
+                matchups.append(matchup)
+        else:
+            for x in soup.select('tr.MuiTableRow-root'):
+                if '<div class="sc-761cc135-2 gPLqAb"><div class="sc-761cc135-0 qGUih">' in str(x):
+                    home_team = str(x).split('<div class="sc-761cc135-2 gPLqAb"><div class="sc-761cc135-0 qGUih">')[1].split('<')[0]
+                    print(home_team)
+                    away_team = str(x).split('<div class="sc-761cc135-2 gPLqAb"><div class="sc-761cc135-0 qGUih">')[2].split('<')[0]
+                    matchup = f"{home_team} vs {away_team}"
+                    matchups.append(matchup)
 
     def schedule(self, month, day):
         #returning time 10 mins before earliest scheduled MLB game for today

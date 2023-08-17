@@ -1557,6 +1557,22 @@
 34,34,C.Morel o0.5 HR,Thespinzone,510,0.08,0.488,Chicago Cubs,C.Morel,Milwaukee Brewers,0.0,0.408,N,0.2608695652173913,0,0.2,0,0.2,0
 35,35,K.Carpenter o0.5 RBI,Thespinzone,165,0.17,0.4505,Detroit Tigers,K.Carpenter,Oakland Athletics,1.0,0.2804999999999999,Y,0.25,0,0.4,0,0.4,0
 36,36,T.Wade o0.5 Runs Scored,Thespinzone,190,0.08,0.2319999999999999,Oakland Athletics,T.Wade,Detroit Tigers,0.0,0.1519999999999999,N,0.2916666666666667,0,0.6,1,0.5,0
+0,0,J.Paxton u5.5 strikeouts,Chris Landers,-105,1.0,1.9523809523809523,Boston Red Sox,J.Paxton,Washington Nationals,0.0,0.9523809523809524,Y,0.5333333333333333,1,0.8,1,0.6,1
+1,1,M.Liberatore u2.5 Earned Runs Allowed,Dan Servodidio,-110,1.0,1.9090909090909087,St. Louis Cardinals,M.Liberatore,Oakland Athletics,1.0,0.9090909090909092,N,0.3636363636363636,0,0.2,0,0.3,0
+2,2,A.Abbott u2.5 Earned Runs,JoeDellera,-115,0.4,0.7478260869565218,Cincinnati Reds,A.Abbott,Cleveland Guardians,1.0,0.3478260869565217,Y,0.6923076923076923,1,0.6,1,0.6,1
+3,3,M.Clevinger u4.5 Ks,AnthonyDabbundo,110,0.5,1.05,Chicago White Sox,M.Clevinger,Chicago Cubs,0.0,0.55,N,0.4666666666666667,0,0.6,1,0.4,0
+4,4,C.Morel o1.5 Total Bases,charliedisturco,150,0.5,1.25,Chicago Cubs,C.Morel,Chicago White Sox,1.0,0.75,Y,0.379746835443038,0,0.2,0,0.1,0
+5,5,C.Morel o0.5 HR,charliedisturco,390,0.2,0.98,Chicago Cubs,C.Morel,Chicago White Sox,1.0,0.78,Y,0.1772151898734177,0,0.2,0,0.1,0
+6,6,K.Gausman o6.5 Ks,AnthonyDabbundo,-140,1.4,2.4,Toronto Blue Jays,K.Gausman,Philadelphia Phillies,1.0,1.0,N,0.6521739130434783,1,0.6,1,0.5,0
+7,7,C.Raleigh o0.5 HR,charliedisturco,360,0.2,0.92,Seattle Mariners,C.Raleigh,Kansas City Royals,0.0,0.72,Y,0.1226415094339622,0,0.2,0,0.1,0
+8,8,J.Paxton u5.5 Ks,jimsannes,-106,1.1,2.137735849056604,Boston Red Sox,J.Paxton,Washington Nationals,0.0,1.0377358490566038,Y,0.5333333333333333,1,0.8,1,0.6,1
+9,9,R.Detmers u5.5 Ks,jimsannes,100,1.0,2.0,Los Angeles Angels,R.Detmers,Texas Rangers,0.0,1.0,Y,0.3809523809523809,0,0.6,1,0.4,0
+10,10,J.Soto o0.5 HR,charliedisturco,425,0.2,1.05,San Diego Padres,J.Soto,Baltimore Orioles,1.0,0.8500000000000001,N,0.1393442622950819,0,0.0,0,0.0,0
+11,11,T.Pham o0.5 HR,charliedisturco,400,0.2,1.0,Arizona Diamondbacks,T.Pham,Colorado Rockies,0.0,0.8,N,0.0,0,0.0,0,0.0,0
+12,12,T.Pham o2.5 Total Bases,charliedisturco,140,0.3,0.72,Arizona Diamondbacks,T.Pham,Colorado Rockies,0.0,0.42,N,0.5384615384615384,1,0.8,1,0.7,1
+13,13,J.Oviedo u4.5 Ks,AnthonyDabbundo,105,1.05,2.1525,Pittsburgh Pirates,J.Oviedo,New York Mets,0.0,1.1024999999999998,Y,0.375,0,0.4,0,0.4,0
+14,14,J.Oviedo o6.5 Ks,charliedisturco,360,0.1,0.4599999999999999,Pittsburgh Pirates,J.Oviedo,New York Mets,0.0,0.36,N,0.1666666666666666,0,0.0,0,0.1,0
+15,15,J.Oviedo o4.5 Ks,charliedisturco,-120,0.6,1.1,Pittsburgh Pirates,J.Oviedo,New York Mets,0.0,0.5000000000000001,N,0.625,1,0.6,1,0.6,1
 0,0,J.Crawford o0.5 hits,Teddy Ricketson,-180,1.0,1.5555555555555556,Seattle Mariners,J.Crawford,Houston Astros,0.0,0.5555555555555556,Y,0.6219512195121951,1,1.0,1,0.9,1
 1,1,J.Duran o1.5 total bases,Teddy Ricketson,-135,1.0,1.7407407407407407,Boston Red Sox,J.Duran,Oakland Athletics,1.0,0.7407407407407407,Y,0.4782608695652174,0,0.6,1,0.6,1
 2,2,G.Cole o7.5 strikeouts,Josh Wagner,-110,1.0,1.9090909090909087,New York Yankees,G.Cole,Chicago Cubs,1.0,0.9090909090909092,N,0.4210526315789473,0,0.4,0,0.3,0
