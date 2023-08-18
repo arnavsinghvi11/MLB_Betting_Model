@@ -390,7 +390,7 @@ class Bets:
             print(bet['Play'])
             if 'ks' in bet['Play'] or 'strikeouts' in bet['Play'] or 'earned runs' in bet['Play'] or 'hits allowed' in bet['Play'] or 'earned runs allowed' in bet['Play']:
                 matching_name = all_pitching_box_score_results[all_pitching_box_score_results['Name'] == name]
-            elif 'total bases' in bet['Play'] or 'hits' in bet['Play'] or 'home runs' in bet['Play'] or 'hr' in bet['Play'] or 'rbi' in bet['Play'] or 'hits+runs+rbi' in bet['Play'] or 'hits + runs + rbis' in bet['Play'] or 'hits + runs + rbis' in bet['Play'] or 'runs scored' in bet['Play'] or 'bb' in bet['Play'] or 'walks' in bet['Play']:
+            elif 'total bases' in bet['Play'] or 'hits' in bet['Play'] or 'home runs' in bet['Play'] or 'hr' in bet['Play'] or 'rbi' in bet['Play'] or 'hits+runs+rbi' in bet['Play'] or 'hits + runs + rbis' in bet['Play'] or 'runs + hits + rbis' in bet['Play'] or 'runs scored' in bet['Play'] or 'bb' in bet['Play'] or 'walks' in bet['Play']:
                 matching_name = all_hitting_box_score_results[all_hitting_box_score_results['Name'] == name]
             else:
                 bets = bets.drop(i)
