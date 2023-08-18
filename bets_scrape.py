@@ -56,9 +56,9 @@ class Bets:
 
     def today_games(self, month, day):
         if int(day) < 10:
-            soup = site_scrape_chrome('https://theathletic.com/mlb/schedule/2023-' + '0' + month + '-' + '0' + day + '/')
+            soup = self.site_scrape_chrome('https://theathletic.com/mlb/schedule/2023-' + '0' + month + '-' + '0' + day + '/')
         else:
-            soup = site_scrape_chrome('https://theathletic.com/mlb/schedule/2023-' + '0' + month + '-' + day + '/')
+            soup = self.site_scrape_chrome('https://theathletic.com/mlb/schedule/2023-' + '0' + month + '-' + day + '/')
         games = soup.select('tr.MuiTableRow-root .jss6')
         matchups = []
         if games:
@@ -71,10 +71,10 @@ class Bets:
             for x in soup.select('tr.MuiTableRow-root'):
                 if '<div class="sc-761cc135-2 gPLqAb"><div class="sc-761cc135-0 qGUih">' in str(x):
                     home_team = str(x).split('<div class="sc-761cc135-2 gPLqAb"><div class="sc-761cc135-0 qGUih">')[1].split('<')[0]
-                    print(home_team)
                     away_team = str(x).split('<div class="sc-761cc135-2 gPLqAb"><div class="sc-761cc135-0 qGUih">')[2].split('<')[0]
                     matchup = f"{home_team} vs {away_team}"
                     matchups.append(matchup)
+        return matchups
 
     def schedule(self, month, day):
         #returning time 10 mins before earliest scheduled MLB game for today
@@ -390,7 +390,7 @@ class Bets:
             print(bet['Play'])
             if 'ks' in bet['Play'] or 'strikeouts' in bet['Play'] or 'earned runs' in bet['Play'] or 'hits allowed' in bet['Play'] or 'earned runs allowed' in bet['Play']:
                 matching_name = all_pitching_box_score_results[all_pitching_box_score_results['Name'] == name]
-            elif 'total bases' in bet['Play'] or 'hits' in bet['Play'] or 'home runs' in bet['Play'] or 'hr' in bet['Play'] or 'rbi' in bet['Play'] or 'hits+runs+rbi' in bet['Play'] or 'hits + runs + rbis' in bet['Play'] or 'runs scored' in bet['Play'] or 'bb' in bet['Play'] or 'walks' in bet['Play']:
+            elif 'total bases' in bet['Play'] or 'hits' in bet['Play'] or 'home runs' in bet['Play'] or 'hr' in bet['Play'] or 'rbi' in bet['Play'] or 'hits+runs+rbi' in bet['Play'] or 'hits + runs + rbis' in bet['Play'] or 'hits + runs + rbis' in bet['Play'] or 'runs scored' in bet['Play'] or 'bb' in bet['Play'] or 'walks' in bet['Play']:
                 matching_name = all_hitting_box_score_results[all_hitting_box_score_results['Name'] == name]
             else:
                 bets = bets.drop(i)
