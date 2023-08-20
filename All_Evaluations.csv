@@ -2397,6 +2397,49 @@
 7,7,L.Castillo u6.5 Ks,The_Oddsmaker,-105,1.05,2.05,Seattle Mariners,L.Castillo,St. Louis Cardinals,1.0,0.9999999999999998,N,0.6,1,0.6,1,0.6,1
 8,8,G.Whitlock o5.5 strikeouts,Chris Landers,105,1.0,2.05,Boston Red Sox,G.Whitlock,Milwaukee Brewers,0.0,1.0499999999999998,N,0.0,0,0.0,0,0.0,0
 9,9,T.Anderson o4.5 strikeouts,Dan Servodidio,-110,1.0,1.9090909090909087,Los Angeles Angels,T.Anderson,Kansas City Royals,1.0,0.9090909090909088,N,0.0,0,0.0,0,0.0,0
+0,0,L.Webb u4.5 strikeouts,Chris Landers,115,1.0,2.15,San Francisco Giants,L.Webb,Atlanta Braves,0.0,1.15,N,0.2,0,0.4,0,0.2,0
+1,1,M.Manning u3.5 strikeouts,Chris Landers,-115,1.0,1.869565217391304,Detroit Tigers,M.Manning,Cleveland Guardians,0.0,0.8695652173913042,Y,0.4545454545454545,0,0.6,1,0.5,0
+2,2,M.Keller o5.5 Hits Allowed,Colby Conway,-110,1.0,1.9090909090909087,Pittsburgh Pirates,M.Keller,Minnesota Twins,0.0,0.9090909090909092,Y,0.48,0,1.0,1,0.7,1
+3,3,C.Silseth o5.5 Strikeouts,Colby Conway,-110,1.0,1.9090909090909087,Los Angeles Angels,C.Silseth,Tampa Bay Rays,1.0,0.9090909090909092,N,0.1538461538461538,0,0.4,0,0.2,0
+4,4,J.Rodriguez o0.5 RBI,Thespinzone,195,0.1,0.295,Seattle Mariners,J.Rodriguez,Houston Astros,0.0,0.195,N,0.3553719008264462,0,0.6,1,0.3,0
+5,5,T.Hernandez o0.5 RBI,Thespinzone,163,0.1,0.263,Seattle Mariners,T.Hernandez,Houston Astros,0.0,0.163,Y,0.4065040650406504,0,0.6,1,0.8,1
+6,6,A.Bregman o0.5 RBI,Thespinzone,200,0.1,0.3,Houston Astros,A.Bregman,Seattle Mariners,1.0,0.2,Y,0.4308943089430894,0,0.8,1,0.9,1
+7,7,Y.Diaz o0.5 RBI,Thespinzone,145,0.1,0.245,Houston Astros,Y.Diaz,Seattle Mariners,1.0,0.145,Y,0.430379746835443,0,0.8,1,0.9,1
+8,8,R.Palacios o0.5 RBI,Thespinzone,240,0.1,0.34,St. Louis Cardinals,R.Palacios,New York Mets,1.0,0.24,N,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0
+9,9,N.Arenado o0.5 RBI,Thespinzone,150,0.1,0.25,St. Louis Cardinals,N.Arenado,New York Mets,1.0,0.15,Y,0.4491525423728814,0,0.4,0,0.7,1
+10,10,M.Olson o0.5 RBI,Thespinzone,120,0.1,0.22,Atlanta Braves,M.Olson,San Francisco Giants,1.0,0.12,N,0.4545454545454545,0,0.2,0,0.1,0
+11,11,K.Waldichuk u5.5 Ks,charliedisturco,-120,0.6,1.1,Oakland Athletics,K.Waldichuk,Baltimore Orioles,1.0,0.5000000000000001,N,0.7777777777777778,1,0.4,0,0.7,1
+12,12,T.Bibee u6.5 Ks,PropBetGuy,112,1.0,2.12,Cleveland Guardians,T.Bibee,Detroit Tigers,1.0,1.12,Y,0.6842105263157895,1,0.8,1,0.7,1
+13,13,S.Gray o5.5 Ks,PropBetGuy,-137,1.37,2.37,Minnesota Twins,S.Gray,Pittsburgh Pirates,1.0,1.0,Y,0.4583333333333333,0,0.6,1,0.4,0
+14,14,C.Yelich o0.5 Runs Scored,Thespinzone,100,0.1,0.2,Milwaukee Brewers,C.Yelich,Texas Rangers,0.0,0.1,N,0.5163934426229508,1,0.4,0,0.7,1
+15,15,N.Lowe o0.5 Runs Scored,Thespinzone,130,0.1,0.2299999999999999,Texas Rangers,N.Lowe,Milwaukee Brewers,1.0,0.1299999999999999,N,0.4308943089430894,0,0.2,0,0.1,0
+16,16,C.Seager o0.5 RBI,Thespinzone,145,0.1,0.245,Texas Rangers,C.Seager,Milwaukee Brewers,1.0,0.145,N,0.524390243902439,1,0.4,0,0.7,1
+17,17,M.Garver o0.5 RBI,Thespinzone,195,0.1,0.295,Texas Rangers,M.Garver,Milwaukee Brewers,1.0,0.195,N,0.3018867924528302,0,0.2,0,0.1,0
+18,18,A.Garcia o0.5 RBI,Thespinzone,165,0.1,0.265,Texas Rangers,A.Garcia,Milwaukee Brewers,1.0,0.165,N,0.4132231404958678,0,0.2,0,0.1,0
+19,19,A.Bohm o0.5 RBI,Thespinzone,170,0.1,0.27,Philadelphia Phillies,A.Bohm,Washington Nationals,0.0,0.17,Y,0.3909090909090909,0,0.4,0,0.2,0
+20,20,I.Vargas o0.5 RBI,Thespinzone,200,0.1,0.3,Washington Nationals,I.Vargas,Philadelphia Phillies,1.0,0.2,N,0.1929824561403508,0,0.0,0,0.0,0
+21,21,S.Garrett o0.5 RBI,Thespinzone,148,0.1,0.248,Washington Nationals,S.Garrett,Philadelphia Phillies,1.0,0.148,N,0.2988505747126437,0,0.6,1,0.8,1
+22,22,J.Irvin u4.5 Ks,charliedisturco,108,0.5,1.04,Washington Nationals,J.Irvin,Philadelphia Phillies,1.0,0.54,N,0.6111111111111112,1,0.2,0,0.5,0
+23,23,D.Schneider o0.5 RBI,Thespinzone,170,0.1,0.27,Toronto Blue Jays,D.Schneider,Cincinnati Reds,0.0,0.17,Y,0.5,0,0.4,0,0.5,0
+24,24,D.Schneider o0.5 HR,Thespinzone,450,0.08,0.44,Toronto Blue Jays,D.Schneider,Cincinnati Reds,0.0,0.36,Y,0.5,0,0.4,0,0.5,0
+25,25,W.Benson o0.5 Runs Scored,Thespinzone,185,0.1,0.285,Cincinnati Reds,W.Benson,Toronto Blue Jays,1.0,0.185,N,0.3157894736842105,0,0.0,0,0.0,0
+26,26,C.Morel o0.5 RBI,Thespinzone,185,0.1,0.285,Chicago Cubs,C.Morel,Kansas City Royals,1.0,0.185,N,0.419753086419753,0,0.4,0,0.2,0
+27,27,F.Fermin o0.5 RBI,Thespinzone,190,0.19,0.5509999999999999,Kansas City Royals,F.Fermin,Chicago Cubs,0.0,0.3609999999999999,Y,0.3728813559322034,0,0.4,0,0.2,0
+28,28,C.Bellinger o0.5 Runs Scored,Thespinzone,105,0.11,0.2254999999999999,Chicago Cubs,C.Bellinger,Kansas City Royals,1.0,0.1154999999999999,Y,0.5483870967741935,1,0.4,0,0.2,0
+29,29,J.Steele u6.5 Ks,PropBetGuy,-126,1.26,2.26,Chicago Cubs,J.Steele,Kansas City Royals,1.0,0.9999999999999998,N,0.6818181818181818,1,0.4,0,0.6,1
+30,30,J.Soler o0.5 HR,Thespinzone,310,0.1,0.41,Miami Marlins,J.Soler,Los Angeles Dodgers,0.0,0.3099999999999999,N,0.2314049586776859,0,0.4,0,0.7,1
+31,31,J.Soler o0.5 RBI,Thespinzone,165,0.1,0.265,Miami Marlins,J.Soler,Los Angeles Dodgers,0.0,0.165,N,0.371900826446281,0,0.4,0,0.7,1
+32,32,M.Muncy o0.5 RBI,Thespinzone,140,0.1,0.24,Los Angeles Dodgers,M.Muncy,Miami Marlins,1.0,0.1399999999999999,N,0.3980582524271844,0,0.2,0,0.1,0
+33,33,F.Freeman o0.5 Runs Scored,Thespinzone,-110,0.1,0.1909090909090909,Los Angeles Dodgers,F.Freeman,Miami Marlins,1.0,0.0909090909090909,N,0.5887096774193549,1,0.2,0,0.1,0
+34,34,W.Smith o0.5 RBI,Thespinzone,145,0.1,0.245,Los Angeles Dodgers,W.Smith,Miami Marlins,1.0,0.145,N,0.404040404040404,0,0.2,0,0.1,0
+35,35,H.Kim o0.5 Runs Scored,Thespinzone,115,0.11,0.2365,San Diego Padres,H.Kim,Arizona Diamondbacks,1.0,0.1265,Y,0.4462809917355372,0,0.6,1,0.8,1
+36,36,C.Carroll o0.5 HR,Thespinzone,500,0.08,0.48,Arizona Diamondbacks,C.Carroll,San Diego Padres,0.0,0.3999999999999999,N,0.1322314049586777,0,0.0,0,0.0,0
+37,37,T.Pham o0.5 RBI,Thespinzone,180,0.18,0.504,Arizona Diamondbacks,T.Pham,San Diego Padres,0.0,0.324,Y,0.7058823529411765,1,0.6,1,0.8,1
+38,38,S.Ohtani o0.5 Runs Scored,Thespinzone,110,0.1,0.21,Los Angeles Angels,S.Ohtani,Tampa Bay Rays,1.0,0.11,N,0.5609756097560976,1,0.6,1,0.3,0
+39,39,B.Drury o0.5 RBI,Thespinzone,190,0.19,0.5509999999999999,Los Angeles Angels,B.Drury,Tampa Bay Rays,1.0,0.3609999999999999,Y,0.3406593406593406,0,0.6,1,0.3,0
+40,40,K.Crawford u4.5 Ks,Thespinzone,125,0.08,0.18,Boston Red Sox,K.Crawford,New York Yankees,0.0,0.0999999999999999,N,0.5,0,0.0,0,0.2,0
+41,41,G.Stanton o0.5 RBI,Thespinzone,135,0.1,0.235,New York Yankees,G.Stanton,Boston Red Sox,1.0,0.135,N,0.3243243243243243,0,0.0,0,0.0,0
+42,42,R.Devers o0.5 RBI,Thespinzone,165,0.17,0.4505,Boston Red Sox,R.Devers,New York Yankees,0.0,0.2804999999999999,Y,0.4273504273504273,0,0.6,1,0.3,0
 0,0,A.Abbott u6.5 Ks,cowhitchurch,-120,0.6,1.1,Cincinnati Reds,A.Abbott,Colorado Rockies,1.0,0.5000000000000001,N,0.75,1,0.75,1,0.75,1
 1,1,A.Abbott o6.5 Ks,AnthonyDabbundo,-102,0.51,1.01,Cincinnati Reds,A.Abbott,Colorado Rockies,1.0,0.5,Y,0.25,0,0.25,0,0.25,0
 2,2,C.Morel o0.5 RBI,Thespinzone,160,0.1,0.26,Chicago Cubs,C.Morel,Pittsburgh Pirates,0.0,0.16,N,0.4411764705882353,0,0.2,0,0.4,0
