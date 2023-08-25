@@ -1868,6 +1868,31 @@
 14,16,C.Perez o0.5 RBI,Thespinzone,190,0.1,0.29,Oakland Athletics,C.Perez,Kansas City Royals,1.0,0.1899999999999999,N,0.2711864406779661,0,0.2,0,0.1,0
 15,17,M.Kopech u5.5 Ks,PropBetGuy,-122,1.0,1.819672131147541,Chicago White Sox,M.Kopech,Seattle Mariners,1.0,0.819672131147541,Y,0.6956521739130435,1,1.0,1,1.0,1
 16,18,J.Luplow o0.5 Runs Scored,Thespinzone,220,0.1,0.32,Minnesota Twins,J.Luplow,Milwaukee Brewers,0.0,0.22,N,0.1428571428571428,0,0.2,0,0.1428571428571428,0
+0,0,P.Lopez o6.5 strikeouts,Teddy Ricketson,-130,1.0,1.7692307692307692,Minnesota Twins,P.Lopez,Texas Rangers,1.0,0.7692307692307692,N,0.68,1,0.6,1,0.7,1
+1,1,Z.Gelof o1.5 total bases,Teddy Ricketson,-115,1.0,1.869565217391304,Oakland Athletics,Z.Gelof,Chicago White Sox,0.0,0.8695652173913042,Y,0.4444444444444444,0,0.6,1,0.4,0
+2,2,C.Seager o0.5 RBI,Thespinzone,125,0.1,0.225,Texas Rangers,C.Seager,Minnesota Twins,0.0,0.125,Y,0.5348837209302325,1,0.6,1,0.6,1
+3,3,A.Garcia o0.5 RBI,Thespinzone,150,0.1,0.25,Texas Rangers,A.Garcia,Minnesota Twins,0.0,0.15,N,0.4112903225806452,0,0.4,0,0.2,0
+4,4,J.Polanco o0.5 RBI,Thespinzone,190,0.1,0.29,Minnesota Twins,J.Polanco,Texas Rangers,1.0,0.1899999999999999,N,0.2727272727272727,0,0.2,0,0.3,0
+5,5,A.Heaney o8.5 Ks,cowhitchurch,1200,0.25,3.25,Texas Rangers,A.Heaney,Minnesota Twins,0.0,3.0,N,0.125,0,0.2,0,0.1,0
+6,6,A.Heaney o6.5 Ks,cowhitchurch,300,0.5,2.0,Texas Rangers,A.Heaney,Minnesota Twins,0.0,1.5,N,0.2083333333333333,0,0.2,0,0.2,0
+7,7,A.Heaney o7.5 Ks,cowhitchurch,630,0.25,1.825,Texas Rangers,A.Heaney,Minnesota Twins,0.0,1.575,N,0.1666666666666666,0,0.2,0,0.2,0
+8,8,A.Heaney o4.5 Ks,cowhitchurch,-118,1.0,1.847457627118644,Texas Rangers,A.Heaney,Minnesota Twins,0.0,0.847457627118644,Y,0.5833333333333334,1,0.4,0,0.4,0
+9,9,A.Heaney o5.5 Ks,cowhitchurch,114,0.5,1.0699999999999998,Texas Rangers,A.Heaney,Minnesota Twins,0.0,0.5699999999999998,N,0.2916666666666667,0,0.2,0,0.2,0
+10,10,G.Henderson o0.5 RBI,Thespinzone,180,0.1,0.2799999999999999,Baltimore Orioles,G.Henderson,Toronto Blue Jays,1.0,0.1799999999999999,Y,0.3448275862068966,0,0.4,0,0.6,1
+11,11,C.Walker o0.5 RBI,Thespinzone,130,0.1,0.2299999999999999,Arizona Diamondbacks,C.Walker,Cincinnati Reds,1.0,0.1299999999999999,N,0.424,0,0.4,0,0.5,0
+12,12,T.Pham o0.5 RBI,Thespinzone,150,0.1,0.25,Arizona Diamondbacks,T.Pham,Cincinnati Reds,1.0,0.15,N,0.7,1,0.6,1,0.7,1
+13,13,C.Bellinger o0.5 Runs Scored,Thespinzone,115,0.1,0.215,Chicago Cubs,C.Bellinger,Pittsburgh Pirates,0.0,0.1149999999999999,N,0.5306122448979592,1,0.2,0,0.3,0
+14,14,E.Jimenez o0.5 RBI,Thespinzone,120,0.1,0.22,Chicago White Sox,E.Jimenez,Oakland Athletics,1.0,0.12,N,0.3777777777777777,0,0.2,0,0.1,0
+15,15,A.Judge o0.5 HR,Thespinzone,200,0.2,0.6000000000000001,New York Yankees,A.Judge,Washington Nationals,1.0,0.4000000000000001,Y,0.2297297297297297,0,0.6,1,0.4,0
+16,16,H.Bader o0.5 RBI,Thespinzone,145,0.1,0.245,New York Yankees,H.Bader,Washington Nationals,1.0,0.145,N,0.2658227848101265,0,0.0,0,0.0,0
+17,17,J.Meneses o0.5 RBI,Thespinzone,205,0.21,0.6405,Washington Nationals,J.Meneses,New York Yankees,0.0,0.4305,Y,0.3416666666666667,0,0.4,0,0.3,0
+18,18,A.Duvall o0.5 RBI,Thespinzone,145,0.15,0.3675,Boston Red Sox,A.Duvall,Houston Astros,0.0,0.2175,Y,0.3692307692307692,0,0.8,1,0.4,0
+19,19,A.Bregman o0.5 RBI,Thespinzone,185,0.19,0.5415,Houston Astros,A.Bregman,Boston Red Sox,1.0,0.3515,Y,0.4375,0,0.6,1,0.7,1
+20,20,K.Tucker o0.5 RBI,Thespinzone,135,0.1,0.235,Houston Astros,K.Tucker,Boston Red Sox,1.0,0.135,N,0.456,0,0.4,0,0.7,1
+21,21,R.Devers o0.5 RBI,Thespinzone,180,0.18,0.504,Boston Red Sox,R.Devers,Houston Astros,0.0,0.324,Y,0.4262295081967213,0,0.4,0,0.5,0
+22,22,C.Blackmon o0.5 Runs Scored,Thespinzone,140,0.14,0.336,Colorado Rockies,C.Blackmon,Tampa Bay Rays,0.0,0.196,Y,0.5571428571428572,1,0.8,1,0.8,1
+23,23,R.McMahon o0.5 RBI,Thespinzone,230,0.1,0.33,Colorado Rockies,R.McMahon,Tampa Bay Rays,0.0,0.23,N,0.3739837398373983,0,0.0,0,0.5,0
+24,24,J.Lowe o0.5 RBI,Thespinzone,140,0.14,0.336,Tampa Bay Rays,J.Lowe,Colorado Rockies,1.0,0.196,Y,0.3925233644859813,0,0.6,1,0.5,0
 0,0,B.Harper o1.5 hits,Henry Palattella,175,1.0,2.75,Philadelphia Phillies,B.Harper,Milwaukee Brewers,1.0,1.75,N,0.3770491803278688,0,0.4,0,0.4,0
 1,1,B.Harper o1.5 total bases,Dan Servodidio,-110,1.0,1.9090909090909087,Philadelphia Phillies,B.Harper,Milwaukee Brewers,1.0,0.9090909090909092,N,0.4590163934426229,0,0.4,0,0.5,0
 2,2,N.Eovaldi o5.5 strikeouts,Dan Servodidio,-110,1.0,1.9090909090909087,Texas Rangers,N.Eovaldi,Tampa Bay Rays,1.0,0.9090909090909092,N,0.4736842105263157,0,0.0,0,0.3,0
