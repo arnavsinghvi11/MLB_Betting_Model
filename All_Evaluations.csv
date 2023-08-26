@@ -2338,6 +2338,22 @@
 22,22,R.Devers o1.5 hits,Henry Palattella,200,1.0,3.0,Boston Red Sox,R.Devers,Baltimore Orioles,1.0,2.0,Y,1.0,1,1.0,1,1.0,1
 23,23,B.Lowe o0.5 home runs,Henry Palattella,550,1.0,6.5,Tampa Bay Rays,B.Lowe,Detroit Tigers,1.0,5.5,N,0.0,0,0.0,0,0.0,0
 24,24,B.Snell u6.5 strikeouts,Henry Palattella,-125,1.0,1.8,San Diego Padres,B.Snell,Colorado Rockies,1.0,0.8,N,0.0,0,0.0,0,0.0,0
+0,0,S.Strider o8.5 strikeouts,Teddy Ricketson,-140,1.0,1.7142857142857144,Atlanta Braves,S.Strider,San Francisco Giants,0.0,0.7142857142857144,Y,0.76,1,0.8,1,0.9,1
+1,1,J.Rojas o0.5 hits,Teddy Ricketson,-160,1.0,1.625,Philadelphia Phillies,J.Rojas,St. Louis Cardinals,1.0,0.625,N,0.6363636363636364,1,0.4,0,0.6,1
+2,2,S.Gray o5.5 strikeouts,Teddy Ricketson,-135,1.0,1.7407407407407407,Minnesota Twins,S.Gray,Texas Rangers,1.0,0.7407407407407407,N,0.44,0,0.6,1,0.4,0
+3,3,F.Valdez o2.5 Earned Runs,Dan Servodidio,-110,1.0,1.9090909090909087,Houston Astros,F.Valdez,Detroit Tigers,0.0,0.9090909090909092,N,0.4166666666666667,0,0.6,1,0.6,1
+4,4,B.Woodruff u4.5 Hits Allowed,Dan Servodidio,-110,1.0,1.9090909090909087,Milwaukee Brewers,B.Woodruff,San Diego Padres,1.0,0.9090909090909092,Y,1.0,1,1.0,1,1.0,1
+5,5,K.Tucker o0.5 RBI,Thespinzone,160,0.15,0.39,Houston Astros,K.Tucker,Detroit Tigers,0.0,0.24,N,0.4523809523809524,0,0.4,0,0.6,1
+6,6,P.Meadows o0.5 Runs Scored,Thespinzone,190,0.15,0.435,Detroit Tigers,P.Meadows,Houston Astros,1.0,0.285,Y,0.5,0,0.5,0,0.5,0
+7,7,C.Kieboom o0.5 HR,Thespinzone,800,0.08,0.72,Washington Nationals,C.Kieboom,Miami Marlins,0.0,0.64,N,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0
+8,8,C.Kieboom o0.5 RBI,Thespinzone,250,0.1,0.35,Washington Nationals,C.Kieboom,Miami Marlins,0.0,0.25,Y,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1
+9,9,I.Vargas o0.5 RBI,Thespinzone,220,0.15,0.48,Washington Nationals,I.Vargas,Miami Marlins,0.0,0.3299999999999999,N,0.1774193548387097,0,0.0,0,0.0,0
+10,10,D.Cease u7.5 Ks,PropBetGuy,110,1.0,2.1,Chicago White Sox,D.Cease,Oakland Athletics,1.0,1.1,Y,0.6923076923076923,1,1.0,1,0.7,1
+11,11,R.Mountcastle o0.5 RBI,Thespinzone,125,0.15,0.3374999999999999,Baltimore Orioles,R.Mountcastle,Colorado Rockies,1.0,0.1874999999999999,Y,0.3402061855670103,0,0.6,1,0.6,1
+12,12,R.Mountcastle o0.5 HR,Thespinzone,380,0.08,0.384,Baltimore Orioles,R.Mountcastle,Colorado Rockies,1.0,0.304,Y,0.134020618556701,0,0.4,0,0.3,0
+13,13,R.Mountcastle o0.5 HR,charliedisturco,390,0.2,0.98,Baltimore Orioles,R.Mountcastle,Colorado Rockies,1.0,0.78,Y,0.134020618556701,0,0.4,0,0.3,0
+14,14,B.Harper o0.5 HR,charliedisturco,390,0.2,0.98,Philadelphia Phillies,B.Harper,St. Louis Cardinals,1.0,0.78,N,0.1041666666666666,0,0.6,1,0.4,0
+15,15,K.Senga o6.5 Ks,PropBetGuy,-120,1.2,2.2,New York Mets,K.Senga,Los Angeles Angels,1.0,1.0000000000000002,Y,0.5,0,0.2,0,0.5,0
 0,0,M.Gonzales u4.5 Ks,GreenDotDaily,-105,1.0,1.9523809523809523,Seattle Mariners,M.Gonzales,Milwaukee Brewers,1.0,0.9523809523809524,N,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0
 1,1,M.Gonzales u4.5 Ks,The_Oddsmaker,-105,1.05,2.05,Seattle Mariners,M.Gonzales,Milwaukee Brewers,1.0,0.9999999999999998,N,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0
 2,2,M.Gonzales u4.5 Ks,charliedisturco,-105,0.53,1.0347619047619048,Seattle Mariners,M.Gonzales,Milwaukee Brewers,1.0,0.5047619047619047,N,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0
