@@ -557,6 +557,36 @@
 13,13,M.Machado o0.5 HR,charliedisturco,525,0.1,0.625,San Diego Padres,M.Machado,San Francisco Giants,0.0,0.525,N,0.1071428571428571,0,0.2,0,0.3,0
 14,14,H.Brown o5.5 Ks,JoeDellera,-118,0.5,0.923728813559322,Houston Astros,H.Brown,New York Mets,1.0,0.423728813559322,Y,0.5714285714285714,1,0.6,1,0.6,1
 15,15,N.Arenado o0.5 RBI,Thespinzone,115,0.1,0.215,St. Louis Cardinals,N.Arenado,Washington Nationals,0.0,0.1149999999999999,Y,0.4,0,0.4,0,0.5,0
+0,0,E.Perez o6.5 strikeouts,Chris Landers,115,1.0,2.15,Miami Marlins,E.Perez,Washington Nationals,1.0,1.15,Y,0.5,0,0.8,1,0.6,1
+1,1,Z.Wheeler u7.5 strikeouts,Chris Landers,-165,1.0,1.606060606060606,Philadelphia Phillies,Z.Wheeler,St. Louis Cardinals,1.0,0.606060606060606,N,0.75,1,0.8,1,0.9,1
+2,2,K.Bradish o6.5 Strikeouts,Colby Conway,-110,1.0,1.9090909090909087,Baltimore Orioles,K.Bradish,Colorado Rockies,1.0,0.9090909090909092,Y,0.3478260869565217,0,0.6,1,0.6,1
+3,3,C.Blackmon o0.5 Runs Scored,Thespinzone,150,0.1,0.25,Colorado Rockies,C.Blackmon,Baltimore Orioles,0.0,0.15,N,0.5555555555555556,1,0.6,1,0.7,1
+4,4,N.Jones o0.5 RBI,Thespinzone,225,0.1,0.325,Colorado Rockies,N.Jones,Baltimore Orioles,0.0,0.225,N,0.273972602739726,0,0.2,0,0.4,0
+5,5,G.Henderson o0.5 RBI,Thespinzone,150,0.1,0.25,Baltimore Orioles,G.Henderson,Colorado Rockies,1.0,0.15,N,0.3474576271186441,0,0.4,0,0.5,0
+6,6,B.Drury o0.5 RBI,Thespinzone,155,0.15,0.3824999999999999,Los Angeles Angels,B.Drury,New York Mets,0.0,0.2324999999999999,Y,0.3684210526315789,0,1.0,1,0.7,1
+7,7,Z.Gelof o0.5 Runs Scored,Thespinzone,110,0.1,0.21,Oakland Athletics,Z.Gelof,Chicago White Sox,0.0,0.11,N,0.3684210526315789,0,0.4,0,0.5,0
+8,8,S.Brown o0.5 RBI,Thespinzone,140,0.1,0.24,Oakland Athletics,S.Brown,Chicago White Sox,0.0,0.1399999999999999,N,0.2941176470588235,0,0.0,0,0.3,0
+9,9,R.Palacios o0.5 RBI,Thespinzone,245,0.15,0.5175,St. Louis Cardinals,R.Palacios,Philadelphia Phillies,0.0,0.3674999999999999,N,0.5,0,0.6,1,0.5,0
+10,10,A.Garcia o0.5 RBI,Thespinzone,165,0.15,0.3974999999999999,Texas Rangers,A.Garcia,Minnesota Twins,0.0,0.2474999999999999,Y,0.4126984126984127,0,0.4,0,0.3,0
+11,11,C.Bellinger o0.5 Runs Scored,Thespinzone,125,0.1,0.225,Chicago Cubs,C.Bellinger,Pittsburgh Pirates,0.0,0.125,Y,0.53,1,0.4,0,0.4,0
+12,12,L.Peguero o0.5 RBI,Thespinzone,230,0.15,0.4949999999999999,Pittsburgh Pirates,L.Peguero,Chicago Cubs,1.0,0.345,Y,0.4516129032258064,0,0.4,0,0.4,0
+13,13,P.Meadows o0.5 RBI,Thespinzone,230,0.1,0.33,Detroit Tigers,P.Meadows,Houston Astros,1.0,0.23,Y,0.4,0,0.4,0,0.4,0
+14,14,K.Tucker o0.5 RBI,Thespinzone,155,0.15,0.3824999999999999,Houston Astros,K.Tucker,Detroit Tigers,0.0,0.2324999999999999,N,0.4488188976377952,0,0.4,0,0.5,0
+15,15,K.Carpenter o0.5 RBI,Thespinzone,185,0.1,0.285,Detroit Tigers,K.Carpenter,Houston Astros,1.0,0.185,N,0.3218390804597701,0,0.6,1,0.7,1
+16,16,R.Refsnyder u0.5 Hits,SBK5065,185,0.5,1.425,Boston Red Sox,R.Refsnyder,Los Angeles Dodgers,1.0,0.925,N,0.5694444444444444,1,0.6,1,0.7,1
+17,17,F.Freeman o0.5 RBI,Thespinzone,148,0.15,0.372,Los Angeles Dodgers,F.Freeman,Boston Red Sox,0.0,0.222,N,0.3984375,0,0.4,0,0.2,0
+18,18,M.Betts o0.5 HR,Thespinzone,300,0.08,0.32,Los Angeles Dodgers,M.Betts,Boston Red Sox,0.0,0.24,N,0.2032520325203252,0,0.0,0,0.2,0
+19,19,J.Urias u5.5 Ks,PropBetGuy,-115,1.15,2.1499999999999995,Los Angeles Dodgers,J.Urias,Boston Red Sox,0.0,0.9999999999999996,N,0.5789473684210527,1,0.8,1,0.7,1
+20,20,J.Lowe o0.5 RBI,Thespinzone,175,0.18,0.495,Tampa Bay Rays,J.Lowe,New York Yankees,1.0,0.315,Y,0.3944954128440367,0,0.4,0,0.6,1
+21,21,O.Basabe o0.5 RBI,Thespinzone,250,0.15,0.525,Tampa Bay Rays,O.Basabe,New York Yankees,1.0,0.375,N,0.1875,0,0.4,0,0.3,0
+22,22,J.Meneses o0.5 RBI,Thespinzone,200,0.1,0.3,Washington Nationals,J.Meneses,Miami Marlins,0.0,0.2,N,0.3442622950819672,0,0.4,0,0.4,0
+23,23,J.Sanchez o0.5 RBI,Thespinzone,190,0.1,0.29,Miami Marlins,J.Sanchez,Washington Nationals,1.0,0.1899999999999999,N,0.2886597938144329,0,0.4,0,0.3,0
+24,24,K.Calhoun o0.5 RBI,Thespinzone,230,0.15,0.4949999999999999,Cleveland Guardians,K.Calhoun,Toronto Blue Jays,0.0,0.345,N,0.5882352941176471,1,0.4,0,0.5,0
+25,25,D.Schneider o0.5 HR,Thespinzone,575,0.43,2.9025,Toronto Blue Jays,D.Schneider,Cleveland Guardians,1.0,2.4725,Y,0.5714285714285714,1,0.6,1,0.5714285714285714,1
+26,26,D.Schneider o0.5 RBI,Thespinzone,190,0.29,0.841,Toronto Blue Jays,D.Schneider,Cleveland Guardians,1.0,0.5509999999999999,Y,0.5714285714285714,1,0.6,1,0.5714285714285714,1
+27,27,E.Suarez o0.5 RBI,Thespinzone,145,0.15,0.3675,Seattle Mariners,E.Suarez,Kansas City Royals,1.0,0.2175,N,0.4153846153846154,0,0.4,0,0.4,0
+28,28,E.Rosario o0.5 RBI,Thespinzone,210,0.21,0.651,Atlanta Braves,E.Rosario,San Francisco Giants,0.0,0.441,Y,0.2743362831858407,0,0.6,1,0.5,0
+29,29,M.Olson o0.5 RBI,Thespinzone,150,0.22,0.55,Atlanta Braves,M.Olson,San Francisco Giants,0.0,0.33,Y,0.4488188976377952,0,0.4,0,0.3,0
 0,0,J.Springs o5.5 Ks,JoeDellera,-160,0.25,0.40625,Tampa Bay Rays,J.Springs,Boston Red Sox,1.0,0.15625,N,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1
 1,1,S.Turnbull o2.5 Earned Runs,GreenDotDaily,-166,1.0,1.6024096385542168,Detroit Tigers,S.Turnbull,Toronto Blue Jays,0.0,0.6024096385542168,N,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1
 2,2,V.Velasquez u4.0 strikeouts,Dan Servodidio,-110,1.0,1.9090909090909087,Pittsburgh Pirates,V.Velasquez,St. Louis Cardinals,0.0,0.9090909090909088,N,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1
