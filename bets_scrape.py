@@ -263,7 +263,9 @@ class Bets:
             df['Props'] = df['Props'].str.replace(r'(OVER|UNDER) (\d+\.?\d*)', r'\1\2')
             df['Props'] = df['Props'].str.replace('OVER', 'o').str.replace('UNDER', 'u')
             df['Props'] = df['Props'].str.replace('HIGHER than', 'o').str.replace('LOWER than', 'u')
+            df['Props'] = df['Props'].str.replace('HIGHER Than', 'o').str.replace('LOWER Than', 'u')
             df['Props'] = df['Props'].str.replace('MORE than', 'o').str.replace('LESS than', 'u')
+            df['Props'] = df['Props'].str.replace('MORE Than', 'o').str.replace('LESS Than', 'u')
             df['Props'] = df['Props'].apply(self.convert_value)
             df['First Initial'] = df['Props'].str.split().str[:1].str.join(' ').str.replace('[,.]', '').str[:1].str.capitalize() + '.'
             df['Last Name'] = df['Props'].str.split().str[1:2].str.join(' ').str.replace('[,.]', '').str.capitalize()
