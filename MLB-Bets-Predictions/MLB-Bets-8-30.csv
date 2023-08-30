@@ -1,7 +1,35 @@
 ,Play,Expert,Odds,Units,Payout,Profit,Name,Team,Opponent,Hmcrt_adv
 0,L.Webb u2.5 earned runs,Chris Landers,-120,1,1.8333333333333335,0.8333333333333335,L.Webb,San Francisco Giants,Cincinnati Reds,1.0
 1,G.Cole o7.5 Strikeouts,Dan Servodidio,-110,1.0,1.9090909090909092,0.9090909090909092,G.Cole,New York Yankees,Detroit Tigers,0.0
-2,A.Bohm o0.5 RBI,Thespinzone,+135,0.1,0.23500000000000001,0.135,A.Bohm,Philadelphia Phillies,Los Angeles Angels,1.0
-3,G.Henderson o0.5 RBI,Thespinzone,+155,0.1,0.255,0.155,G.Henderson,Baltimore Orioles,Chicago White Sox,1.0
-6,B.Woodruff u7.5 Ks,PropBetGuy,-125,1.25,2.25,1.0,B.Woodruff,Milwaukee Brewers,Chicago Cubs,0.0
-11,C.Seager o0.5 HR,charliedisturco,+250,0.25,0.875,0.625,C.Seager,Texas Rangers,New York Mets,0.0
+2,I.Paredes o0.5 RBI,Thespinzone,+170,0.15,0.405,0.255,I.Paredes,Tampa Bay Rays,Miami Marlins,0.0
+3,R.Arozarena o0.5 Runs Scored,Thespinzone,+117,0.15,0.32549999999999996,0.17549999999999996,R.Arozarena,Tampa Bay Rays,Miami Marlins,0.0
+4,J.Burger o0.5 RBI,Thespinzone,+195,0.1,0.29500000000000004,0.19500000000000003,J.Burger,Miami Marlins,Tampa Bay Rays,1.0
+5,J.Luzardo o4.5 Hits Allowed,PropBetGuy,-125,1.25,2.25,1.0,J.Luzardo,Miami Marlins,Tampa Bay Rays,1.0
+8,P.Meadows o0.5 RBI,Thespinzone,+285,0.15,0.5775,0.4275,P.Meadows,Detroit Tigers,New York Yankees,1.0
+9,A.Judge o0.5 RBI,Thespinzone,+150,0.15,0.375,0.225,A.Judge,New York Yankees,Detroit Tigers,0.0
+10,A.Judge o0.5 HR,Thespinzone,+275,0.1,0.375,0.275,A.Judge,New York Yankees,Detroit Tigers,0.0
+11,G.Stanton o0.5 HR,charliedisturco,+380,0.25,1.2,0.95,G.Stanton,New York Yankees,Detroit Tigers,0.0
+12,C.Seager o0.5 RBI,Thespinzone,+112,0.1,0.21200000000000002,0.11200000000000002,C.Seager,Texas Rangers,New York Mets,0.0
+13,M.Garver o0.5 RBI,Thespinzone,+148,0.1,0.248,0.148,M.Garver,Texas Rangers,New York Mets,0.0
+14,J.Heim o0.5 RBI,Thespinzone,+160,0.1,0.26,0.16,J.Heim,Texas Rangers,New York Mets,0.0
+15,C.Seager o0.5 HR,charliedisturco,+250,0.25,0.875,0.625,C.Seager,Texas Rangers,New York Mets,0.0
+16,S.Murphy o0.5 HR,charliedisturco,+390,0.25,1.225,0.9750000000000001,S.Murphy,Atlanta Braves,Colorado Rockies,0.0
+19,Z.Gelof o0.5 Runs Scored,Thespinzone,+145,0.1,0.24500000000000002,0.14500000000000002,Z.Gelof,Oakland Athletics,Seattle Mariners,0.0
+20,S.Brown o0.5 RBI,Thespinzone,+175,0.1,0.275,0.17500000000000002,S.Brown,Oakland Athletics,Seattle Mariners,0.0
+23,T.Edman o1.5 Total Bases,charliedisturco,+105,0.53,1.0865,0.5565,T.Edman,St. Louis Cardinals,San Diego Padres,1.0
+24,W.Contreras o0.5 RBI,NicholaskMartin,+150,0.5,1.25,0.75,W.Contreras,Milwaukee Brewers,Chicago Cubs,0.0
+25,W.Contreras o1.5 Total Bases,NicholaskMartin,+100,0.5,1.0,0.5,W.Contreras,Milwaukee Brewers,Chicago Cubs,0.0
+26,M.Machado o0.5 RBI,NicholaskMartin,+125,0.63,1.4175,0.7875,M.Machado,San Diego Padres,St. Louis Cardinals,0.0
+27,H.Kim o0.5 Runs Scored,Thespinzone,+102,0.15,0.303,0.153,H.Kim,San Diego Padres,St. Louis Cardinals,0.0
+28,J.Soto o0.5 RBI,Thespinzone,+155,0.23,0.5865,0.35650000000000004,J.Soto,San Diego Padres,St. Louis Cardinals,0.0
+29,W.Contreras o0.5 RBI,Thespinzone,+135,0.15,0.3525,0.20249999999999999,W.Contreras,Milwaukee Brewers,Chicago Cubs,0.0
+30,A.Kirk o0.5 RBI,NicholaskMartin,+165,0.83,2.1995,1.3695,A.Kirk,Toronto Blue Jays,Washington Nationals,1.0
+31,D.Schneider o0.5 HR,Thespinzone,+500,0.15,0.8999999999999999,0.7499999999999999,D.Schneider,Toronto Blue Jays,Washington Nationals,1.0
+32,D.Schneider o0.5 RBI,Thespinzone,+170,0.15,0.405,0.255,D.Schneider,Toronto Blue Jays,Washington Nationals,1.0
+34,S.Espinal o0.5 HR,NicholaskMartin,+1225,0.1,1.3250000000000002,1.225,S.Espinal,Toronto Blue Jays,Washington Nationals,1.0
+36,C.Bellinger o0.5 Runs Scored,Thespinzone,+160,0.15,0.39,0.24000000000000002,C.Bellinger,Chicago Cubs,Milwaukee Brewers,1.0
+37,M.Tauchman o0.5 Runs Scored,Thespinzone,+155,0.16,0.408,0.24799999999999997,M.Tauchman,Chicago Cubs,Milwaukee Brewers,1.0
+39,B.Woodruff u7.5 Ks,PropBetGuy,-125,1.25,2.25,1.0,B.Woodruff,Milwaukee Brewers,Chicago Cubs,0.0
+40,A.Bohm o0.5 RBI,Thespinzone,+135,0.1,0.23500000000000001,0.135,A.Bohm,Philadelphia Phillies,Los Angeles Angels,1.0
+41,G.Henderson o0.5 RBI,Thespinzone,+155,0.1,0.255,0.155,G.Henderson,Baltimore Orioles,Chicago White Sox,1.0
+43,R.Lewis o0.5 RBI,Thespinzone,+185,0.15,0.4275,0.27749999999999997,R.Lewis,Minnesota Twins,Cleveland Guardians,1.0
