@@ -1544,6 +1544,26 @@
 21,21,M.Gore o5.5 Ks,The_Oddsmaker,125,1.25,2.8125,Washington Nationals,M.Gore,Los Angeles Angels,0.0,1.5625,Y,1.0,1,1.0,1,1.0,1
 22,22,L.Giolito o5.5 Ks,_Collin1,105,1.05,2.1525,Chicago White Sox,L.Giolito,Minnesota Twins,0.0,1.1024999999999998,Y,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1
 23,23,C.Kershaw o6.5 strikeouts,Dan Servodidio,-110,1.0,1.9090909090909087,Los Angeles Dodgers,C.Kershaw,San Francisco Giants,0.0,0.9090909090909088,N,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0
+0,0,M.Kelly u4.5 strikeouts,Teddy Ricketson,110,1.0,2.1,Arizona Diamondbacks,M.Kelly,Los Angeles Dodgers,0.0,1.1,Y,0.3181818181818182,0,0.4,0,0.3,0
+1,1,S.Steer o0.5 hits,Teddy Ricketson,-270,1.0,1.3703703703703702,Cincinnati Reds,S.Steer,San Francisco Giants,0.0,0.3703703703703702,Y,0.6412213740458015,1,0.6,1,0.7,1
+2,2,C.Raleigh o0.5 hits,Teddy Ricketson,-150,1.0,1.6666666666666663,Seattle Mariners,C.Raleigh,Oakland Athletics,1.0,0.6666666666666665,N,0.5213675213675214,1,0.6,1,0.5,0
+3,3,C.Ragans o5.5 Strikeouts,Colby Conway,-110,1.0,1.9090909090909087,Kansas City Royals,C.Ragans,Pittsburgh Pirates,1.0,0.9090909090909092,Y,0.8333333333333334,1,1.0,1,0.8333333333333334,1
+4,4,Z.Thompson u2.5 Walks Allowed,Colby Conway,-110,1.0,1.9090909090909087,St. Louis Cardinals,Z.Thompson,San Diego Padres,1.0,0.9090909090909092,N,0.9473684210526316,1,0.8,1,0.9,1
+5,5,G.Henderson o0.5 RBI,Thespinzone,155,0.1,0.255,Baltimore Orioles,G.Henderson,Chicago White Sox,1.0,0.155,N,0.3388429752066115,0,0.2,0,0.3,0
+6,6,J.Scholtens o3.5 Ks,jimsannes,-112,1.0,1.8928571428571428,Chicago White Sox,J.Scholtens,Baltimore Orioles,0.0,0.8928571428571428,N,0.1904761904761904,0,0.6,1,0.3,0
+7,7,A.Garcia o0.5 Runs Scored,Thespinzone,-105,0.15,0.2928571428571428,Texas Rangers,A.Garcia,New York Mets,0.0,0.1428571428571428,N,0.4651162790697674,0,0.2,0,0.3,0
+8,8,A.Garcia o0.5 RBI,Thespinzone,150,0.1,0.25,Texas Rangers,A.Garcia,New York Mets,0.0,0.15,N,0.4108527131782946,0,0.4,0,0.4,0
+9,9,F.Lindor o0.5 RBI,Thespinzone,155,0.1,0.255,New York Mets,F.Lindor,Texas Rangers,1.0,0.155,N,0.3560606060606061,0,0.2,0,0.3,0
+10,10,A.Heaney u5.5 Ks,jimsannes,-112,1.0,1.8928571428571428,Texas Rangers,A.Heaney,New York Mets,0.0,0.8928571428571428,N,0.68,1,0.6,1,0.7,1
+11,11,K.Tucker o0.5 RBI,Thespinzone,120,0.1,0.22,Houston Astros,K.Tucker,Boston Red Sox,0.0,0.12,N,0.4461538461538462,0,0.2,0,0.3,0
+12,12,A.Duvall o0.5 RBI,Thespinzone,110,0.15,0.315,Boston Red Sox,A.Duvall,Houston Astros,1.0,0.165,Y,0.4,0,0.8,1,0.8,1
+13,13,J.Turner o0.5 HR,jimsannes,500,0.5,3.0,Boston Red Sox,J.Turner,Houston Astros,1.0,2.5,N,0.1300813008130081,0,0.4,0,0.3,0
+14,14,D.Schneider o0.5 HR,Thespinzone,600,0.15,1.05,Toronto Blue Jays,D.Schneider,Washington Nationals,1.0,0.9,Y,0.6,1,0.8,1,0.6,1
+15,15,D.Schneider o0.5 RBI,Thespinzone,185,0.15,0.4275,Toronto Blue Jays,D.Schneider,Washington Nationals,1.0,0.2774999999999999,Y,0.7,1,1.0,1,0.7,1
+16,16,A.Judge o0.5 RBI,Thespinzone,145,0.1,0.245,New York Yankees,A.Judge,Detroit Tigers,0.0,0.145,N,0.379746835443038,0,0.2,0,0.4,0
+17,17,H.Bader o0.5 Runs Scored,Thespinzone,155,0.15,0.3824999999999999,New York Yankees,H.Bader,Detroit Tigers,0.0,0.2324999999999999,N,0.3571428571428571,0,0.0,0,0.2,0
+18,18,B.Drury o0.5 RBI,Thespinzone,155,0.15,0.3824999999999999,Los Angeles Angels,B.Drury,Philadelphia Phillies,0.0,0.2324999999999999,N,0.3673469387755102,0,0.6,1,0.8,1
+19,19,A.Cobb u5.5 Ks,jimsannes,-134,1.0,1.7462686567164178,San Francisco Giants,A.Cobb,Cincinnati Reds,1.0,0.7462686567164178,N,0.5833333333333334,1,0.8,1,0.7,1
 0,0,Z.Littell o4.5 strikeouts,Chris Landers,105,1.0,2.05,Tampa Bay Rays,Z.Littell,New York Yankees,1.0,1.0499999999999998,N,0.32,0,0.8,1,0.8,1
 1,1,A.Faedo u4.5 strikeouts,Chris Landers,-105,1.0,1.9523809523809523,Detroit Tigers,A.Faedo,Houston Astros,1.0,0.9523809523809524,Y,0.4375,0,0.4,0,0.3,0
 2,2,A.Marsh o4.5 Hits Allowed,Colby Conway,-110,1.0,1.9090909090909087,Kansas City Royals,A.Marsh,Seattle Mariners,0.0,0.9090909090909092,Y,0.7,1,0.6,1,0.7,1
