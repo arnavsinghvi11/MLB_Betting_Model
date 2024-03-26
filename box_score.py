@@ -11,10 +11,55 @@ class BoxScore:
     date = date.Date()
 
     def full_box_scores(self, month, day):
-        #extract yesterday's box score statistics
+        def process_html_string(html_string):
+            results = {'2B': [], '3B': [], 'HR': [], 'TB': []}
+            for line in html_string.split('<div'):
+                if "<strong>2B:</strong>" in line:
+                    category = '2B'
+                elif "<strong>3B:</strong>" in line:
+                    category = '3B'
+                elif "<strong>HR:</strong>" in line:
+                    category = 'HR'
+                elif "<strong>TB:</strong>" in line:
+                    category = 'TB'
+                else:
+                    continue
+                data1 = line.split('>', 2)[-1].rsplit('</div>', 1)[0]
+                if category != 'TB':
+                    entries = data1.split(';')
+                else:
+                    entries = data1.replace('&nbsp;', ' ').split(';')
+                data = {}
+                for entry in entries:
+                    entry = entry.replace(f"{category}:</strong>", '').strip()
+                    if category != 'TB':
+                        if '(' not in entry:
+                            continue
+                        name = entry.split('(')[0].strip()
+                        count = int(entry.split('(')[1].split(',')[0])
+                        name_parts = name.split(' ')
+                        clean_name = ' '.join(filter(lambda x: not x.isdigit(), name_parts))
+                    else:
+                        parts = entry.split()
+                        if parts:
+                            try:
+                                count = int(parts[-1])
+                                name_parts = parts[:-1]
+                            except ValueError:
+                                count = 1
+                                name_parts = parts
+                            clean_name = ' '.join(name_parts).split('.')[0]
+                    data[clean_name] = count
+                results[category].append(data)
+            return results
+        def process_ip_value(ip_str):
+            if '.' in ip_str:
+                first, second = ip_str.split('.')
+                return int(first) * 3 + int(second)
+            else:
+                return int(ip_str) * 3
         time.sleep(60)
-        total_site_data = helper_functions.site_scrape('https://www.baseball-reference.com' + '?month=' + month + '&day=' + day + '&year=2023')
-        print('got site data')
+        total_site_data = helper_functions.site_scrape('https://www.baseball-reference.com/boxes/' + '?year=2024' + '&month=' + month + '&day=' + day)
         time.sleep(60)
         links = []
         for a_href in total_site_data.find_all("a", href=True):
@@ -24,224 +69,186 @@ class BoxScore:
         hitting_box_scores, pitching_box_scores = pd.DataFrame(), pd.DataFrame()
         for link in links:
             time.sleep(10)
-            print('each link')
-            columns_hitting = {'Name': [], 'Team': [], 'Opponent': [], 'Hmcrt_adv': [], 'AB': [], 'R': [], 'H': [], 'RBI': [], 'BB': [], 'SO': [], 'PA': []}
-            a = []
             page = requests.get(link)
-            soup = BeautifulSoup(page.content, 'lxml')
-            for comment in soup.findAll(text=lambda text: isinstance(text, Comment)):
-                a.append(comment)
-            b = []
-            for val in a:
-                if 'player' in val:
-                    b.append(val)
-            hitting = b[:2]
-            for val in range(len(hitting)):
-                matches = re.findall(r'<caption>(.*?)<\/caption>', hitting[val], flags=re.DOTALL)
-                filtered_matches = [match.replace('Table', '').strip() for match in matches]
-                if len(filtered_matches) == 1:
-                    if val == 0:
-                        away = filtered_matches[0]
-                    else:
-                        home = filtered_matches[0]
-            home_team, away_team = None, None
-            for val in range(len(hitting)):
-                matches = re.findall(r'<caption>(.*?)<\/caption>', hitting[val], flags=re.DOTALL)
-                filtered_matches = [match.replace('Table', '').strip() for match in matches]
-                if len(filtered_matches) == 1:
-                    if val == 0:
-                        away_team = filtered_matches[0]
-                        home_team = None
-                    else:
-                        home_team = filtered_matches[0]
-                        away_team = None
-                x = hitting[val].split('.shtml">')
-                x = x[1:]
-                for i in range(len(x)):
-                    if '</a> P</th>' not in x[i]:
-                        name = x[i].split('</a>')[0]
-                        stats = re.findall('["][A-Za-z]+["]', x[i].split('</a>')[1])
-                        stats_values = re.findall(">\d+<", x[i].split('</a>')[1])
-                        stats = [j.replace('"', '') for j in stats][:7]
-                        stats_values = [j.replace('>', '') for j in stats_values]
-                        stats_values = [j.replace('<', '') for j in stats_values][:7]
-                        if away_team:
-                            for value in reversed([name, away_team, home, 0]):
-                                stats_values.insert(0, value)
-                        if home_team:
-                            for value in reversed([name, home_team, away, 1]):
-                                stats_values.insert(0, value)
-                        if len(stats_values) == len(columns_hitting):
-                            count = 0
-                            for key in columns_hitting.keys():
-                                columns_hitting[key].append(stats_values[count])
-                                count += 1
-            hitting_box_score = pd.DataFrame.from_dict(columns_hitting)
-            #add home and away teams logic 
-            # Adding Total Bases to dataframe
-            if len(hitting[0].split('TB:')) != 1:
-                total_base_values = re.findall("( [A-Z]\.[A-Z]\.)| ([a-z'A-z]+)|([A-Z][a-zA-z]+)|( \d+)",
-                                            hitting[0].split('TB:')[1].split('</div')[0])
-                indexer = -1
-                lst = []
-                for tb in total_base_values:
-                    for data in tb:
-                        if data:
-                            lst.append(data.strip())
-                tb_entry = []
-                if len(lst) < 3:
-                    name = lst[0] + ' ' + lst[1]
-                    tb_entry.append([name, 1])
-                else:
-                    for data in range(2, len(lst), 3):
-                        if str(lst[data]).strip().isnumeric():
-                            name = str(lst[data - 2]) + ' ' + str(lst[data - 1])
-                            tb_entry.append([name, int(str(lst[data]).strip())])
-                        else:
-                            break
-                    if len(lst) - data <= 3:
-                        name = str(lst[len(lst) - 2]) + ' ' + str(lst[len(lst) - 1])
-                        tb_entry.append([name, 1])
-                    else:
-                        for data1 in range(data, len(lst) + 1, 2):
-                            name = str(lst[data1 - 2]) + ' ' + str(lst[data1 - 1])
-                            tb_entry.append([name, 1])
-                hitting_box_score['TB'] = 0
-                for plyr in tb_entry:
-                    hitting_box_score.loc[hitting_box_score['Name'] == plyr[0], 'TB'] = plyr[1]
+            soup = BeautifulSoup(page.content)
+            title = soup.title.string
+            match = re.match(r"(.+) vs (.+) Box Score", title)
+            if match:
+                away = match.group(1)
+                home = match.group(2)
             else:
-                hitting_box_score['TB'] = 0
-
-            if len(hitting[0].split('HR:')) != 1:
-                homerun_values = re.findall("( [A-z ,.'-]+ \()|( [A-z ,.'-]+ \d+ \()",
-                                            hitting[0].split('HR:')[1].split('</div>')[0])
-                hr_values = []
-                for j in homerun_values:
-                    for k in j:
-                        if k:
-                            hr_values.append(k)
-                hr_values = [hr.strip().replace('(', '').strip() for hr in hr_values]
-                hr_data = []
-                for j in hr_values:
-                    if j[-1].isnumeric():
-                        hr_data.append([j[:-2], j[-1]])
+                away, home = None, None
+            divs = soup.find_all("div", id=lambda x: x and x.endswith("batting"))
+            for div in divs:
+                inner_html = ''.join([str(x) for x in div.contents])
+                columns = ['Name', 'Team', 'Opponent', 'Hmcrt_adv',  '1B', '2B', '3B', 'AB', 'BB', 'H', 'HR', 'OBP', 'OPS', 'PA', 'R', 'RBI', 'RE24', 'SLG', 'SO', 'TB', 'WPA', 'aLI', 'acLI', 'cWPA', 'H+R+RBI']
+                data_rows = []
+                page_content = inner_html
+                team_sections = page_content.split('<div class="table_container"')[1:]
+                footer_section = re.search(r'<div class="footer[^>]*>(.+)</div>', page_content, re.DOTALL).group(1)
+                for section in team_sections:
+                    hmcrt_adv, opp = None, None
+                    team_name_raw = re.search(r'id="div_(.+?)batting"', section).group(1)
+                    team_name = re.sub(r'([A-Z])', r' \1', team_name_raw).strip()
+                    if team_name == home:
+                        hmcrt_adv = 1
+                        opp = away
                     else:
-                        hr_data.append([j, 1])
-                hitting_box_score['HRs'] = 0
-                for plyr in hr_data:
-                    hitting_box_score.loc[hitting_box_score['Name'] == plyr[0], 'HRs'] = int(plyr[1])
-            else:
-                hitting_box_score['HRs'] = 0
+                        hmcrt_adv = 0
+                        opp = home
+                    player_rows = re.findall(r'<tr[^>]*>(.+?)</tr>', section, re.DOTALL)
+                    for row in player_rows:
+                        if 'scope="col"' in row or 'Team Totals' in row:
+                            continue
+                        soup_row = BeautifulSoup(row, 'html.parser')
+                        player_name_tag = soup_row.find('th', {'data-stat': 'player'}).find('a')
+                        player_name = player_name_tag.text if player_name_tag else "Unknown Player"
+                        tds = soup_row.find_all('td')
+                        player_data = {}
+                        for td in tds:
+                            stat = td.get('data-stat')
+                            value = td.text
+                            player_data[stat] = value
+                        data = {
+                            'Team': team_name,
+                            'Name': player_name,
+                            'Hmcrt_adv': hmcrt_adv,
+                            'Opponent': opp,
+                            'AB': player_data.get('AB', ''),
+                            'BB': player_data.get('BB', ''),
+                            'H': player_data.get('H', ''),
+                            'HR': '',
+                            'OBP': player_data.get('onbase_perc', ''),
+                            'OPS': player_data.get('onbase_plus_slugging', ''),
+                            'PA': player_data.get('PA', ''),
+                            'R': player_data.get('R', ''),
+                            'RBI': player_data.get('RBI', ''),
+                            'RE24': player_data.get('re24_bat', '').strip(),
+                            'SLG': player_data.get('slugging_perc', ''),
+                            'SO': player_data.get('SO', ''),
+                            'TB': '',
+                            'WPA': player_data.get('wpa_bat', ''),
+                            'aLI': player_data.get('leverage_index_avg', '').strip(),
+                            'acLI': player_data.get('cli_avg', '').strip(),
+                            'cWPA': player_data.get('cwpa_bat', '').strip().replace('%', ''),
+                        }
+                        h_r_rbi = None
+                        if all(player_data.get(stat, '') not in [None, ''] for stat in ['H', 'R', 'RBI']):
+                            h_r_rbi = str(int(player_data.get('H', '0')) + int(player_data.get('R', '0')) + int(player_data.get('RBI', '0')))
+                        data['H+R+RBI'] = h_r_rbi
+                        data_rows.append(data)
+                        name_match = soup_row.find('td', {'data-stat': 'player'})
+                        if name_match and player_data:
+                            name = name_match.text
+                            data = {'Name': name, 'Team': team_name}
+                            for col in columns[2:]:
+                                data[col] = player_data.get(col.lower(), '')
+                            data_rows.append(data)
+                    columns_order = [
+                        'Name', 'Team', 'Opponent', 'Hmcrt_adv', 'AB', 'R', 'H', 'RBI', 'BB', 'SO', 'PA', 'OBP', 'SLG', 'OPS', 'WPA', 'aLI', 'cWPA', 'acLI',  'RE24', 'H+R+RBI', '1B', '2B', '3B', 'HR', 'TB'
+                    ]
+                    df = pd.DataFrame(data_rows, columns=columns_order)
+                    df = df[df['PA'] != '']
+                    pd.set_option('display.max_columns', None)
+                    results = process_html_string(footer_section)
+                    df['2B'] = 0
+                    df['3B'] = 0
+                    df['HR'] = 0
+                    df['TB'] = 0
+                    for category in ['2B', '3B', 'HR', 'TB']:
+                        for player_dict in results[category]:
+                            for name, count in player_dict.items():
+                                df.loc[df['Name'] == name, category] = count
+                    df['H'] = pd.to_numeric(df['H'], errors='coerce')
+                    df['2B'] = pd.to_numeric(df['2B'], errors='coerce')
+                    df['3B'] = pd.to_numeric(df['3B'], errors='coerce')
+                    df['HR'] = pd.to_numeric(df['HR'], errors='coerce')
+                    df['1B'] = df['H'] - (df['2B'] + df['3B'] + df['HR'])
+                    df = df[df['PA'] != '0']
+                    hitting_box_scores = pd.concat([hitting_box_scores, df], ignore_index=True)
 
-            if len(hitting[1].split('TB:')) != 1:
-                total_base_values = re.findall("( [A-Z]\.[A-Z]\.)| ([a-z'A-z]+)|([A-Z][a-zA-z]+)|( \d+)",
-                                            hitting[1].split('TB:')[1].split('</div')[0])
-                indexer = -1
-                lst = []
-                for tb in total_base_values:
-                    for data in tb:
-                        if data:
-                            lst.append(data.strip())
-                tb_entry = []
-                if len(lst) < 3:
-                    name = lst[0] + ' ' + lst[1]
-                    tb_entry.append([name, 1])
-                else:
-                    for data in range(2, len(lst), 3):
-                        if str(lst[data]).strip().isnumeric():
-                            name = str(lst[data - 2]) + ' ' + str(lst[data - 1])
-                            tb_entry.append([name, int(str(lst[data]).strip())])
-                        else:
-                            break
-                    if len(lst) - data <= 3:
-                        name = str(lst[len(lst) - 2]) + ' ' + str(lst[len(lst) - 1])
-                        tb_entry.append([name, 1])
-                    else:
-                        for data1 in range(data, len(lst) + 1, 2):
-                            name = str(lst[data1 - 2]) + ' ' + str(lst[data1 - 1])
-                            tb_entry.append([name, 1])
-                for plyr in tb_entry:
-                    hitting_box_score.loc[hitting_box_score['Name'] == plyr[0], 'TB'] = plyr[1]
-            else:
-                hitting_box_score['TB'] = 0
+            def class_ends_with(soup, ending):
+                result = []
+                for tag in soup.find_all("div", class_=True):  
+                    if any(cls.endswith(ending) for cls in tag.get("class")):
+                        if 'pitching' in str(tag):
+                            result.append(tag)
+                return result
 
-            if len(hitting[1].split('HR:')) != 1:
-                homerun_values = re.findall("( [A-z ,.'-]+ \()|( [A-z ,.'-]+ \d+ \()",
-                                            hitting[1].split('HR:')[1].split('</div>')[0])
-                hr_values = []
-                for j in homerun_values:
-                    for k in j:
-                        if k:
-                            hr_values.append(k)
-                hr_values = [hr.strip().replace('(', '').strip() for hr in hr_values]
-                hr_data = []
-                for j in hr_values:
-                    if j[-1].isnumeric():
-                        hr_data.append([j[:-2], j[-1]])
+            divs = class_ends_with(soup, "setup_commented")
+            for div in divs:
+                inner_html = str(div)
+                if 'View Pitches' in inner_html:
+                    continue
+                columns = ['Name', 'Team', 'Opponent', 'Hmcrt_adv',  'IP', 'H', 'R', 'ER', 'BB', 'SO', 'HR', 'ERA', 'Pit', 'Str', 'Ctct', 'StS', 'StL', 'GB', 'FB', 'GSc', 'WPA', 'aLI', 'cWPA', 'acLI',  'RE24', 'PO']
+                data_rows = []
+                page_content = inner_html
+                team_sections = page_content.split('<div class="table_container"')[1:]
+                for section in team_sections:
+                    hmcrt_adv, opp = None, None
+                    team_name_raw = re.search(r'id="div_(.+?)pitching"', section).group(1)
+                    team_name = re.sub(r'([A-Z])', r' \1', team_name_raw).strip()
+                    if team_name == home:
+                        hmcrt_adv = 1
+                        opp = away
                     else:
-                        hr_data.append([j, 1])
-                for plyr in hr_data:
-                    hitting_box_score.loc[hitting_box_score['Name'] == plyr[0], 'HRs'] = int(plyr[1])
-            else:
-                hitting_box_score['HRs'] = 0
-
-            hitting_box_scores = hitting_box_scores.append(hitting_box_score)
-            pitching = [p for p in b[2:] if 'pitching' in p][0]
-            pitching = pitching.split('data-cols-to-freeze')[1:]
-            columns_pitching = {'Name': [], 'Team': [], 'Opponent': [], 'Hmcrt_adv': [], 'IP': [], 'H': [], 'R': [], 'ER': [], 'BB': [], 'SO': [], 'HR': []}
-
-            for val in range(len(pitching)):
-                matches = re.findall(r'<caption>(.*?)<\/caption>', pitching[val], flags=re.DOTALL)
-                filtered_matches = [match.replace('Table', '').strip() for match in matches if 'Play' not in match.replace('Table', '')]
-                if len(filtered_matches) == 1:
-                    if val == 0:
-                        away = filtered_matches[0]
-                    else:
-                        home = filtered_matches[0]
-            home_team, away_team = None, None
-            for val in range(len(pitching)):
-                matches = re.findall(r'<caption>(.*?)<\/caption>', pitching[val], flags=re.DOTALL)
-                filtered_matches = [match.replace('Table', '').strip() for match in matches if 'Play' not in match.replace('Table', '')]
-                if len(filtered_matches) == 1:
-                    if val == 0:
-                        away_team = filtered_matches[0]
-                        home_team = None
-                    else:
-                        home_team = filtered_matches[0]
-                        away_team = None
-                x = pitching[val].split('.shtml">')
-                x = x[1:]
-                for i in range(len(x)):
-                    if '</a> P</th>' not in x[i]:
-                        name = x[i].split('</a>')[0]
-                        stats = re.findall('["][A-Za-z]+["]', x[i].split('</a>')[1])[:7]
-                        stats_values = re.findall("(>\d+<)|(> \d*\.?\d* <)|(> \d*\.?\d*<)",
-                                                    x[i].split('</a>')[1])[:7]
-                        new_stats_values = []
-                        for j in stats_values:
-                            for k in j:
-                                if k:
-                                    new_stats_values.append(k)
-                        new_stats_values = [j.replace('>', '') for j in new_stats_values]
-                        new_stats_values = [j.replace('<', '') for j in new_stats_values]
-                        new_stats_values = [j.strip() for j in new_stats_values]
-                        if away_team:
-                            for value in reversed([name, away_team, home, 0]):
-                                new_stats_values.insert(0, value)
-                        if home_team:
-                            for value in reversed([name, home_team, away, 1]):
-                                new_stats_values.insert(0, value)
-                        if len(new_stats_values) == len(columns_pitching):
-                            count = 0
-                            for key in columns_pitching.keys():
-                                columns_pitching[key].append(new_stats_values[count])
-                                count += 1
-            pitching_box_score = pd.DataFrame.from_dict(columns_pitching)
-            pitching_box_scores = pitching_box_scores.append(pitching_box_score)
-        hitting_box_scores = hitting_box_scores.astype(
-            {'AB': int, 'R': int, 'H': int, 'RBI': int, 'BB': int, 'SO': int, 'PA': int, 'TB': int, 'HRs': int}).drop_duplicates()
-        pitching_box_scores = pitching_box_scores.astype(
-            {'IP': float, 'H': int, 'R': int, 'ER': int, 'BB': int, 'SO': int, 'HR': int}).drop_duplicates()
+                        hmcrt_adv = 0
+                        opp = home
+                    player_rows = re.findall(r'<tr[^>]*>(.+?)</tr>', section, re.DOTALL)
+                    for row in player_rows:
+                        if 'scope="col"' in row or 'Team Totals' in row:
+                            continue
+                        soup_row = BeautifulSoup(row, 'html.parser')
+                        player_name_tag = soup_row.find('th', {'data-stat': 'player'}).find('a')
+                        player_name = player_name_tag.text if player_name_tag else "Unknown Player"
+                        tds = soup_row.find_all('td')
+                        player_data = {}
+                        for td in tds:
+                            stat = td.get('data-stat')
+                            value = td.text
+                            player_data[stat] = value
+                        data = {
+                            'Team': team_name,
+                            'Name': player_name,
+                            'Hmcrt_adv': hmcrt_adv,
+                            'Opponent': opp,
+                            'IP': player_data.get('IP', ''),
+                            'H': player_data.get('H', ''),
+                            'R': player_data.get('R', ''),
+                            'ER': player_data.get('ER', ''),
+                            'BB': player_data.get('BB', ''),
+                            'SO': player_data.get('SO', ''),
+                            'HR': player_data.get('HR', ''),
+                            'ERA': player_data.get('earned_run_avg', ''),
+                            'Pit': player_data.get('pitches', ''),
+                            'Str': player_data.get('strikes_total', ''),
+                            'Ctct': player_data.get('strikes_contact', ''),
+                            'StS': player_data.get('strikes_swinging', ''),
+                            'StL': player_data.get('strikes_looking', ''),
+                            'GB': player_data.get('inplay_gb_total', ''),
+                            'FB': player_data.get('inplay_fb_total', ''),
+                            'GSc': player_data.get('game_score', ''),
+                            'WPA': player_data.get('wpa_def', ''),
+                            'aLI': player_data.get('leverage_index_avg', '').strip(),
+                            'cWPA': player_data.get('cwpa_def', '').strip().replace('%', ''),
+                            'acLI': player_data.get('cli_avg', '').strip(),
+                            'RE24': player_data.get('re24_def', '').strip(),
+                            'PO': '',
+                        }
+                        po = None
+                        data['PO'] = str(process_ip_value(player_data.get('IP', '0')))
+                        data_rows.append(data)
+                        name_match = soup_row.find('td', {'data-stat': 'player'})
+                        if name_match and player_data:
+                            name = name_match.text
+                            data = {'Name': name, 'Team': team_name}
+                            for col in columns[2:]:
+                                data[col] = player_data.get(col.lower(), '')
+                            data_rows.append(data)
+                        df = pd.DataFrame(data_rows, columns=columns)
+                        df = df[df['GSc'] != '']
+                        pitching_box_scores = pd.concat([pitching_box_scores, df], ignore_index=True)
+                        pitching_box_scores = pitching_box_scores.drop_duplicates()
 
         return hitting_box_scores, pitching_box_scores
 

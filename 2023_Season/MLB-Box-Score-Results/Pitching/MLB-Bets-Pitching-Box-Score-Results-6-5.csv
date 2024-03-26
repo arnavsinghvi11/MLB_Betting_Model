@@ -1,0 +1,17 @@
+,Unnamed: 0,Name,Team,IP,H,R,ER,BB,SO,HR,ERA,Pit,Str,Ctct,StS,StL,GB,FB,GSc,WPA,aLI,cWPA,acLI,RE24,PO,Opponent,Hmcrt_adv
+0,0,Shane McClanahan,Tampa Bay Rays,6.0,5,1,1,2,5,1,2.02,92,64,34,13,17,9,7,61,0.257,0.99,0.16,1.03,2.3,18,Boston Red Sox,0.0
+1,1,Brayan Bello,Boston Red Sox,6.0,6,3,3,1,5,0,3.97,100,66,40,11,15,9,11,52,-0.051,0.93,-0.02,0.6,0.3,18,Tampa Bay Rays,1.0
+2,2,Carlos Hernández,Kansas City Royals,2.0,0,0,0,0,3,0,4.45,23,19,10,6,3,1,2,59,0.105,0.68,0.0,0.03,1.1,6,Miami Marlins,0.0
+3,3,Braxton Garrett,Miami Marlins,5.0,6,4,4,0,6,1,4.47,75,53,23,17,13,6,9,45,-0.121,0.73,-0.08,0.83,-1.3,15,Kansas City Royals,1.0
+4,4,Joey Wentz,Detroit Tigers,4.2,7,5,5,5,4,2,7.49,105,59,30,14,15,7,8,29,-0.206,0.78,-0.08,0.5,-2.6,14,Philadelphia Phillies,0.0
+5,5,Aaron Nola,Philadelphia Phillies,7.0,1,3,0,3,12,1,4.3,108,68,29,21,18,5,4,78,0.19,0.67,0.08,0.48,0.6,21,Detroit Tigers,1.0
+6,6,JP Sears,Oakland Athletics,4.2,2,1,1,5,6,0,4.2,112,67,34,14,19,2,8,57,0.097,1.32,0.0,0.0,1.0,14,Pittsburgh Pirates,0.0
+7,7,Johan Oviedo,Pittsburgh Pirates,7.0,4,3,2,2,5,0,4.29,100,59,28,9,21,7,12,62,0.042,0.95,0.03,1.14,0.7,21,Oakland Athletics,1.0
+8,8,Brandon Bielak,Houston Astros,6.2,10,3,3,1,2,1,3.35,106,67,46,5,16,12,14,43,0.057,0.29,0.05,0.39,-0.1,20,Toronto Blue Jays,0.0
+9,9,Alek Manoah,Toronto Blue Jays,0.1,7,6,6,1,0,1,6.36,38,22,14,3,5,2,6,12,-0.427,1.24,-0.26,1.25,-6.4,1,Houston Astros,1.0
+10,10,Julio Teheran,Milwaukee Brewers,6.1,6,2,2,1,5,2,1.56,86,60,36,5,19,9,8,57,0.06,0.68,0.05,0.92,1.5,19,Cincinnati Reds,0.0
+11,11,Andrew Abbott,Cincinnati Reds,6.0,1,0,0,4,6,0,0.0,105,64,41,8,15,4,9,72,0.356,1.14,0.14,0.76,3.3,18,Milwaukee Brewers,1.0
+12,12,Adam Wainwright,St. Louis Cardinals,5.1,8,3,3,2,3,0,5.97,106,64,40,9,15,8,13,41,-0.107,0.88,-0.03,0.38,-0.4,16,Texas Rangers,0.0
+13,13,Martín Pérez,Texas Rangers,7.0,3,1,0,1,5,0,3.97,88,59,29,9,21,6,13,73,0.31,1.01,0.21,1.11,2.7,21,St. Louis Cardinals,1.0
+14,14,Kyle Hendricks,Chicago Cubs,6.0,5,4,3,0,4,1,4.11,84,54,31,6,17,7,13,52,-0.201,0.48,-0.09,0.34,-1.0,18,San Diego Padres,0.0
+15,15,Blake Snell,San Diego Padres,6.0,2,0,0,3,8,0,4.06,109,67,37,17,13,6,6,73,0.243,0.83,0.1,0.57,3.0,18,Chicago Cubs,1.0

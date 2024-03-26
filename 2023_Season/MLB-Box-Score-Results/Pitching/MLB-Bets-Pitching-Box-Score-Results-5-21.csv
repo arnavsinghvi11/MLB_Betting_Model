@@ -1,0 +1,33 @@
+,Unnamed: 0,Name,Team,IP,H,R,ER,BB,SO,HR,ERA,Pit,Str,Ctct,StS,StL,GB,FB,GSc,WPA,aLI,cWPA,acLI,RE24,PO,Opponent,Hmcrt_adv
+0,0,Luis Severino,New York Yankees,4.2,4,1,1,1,5,0,1.93,75,54,30,10,14,4,8,56,0.135,0.82,0.08,0.82,1.5,14,Cincinnati Reds,0.0
+1,1,Hunter Greene,Cincinnati Reds,7.0,4,4,4,3,10,2,4.68,106,67,29,16,22,8,5,60,-0.115,0.82,-0.04,0.52,-0.2,21,New York Yankees,1.0
+2,2,George Kirby,Seattle Mariners,7.0,6,3,3,1,6,1,2.62,88,67,40,11,16,8,13,58,-0.002,0.83,-0.0,0.64,0.8,21,Atlanta Braves,0.0
+3,3,Jared Shuster,Atlanta Braves,6.0,1,1,1,1,7,1,5.49,85,52,29,13,10,3,9,72,0.279,1.14,0.21,1.44,2.3,18,Seattle Mariners,1.0
+4,4,Justin Steele,Chicago Cubs,6.0,4,0,0,1,6,0,2.2,94,64,38,17,9,8,7,69,0.36,1.02,0.18,0.83,3.1,18,Philadelphia Phillies,0.0
+5,5,Taijuan Walker,Philadelphia Phillies,5.1,2,0,0,3,3,0,5.79,87,55,34,5,16,6,7,64,0.282,0.87,0.15,0.77,2.6,16,Chicago Cubs,1.0
+6,6,Merrill Kelly,Arizona Diamondbacks,5.0,3,3,2,2,4,0,2.98,91,56,29,15,12,5,9,53,-0.085,1.09,-0.07,1.44,-0.4,15,Pittsburgh Pirates,0.0
+7,7,Roansy Contreras,Pittsburgh Pirates,5.0,3,3,3,3,3,1,4.5,83,50,29,8,13,3,11,49,-0.085,1.06,-0.07,1.38,-0.4,15,Arizona Diamondbacks,1.0
+8,8,Joey Wentz,Detroit Tigers,2.0,10,6,6,0,1,2,7.45,62,41,26,4,11,8,7,13,-0.362,0.82,-0.17,0.62,-5.0,6,Washington Nationals,0.0
+9,9,Josiah Gray,Washington Nationals,5.0,3,1,1,6,2,0,2.65,88,48,27,7,14,6,9,53,0.121,1.08,0.04,0.55,1.5,15,Detroit Tigers,1.0
+10,10,Dean Kremer,Baltimore Orioles,5.1,9,1,1,2,7,1,4.61,105,64,38,13,13,7,9,51,0.12,1.36,0.08,1.61,1.1,16,Toronto Blue Jays,0.0
+11,11,Kevin Gausman,Toronto Blue Jays,8.0,6,2,2,2,4,0,3.14,115,77,51,9,17,12,14,64,0.244,1.09,0.14,1.06,2.0,24,Baltimore Orioles,1.0
+12,12,Tanner Bibee,Cleveland Guardians,6.0,7,2,2,4,3,0,3.18,99,62,35,8,19,7,13,49,0.052,1.16,0.02,0.83,1.1,18,New York Mets,0.0
+13,13,Max Scherzer,New York Mets,6.0,3,0,0,1,5,0,4.01,86,55,40,4,11,6,9,70,0.367,0.97,0.22,0.96,3.1,18,Cleveland Guardians,1.0
+14,14,Freddy Peralta,Milwaukee Brewers,6.0,5,3,3,3,4,1,4.15,95,60,35,10,15,10,8,51,-0.019,0.96,-0.01,1.13,0.0,18,Tampa Bay Rays,0.0
+15,15,Jalen Beeks,Tampa Bay Rays,2.0,1,1,1,2,3,1,4.68,37,22,12,4,6,1,3,51,-0.012,0.96,-0.01,0.99,0.0,6,Milwaukee Brewers,1.0
+16,16,Carlos Hernández,Kansas City Royals,2.0,0,0,0,0,3,0,3.75,27,20,11,5,4,1,2,59,0.103,0.66,0.01,0.07,1.1,6,Chicago White Sox,0.0
+17,17,Lance Lynn,Chicago White Sox,6.0,4,2,2,2,6,1,6.28,100,61,36,16,9,6,10,60,0.097,0.81,0.02,0.26,1.2,18,Kansas City Royals,1.0
+18,18,James Kaprielian,Oakland Athletics,5.0,3,1,1,4,5,0,8.68,82,48,28,8,12,6,5,58,0.122,1.17,0.0,0.01,1.6,15,Houston Astros,0.0
+19,19,Framber Valdez,Houston Astros,9.0,4,0,0,0,7,0,2.45,104,64,34,7,23,14,9,86,0.586,1.18,0.41,1.38,4.6,27,Oakland Athletics,1.0
+20,20,Clayton Kershaw,Los Angeles Dodgers,3.2,5,4,4,3,6,0,2.98,95,59,34,12,13,5,5,38,-0.238,0.77,-0.19,1.01,-2.7,11,St. Louis Cardinals,0.0
+21,21,Jack Flaherty,St. Louis Cardinals,4.2,4,3,3,4,5,0,5.29,103,61,32,8,21,7,5,45,0.009,0.98,0.0,0.61,-0.2,14,Los Angeles Dodgers,1.0
+22,22,Connor Seabold,Colorado Rockies,3.2,5,5,5,2,5,2,5.97,90,63,37,10,16,4,7,34,-0.28,0.57,-0.09,0.31,-3.0,11,Texas Rangers,0.0
+23,23,Andrew Heaney,Texas Rangers,6.0,6,1,0,2,5,0,4.13,95,63,41,10,12,10,8,61,0.181,0.68,0.14,0.88,2.2,18,Colorado Rockies,1.0
+24,24,Jesús Luzardo,Miami Marlins,5.0,6,6,6,1,8,2,3.83,92,59,31,12,16,6,7,38,-0.386,0.88,-0.26,0.97,-2.8,15,San Francisco Giants,0.0
+25,25,Alex Wood,San Francisco Giants,4.1,6,4,4,0,5,2,4.05,74,50,26,10,14,8,6,40,-0.171,0.8,-0.09,0.67,-1.4,13,Miami Marlins,1.0
+26,26,Pablo López,Minnesota Twins,6.0,5,2,2,3,9,0,3.9,101,64,27,19,18,6,8,60,0.183,1.21,0.13,1.41,1.8,18,Los Angeles Angels,0.0
+27,27,Shohei Ohtani,Los Angeles Angels,6.0,2,1,1,3,9,0,3.05,99,62,27,18,17,4,5,70,0.239,0.97,0.13,0.91,2.2,18,Minnesota Twins,1.0
+28,28,Corey Kluber,Boston Red Sox,2.1,3,5,1,3,1,0,6.26,64,35,21,4,10,3,6,37,-0.282,1.18,-0.15,1.07,-3.0,7,San Diego Padres,0.0
+29,29,Michael Wacha,San Diego Padres,6.0,5,0,0,1,4,0,3.58,88,59,33,12,14,5,12,65,0.161,0.53,0.06,0.31,3.0,18,Boston Red Sox,1.0
+30,30,Shane Bieber,Cleveland Guardians,8.0,7,2,2,2,4,1,3.08,106,75,41,12,22,12,13,62,0.067,1.33,0.03,0.87,2.1,24,New York Mets,0.0
+31,31,Justin Verlander,New York Mets,8.0,3,1,1,0,5,1,3.6,98,65,36,9,20,9,13,77,0.402,0.83,0.25,0.87,3.1,24,Cleveland Guardians,1.0

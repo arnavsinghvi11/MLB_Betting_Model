@@ -1,0 +1,124 @@
+,Unnamed: 0,Name,Team,AB,R,H,RBI,BB,SO,PA,OBP,SLG,OPS,WPA,aLI,cWPA,acLI,RE24,H+R+RBI,1B,2B,3B,HR,TB,Opponent,Hmcrt_adv
+0,0,Mickey Moniak,Los Angeles Angels,3,0,1,0,0,2,3,0.438,0.8,1.238,-0.028,1.0,-0.02,0.95,0.0,1,1,0,0,0,1,Baltimore Orioles,0.0
+1,1,Taylor Ward,Los Angeles Angels,2,0,0,0,0,1,2,0.316,0.333,0.649,-0.168,2.51,-0.1,2.38,-0.9,0,0,0,0,0,0,Baltimore Orioles,0.0
+2,2,Mike Trout,Los Angeles Angels,4,1,2,2,0,1,5,0.37,0.524,0.895,0.209,1.42,0.12,1.35,1.7,5,-8,0,0,10,5,Baltimore Orioles,0.0
+3,3,Shohei Ohtani,Los Angeles Angels,5,1,2,2,0,0,5,0.362,0.542,0.903,0.267,1.75,0.15,1.67,1.0,5,-8,0,0,10,5,Baltimore Orioles,0.0
+4,4,Hunter Renfroe,Los Angeles Angels,4,0,1,0,1,1,5,0.308,0.482,0.79,-0.085,1.12,-0.05,1.07,-1.1,1,1,0,0,0,1,Baltimore Orioles,0.0
+5,5,Brandon Drury,Los Angeles Angels,5,0,1,0,0,2,5,0.263,0.443,0.705,-0.045,1.02,-0.03,0.98,-0.7,1,1,0,0,0,1,Baltimore Orioles,0.0
+6,6,Chad Wallach,Los Angeles Angels,3,0,0,0,0,2,3,0.286,0.512,0.798,-0.138,1.08,-0.08,1.03,-1.2,0,0,0,0,0,0,Baltimore Orioles,0.0
+7,7,Matt Thaiss,Los Angeles Angels,2,0,0,0,0,2,2,0.385,0.388,0.773,-0.066,1.32,-0.04,1.27,-0.4,0,0,0,0,0,0,Baltimore Orioles,0.0
+8,8,Luis Rengifo,Los Angeles Angels,4,2,3,0,1,0,5,0.325,0.296,0.622,0.108,0.76,0.06,0.72,0.6,5,3,0,0,0,3,Baltimore Orioles,0.0
+9,9,Zach Neto,Los Angeles Angels,4,1,1,1,1,2,5,0.305,0.349,0.654,0.211,1.28,0.12,1.22,0.8,3,1,0,0,0,1,Baltimore Orioles,0.0
+10,10,Livan Soto,Los Angeles Angels,1,1,1,0,1,0,2,1.0,1.0,2.0,0.052,0.67,0.03,0.64,0.8,2,1,0,0,0,1,Baltimore Orioles,0.0
+11,11,Gio Urshela,Los Angeles Angels,2,0,1,1,0,0,2,0.321,0.351,0.672,0.266,3.02,0.15,2.88,1.0,2,1,0,0,0,1,Baltimore Orioles,0.0
+12,12,Austin Hays,Baltimore Orioles,4,2,3,0,0,0,4,0.355,0.504,0.859,0.175,1.58,0.12,1.79,1.3,5,-7,10,0,0,4,Los Angeles Angels,1.0
+13,13,Cedric Mullins,Baltimore Orioles,1,0,1,0,0,0,1,0.356,0.475,0.83,0.096,1.79,0.07,2.02,0.2,1,-8,9,0,0,2,Los Angeles Angels,1.0
+14,14,Adley Rutschman,Baltimore Orioles,3,1,1,2,2,0,5,0.407,0.462,0.869,0.375,2.66,0.25,3.0,1.4,4,-6,0,0,7,4,Los Angeles Angels,1.0
+15,15,Ryan Mountcastle,Baltimore Orioles,4,0,0,1,0,1,5,0.271,0.467,0.738,-0.285,2.43,-0.19,2.74,-1.4,1,0,0,0,0,0,Los Angeles Angels,1.0
+16,16,Anthony Santander,Baltimore Orioles,3,1,1,2,1,0,4,0.33,0.474,0.804,0.292,1.2,0.2,1.35,2.1,4,-6,0,0,7,4,Los Angeles Angels,1.0
+17,17,James McCann,Baltimore Orioles,4,0,0,0,0,1,4,0.217,0.328,0.544,-0.166,1.55,-0.11,1.75,-1.2,0,0,0,0,0,0,Los Angeles Angels,1.0
+18,18,Ryan McKenna,Baltimore Orioles,3,0,0,0,1,0,4,0.36,0.467,0.827,-0.083,1.86,-0.06,2.09,-0.8,0,0,0,0,0,0,Los Angeles Angels,1.0
+19,19,Jorge Mateo,Baltimore Orioles,4,0,0,0,0,0,4,0.298,0.454,0.751,-0.205,1.36,-0.14,1.54,-1.3,0,0,0,0,0,0,Los Angeles Angels,1.0
+20,20,Gunnar Henderson,Baltimore Orioles,4,0,1,0,0,3,4,0.342,0.369,0.711,-0.088,1.32,-0.06,1.49,-0.2,1,1,0,0,0,1,Los Angeles Angels,1.0
+21,21,Joey Ortiz,Baltimore Orioles,2,1,2,0,0,0,2,0.211,0.222,0.433,0.085,1.17,0.06,1.31,0.8,3,2,0,0,0,2,Los Angeles Angels,1.0
+22,22,Adam Frazier,Baltimore Orioles,2,0,1,0,0,0,2,0.324,0.362,0.686,-0.113,2.25,-0.08,2.54,-0.4,1,1,0,0,0,1,Los Angeles Angels,1.0
+23,23,Luis García,Washington Nationals,4,1,1,0,0,1,4,0.309,0.369,0.678,-0.027,0.67,-0.01,0.42,-0.3,2,1,0,0,0,1,Miami Marlins,0.0
+24,24,Lane Thomas,Washington Nationals,4,1,1,0,0,1,4,0.335,0.421,0.756,-0.014,0.88,-0.01,0.56,-0.1,2,1,0,0,0,1,Miami Marlins,0.0
+25,25,Jeimer Candelario,Washington Nationals,4,1,2,2,0,1,4,0.313,0.432,0.745,0.237,1.17,0.09,0.74,2.2,5,-15,12,0,5,6,Miami Marlins,0.0
+26,26,Corey Dickerson,Washington Nationals,4,0,1,1,0,1,4,0.333,0.545,0.879,-0.007,1.44,-0.0,0.91,-0.1,2,1,0,0,0,1,Miami Marlins,0.0
+27,27,Keibert Ruiz,Washington Nationals,3,0,0,0,1,0,4,0.291,0.329,0.62,-0.244,1.86,-0.09,1.17,-1.1,0,0,0,0,0,0,Miami Marlins,0.0
+28,28,Dominic Smith,Washington Nationals,3,0,1,0,1,0,4,0.364,0.318,0.682,0.05,1.06,0.02,0.67,0.1,1,-2,3,0,0,2,Miami Marlins,0.0
+29,29,Jake Alu,Washington Nationals,4,0,2,0,0,0,4,0.286,0.231,0.516,-0.058,1.43,-0.02,0.9,-0.2,2,2,0,0,0,2,Miami Marlins,0.0
+30,30,CJ Abrams,Washington Nationals,4,0,0,0,0,2,4,0.283,0.385,0.668,-0.168,1.54,-0.06,0.97,-1.3,0,0,0,0,0,0,Miami Marlins,0.0
+31,31,Alex Call,Washington Nationals,3,0,0,0,0,1,3,0.325,0.338,0.663,-0.071,0.92,-0.03,0.58,-0.7,0,0,0,0,0,0,Miami Marlins,0.0
+32,32,Ildemaro Vargas,Washington Nationals,1,0,0,0,0,0,1,0.333,0.414,0.747,-0.04,1.39,-0.01,0.88,-0.4,0,0,0,0,0,0,Miami Marlins,0.0
+33,33,Jean Segura,Miami Marlins,4,0,1,1,0,0,4,0.276,0.248,0.524,0.009,0.96,0.01,0.95,-0.2,2,1,0,0,0,1,Washington Nationals,1.0
+34,34,Garrett Cooper,Miami Marlins,3,0,1,1,1,0,4,0.313,0.411,0.724,0.036,0.68,0.02,0.68,0.7,2,1,0,0,0,1,Washington Nationals,1.0
+35,35,Luis Arraez,Miami Marlins,4,0,0,0,0,0,4,0.433,0.473,0.906,-0.06,0.6,-0.04,0.6,-1.0,0,0,0,0,0,0,Washington Nationals,1.0
+36,36,Jorge Soler,Miami Marlins,4,0,0,0,0,3,4,0.314,0.506,0.82,-0.078,0.74,-0.05,0.74,-1.1,0,0,0,0,0,0,Washington Nationals,1.0
+37,37,Bryan De La Cruz,Miami Marlins,4,2,1,1,0,0,4,0.327,0.434,0.76,0.084,0.62,0.05,0.62,0.8,4,-3,0,0,4,4,Washington Nationals,1.0
+38,38,Joey Wendle,Miami Marlins,4,1,1,0,0,1,4,0.162,0.278,0.44,-0.02,0.59,-0.01,0.59,-0.4,2,1,0,0,0,1,Washington Nationals,1.0
+39,39,Peyton Burdick,Miami Marlins,3,0,1,0,0,2,4,0.323,0.407,0.73,0.027,0.58,0.02,0.58,0.4,1,1,0,0,0,1,Washington Nationals,1.0
+40,40,Nick Fortes,Miami Marlins,4,1,2,1,0,0,4,0.264,0.247,0.511,0.041,0.92,0.02,0.92,0.9,4,2,0,0,0,2,Washington Nationals,1.0
+41,41,Xavier Edwards,Miami Marlins,3,1,2,1,0,0,3,0.333,0.444,0.778,0.136,1.05,0.08,1.05,1.3,4,1,1,0,0,3,Washington Nationals,1.0
+42,42,Garrett Hampson,Miami Marlins,1,0,0,0,0,0,1,0.273,0.405,0.678,-0.017,0.58,-0.01,0.58,-0.6,0,0,0,0,0,0,Washington Nationals,1.0
+43,43,Josh Lowe,Tampa Bay Rays,4,2,2,1,0,1,4,0.368,0.637,1.005,0.137,1.22,0.08,1.23,1.3,5,-19,11,0,10,6,New York Mets,0.0
+44,44,Randy Arozarena,Tampa Bay Rays,3,0,2,0,1,0,4,0.402,0.553,0.955,0.191,1.27,0.12,1.28,1.0,2,-4,6,0,0,3,New York Mets,0.0
+45,45,Harold Ramírez,Tampa Bay Rays,4,0,1,1,0,1,4,0.376,0.543,0.919,-0.194,2.04,-0.12,2.05,-1.1,2,1,0,0,0,1,New York Mets,0.0
+46,46,Brandon Lowe,Tampa Bay Rays,4,0,0,0,0,0,4,0.303,0.433,0.736,-0.217,1.81,-0.13,1.82,-1.2,0,0,0,0,0,0,New York Mets,0.0
+47,47,Isaac Paredes,Tampa Bay Rays,3,0,0,0,0,1,3,0.362,0.485,0.847,-0.088,1.15,-0.05,1.16,-0.6,0,0,0,0,0,0,New York Mets,0.0
+48,48,Taylor Walls,Tampa Bay Rays,3,0,0,0,0,2,3,0.356,0.548,0.904,-0.06,0.79,-0.04,0.8,-0.4,0,0,0,0,0,0,New York Mets,0.0
+49,49,Luke Raley,Tampa Bay Rays,2,0,0,0,0,1,2,0.318,0.545,0.864,-0.026,0.49,-0.02,0.49,-0.2,0,0,0,0,0,0,New York Mets,0.0
+50,50,Wander Franco,Tampa Bay Rays,1,0,1,0,0,0,1,0.354,0.503,0.857,0.087,2.16,0.05,2.18,0.4,1,1,0,0,0,1,New York Mets,0.0
+51,51,Christian Bethancourt,Tampa Bay Rays,3,0,0,0,0,1,3,0.257,0.474,0.731,-0.078,1.97,-0.05,1.99,-0.2,0,0,0,0,0,0,New York Mets,0.0
+52,52,Manuel Margot,Tampa Bay Rays,3,0,0,0,0,0,3,0.316,0.333,0.65,-0.238,1.85,-0.14,1.86,-1.5,0,0,0,0,0,0,New York Mets,0.0
+53,53,Brandon Nimmo,New York Mets,4,0,1,0,0,1,4,0.383,0.417,0.799,-0.045,0.91,-0.02,0.81,-0.4,1,1,0,0,0,1,Tampa Bay Rays,1.0
+54,54,Francisco Lindor,New York Mets,3,1,0,0,1,0,4,0.308,0.41,0.718,-0.034,0.96,-0.02,0.85,-0.4,1,0,0,0,0,0,Tampa Bay Rays,1.0
+55,55,Jeff McNeil,New York Mets,4,1,2,0,0,1,4,0.362,0.368,0.73,0.088,0.95,0.05,0.85,0.8,3,2,0,0,0,2,Tampa Bay Rays,1.0
+56,56,Pete Alonso,New York Mets,3,1,1,1,1,0,4,0.333,0.539,0.872,0.076,1.31,0.04,1.17,0.6,3,-15,0,0,16,4,Tampa Bay Rays,1.0
+57,57,Brett Baty,New York Mets,4,0,1,1,0,0,4,0.323,0.386,0.708,0.073,1.42,0.04,1.26,0.3,2,1,0,0,0,1,Tampa Bay Rays,1.0
+58,58,Tommy Pham,New York Mets,4,0,2,1,0,1,4,0.31,0.378,0.689,0.04,1.4,0.02,1.25,0.2,3,-1,3,0,0,3,Tampa Bay Rays,1.0
+59,59,Daniel Vogelbach,New York Mets,3,0,0,0,1,2,4,0.374,0.352,0.726,-0.071,0.98,-0.04,0.87,-0.7,0,0,0,0,0,0,Tampa Bay Rays,1.0
+60,60,Eduardo Escobar,New York Mets,4,0,1,0,0,0,4,0.256,0.421,0.677,-0.052,1.03,-0.03,0.92,-0.7,1,1,0,0,0,1,Tampa Bay Rays,1.0
+61,61,Michael Perez,New York Mets,3,0,0,0,0,1,3,0.571,0.714,1.286,-0.062,0.84,-0.03,0.75,-0.7,0,0,0,0,0,0,Tampa Bay Rays,1.0
+62,62,Steven Kwan,Cleveland Guardians,4,0,0,0,0,0,4,0.356,0.353,0.709,-0.142,1.36,-0.07,1.06,-1.5,0,0,0,0,0,0,Chicago White Sox,0.0
+63,63,Amed Rosario,Cleveland Guardians,4,0,0,0,0,0,4,0.28,0.351,0.631,-0.092,0.92,-0.04,0.72,-0.9,0,0,0,0,0,0,Chicago White Sox,0.0
+64,64,Andrés Giménez,Cleveland Guardians,4,0,1,0,0,0,4,0.313,0.361,0.673,-0.046,0.64,-0.02,0.5,-0.2,1,1,0,0,0,1,Chicago White Sox,0.0
+65,65,Josh Bell,Cleveland Guardians,4,0,1,0,0,1,4,0.339,0.353,0.692,-0.052,1.1,-0.02,0.86,-0.4,1,1,0,0,0,1,Chicago White Sox,0.0
+66,66,Will Brennan,Cleveland Guardians,4,1,1,0,0,0,4,0.248,0.284,0.532,-0.031,1.02,-0.01,0.79,-0.5,2,1,0,0,0,1,Chicago White Sox,0.0
+67,67,Gabriel Arias,Cleveland Guardians,4,2,2,1,0,0,4,0.261,0.333,0.594,0.22,1.04,0.1,0.81,1.1,5,-3,3,0,2,6,Chicago White Sox,0.0
+68,68,Brayan Rocchio,Cleveland Guardians,4,0,1,1,0,0,4,0.2,0.2,0.4,0.102,1.09,0.05,0.85,0.5,2,1,0,0,0,1,Chicago White Sox,0.0
+69,69,Cam Gallagher,Cleveland Guardians,4,0,1,1,0,2,4,0.13,0.093,0.223,0.018,1.02,0.01,0.79,0.2,2,1,0,0,0,1,Chicago White Sox,0.0
+70,70,Myles Straw,Cleveland Guardians,2,0,0,0,1,0,3,0.325,0.291,0.616,0.02,1.1,0.01,0.85,-0.0,0,0,0,0,0,0,Chicago White Sox,0.0
+71,71,Tim Anderson,Chicago White Sox,4,0,1,0,0,0,4,0.302,0.309,0.611,-0.088,1.08,-0.02,0.39,-0.9,1,1,0,0,0,1,Cleveland Guardians,1.0
+72,72,Andrew Vaughn,Chicago White Sox,4,0,0,0,0,0,4,0.323,0.414,0.737,-0.129,1.28,-0.03,0.46,-1.0,0,0,0,0,0,0,Cleveland Guardians,1.0
+73,73,Luis Robert Jr.,Chicago White Sox,4,0,2,0,0,1,4,0.33,0.564,0.893,0.017,0.73,0.0,0.26,0.2,2,-10,12,0,0,0,Cleveland Guardians,1.0
+74,74,Jake Burger,Chicago White Sox,4,0,1,0,0,1,4,0.344,0.723,1.067,-0.088,1.11,-0.02,0.4,-0.6,1,1,0,0,0,1,Cleveland Guardians,1.0
+75,75,Yasmani Grandal,Chicago White Sox,4,0,1,0,0,1,4,0.364,0.437,0.801,-0.056,1.44,-0.01,0.53,-0.1,1,1,0,0,0,1,Cleveland Guardians,1.0
+76,76,Andrew Benintendi,Chicago White Sox,3,1,1,0,1,1,4,0.341,0.354,0.695,0.064,1.23,0.01,0.44,0.9,2,-11,12,0,0,2,Cleveland Guardians,1.0
+77,77,Hanser Alberto,Chicago White Sox,3,0,0,0,0,0,3,0.28,0.42,0.7,-0.119,1.39,-0.03,0.51,-1.2,0,0,0,0,0,0,Cleveland Guardians,1.0
+78,78,Yoán Moncada,Chicago White Sox,1,0,1,0,0,0,1,0.355,0.542,0.897,0.031,0.59,0.01,0.21,0.1,1,1,0,0,0,1,Cleveland Guardians,1.0
+79,79,Seby Zavala,Chicago White Sox,4,0,1,1,0,3,4,0.197,0.265,0.462,-0.051,1.84,-0.01,0.67,-0.4,2,1,0,0,0,1,Cleveland Guardians,1.0
+80,80,Jake Marisnick,Chicago White Sox,2,0,0,0,0,1,2,0.0,0.0,0.0,-0.057,1.86,-0.01,0.68,-0.6,0,0,0,0,0,0,Cleveland Guardians,1.0
+81,81,Gavin Sheets,Chicago White Sox,1,0,0,0,0,0,1,0.315,0.443,0.758,-0.028,1.09,-0.01,0.39,-0.2,0,0,0,0,0,0,Cleveland Guardians,1.0
+82,82,Gleyber Torres,New York Yankees,5,1,2,0,0,0,5,0.34,0.426,0.766,-0.073,0.96,-0.04,0.96,-0.8,3,2,0,0,0,2,Toronto Blue Jays,0.0
+83,83,Aaron Judge,New York Yankees,4,1,2,2,0,1,4,0.381,0.612,0.993,0.17,1.07,0.1,1.07,1.6,5,-17,7,0,12,6,Toronto Blue Jays,0.0
+84,84,Anthony Rizzo,New York Yankees,4,0,0,0,0,2,4,0.382,0.5,0.882,-0.097,0.81,-0.06,0.81,-1.0,0,0,0,0,0,0,Toronto Blue Jays,0.0
+85,85,DJ LeMahieu,New York Yankees,4,0,0,0,0,1,4,0.333,0.434,0.768,-0.091,0.86,-0.05,0.86,-0.9,0,0,0,0,0,0,Toronto Blue Jays,0.0
+86,86,Harrison Bader,New York Yankees,4,0,0,0,0,1,4,0.316,0.519,0.834,-0.076,0.7,-0.04,0.7,-0.7,0,0,0,0,0,0,Toronto Blue Jays,0.0
+87,87,Oswaldo Cabrera,New York Yankees,4,1,1,0,0,1,4,0.257,0.318,0.575,0.02,0.73,0.01,0.73,0.0,2,-5,6,0,0,0,Toronto Blue Jays,0.0
+88,88,Anthony Volpe,New York Yankees,2,1,1,1,1,1,4,0.307,0.399,0.706,0.111,0.82,0.07,0.82,1.2,3,-6,0,0,7,4,Toronto Blue Jays,0.0
+89,89,Kyle Higashioka,New York Yankees,4,0,0,0,0,2,4,0.258,0.377,0.635,-0.106,1.05,-0.06,1.05,-1.2,0,0,0,0,0,0,Toronto Blue Jays,0.0
+90,90,Aaron Hicks,New York Yankees,4,0,3,1,0,1,4,0.27,0.269,0.539,0.145,0.88,0.09,0.88,1.3,4,1,2,0,0,4,Toronto Blue Jays,0.0
+91,91,George Springer,Toronto Blue Jays,4,0,0,0,0,0,4,0.286,0.317,0.603,-0.192,1.89,-0.12,2.04,-1.2,0,0,0,0,0,0,New York Yankees,1.0
+92,92,Bo Bichette,Toronto Blue Jays,4,1,3,1,0,1,4,0.372,0.527,0.899,0.101,1.31,0.07,1.42,1.2,5,-6,0,0,9,6,New York Yankees,1.0
+93,93,Matt Chapman,Toronto Blue Jays,4,0,0,0,0,3,4,0.393,0.516,0.909,-0.165,1.66,-0.11,1.79,-1.1,0,0,0,0,0,0,New York Yankees,1.0
+94,94,Daulton Varsho,Toronto Blue Jays,4,0,1,0,0,1,4,0.293,0.379,0.672,-0.116,1.26,-0.07,1.37,-0.7,1,1,0,0,0,1,New York Yankees,1.0
+95,95,Whit Merrifield,Toronto Blue Jays,3,1,0,0,1,0,4,0.318,0.35,0.668,-0.026,1.31,-0.02,1.42,-0.3,1,0,0,0,0,0,New York Yankees,1.0
+96,96,Danny Jansen,Toronto Blue Jays,4,0,1,0,0,1,4,0.264,0.36,0.624,0.043,1.28,0.03,1.39,0.2,1,1,0,0,0,1,New York Yankees,1.0
+97,97,Alejandro Kirk,Toronto Blue Jays,3,0,0,0,1,2,4,0.352,0.31,0.662,0.075,1.52,0.05,1.64,0.4,0,0,0,0,0,0,New York Yankees,1.0
+98,98,Brandon Belt,Toronto Blue Jays,3,0,1,0,0,0,3,0.339,0.396,0.735,-0.106,2.15,-0.07,2.33,-0.5,1,1,0,0,0,1,New York Yankees,1.0
+99,99,Santiago Espinal,Toronto Blue Jays,2,0,0,0,0,0,2,0.237,0.229,0.465,-0.058,1.21,-0.04,1.31,-0.5,0,0,0,0,0,0,New York Yankees,1.0
+100,100,Vladimir Guerrero Jr.,Toronto Blue Jays,0,0,0,1,0,0,1,0.383,0.516,0.899,-0.053,5.05,-0.03,5.46,-0.1,1,0,0,0,0,0,New York Yankees,1.0
+101,101,Mookie Betts,Los Angeles Dodgers,3,1,1,0,0,0,3,0.359,0.509,0.869,0.044,0.47,0.03,0.6,0.3,2,-12,13,0,0,2,St. Louis Cardinals,0.0
+102,102,Trayce Thompson,Los Angeles Dodgers,0,1,0,0,1,0,1,0.284,0.317,0.6,0.013,0.42,0.01,0.53,0.3,1,0,0,0,0,0,St. Louis Cardinals,0.0
+103,103,Jason Heyward,Los Angeles Dodgers,1,0,0,0,0,0,1,0.312,0.41,0.722,-0.056,2.16,-0.04,2.75,-0.2,0,0,0,0,0,0,St. Louis Cardinals,0.0
+104,104,Freddie Freeman,Los Angeles Dodgers,5,1,2,4,0,0,5,0.382,0.536,0.919,0.043,0.9,0.03,1.14,3.1,7,-7,0,1,8,7,St. Louis Cardinals,0.0
+105,105,Will Smith,Los Angeles Dodgers,4,1,0,0,1,1,5,0.407,0.584,0.991,-0.011,0.7,-0.01,0.89,-0.3,1,0,0,0,0,0,St. Louis Cardinals,0.0
+106,106,Max Muncy,Los Angeles Dodgers,4,1,1,1,1,1,5,0.373,0.57,0.943,0.152,0.88,0.12,1.13,0.7,3,-14,0,0,15,4,St. Louis Cardinals,0.0
+107,107,J.D. Martinez,Los Angeles Dodgers,5,0,1,2,0,0,5,0.29,0.496,0.786,0.086,1.0,0.07,1.28,0.9,3,-9,10,0,0,0,St. Louis Cardinals,0.0
+108,108,Miguel Vargas,Los Angeles Dodgers,5,1,2,0,0,0,5,0.342,0.423,0.765,-0.022,0.64,-0.02,0.81,-0.6,3,2,0,0,0,2,St. Louis Cardinals,0.0
+109,109,James Outman,Los Angeles Dodgers,4,0,1,0,0,1,4,0.351,0.541,0.892,0.007,1.11,0.01,1.42,-0.7,1,1,0,0,0,1,St. Louis Cardinals,0.0
+110,110,David Peralta,Los Angeles Dodgers,3,1,0,0,1,0,4,0.24,0.306,0.547,-0.091,1.2,-0.07,1.52,-0.3,1,0,0,0,0,0,St. Louis Cardinals,0.0
+111,111,Miguel Rojas,Los Angeles Dodgers,4,1,1,1,0,0,4,0.247,0.227,0.474,-0.102,1.13,-0.08,1.44,0.1,3,1,0,0,0,1,St. Louis Cardinals,0.0
+112,112,Lars Nootbaar,St. Louis Cardinals,5,1,1,1,0,0,5,0.413,0.407,0.82,0.0,0.9,0.0,0.49,0.5,3,1,0,0,0,1,Los Angeles Dodgers,1.0
+113,113,Paul Goldschmidt,St. Louis Cardinals,2,3,0,0,3,0,5,0.4,0.517,0.917,0.023,0.64,0.01,0.35,0.6,3,0,0,0,0,0,Los Angeles Dodgers,1.0
+114,114,Willson Contreras,St. Louis Cardinals,5,2,2,6,0,2,5,0.337,0.423,0.76,0.253,0.71,0.08,0.38,3.5,10,-3,0,0,5,8,Los Angeles Dodgers,1.0
+115,115,Nolan Arenado,St. Louis Cardinals,4,1,1,2,1,1,5,0.311,0.451,0.762,0.041,0.52,0.01,0.28,1.6,4,-8,0,0,9,4,Los Angeles Dodgers,1.0
+116,116,Tommy Edman,St. Louis Cardinals,1,0,0,0,0,0,1,0.331,0.467,0.798,-0.038,1.61,-0.01,0.87,-0.4,0,0,0,0,0,0,Los Angeles Dodgers,1.0
+117,117,Juan Yepez,St. Louis Cardinals,3,1,1,1,0,1,3,0.276,0.464,0.74,0.088,0.34,0.03,0.19,0.7,3,-1,0,0,2,4,Los Angeles Dodgers,1.0
+118,118,Alec Burleson,St. Louis Cardinals,0,1,0,0,1,0,1,0.275,0.382,0.658,0.0,0.01,0.0,0.01,0.1,1,0,0,0,0,0,Los Angeles Dodgers,1.0
+119,119,Nolan Gorman,St. Louis Cardinals,5,2,3,3,0,1,5,0.386,0.629,1.014,0.113,0.41,0.04,0.22,2.9,8,-9,0,0,12,9,Los Angeles Dodgers,1.0
+120,120,Paul DeJong,St. Louis Cardinals,5,1,1,1,0,0,5,0.346,0.577,0.924,-0.004,0.6,-0.0,0.32,-0.0,3,-5,0,0,6,4,Los Angeles Dodgers,1.0
+121,121,Brendan Donovan,St. Louis Cardinals,3,1,0,0,1,0,4,0.333,0.352,0.685,-0.037,0.59,-0.01,0.32,-0.4,1,0,0,0,0,0,Los Angeles Dodgers,1.0
+122,122,Óscar Mercado,St. Louis Cardinals,4,3,3,0,0,0,4,0.75,1.0,1.75,0.124,0.74,0.04,0.4,2.6,6,2,1,0,0,4,Los Angeles Dodgers,1.0

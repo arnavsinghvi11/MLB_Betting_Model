@@ -1,0 +1,33 @@
+,Unnamed: 0,Name,Team,IP,H,R,ER,BB,SO,HR,ERA,Pit,Str,Ctct,StS,StL,GB,FB,GSc,WPA,aLI,cWPA,acLI,RE24,PO,Opponent,Hmcrt_adv
+0,0,Jordan Wicks,Chicago Cubs,5.0,5,1,1,3,3,0,1.8,90,51,31,10,10,5,12,53,0.163,1.21,0.13,1.59,1.7,15,Cincinnati Reds,0.0
+1,1,Graham Ashcraft,Cincinnati Reds,5.0,6,3,3,1,6,1,4.76,72,49,26,9,14,2,12,48,-0.033,0.89,-0.03,1.2,0.2,15,Chicago Cubs,1.0
+2,2,Jose Cuas,Chicago Cubs,0.2,1,0,0,0,1,0,3.64,13,8,6,1,1,0,2,51,0.027,1.13,0.02,1.37,0.3,2,Cincinnati Reds,0.0
+3,3,Lyon Richardson,Cincinnati Reds,4.2,2,2,2,5,4,1,6.75,91,51,24,8,19,6,5,51,0.144,1.22,0.1,1.46,1.5,14,Chicago Cubs,1.0
+4,4,Eury Pérez,Miami Marlins,4.2,5,3,3,3,5,3,2.86,86,50,25,18,7,2,12,44,-0.08,0.95,-0.03,0.64,-0.7,14,Washington Nationals,0.0
+5,5,Jake Irvin,Washington Nationals,5.0,4,3,3,3,4,0,4.35,80,44,24,6,14,5,9,48,-0.049,1.27,-0.0,0.01,-0.5,15,Miami Marlins,1.0
+6,6,Tyler Glasnow,Tampa Bay Rays,7.0,7,3,3,0,6,0,3.07,97,67,40,11,16,10,12,57,-0.113,1.36,-0.07,1.44,0.5,21,Cleveland Guardians,0.0
+7,7,Cal Quantrill,Cleveland Guardians,6.0,2,2,2,3,2,0,6.16,86,55,34,5,16,4,14,59,0.082,0.77,0.03,0.47,1.0,18,Tampa Bay Rays,1.0
+8,8,Logan Gilbert,Seattle Mariners,6.2,7,1,1,0,9,1,3.56,97,67,37,12,18,7,11,65,0.208,1.03,0.21,1.77,2.2,20,New York Mets,0.0
+9,9,Kodai Senga,New York Mets,7.0,5,1,1,2,12,1,3.08,104,66,31,16,19,5,7,73,0.283,1.16,0.0,0.02,2.6,21,Seattle Mariners,1.0
+10,10,Joe Ryan,Minnesota Twins,6.0,3,1,1,0,7,1,4.2,74,53,32,14,7,3,10,69,0.184,0.89,0.07,0.59,2.2,18,Texas Rangers,0.0
+11,11,Max Scherzer,Texas Rangers,6.0,1,0,0,2,7,0,3.55,88,53,26,12,15,4,8,75,0.372,1.12,0.39,1.97,3.2,18,Minnesota Twins,1.0
+12,12,Eduardo Rodriguez,Detroit Tigers,6.2,6,1,1,2,7,0,3.11,103,67,40,13,14,5,12,63,0.236,1.21,0.01,0.07,2.2,20,Chicago White Sox,0.0
+13,13,Touki Toussaint,Chicago White Sox,5.1,5,3,3,2,6,0,4.87,94,63,38,10,15,7,8,50,-0.07,1.34,0.0,0.0,-0.1,16,Detroit Tigers,1.0
+14,14,Carlos Rodón,New York Yankees,5.0,3,2,2,1,4,1,5.7,92,61,44,11,6,1,13,56,0.079,0.76,0.0,0.01,0.6,15,Houston Astros,0.0
+15,15,Justin Verlander,Houston Astros,6.0,8,6,6,1,3,4,3.34,88,65,38,10,17,8,14,34,-0.325,0.54,-0.35,0.96,-2.9,18,New York Yankees,1.0
+16,16,James Paxton,Boston Red Sox,1.1,5,6,6,2,0,2,4.5,36,19,12,4,3,4,4,18,-0.305,0.82,-0.05,0.23,-4.2,4,Kansas City Royals,0.0
+17,17,Jordan Lyles,Kansas City Royals,8.0,4,2,2,0,7,1,6.29,114,76,45,12,19,6,15,73,0.147,0.22,0.0,0.0,2.1,24,Boston Red Sox,1.0
+18,18,Zack Wheeler,Philadelphia Phillies,6.0,5,3,3,0,10,1,3.62,102,68,41,15,12,7,6,60,-0.09,0.84,-0.02,0.37,0.1,18,Milwaukee Brewers,0.0
+19,19,Freddy Peralta,Milwaukee Brewers,6.0,2,1,1,0,10,1,3.85,94,64,35,15,14,7,3,74,0.224,0.74,0.07,0.39,2.1,18,Philadelphia Phillies,1.0
+20,20,Mitch Keller,Pittsburgh Pirates,6.0,5,1,1,3,8,1,3.93,98,65,36,10,19,5,10,63,0.207,1.31,0.0,0.01,2.1,18,St. Louis Cardinals,0.0
+21,21,Dakota Hudson,St. Louis Cardinals,7.0,3,1,1,2,0,0,4.02,90,52,35,2,15,14,10,65,0.296,0.84,0.0,0.0,2.7,21,Pittsburgh Pirates,1.0
+22,22,Hyun Jin Ryu,Toronto Blue Jays,5.0,4,2,2,2,3,1,2.48,76,48,29,10,9,11,4,52,0.08,0.9,0.05,0.99,1.0,15,Colorado Rockies,0.0
+23,23,Chris Flexen,Colorado Rockies,5.2,7,4,4,1,0,3,6.89,87,49,31,5,13,10,14,38,-0.154,1.0,0.0,0.0,-0.7,17,Toronto Blue Jays,1.0
+24,24,Cole Irvin,Baltimore Orioles,5.2,8,4,4,1,4,2,4.91,88,60,37,11,12,11,8,40,-0.12,0.78,-0.07,0.78,-1.0,17,Arizona Diamondbacks,0.0
+25,25,Zach Davies,Arizona Diamondbacks,6.0,4,1,1,1,6,0,6.45,85,51,25,10,16,6,9,65,0.276,1.15,0.17,1.21,2.1,18,Baltimore Orioles,1.0
+26,26,Patrick Sandoval,Los Angeles Angels,3.2,5,5,5,3,3,0,4.19,79,50,30,7,13,4,9,31,-0.159,1.19,0.0,0.0,-1.5,11,Oakland Athletics,0.0
+27,27,JP Sears,Oakland Athletics,6.0,4,0,0,2,3,0,4.6,89,62,43,8,11,11,7,65,0.248,0.88,0.0,0.0,2.8,18,Los Angeles Angels,1.0
+28,28,Tristan Beck,San Francisco Giants,2.2,9,6,6,0,0,2,4.12,49,35,24,1,10,3,14,16,-0.4,0.65,-0.3,0.81,-5.1,8,San Diego Padres,0.0
+29,29,Michael Wacha,San Diego Padres,6.0,6,2,2,2,6,1,2.85,108,70,40,9,21,6,12,56,0.094,0.8,0.0,0.01,1.0,18,San Francisco Giants,1.0
+30,30,Max Fried,Atlanta Braves,7.0,3,0,0,2,10,0,2.52,104,65,34,13,18,8,4,79,0.299,0.62,0.01,0.04,3.8,21,Los Angeles Dodgers,0.0
+31,31,Julio Urías,Los Angeles Dodgers,5.0,9,5,5,2,4,3,4.6,92,63,39,7,17,6,12,31,-0.201,0.73,-0.02,0.11,-2.3,15,Atlanta Braves,1.0

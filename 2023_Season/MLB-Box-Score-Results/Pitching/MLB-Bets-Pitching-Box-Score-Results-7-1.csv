@@ -1,0 +1,33 @@
+,Unnamed: 0,Name,Team,IP,H,R,ER,BB,SO,HR,ERA,Pit,Str,Ctct,StS,StL,GB,FB,GSc,WPA,aLI,cWPA,acLI,RE24,PO,Opponent,Hmcrt_adv
+0,0,Michael Wacha,San Diego Padres,5.0,5,1,1,2,4,0,2.84,87,53,30,8,15,7,8,55,0.176,1.3,0.03,0.35,1.7,15,Cincinnati Reds,0.0
+1,1,Brandon Williamson,Cincinnati Reds,5.0,3,2,2,1,5,0,5.56,86,51,30,5,16,7,5,57,0.125,0.92,0.09,1.13,1.3,15,San Diego Padres,1.0
+2,2,Luis Severino,New York Yankees,4.0,9,9,7,3,2,2,6.3,87,58,38,11,9,7,13,11,-0.298,0.68,-0.17,0.64,-5.9,12,St. Louis Cardinals,0.0
+3,3,Jack Flaherty,St. Louis Cardinals,6.0,4,0,0,2,4,0,4.6,96,60,35,9,16,9,7,66,0.194,0.56,0.01,0.06,3.1,18,New York Yankees,1.0
+4,4,Kutter Crawford,Boston Red Sox,5.2,3,2,2,2,5,2,3.92,74,46,25,12,9,5,9,58,0.058,0.77,0.02,0.49,0.8,17,Toronto Blue Jays,0.0
+5,5,Yusei Kikuchi,Toronto Blue Jays,4.1,7,5,5,2,7,1,4.08,86,56,30,9,17,2,11,34,-0.286,1.23,-0.18,1.26,-2.2,13,Boston Red Sox,1.0
+6,6,Bailey Ober,Minnesota Twins,7.0,2,0,0,0,8,0,2.7,85,58,28,10,20,6,9,81,0.487,1.1,0.28,1.05,3.4,21,Baltimore Orioles,0.0
+7,7,Kyle Bradish,Baltimore Orioles,6.0,7,1,1,1,7,1,3.58,94,60,35,9,16,11,6,60,0.182,1.01,0.11,1.04,1.9,18,Minnesota Twins,1.0
+8,8,MacKenzie Gore,Washington Nationals,2.2,6,7,7,3,3,1,4.48,64,37,23,4,10,3,8,18,-0.408,1.23,-0.02,0.08,-5.8,8,Philadelphia Phillies,0.0
+9,9,Zack Wheeler,Philadelphia Phillies,5.0,7,4,4,0,6,1,4.03,85,55,37,7,11,10,6,43,0.058,0.41,0.03,0.39,-1.4,15,Washington Nationals,1.0
+10,10,Corbin Burnes,Milwaukee Brewers,7.0,1,2,2,2,7,0,4.0,99,65,36,11,18,6,9,72,0.139,0.24,0.1,0.3,1.7,21,Pittsburgh Pirates,0.0
+11,11,Johan Oviedo,Pittsburgh Pirates,5.0,9,8,8,3,1,1,4.61,97,57,38,5,14,9,14,15,-0.347,0.57,-0.15,0.42,-4.7,15,Milwaukee Brewers,1.0
+12,12,Hunter Brown,Houston Astros,4.0,10,3,3,0,6,0,3.76,91,56,36,11,9,5,10,36,-0.111,1.1,-0.12,1.93,-0.9,12,Texas Rangers,0.0
+13,13,Nathan Eovaldi,Texas Rangers,7.0,2,0,0,4,5,0,2.64,97,58,35,13,10,10,4,74,0.37,0.86,0.38,1.48,3.7,21,Houston Astros,1.0
+14,14,Dylan Cease,Chicago White Sox,5.1,6,3,3,3,5,0,4.1,87,54,28,13,13,8,8,46,-0.18,1.58,-0.04,0.55,-0.8,16,Oakland Athletics,0.0
+15,15,Kyle Muller,Oakland Athletics,5.0,6,3,3,4,4,1,7.79,86,54,37,11,6,10,5,43,-0.127,1.1,0.0,0.0,-0.7,15,Chicago White Sox,1.0
+16,16,Eury Pérez,Miami Marlins,0.1,7,6,6,0,0,2,2.47,35,23,15,6,2,3,5,13,-0.387,0.71,-0.31,0.94,-6.2,1,Atlanta Braves,0.0
+17,17,Charlie Morton,Atlanta Braves,5.2,4,0,0,1,5,0,3.57,106,66,36,10,20,7,9,65,0.131,0.47,0.07,0.45,2.7,17,Miami Marlins,1.0
+18,18,Anthony DeSclafani,San Francisco Giants,3.0,3,3,3,0,3,3,4.44,55,34,20,5,9,2,6,44,-0.159,0.67,-0.12,0.87,-1.5,9,New York Mets,0.0
+19,19,Justin Verlander,New York Mets,7.0,5,1,0,1,6,0,3.66,102,69,39,14,16,9,10,70,0.271,0.77,0.03,0.16,2.6,21,San Francisco Giants,1.0
+20,20,Tanner Bibee,Cleveland Guardians,5.2,3,0,0,2,9,0,3.46,96,63,39,11,13,8,3,70,0.306,1.08,0.16,0.95,3.0,17,Chicago Cubs,0.0
+21,21,Marcus Stroman,Chicago Cubs,5.2,5,5,5,2,7,0,2.76,94,55,29,9,17,10,5,44,-0.059,0.79,-0.02,0.42,-0.3,17,Cleveland Guardians,1.0
+22,22,Julio Urías,Los Angeles Dodgers,3.0,6,5,5,2,2,0,4.94,66,43,33,4,6,4,8,27,-0.271,1.05,-0.21,1.37,-3.5,9,Kansas City Royals,0.0
+23,23,Daniel Lynch IV,Kansas City Royals,5.0,5,3,3,3,4,0,4.14,108,62,38,9,15,10,7,46,0.076,0.98,0.0,0.0,-0.4,15,Los Angeles Dodgers,1.0
+24,24,Tyler Glasnow,Tampa Bay Rays,5.2,7,3,3,1,11,1,4.5,102,68,30,23,15,4,9,53,-0.208,0.98,-0.09,0.68,-0.8,17,Seattle Mariners,0.0
+25,25,George Kirby,Seattle Mariners,7.0,2,2,2,2,7,1,3.21,101,67,40,14,13,9,7,70,0.149,0.97,0.04,0.43,1.4,21,Tampa Bay Rays,1.0
+26,26,Ian Hamilton,New York Yankees,1.0,3,1,1,0,2,1,1.5,29,21,12,6,3,1,3,45,-0.051,1.14,-0.03,1.07,-0.5,3,St. Louis Cardinals,0.0
+27,27,Matthew Liberatore,St. Louis Cardinals,4.1,7,3,3,1,1,0,5.68,56,39,24,1,14,8,10,37,-0.153,1.11,-0.01,0.14,-1.3,13,New York Yankees,1.0
+28,28,Brendan White,Detroit Tigers,1.1,1,0,0,1,1,0,4.63,26,17,8,4,5,2,2,52,0.076,0.88,0.02,0.36,0.9,4,Colorado Rockies,0.0
+29,29,Peter Lambert,Colorado Rockies,3.0,2,0,0,1,2,0,6.29,45,27,18,3,6,6,3,56,0.166,0.88,0.0,0.03,1.8,9,Detroit Tigers,1.0
+30,30,Ryne Nelson,Arizona Diamondbacks,7.1,3,1,1,1,6,1,4.67,84,57,35,9,13,5,14,73,0.354,1.06,0.28,1.41,3.0,22,Los Angeles Angels,0.0
+31,31,Tyler Anderson,Los Angeles Angels,5.0,5,0,0,2,3,0,5.2,92,54,36,6,12,5,12,58,0.29,1.33,0.19,1.43,2.7,15,Arizona Diamondbacks,1.0

@@ -1,0 +1,17 @@
+,Unnamed: 0,Name,Team,IP,H,R,ER,BB,SO,HR,ERA,Pit,Str,Ctct,StS,StL,GB,FB,GSc,WPA,aLI,cWPA,acLI,RE24,PO,Opponent,Hmcrt_adv
+0,0,Charlie Morton,Atlanta Braves,5.2,4,0,0,3,8,0,3.6,104,61,26,16,19,4,9,66,0.29,1.13,0.2,1.31,2.7,17,Detroit Tigers,0.0
+1,1,Mason Englert,Detroit Tigers,2.2,3,1,1,1,1,0,4.89,45,31,19,4,8,5,5,48,0.0,0.97,0.0,0.35,0.1,8,Atlanta Braves,1.0
+2,2,Connor Seabold,Colorado Rockies,6.0,6,1,1,1,6,0,4.7,88,59,37,10,12,6,10,61,0.208,1.17,0.02,0.22,2.3,18,Boston Red Sox,0.0
+3,3,James Paxton,Boston Red Sox,6.0,4,1,0,1,8,0,3.09,98,70,38,16,16,10,5,69,0.15,0.96,0.05,0.54,1.9,18,Colorado Rockies,1.0
+4,4,Logan Webb,San Francisco Giants,7.0,7,3,3,0,6,2,3.15,88,60,34,5,21,15,6,57,-0.03,0.99,-0.02,0.97,0.7,21,St. Louis Cardinals,0.0
+5,5,Matthew Liberatore,St. Louis Cardinals,6.0,7,2,2,2,5,0,5.14,86,57,33,7,17,7,12,53,0.07,1.01,0.01,0.32,1.1,18,San Francisco Giants,1.0
+6,6,Tyler Anderson,Los Angeles Angels,6.0,8,5,5,2,7,1,5.8,105,63,37,15,11,4,15,41,-0.183,0.74,-0.14,0.93,-1.8,18,Texas Rangers,0.0
+7,7,Dane Dunning,Texas Rangers,5.0,6,4,3,5,3,0,2.76,90,57,39,7,11,6,10,39,-0.077,1.18,-0.06,1.63,-1.3,15,Los Angeles Angels,1.0
+8,8,Luke Weaver,Cincinnati Reds,4.2,5,3,3,4,3,0,6.23,93,61,37,5,19,4,11,41,-0.125,0.82,-0.06,0.6,-0.9,14,Kansas City Royals,0.0
+9,9,Zack Greinke,Kansas City Royals,5.0,6,3,3,0,4,1,4.65,81,57,36,6,15,3,12,47,-0.03,0.9,0.0,0.01,-0.0,15,Cincinnati Reds,1.0
+10,10,Matt Strahm,Philadelphia Phillies,2.2,4,3,3,1,1,0,4.0,50,34,23,2,9,3,8,38,-0.134,1.31,-0.07,1.23,-1.7,8,Arizona Diamondbacks,0.0
+11,11,Tommy Henry,Arizona Diamondbacks,4.2,9,5,5,1,6,1,4.86,85,57,33,16,8,4,12,31,-0.258,0.93,-0.19,1.15,-2.6,14,Philadelphia Phillies,1.0
+12,12,Zach Eflin,Tampa Bay Rays,4.2,5,4,4,2,6,0,3.28,94,58,30,13,15,6,6,42,-0.159,1.16,-0.07,0.91,-1.9,14,Oakland Athletics,0.0
+13,13,James Kaprielian,Oakland Athletics,6.0,5,3,3,3,4,1,6.89,93,64,32,13,19,10,8,51,0.094,0.96,0.0,0.0,-0.2,18,Tampa Bay Rays,1.0
+14,14,Jesús Luzardo,Miami Marlins,4.0,6,6,5,1,3,1,4.17,81,53,27,12,14,6,10,30,-0.337,0.62,-0.25,0.76,-4.1,12,Seattle Mariners,0.0
+15,15,Bryce Miller,Seattle Mariners,6.0,1,1,1,3,6,1,4.06,89,56,31,11,14,6,6,69,0.139,0.54,0.04,0.29,1.9,18,Miami Marlins,1.0

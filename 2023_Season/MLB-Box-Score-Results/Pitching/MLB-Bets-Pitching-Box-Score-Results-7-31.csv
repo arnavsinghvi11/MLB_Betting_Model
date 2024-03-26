@@ -1,0 +1,19 @@
+,Unnamed: 0,Name,Team,IP,H,R,ER,BB,SO,HR,ERA,Pit,Str,Ctct,StS,StL,GB,FB,GSc,WPA,aLI,cWPA,acLI,RE24,PO,Opponent,Hmcrt_adv
+0,0,Taijuan Walker,Philadelphia Phillies,6.2,6,2,2,2,4,1,3.91,100,56,32,6,18,7,14,56,0.195,0.98,0.14,1.22,1.5,20,Miami Marlins,0
+1,1,Edward Cabrera,Miami Marlins,3.0,2,2,2,6,3,0,4.79,76,37,16,9,12,4,3,44,0.042,1.31,0.03,1.56,0.6,9,Philadelphia Phillies,1
+2,2,Tyler Glasnow,Tampa Bay Rays,7.0,3,1,1,2,8,1,3.15,94,61,27,16,18,7,8,73,0.219,0.8,0.18,1.07,2.6,21,New York Yankees,0
+3,3,Jhony Brito,New York Yankees,4.0,6,5,5,0,4,4,5.17,67,46,29,7,10,4,9,34,-0.293,0.65,-0.14,0.52,-2.9,12,Tampa Bay Rays,1
+4,4,Corbin Burnes,Milwaukee Brewers,6.0,4,2,2,3,5,1,3.44,95,61,37,7,17,11,6,58,0.084,1.23,0.07,1.82,1.1,18,Washington Nationals,0
+5,5,Jake Irvin,Washington Nationals,5.1,6,2,2,2,2,0,4.86,92,59,38,3,18,7,13,48,-0.046,1.21,0.0,0.01,0.1,16,Milwaukee Brewers,1
+6,6,Kyle Gibson,Baltimore Orioles,6.0,4,1,1,2,5,0,4.53,97,60,32,10,18,11,5,63,0.172,0.88,0.14,1.23,1.6,18,Toronto Blue Jays,0
+7,7,Chris Bassitt,Toronto Blue Jays,6.0,7,4,4,2,7,1,4.0,113,71,36,11,24,6,11,47,-0.175,0.61,-0.15,0.91,-1.0,18,Baltimore Orioles,1
+8,8,Chase Silseth,Los Angeles Angels,5.0,3,1,1,0,4,1,3.99,63,41,21,10,10,7,6,61,0.186,0.97,0.12,1.01,1.7,15,Atlanta Braves,0
+9,9,Charlie Morton,Atlanta Braves,6.0,6,3,3,3,8,3,3.62,94,59,28,21,10,5,11,53,-0.043,0.91,-0.01,0.26,0.3,18,Los Angeles Angels,1
+10,10,Andrew Abbott,Cincinnati Reds,3.1,5,4,4,3,5,1,2.35,76,45,25,6,14,1,9,36,-0.145,1.08,-0.15,1.88,-2.4,10,Chicago Cubs,0
+11,11,Marcus Stroman,Chicago Cubs,3.0,6,6,6,2,2,0,3.85,71,39,23,5,11,7,6,23,-0.364,0.87,-0.24,0.95,-4.4,9,Cincinnati Reds,1
+12,12,Noah Syndergaard,Cleveland Guardians,5.1,2,1,1,2,0,0,6.68,68,43,29,2,12,5,12,58,0.229,1.22,0.14,1.2,2.1,16,Houston Astros,0
+13,13,J.P. France,Houston Astros,7.0,7,2,2,2,6,0,2.85,97,62,35,9,18,9,11,59,0.118,0.99,0.13,1.76,1.6,21,Cleveland Guardians,1
+14,14,Nick Pivetta,Boston Red Sox,7.1,5,3,3,0,10,2,4.08,104,67,35,10,22,5,11,66,0.062,0.83,0.04,0.87,1.2,22,Seattle Mariners,0
+15,15,George Kirby,Seattle Mariners,5.0,4,1,1,2,7,0,3.43,97,63,41,10,12,4,8,60,0.166,1.2,0.09,1.11,1.4,15,Boston Red Sox,1
+16,16,Ryne Nelson,Arizona Diamondbacks,6.2,5,2,2,3,1,1,4.84,95,57,36,4,17,5,18,54,0.12,1.01,0.11,1.59,1.3,20,San Francisco Giants,0
+17,17,Jakob Junis,San Francisco Giants,3.0,1,0,0,0,3,0,4.55,37,26,12,6,8,6,1,60,0.155,0.77,0.17,1.39,1.5,9,Arizona Diamondbacks,1

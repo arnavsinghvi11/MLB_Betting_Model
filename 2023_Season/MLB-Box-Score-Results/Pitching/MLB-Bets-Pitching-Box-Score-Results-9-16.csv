@@ -1,0 +1,33 @@
+,Unnamed: 0,Name,Team,IP,H,R,ER,BB,SO,HR,ERA,Pit,Str,Ctct,StS,StL,GB,FB,GSc,WPA,aLI,cWPA,acLI,RE24,PO,Opponent,Hmcrt_adv
+0,0,Keaton Winn,San Francisco Giants,4.0,3,3,3,2,5,0,3.89,76,50,22,17,11,2,8,47,-0.065,1.19,-0.05,1.45,-0.6,12,Colorado Rockies,0.0
+1,1,Brent Suter,Colorado Rockies,2.0,2,2,2,2,1,0,3.48,36,20,10,3,7,2,4,43,-0.086,1.16,0.0,0.0,-0.8,6,San Francisco Giants,1.0
+2,2,Chris Sale,Boston Red Sox,6.0,2,1,1,2,10,1,4.66,81,54,21,14,19,3,6,72,0.211,0.87,0.0,0.01,2.0,18,Toronto Blue Jays,0.0
+3,3,Chris Bassitt,Toronto Blue Jays,7.0,4,2,2,3,5,1,3.78,110,71,42,13,16,7,12,63,0.073,0.91,0.07,1.44,1.5,21,Boston Red Sox,1.0
+4,4,Matt Waldron,San Diego Padres,5.1,7,2,2,1,5,1,5.16,85,55,34,7,14,4,13,50,0.072,1.0,0.0,0.0,0.3,16,Oakland Athletics,0.0
+5,5,Mason Miller,Oakland Athletics,1.0,2,2,2,3,2,0,3.42,33,17,12,3,2,1,2,40,-0.161,1.25,0.0,0.0,-1.5,3,San Diego Padres,1.0
+6,6,Jared Shuster,Atlanta Braves,3.0,7,5,5,2,2,2,5.81,56,32,22,5,5,8,5,25,-0.339,0.98,-0.0,0.01,-3.4,9,Miami Marlins,0.0
+7,7,Bryan Hoeing,Miami Marlins,4.1,4,3,3,1,2,2,4.19,64,38,25,4,9,5,10,44,-0.027,0.78,-0.03,1.27,-0.6,13,Atlanta Braves,1.0
+8,8,Dane Dunning,Texas Rangers,5.0,6,0,0,3,5,0,3.78,85,51,27,10,14,4,10,57,0.287,1.42,0.42,3.48,2.5,15,Cleveland Guardians,0.0
+9,9,Tanner Bibee,Cleveland Guardians,5.1,5,1,1,0,4,0,2.98,81,59,36,7,16,9,8,58,0.148,0.94,0.0,0.02,1.7,16,Texas Rangers,1.0
+10,10,Luke Weaver,New York Yankees,4.0,4,3,3,2,7,1,6.77,74,44,22,8,14,4,5,47,-0.054,1.21,-0.0,0.07,-0.9,12,Pittsburgh Pirates,0.0
+11,11,Luis Ortiz,Pittsburgh Pirates,4.2,6,4,4,6,2,1,4.85,88,45,25,5,15,9,9,32,-0.19,1.12,0.0,0.0,-1.9,14,New York Yankees,1.0
+12,12,Tyler Glasnow,Tampa Bay Rays,4.0,8,6,6,2,4,1,3.53,77,51,30,9,12,7,8,24,-0.298,0.68,-0.56,2.12,-4.0,12,Baltimore Orioles,0.0
+13,13,Grayson Rodriguez,Baltimore Orioles,8.0,5,0,0,0,7,0,4.53,95,72,45,10,17,12,10,79,0.189,0.41,0.36,1.29,3.9,24,Tampa Bay Rays,1.0
+14,14,Pablo López,Minnesota Twins,5.0,8,5,5,0,8,2,3.58,85,62,32,17,13,10,4,39,-0.321,0.56,-0.02,0.06,-2.4,15,Chicago White Sox,0.0
+15,15,Touki Toussaint,Chicago White Sox,5.0,3,1,1,1,8,0,5.4,74,49,18,13,18,5,4,64,0.095,0.71,0.0,0.0,1.6,15,Minnesota Twins,1.0
+16,16,J.P. France,Houston Astros,4.1,5,5,5,4,0,0,3.84,90,53,37,2,14,5,13,29,-0.31,0.74,-0.51,2.02,-3.0,13,Kansas City Royals,0.0
+17,17,Cole Ragans,Kansas City Royals,6.0,6,5,5,2,7,1,3.33,100,65,41,15,9,10,8,45,-0.063,0.96,0.0,0.0,-0.9,18,Houston Astros,1.0
+18,18,Trevor Williams,Washington Nationals,2.0,5,3,3,2,1,0,5.55,70,40,27,3,10,5,4,33,-0.202,1.19,0.0,0.0,-2.0,6,Milwaukee Brewers,0.0
+19,19,Corbin Burnes,Milwaukee Brewers,5.2,5,4,4,3,9,1,3.56,100,66,36,10,20,6,7,49,-0.129,0.97,-0.01,0.14,-1.7,17,Washington Nationals,1.0
+20,20,Andrew Abbott,Cincinnati Reds,3.2,6,2,2,3,5,0,3.68,91,54,25,11,18,4,7,43,-0.043,1.28,-0.04,2.15,-0.3,11,New York Mets,0.0
+21,21,Tylor Megill,New York Mets,5.2,9,3,2,2,2,1,4.94,97,56,34,8,14,10,12,41,-0.054,1.18,0.0,0.0,-0.1,17,Cincinnati Reds,1.0
+22,22,Ranger Suárez,Philadelphia Phillies,6.0,4,1,1,4,5,0,3.8,106,63,35,12,16,5,12,61,0.205,1.29,0.07,0.69,2.1,18,St. Louis Cardinals,0.0
+23,23,Miles Mikolas,St. Louis Cardinals,6.0,8,5,5,0,2,1,4.84,93,69,49,3,17,10,13,38,-0.235,0.83,0.0,0.0,-1.9,18,Philadelphia Phillies,1.0
+24,24,Kyle Hendricks,Chicago Cubs,5.1,7,3,3,1,3,0,3.77,73,47,29,7,11,8,12,44,-0.184,1.23,-0.23,2.52,-0.8,16,Arizona Diamondbacks,0.0
+25,25,Zach Davies,Arizona Diamondbacks,4.0,5,3,3,2,5,0,6.81,81,47,25,4,18,6,6,43,-0.006,1.08,-0.01,2.2,0.3,12,Chicago Cubs,1.0
+26,26,Scott Alexander,San Francisco Giants,0.2,1,2,0,0,0,0,4.47,16,11,6,1,4,2,2,46,-0.075,0.96,-0.04,0.95,-0.8,2,Colorado Rockies,0.0
+27,27,Kyle Freeland,Colorado Rockies,3.0,4,1,1,1,1,0,5.03,41,26,17,3,6,6,5,47,0.081,1.08,0.0,0.0,0.8,9,San Francisco Giants,1.0
+28,28,Sawyer Gipson-Long,Detroit Tigers,5.0,2,1,1,3,11,1,2.7,82,53,17,22,14,0,6,67,0.183,1.07,0.0,0.01,1.7,15,Los Angeles Angels,0.0
+29,29,Tyler Anderson,Los Angeles Angels,5.0,4,4,4,5,7,1,5.43,107,63,36,14,13,2,10,45,-0.176,0.96,0.0,0.0,-1.3,15,Detroit Tigers,1.0
+30,30,Clayton Kershaw,Los Angeles Dodgers,4.0,2,0,0,2,4,0,2.52,56,34,18,7,9,4,5,60,0.211,1.09,0.01,0.11,1.9,12,Seattle Mariners,0.0
+31,31,Bryce Miller,Seattle Mariners,5.1,4,0,0,1,4,0,3.88,86,54,39,4,11,6,10,63,0.274,1.09,0.4,2.67,2.4,16,Los Angeles Dodgers,1.0

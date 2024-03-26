@@ -10,9 +10,9 @@ class Date:
         date_format='%m/%d/%Y %H:%M:%S %Z'
         date = datetime.now(tz=pytz.utc)
         if days > 0: 
-            correct_date = date.astimezone(timezone('US/Pacific')) + timedelta(days = 1)
+            correct_date = date.astimezone(timezone('US/Pacific')) + timedelta(days = days)
         elif days < 0:
-            correct_date = date.astimezone(timezone('US/Pacific')) - timedelta(days = 1)
+            correct_date = date.astimezone(timezone('US/Pacific')) - timedelta(days = -days)
         else:
             correct_date = date.astimezone(timezone('US/Pacific'))
         return correct_date.strftime(date_format)
@@ -24,7 +24,7 @@ class Date:
         return date_formatted.split('/')[0].lstrip('0'), date_formatted.split('/')[1].lstrip('0')
 
     def draftkings_date(self, days):
-        month, day = date_month_day(days)
+        month, day = self.date_month_day(days)
         return month + '/' + day + '/'
 
     def underdog_date(self, days):
@@ -35,16 +35,6 @@ class Date:
         return month_name + '-' + day
 
     def date_converter(self, col):
-        #returns formatted version of date to maintain recency of dates based on NBA Schedule
-        #Since the season starts in October, 10 is the earliest number.
-        #Each "single-digit" month is then compounded with a multiplier to be the most recent 
-        #when sorted in descending order
-        if int(col.split('-')[1]) < 10: 
-            col = col.split('-')[0] + '0' + col.split('-')[1]
-        else:
-            col = col.split('-')[0] + col.split('-')[1]
+        #returns formatted version of date to maintain recency of dates based on MLB Schedule
+        col = col.split('-')[0] + col.split('-')[1]
         return int(col)
-
-    #add underdog date
-    #add covers date
-    #add action date 

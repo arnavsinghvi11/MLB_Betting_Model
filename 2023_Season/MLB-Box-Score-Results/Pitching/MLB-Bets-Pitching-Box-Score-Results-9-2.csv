@@ -1,0 +1,31 @@
+,Unnamed: 0,Name,Team,IP,H,R,ER,BB,SO,HR,ERA,Pit,Str,Ctct,StS,StL,GB,FB,GSc,WPA,aLI,cWPA,acLI,RE24,PO,Opponent,Hmcrt_adv
+0,0,Johnny Cueto,Miami Marlins,5.0,5,3,3,2,4,2,5.54,77,52,30,8,14,7,7,47,0.028,0.7,0.01,0.6,-0.5,15,Washington Nationals,0.0
+1,1,Trevor Williams,Washington Nationals,4.0,12,9,8,0,3,4,5.21,82,51,34,8,9,7,14,7,-0.446,0.63,-0.0,0.0,-7.0,12,Miami Marlins,1.0
+2,2,Griffin Canning,Los Angeles Angels,6.0,4,2,2,0,7,1,4.3,89,61,33,12,16,6,9,63,0.021,0.81,0.0,0.0,0.8,18,Oakland Athletics,0.0
+3,3,Paul Blackburn,Oakland Athletics,5.0,4,1,1,3,4,0,3.81,86,51,29,13,9,8,6,56,0.146,1.38,0.0,0.0,1.3,15,Los Angeles Angels,1.0
+4,4,Zack Littell,Tampa Bay Rays,4.2,9,4,4,0,1,1,4.69,85,57,36,4,17,8,13,31,-0.193,1.13,-0.12,1.2,-1.8,14,Cleveland Guardians,0.0
+5,5,Logan Allen,Cleveland Guardians,5.0,7,4,4,0,5,2,3.77,94,63,38,5,20,8,8,42,-0.162,0.97,-0.06,0.57,-1.5,15,Tampa Bay Rays,1.0
+6,6,Javier Assad,Chicago Cubs,8.0,7,0,0,1,7,0,2.69,98,62,32,11,19,12,7,74,0.629,1.29,0.51,1.73,4.4,24,Cincinnati Reds,0.0
+7,7,Andrew Abbott,Cincinnati Reds,6.1,4,1,1,2,5,1,3.22,97,61,37,9,15,7,11,64,0.21,1.03,0.17,1.42,2.5,19,Chicago Cubs,1.0
+8,8,Reese Olson,Detroit Tigers,7.0,4,0,0,0,1,0,4.65,79,48,29,7,12,11,10,70,0.108,0.28,0.01,0.02,3.7,21,Chicago White Sox,0.0
+9,9,Mike Clevinger,Chicago White Sox,4.0,12,8,8,0,2,1,3.9,71,52,35,6,11,3,18,8,-0.391,0.37,0.0,0.0,-5.9,12,Detroit Tigers,1.0
+10,10,Luis Severino,New York Yankees,4.0,6,4,4,1,3,2,6.75,104,75,56,8,11,4,10,36,-0.263,0.94,-0.01,0.03,-2.0,12,Houston Astros,0.0
+11,11,Hunter Brown,Houston Astros,4.0,5,5,3,4,5,1,4.53,94,54,29,10,15,7,5,37,-0.303,1.27,-0.36,2.48,-2.3,12,New York Yankees,1.0
+12,12,Tanner Houck,Boston Red Sox,5.0,7,4,4,1,5,0,5.07,95,62,37,13,12,8,9,41,0.034,0.6,0.01,0.14,-0.3,15,Kansas City Royals,0.0
+13,13,Alec Marsh,Kansas City Royals,2.2,7,6,6,2,1,1,6.23,60,33,16,6,11,3,11,19,-0.296,0.87,0.0,0.0,-3.2,8,Boston Red Sox,1.0
+14,14,Luis Castillo,Seattle Mariners,5.0,8,5,5,2,2,2,3.19,89,56,32,12,12,3,18,31,-0.168,1.38,-0.19,2.58,-1.8,15,New York Mets,0.0
+15,15,David Peterson,New York Mets,4.0,7,4,4,0,4,1,5.4,77,51,29,15,7,6,8,36,-0.178,0.94,-0.0,0.02,-1.3,12,Seattle Mariners,1.0
+16,16,Aaron Nola,Philadelphia Phillies,4.2,8,7,7,3,5,1,4.55,97,62,35,10,17,7,9,22,-0.343,0.88,-0.11,0.49,-3.7,14,Milwaukee Brewers,0.0
+17,17,Colin Rea,Milwaukee Brewers,4.1,3,2,2,0,6,2,5.07,66,46,23,13,10,2,8,55,0.046,0.85,0.01,0.42,0.3,13,Philadelphia Phillies,1.0
+18,18,Thomas Hatch,Pittsburgh Pirates,2.1,3,3,3,0,1,1,4.09,33,20,11,5,4,4,5,40,-0.18,0.78,-0.0,0.01,-1.7,7,St. Louis Cardinals,0.0
+19,19,Drew Rom,St. Louis Cardinals,4.2,5,3,3,3,1,0,7.24,84,46,30,4,12,11,6,40,-0.129,1.12,0.0,0.0,-0.9,14,Pittsburgh Pirates,1.0
+20,20,Dallas Keuchel,Minnesota Twins,3.1,5,5,5,1,2,2,5.06,57,35,21,7,7,7,6,31,-0.279,0.89,-0.12,0.61,-2.8,10,Texas Rangers,0.0
+21,21,Jordan Montgomery,Texas Rangers,3.2,7,6,6,2,0,1,3.46,68,41,23,8,10,9,8,21,-0.432,1.11,-0.47,1.99,-4.1,11,Minnesota Twins,1.0
+22,22,Kyle Bradish,Baltimore Orioles,6.0,4,2,2,3,6,0,3.03,107,66,32,12,22,12,3,59,0.052,1.05,0.03,1.03,1.1,18,Arizona Diamondbacks,0.0
+23,23,Slade Cecconi,Arizona Diamondbacks,3.1,9,6,6,0,4,1,4.44,71,43,28,5,10,3,12,22,-0.445,0.92,-0.3,1.04,-4.4,10,Baltimore Orioles,1.0
+24,24,Yusei Kikuchi,Toronto Blue Jays,4.2,6,6,2,4,6,0,3.63,100,54,33,13,8,8,7,38,-0.097,1.29,-0.07,1.48,-1.5,14,Colorado Rockies,0.0
+25,25,Ty Blach,Colorado Rockies,6.0,9,5,5,3,2,1,4.33,93,56,32,6,18,8,13,33,-0.12,0.9,0.0,0.0,-1.4,18,Toronto Blue Jays,1.0
+26,26,Kyle Harrison,San Francisco Giants,5.2,6,6,6,2,5,4,4.7,91,56,27,9,20,3,14,36,-0.202,0.42,-0.14,0.51,-3.1,17,San Diego Padres,0.0
+27,27,Blake Snell,San Diego Padres,6.0,3,0,0,4,8,0,2.5,113,66,22,21,23,4,9,70,0.284,0.97,0.0,0.02,3.0,18,San Francisco Giants,1.0
+28,28,Bryce Elder,Atlanta Braves,6.0,5,1,1,4,4,0,3.42,92,55,33,7,15,5,13,58,0.252,1.34,0.01,0.04,2.2,18,Los Angeles Dodgers,0.0
+29,29,Emmet Sheehan,Los Angeles Dodgers,4.0,3,1,1,3,6,1,5.31,76,47,24,16,7,2,5,55,0.106,1.03,0.01,0.17,1.2,12,Atlanta Braves,1.0

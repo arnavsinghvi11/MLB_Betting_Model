@@ -1,0 +1,33 @@
+,Unnamed: 0,Name,Team,IP,H,R,ER,BB,SO,HR,ERA,Pit,Str,Ctct,StS,StL,GB,FB,GSc,WPA,aLI,cWPA,acLI,RE24,PO,Opponent,Hmcrt_adv
+0,0,Trevor Kelley,Tampa Bay Rays,2.1,1,0,0,0,2,0,4.05,35,24,12,2,10,3,3,57,0.123,1.05,0.08,1.18,1.3,7,Boston Red Sox,0.0
+1,1,Garrett Whitlock,Boston Red Sox,4.2,6,4,4,2,5,0,5.61,97,69,42,10,17,7,9,39,-0.188,0.85,-0.09,0.67,-1.9,14,Tampa Bay Rays,1.0
+2,2,Michael Lorenzen,Detroit Tigers,7.0,2,1,1,0,6,0,3.21,85,58,37,6,15,7,10,75,0.299,0.98,0.14,0.76,2.7,21,Chicago White Sox,0.0
+3,3,Dylan Cease,Chicago White Sox,5.1,2,1,1,3,6,0,4.63,99,62,26,23,13,4,7,63,0.166,1.09,0.04,0.41,1.9,16,Detroit Tigers,1.0
+4,4,Jordan Montgomery,St. Louis Cardinals,5.2,4,4,1,1,5,1,4.23,75,47,30,7,10,9,6,55,-0.108,1.14,-0.04,0.72,-0.2,17,Pittsburgh Pirates,0.0
+5,5,Luis Ortiz,Pittsburgh Pirates,2.0,1,1,1,2,1,1,4.37,30,18,8,2,8,3,2,49,-0.007,0.77,-0.01,0.95,0.0,6,St. Louis Cardinals,1.0
+6,6,Bryan Woo,Seattle Mariners,2.0,7,6,6,1,4,0,27.0,47,33,19,6,8,5,4,21,-0.401,1.0,-0.22,0.9,-4.9,6,Texas Rangers,0.0
+7,7,Andrew Heaney,Texas Rangers,3.0,6,3,3,4,5,0,4.03,78,44,19,18,7,4,6,36,-0.168,0.96,-0.14,1.35,-2.3,9,Seattle Mariners,1.0
+8,8,Matt Strahm,Philadelphia Phillies,2.0,0,0,0,0,1,0,3.05,22,15,9,2,4,1,4,57,0.103,0.68,0.04,0.42,1.0,6,Washington Nationals,0.0
+9,9,MacKenzie Gore,Washington Nationals,6.0,9,3,3,0,6,1,3.66,101,63,37,18,8,5,15,48,-0.07,1.03,-0.02,0.58,0.1,18,Philadelphia Phillies,1.0
+10,10,Colin Rea,Milwaukee Brewers,5.0,6,3,3,3,5,1,4.94,93,62,31,10,21,9,7,45,0.008,0.59,0.01,0.78,-0.3,15,Cincinnati Reds,0.0
+11,11,Graham Ashcraft,Cincinnati Reds,4.0,9,10,10,4,2,2,6.64,86,51,30,5,16,9,10,2,-0.48,0.82,-0.24,0.68,-7.8,12,Milwaukee Brewers,1.0
+12,12,Patrick Sandoval,Los Angeles Angels,3.1,7,6,5,3,4,0,3.99,72,44,24,11,9,7,7,25,-0.243,1.25,-0.13,1.14,-2.5,10,Houston Astros,0.0
+13,13,Cristian Javier,Houston Astros,6.0,6,1,1,0,5,0,2.84,102,65,36,10,19,5,13,61,0.135,0.89,0.11,1.21,2.1,18,Los Angeles Angels,1.0
+14,14,Austin Gomber,Colorado Rockies,2.2,6,2,2,3,4,1,6.99,74,46,28,6,12,3,5,39,-0.05,0.98,-0.01,0.42,-1.0,8,Kansas City Royals,0.0
+15,15,Daniel Lynch IV,Kansas City Royals,5.0,6,5,3,1,7,0,4.35,97,65,42,12,11,3,12,45,-0.256,0.76,-0.0,0.02,-2.4,15,Colorado Rockies,1.0
+16,16,Luis Medina,Oakland Athletics,2.0,6,6,6,4,2,0,8.19,72,43,25,7,11,1,9,18,-0.282,0.95,0.0,0.0,-3.9,6,Miami Marlins,0.0
+17,17,Eury Pérez,Miami Marlins,5.0,4,0,0,1,5,0,2.25,88,55,30,9,16,5,9,63,0.162,0.47,0.11,0.53,2.7,15,Oakland Athletics,1.0
+18,18,José Berríos,Toronto Blue Jays,6.0,4,1,1,3,6,0,3.66,86,58,25,10,23,7,9,63,0.207,1.26,0.1,1.07,2.1,18,New York Mets,0.0
+19,19,Tylor Megill,New York Mets,5.1,5,1,1,5,5,0,4.4,103,58,29,10,19,6,8,54,0.228,1.38,0.15,1.55,2.2,16,Toronto Blue Jays,1.0
+20,20,Tyler Glasnow,Tampa Bay Rays,5.1,4,1,1,3,6,0,3.72,88,54,27,12,15,9,5,59,0.163,1.25,0.11,1.47,1.7,16,Boston Red Sox,0.0
+21,21,Kutter Crawford,Boston Red Sox,3.0,2,1,1,0,3,0,3.48,40,29,14,8,7,4,4,54,0.044,1.02,0.02,0.85,0.6,9,Tampa Bay Rays,1.0
+22,22,Gerrit Cole,New York Yankees,6.0,4,1,1,2,5,0,2.82,80,50,27,8,15,2,13,63,0.219,1.0,0.14,1.04,2.2,18,Los Angeles Dodgers,0.0
+23,23,Michael Grove,Los Angeles Dodgers,5.0,4,4,4,0,7,2,8.14,83,59,29,13,17,1,11,50,-0.179,0.71,-0.13,0.86,-1.3,15,New York Yankees,1.0
+24,24,Logan Allen,Cleveland Guardians,6.0,7,2,2,2,4,1,2.76,95,61,34,9,18,9,10,52,0.07,1.0,0.03,0.69,1.1,18,Minnesota Twins,0.0
+25,25,Sonny Gray,Minnesota Twins,6.2,10,3,3,0,2,1,2.28,90,62,39,7,16,11,16,44,-0.121,1.17,-0.09,1.4,0.1,20,Cleveland Guardians,1.0
+26,26,Kyle Bradish,Baltimore Orioles,4.0,7,3,3,1,5,0,4.13,79,53,27,10,16,5,9,40,-0.137,0.88,-0.1,1.04,-1.0,12,San Francisco Giants,0.0
+27,27,Alex Cobb,San Francisco Giants,7.2,5,0,0,0,7,0,2.71,103,70,37,13,20,13,7,76,0.322,0.67,0.17,0.57,3.5,23,Baltimore Orioles,1.0
+28,28,Spencer Strider,Atlanta Braves,6.0,3,2,2,4,7,1,2.97,99,63,33,13,17,6,6,61,0.202,0.95,0.17,1.34,1.8,18,Arizona Diamondbacks,0.0
+29,29,Ryne Nelson,Arizona Diamondbacks,4.2,6,3,3,4,0,0,5.4,98,64,50,5,9,6,13,36,-0.106,1.1,-0.08,1.44,-0.8,14,Atlanta Braves,1.0
+30,30,Drew Smyly,Chicago Cubs,5.2,7,3,3,3,4,1,3.29,82,47,24,9,14,6,14,44,-0.122,0.68,-0.05,0.46,-0.4,17,San Diego Padres,0.0
+31,31,Yu Darvish,San Diego Padres,7.0,2,0,0,1,9,0,4.1,115,75,36,11,28,10,4,81,0.337,0.7,0.13,0.46,3.5,21,Chicago Cubs,1.0
