@@ -1,0 +1,27 @@
+,Name,Team,Opponent,Hmcrt_adv,IP,H,R,ER,BB,SO,HR,ERA,Pit,Str,Ctct,StS,StL,GB,FB,GSc,WPA,aLI,cWPA,acLI,RE24,PO
+0,Louie Varland,Minnesota Twins,Milwaukee Brewers,0, 4 ,6,3,3,2,4,1,6.75,89,52,27,11,14,8,6,40,-0.120,1.05,-0.07,0.99,-0.9,12
+1,Jakob Junis,Milwaukee Brewers,Minnesota Twins,1, 4 ,3,1,1,1,4,0,2.25,47,34,15,9,10,3,8,55,0.130,1.27,0.08,1.24,1.1,12
+2,Alec Marsh,Kansas City Royals,Baltimore Orioles,0, 7 ,2,1,1,1,5,0,1.29,76,54,31,9,14,7,11,73,0.266,0.81,0.14,0.69,2.4,21
+3,Cole Irvin,Baltimore Orioles,Kansas City Royals,1, 5 ,7,4,4,2,3,0,7.20,81,55,36,6,13,8,11,38,-0.210,0.77,-0.12,0.76,-1.5,15
+4,Tyler Anderson,Los Angeles Angels,Miami Marlins,0, 7 ,4,0,0,2,5,0,0.00,83,59,36,11,12,9,10,72,0.419,1.02,0.24,0.95,3.8,21
+5,Jesús Luzardo,Miami Marlins,Los Angeles Angels,1, 5.1,4,3,3,2,5,1,4.35,93,58,33,10,15,6,7,51,0.027,0.84,0.01,0.58,0.7,16
+6,Graham Ashcraft,Cincinnati Reds,Philadelphia Phillies,0, 6 ,4,3,2,1,5,2,3.00,85,56,25,12,19,7,11,58,-0.056,0.77,-0.03,0.78,0.1,18
+7,Spencer Turnbull,Philadelphia Phillies,Cincinnati Reds,1, 5 ,3,1,0,0,7,0,0.00,83,56,32,8,16,7,5,66,0.177,1.05,0.10,0.94,1.6,15
+8,Andrew Heaney,Texas Rangers,Tampa Bay Rays,0, 4.2,4,3,1,0,7,0,1.93,90,60,36,15,9,3,9,55,0.075,0.88,0.05,0.91,1.0,14
+9,Zach Eflin,Tampa Bay Rays,Texas Rangers,1, 6.1,5,1,1,1,5,0,5.25,83,56,35,7,14,7,12,63,0.249,0.79,0.12,0.66,1.6,19
+10,Reynaldo López,Atlanta Braves,Chicago White Sox,0, 6 ,4,1,1,2,5,0,1.50,82,52,33,7,12,7,9,63,0.173,1.18,0.11,1.23,2.2,18
+11,Garrett Crochet,Chicago White Sox,Atlanta Braves,1, 7 ,3,1,1,1,8,1,1.38,93,63,33,14,16,7,9,74,0.263,1.03,0.11,0.74,2.7,21
+12,Kyle Freeland,Colorado Rockies,Chicago Cubs,0, 3.1,9,7,7,3,2,2,27.00,76,44,23,9,12,7,10,13,-0.307,0.55,-0.15,0.46,-5.0,10
+13,Javier Assad,Chicago Cubs,Colorado Rockies,1, 6 ,4,0,0,1,5,0,0.00,89,60,37,5,18,6,9,68,0.187,0.70,0.10,0.63,3.3,18
+14,José Berríos,Toronto Blue Jays,Houston Astros,0, 6 ,6,1,1,3,2,1,2.25,88,50,26,5,18,10,8,55,0.071,0.91,0.04,0.81,0.7,18
+15,Framber Valdez,Houston Astros,Toronto Blue Jays,1, 7.2,6,0,0,0,5,0,2.19,85,61,36,8,17,15,6,72,0.526,1.23,0.26,1.00,3.9,23
+16,Nestor Cortes,New York Yankees,Arizona Diamondbacks,0, 5 ,8,3,3,2,2,0,6.30,88,57,37,3,17,10,10,39,-0.138,0.70,-0.09,0.73,-0.8,15
+17,Zac Gallen,Arizona Diamondbacks,New York Yankees,1, 6 ,3,0,0,3,6,0,0.82,96,56,32,4,20,8,5,69,0.284,0.79,0.16,0.73,3.1,18
+18,Brayan Bello,Boston Red Sox,Oakland Athletics,0, 5 ,5,4,4,1,6,2,5.40,87,56,26,16,14,7,8,46,-0.237,0.98,-0.14,0.95,-1.7,15
+19,Alex Wood,Oakland Athletics,Boston Red Sox,1, 5 ,6,3,3,2,7,0,9.72,96,63,35,8,20,5,8,48,-0.128,1.21,-0.06,0.95,-1.0,15
+20,Miles Mikolas,St Louis Cardinals,San Diego Padres,0, 6 ,7,2,2,1,4,0,6.10,88,57,38,1,18,7,14,53,0.093,1.01,0.05,0.91,1.0,18
+21,Yu Darvish,San Diego Padres,St. Louis Cardinals,1, 7 ,5,3,3,1,6,1,2.30,82,59,32,15,12,11,9,60,-0.048,0.98,-0.03,0.88,0.5,21
+22,Shane Bieber,Cleveland Guardians,Seattle Mariners,0, 6 ,6,0,0,0,9,0,0.00,83,55,27,10,18,7,7,69,0.275,0.88,0.17,0.89,2.9,18
+23,Luis Castillo,Seattle Mariners,Cleveland Guardians,1, 5.2,10,4,4,1,7,1,6.75,99,72,50,10,12,10,9,39,-0.183,0.78,-0.11,0.75,-1.5,17
+24,Logan Webb,San Francisco Giants,Los Angeles Dodgers,0, 3.2,7,5,5,2,5,1,6.52,96,55,28,4,23,1,12,30,-0.346,1.05,-0.21,1.05,-3.3,11
+25,Ryan Brasier,Los Angeles Dodgers,San Francisco Giants,1, 1 ,0,0,0,1,1,0,2.25,12,8,3,1,4,0,2,53,0.049,0.68,0.03,0.80,0.5,3
