@@ -1,0 +1,27 @@
+,Name,Team,Opponent,Hmcrt_adv,IP,H,R,ER,BB,SO,HR,ERA,Pit,Str,Ctct,StS,StL,GB,FB,GSc,WPA,aLI,cWPA,acLI,RE24,PO
+0,Cole Ragans,Kansas City Royals,Baltimore Orioles,0, 6.1,1,0,0,2,7,0,1.46,91,57,27,13,17,8,5,76,0.304,1.04,0.17,0.95,2.5,19
+1,Corbin Burnes,Baltimore Orioles,Kansas City Royals,1, 5.2,9,2,2,0,3,0,2.31,100,67,42,10,15,13,10,46,0.030,0.88,0.02,0.82,0.8,17
+2,Patrick Sandoval,Los Angeles Angels,Miami Marlins,0, 5.2,4,2,2,2,7,0,6.14,93,65,37,16,12,9,4,58,0.110,0.88,0.07,0.87,0.8,17
+3,A.J. Puk,Miami Marlins,Los Angeles Angels,1, 4 ,5,4,2,3,5,0,9.00,88,56,32,10,14,4,9,42,-0.183,0.88,-0.07,0.56,-1.9,12
+4,Chris Paddack,Minnesota Twins,Milwaukee Brewers,0, 4 ,6,2,2,2,2,1,4.50,82,47,31,6,10,5,9,42,-0.030,1.05,-0.02,0.94,0.1,12
+5,Joe Ross,Milwaukee Brewers,Minnesota Twins,1, 3.2,2,0,0,5,3,0,0.00,73,38,21,5,12,5,5,55,0.127,1.19,0.08,1.19,1.3,11
+6,Nathan Eovaldi,Texas Rangers,Tampa Bay Rays,0, 7 ,4,0,0,1,8,0,1.38,103,75,44,21,10,7,8,76,0.476,1.14,0.29,1.15,3.5,21
+7,Aaron Civale,Tampa Bay Rays,Texas Rangers,1, 6 ,4,1,1,2,8,1,1.50,87,54,26,9,19,5,8,66,0.173,1.07,0.09,0.96,2.0,18
+8,Nick Pivetta,Boston Red Sox,Oakland Athletics,0, 5 ,5,0,0,1,3,0,0.82,90,55,36,11,8,8,8,59,0.288,1.23,0.18,1.25,2.3,15
+9,Ross Stripling,Oakland Athletics,Boston Red Sox,1, 7 ,8,1,1,0,3,0,3.75,85,61,38,3,20,9,14,60,0.222,1.11,0.10,0.83,2.3,21
+10,Carlos Rodón,New York Yankees,Arizona Diamondbacks,0, 5.1,7,2,2,2,3,2,2.79,95,60,38,7,15,7,12,47,-0.029,1.04,-0.02,1.07,0.2,16
+11,Merrill Kelly,Arizona Diamondbacks,New York Yankees,1, 7 ,5,2,2,1,4,1,1.98,91,64,40,6,17,9,11,62,0.188,1.08,0.11,1.06,1.7,21
+12,Frankie Montas,Cincinnati Reds,Philadelphia Phillies,0, 5.2,5,1,1,3,5,1,0.77,100,63,38,14,11,5,11,57,0.148,1.02,0.08,0.97,1.3,17
+13,Zack Wheeler,Philadelphia Phillies,Cincinnati Reds,1, 6 ,3,3,1,1,10,0,0.75,93,64,32,16,16,6,7,67,-0.048,0.94,-0.03,0.83,0.1,18
+14,Zack Thompson,St Louis Cardinals,San Diego Padres,0, 5 ,5,3,3,4,5,1,6.97,92,53,33,10,10,6,9,46,-0.117,1.03,-0.07,0.95,-0.5,15
+15,Joe Musgrove,San Diego Padres,St. Louis Cardinals,1, 6 ,5,1,1,1,7,0,6.28,88,52,25,12,15,4,8,64,0.231,1.06,0.11,0.88,2.0,18
+16,Logan Allen,Cleveland Guardians,Seattle Mariners,0, 6.2,4,0,0,3,6,0,2.31,93,64,32,8,24,7,10,69,0.121,0.41,0.07,0.41,3.2,20
+17,George Kirby,Seattle Mariners,Cleveland Guardians,1, 3.2,10,8,8,0,2,0,6.97,72,55,40,7,8,7,13,11,-0.382,0.68,-0.22,0.66,-6.3,11
+18,Mitch Keller,Pittsburgh Pirates,Washington Nationals,0, 5.1,8,5,4,2,5,1,6.55,84,54,33,7,13,8,11,37,-0.340,1.00,-0.23,1.15,-2.6,16
+19,Trevor Williams,Washington Nationals,Pittsburgh Pirates,1, 5.1,3,2,2,2,5,0,3.38,91,53,29,9,15,7,7,57,0.089,1.24,0.05,1.10,0.8,16
+20,Cal Quantrill,Colorado Rockies,Chicago Cubs,0, 4 ,4,4,4,4,3,0,9.00,90,57,38,7,12,3,9,37,-0.212,0.87,-0.10,0.71,-1.8,12
+21,Luke Little,Chicago Cubs,Colorado Rockies,1, 1 ,0,0,0,0,1,0,0.00,14,9,4,1,4,2,0,54,0.050,0.64,0.03,0.60,0.5,3
+22,Chris Bassitt,Toronto Blue Jays,Houston Astros,0, 4.1,9,4,4,3,3,1,7.71,91,55,31,3,21,5,13,29,-0.078,1.11,-0.04,1.02,-0.6,13
+23,Cristian Javier,Houston Astros,Toronto Blue Jays,1, 5 ,1,0,0,5,3,0,0.00,97,51,29,9,13,3,9,63,0.279,1.29,0.12,0.95,2.6,15
+24,Kyle Harrison,San Francisco Giants,Los Angeles Dodgers,0, 5 ,6,4,4,3,4,1,4.91,87,54,33,9,12,6,9,40,-0.198,0.94,-0.11,0.91,-1.3,15
+25,Tyler Glasnow,Los Angeles Dodgers,San Francisco Giants,1, 6 ,4,3,3,2,7,1,3.18,100,67,38,10,19,9,6,57,0.039,1.04,0.03,1.20,0.2,18
