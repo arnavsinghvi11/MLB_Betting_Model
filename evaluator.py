@@ -72,7 +72,7 @@ class Evaluator:
                 pitching_box_score['Name'] = pitching_box_score['Name'].apply(unidecode)
                 matching_name = pitching_box_score[pitching_box_score['Name'].str.lower() == name]
                 player_data = matching_name[matching_name['Team'].isin(teams)]
-            elif prop_bet_type == 'total bases' or prop_bet_type == 'bases' or prop_bet_type == 'hits' or prop_bet_type == 'home runs' or prop_bet_type == 'hr' or prop_bet_type == 'rbi' or prop_bet_type == 'hits+runs+rbi' or prop_bet_type == 'hits+runs+rbis' or prop_bet_type == 'hits + runs + rbis' or prop_bet_type == 'runs + hits + rbis' or prop_bet_type == 'runs scored' or prop_bet_type == 'runs' or prop_bet_type == 'walks':
+            elif prop_bet_type == 'total bases' or prop_bet_type == 'bases' or prop_bet_type == 'hits' or prop_bet_type == 'home runs' or prop_bet_type == 'hrs' or prop_bet_type == 'hr' or prop_bet_type == 'rbi' or prop_bet_type == 'hits+runs+rbi' or prop_bet_type == 'hits+runs+rbis' or prop_bet_type == 'hits + runs + rbis' or prop_bet_type == 'runs + hits + rbis' or prop_bet_type == 'runs scored' or prop_bet_type == 'runs' or prop_bet_type == 'walks':
                 hitting_box_score['Name'] = hitting_box_score['Name'].apply(unidecode)
                 matching_name = hitting_box_score[hitting_box_score['Name'].str.lower() == name]
                 player_data = matching_name[matching_name['Team'].isin(teams)]
@@ -95,7 +95,7 @@ class Evaluator:
                     correct.append(self.evaluator('>', 'BB', None, None, player_data, float(prediction[0][1:])))
                 if prop_bet_type == 'hits':
                     correct.append(self.evaluator('>', 'H', None, None, player_data, float(prediction[0][1:])))
-                if prop_bet_type == 'home runs' or prop_bet_type == 'hr':
+                if prop_bet_type == 'home runs' or prop_bet_type == 'hr' or prop_bet_type == 'hrs':
                     correct.append(self.evaluator('>', 'HR', None, None, player_data, float(prediction[0][1:])))
                 if prop_bet_type == 'rbi':
                     correct.append(self.evaluator('>', 'RBI', None, None, player_data, float(prediction[0][1:])))
@@ -120,7 +120,7 @@ class Evaluator:
                     correct.append(self.evaluator('<', 'BB', None, None, player_data, float(prediction[0][1:])))
                 if prop_bet_type == 'hits':
                     correct.append(self.evaluator('<', 'H', None, None, player_data, float(prediction[0][1:])))
-                if prop_bet_type == 'home runs' or prop_bet_type == 'hr':
+                if prop_bet_type == 'home runs' or prop_bet_type == 'hr' or prop_bet_type == 'hrs':
                     correct.append(self.evaluator('<', 'HR', None, None, player_data, float(prediction[0][1:])))
                 if prop_bet_type == 'rbi':
                     correct.append(self.evaluator('<', 'RBI', None, None, player_data, float(prediction[0][1:])))
