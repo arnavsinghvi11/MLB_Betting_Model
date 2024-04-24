@@ -1,0 +1,31 @@
+,Name,Team,Opponent,Hmcrt_adv,IP,H,R,ER,BB,SO,HR,ERA,Pit,Str,Ctct,StS,StL,GB,FB,GSc,WPA,aLI,cWPA,acLI,RE24,PO,Date
+0,T.Houck,Boston Red Sox,Cleveland Guardians,0, 6 ,5,2,2,3,4,0,1.65,91,62,36,13,13,11,7,55,-0.014,1.29,-0.01,1.29,1.0,18,423
+1,B.Lively,Cleveland Guardians,Boston Red Sox,1, 6.1,5,1,1,0,7,1,2.38,89,61,36,9,16,6,10,66,0.155,0.98,0.11,1.19,1.9,19,423
+2,C.Sanchez,Philadelphia Phillies,Cincinnati Reds,0, 3 ,4,5,1,3,3,0,2.96,74,48,30,3,15,10,2,39,-0.307,1.10,-0.21,1.27,-3.4,9,423
+3,A.Abbott,Cincinnati Reds,Philadelphia Phillies,1, 4.1,2,1,1,4,3,0,2.60,79,46,27,7,12,4,8,54,0.012,0.93,0.01,0.95,0.1,13,423
+4,T.Myers,Milwaukee Brewers,Pittsburgh Pirates,0, 5 ,4,1,1,1,4,1,1.80,83,58,39,8,11,6,8,58,0.136,0.82,0.10,1.06,1.6,15,423
+5,B.Falter,Pittsburgh Pirates,Milwaukee Brewers,1, 7 ,3,1,1,2,8,1,3.33,85,61,32,14,15,8,7,73,0.329,1.16,0.21,1.25,2.7,21,423
+6,J.Paxton,Los Angeles Dodgers,Washington Nationals,0, 4.2,5,1,1,3,1,0,2.61,89,52,36,2,14,6,11,48,0.087,1.00,0.06,1.06,1.1,14,423
+7,P.Corbin,Washington Nationals,Los Angeles Dodgers,1, 5.1,3,0,0,3,3,0,6.51,86,50,34,5,11,4,11,62,0.326,1.13,0.17,1.00,2.8,16,423
+8,K.Maeda,Detroit Tigers,Tampa Bay Rays,0, 5 ,3,0,0,0,5,0,5.96,88,59,35,11,12,9,5,66,0.299,1.38,0.19,1.49,2.5,15,423
+9,R.Pepiot,Tampa Bay Rays,Detroit Tigers,1, 6 ,3,1,1,2,4,1,3.77,80,52,28,8,16,4,12,64,0.191,0.81,0.10,0.71,2.0,18,423
+10,P.Blackburn,Oakland Athletics,New York Yankees,0, 6 ,5,4,4,0,5,1,2.03,98,63,40,8,15,9,9,51,-0.110,0.66,-0.05,0.48,-0.9,18,423
+11,M.Stroman,New York Yankees,Oakland Athletics,1, 5.1,7,3,3,1,9,2,2.93,97,64,28,14,22,6,8,50,-0.004,0.93,-0.00,1.06,-0.4,16,423
+12,T.Rogers,Miami Marlins,Atlanta Braves,0, 5.2,7,5,3,1,4,1,4.10,84,57,36,10,11,11,10,42,-0.120,0.83,-0.02,0.27,-2.0,17,423
+13,M.Fried,Atlanta Braves,Miami Marlins,1, 9 ,3,0,0,0,6,0,4.97,92,69,38,13,18,18,5,87,0.388,0.62,0.27,0.72,4.9,27,423
+14,J.France,Houston Astros,Chicago Cubs,0, 5 ,5,5,5,4,6,2,7.46,96,55,30,10,15,4,9,39,-0.266,0.43,-0.08,0.20,-2.3,15,423
+15,J.Wicks,Chicago Cubs,Houston Astros,1, 6 ,5,2,2,0,4,1,4.70,86,57,39,10,8,8,11,58,0.141,0.53,0.09,0.55,1.3,18,423
+16,K.Gausman,Toronto Blue Jays,Kansas City Royals,0, 6.2,7,3,0,1,2,0,5.57,99,65,46,4,15,16,9,55,-0.071,1.19,-0.04,1.21,0.4,20,423
+17,M.Wacha,Kansas City Royals,Toronto Blue Jays,1, 4.1,8,2,2,3,4,0,3.81,96,55,34,7,14,9,7,40,-0.010,1.31,-0.01,1.39,-0.0,13,423
+18,E.Fedde,Chicago White Sox,Minnesota Twins,0, 6 ,3,1,1,0,11,0,2.73,95,59,30,14,15,5,5,73,0.242,0.81,0.03,0.16,2.1,18,423
+19,P.Lopez,Minnesota Twins,Chicago White Sox,1, 4 ,4,3,3,2,6,1,4.39,76,45,25,5,15,5,4,46,-0.153,1.06,-0.06,0.67,-0.9,12,423
+20,T.Henry,Arizona Diamondbacks,St. Louis Cardinals,0, 6 ,5,1,1,1,6,1,5.55,93,62,31,9,22,7,9,63,0.100,0.71,0.05,0.63,2.1,18,423
+21,S.Matz,St Louis Cardinals,St. Louis Cardinals,0, 4.1,6,7,7,3,4,1,5.55,92,59,40,4,15,2,13,24,-0.312,0.83,-0.14,0.63,-3.3,13,423
+22,L.Gilbert,Seattle Mariners,Texas Rangers,0, 6.2,2,0,0,4,6,0,1.87,100,59,34,9,16,6,10,72,0.272,0.77,0.18,0.82,3.2,20,423
+23,D.Dunning,Texas Rangers,Seattle Mariners,1, 4.1,4,4,4,3,7,2,4.61,89,52,28,13,11,4,6,43,-0.218,0.55,-0.15,0.61,-2.3,13,423
+24,M.King,San Diego Padres,Colorado Rockies,0, 3.2,8,6,4,3,5,1,4.11,83,54,31,13,10,7,8,27,-0.469,1.35,-0.30,1.45,-4.4,11,423
+25,R.Feltner,Colorado Rockies,San Diego Padres,1, 4 ,10,4,4,2,4,0,5.68,93,60,42,7,11,5,11,28,-0.185,0.88,-0.04,0.32,-1.6,12,423
+26,G.Rodriguez,Baltimore Orioles,Los Angeles Angels,0, 4.1,11,7,7,1,7,1,4.45,82,55,35,11,9,3,13,19,-0.302,0.51,-0.21,0.59,-4.9,13,423
+27,G.Canning,Los Angeles Angels,Baltimore Orioles,1, 5 ,5,3,3,2,4,0,7.50,85,62,36,8,18,6,10,47,0.128,0.65,0.06,0.48,-0.3,15,423
+28,L.Severino,New York Mets,San Francisco Giants,0, 6 ,5,3,3,0,5,0,2.67,91,65,42,8,15,9,9,55,-0.065,0.88,-0.04,0.89,0.1,18,423
+29,L.Webb,San Francisco Giants,New York Mets,1, 8 ,6,0,0,1,4,0,2.33,106,75,43,15,17,18,7,73,0.390,0.76,0.21,0.68,4.1,24,423
