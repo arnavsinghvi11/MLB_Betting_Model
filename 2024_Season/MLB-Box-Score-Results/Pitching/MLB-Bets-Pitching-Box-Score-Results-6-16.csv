@@ -1,0 +1,33 @@
+,Name,Team,Opponent,Hmcrt_adv,IP,H,R,ER,BB,SO,HR,ERA,Pit,Str,Ctct,StS,StL,GB,FB,GSc,WPA,aLI,cWPA,acLI,RE24,PO,Date
+0,M.Mikolas,St Louis Cardinals,Chicago Cubs,0, 6.1,4,1,1,0,5,0,4.59,91,60,39,3,18,9,9,66,0.333,1.12,0.19,1.04,2.9,19,616
+1,J.Taillon,Chicago Cubs,St. Louis Cardinals,1, 6 ,7,2,2,2,3,1,3.08,93,59,38,8,13,4,17,51,0.044,0.79,0.02,0.66,1.0,18,616
+2,Z.Eflin,Tampa Bay Rays,Atlanta Braves,0, 5.2,7,4,3,1,7,2,4.12,87,60,33,13,14,9,8,47,-0.162,0.76,-0.03,0.23,-1.6,17,616
+3,H.Waldrep,Atlanta Braves,Tampa Bay Rays,1, 3.1,5,6,6,4,2,2,16.71,71,42,23,4,15,6,5,24,-0.439,1.17,-0.27,1.22,-4.5,10,616
+4,Z.Wheeler,Philadelphia Phillies,Baltimore Orioles,0, 4.1,9,8,8,2,4,4,2.84,91,57,37,11,9,7,12,15,-0.398,0.50,-0.17,0.35,-6.2,13,616
+5,C.Burnes,Baltimore Orioles,Philadelphia Phillies,1, 6 ,7,2,2,2,7,0,2.14,94,61,36,10,15,9,9,55,0.095,0.95,0.05,0.87,0.7,18,616
+6,J.Luzardo,Miami Marlins,Washington Nationals,0, 5 ,5,2,2,3,2,2,5.00,77,46,29,3,14,7,8,48,-0.033,0.87,0.00,0.01,0.4,15,616
+7,M.Parker,Washington Nationals,Miami Marlins,1, 6 ,6,1,1,0,4,0,3.06,85,65,45,7,13,5,16,60,0.214,1.25,0.09,0.92,1.9,18,616
+8,B.Lively,Cleveland Guardians,Toronto Blue Jays,0, 4 ,6,4,4,3,4,1,3.02,88,55,32,8,15,6,7,35,-0.178,1.22,-0.11,1.24,-1.1,12,616
+9,J.Berrios,Toronto Blue Jays,Cleveland Guardians,1, 6 ,8,4,4,0,1,1,3.13,97,67,50,4,13,9,15,41,-0.037,1.20,-0.01,0.64,-1.2,18,616
+10,D.Cease,San Diego Padres,New York Mets,0, 3.2,7,7,7,3,5,2,3.95,90,52,24,12,16,1,12,21,-0.407,0.59,-0.24,0.58,-5.4,11,616
+11,T.Megill,New York Mets,San Diego Padres,1, 5 ,5,2,2,2,5,0,3.52,92,63,38,11,14,8,7,52,0.063,0.74,0.02,0.42,0.3,15,616
+12,K.Maeda,Detroit Tigers,Houston Astros,0, 5 ,5,4,4,2,1,1,6.02,94,55,35,8,12,8,9,40,-0.232,0.63,-0.08,0.37,-1.6,15,616
+13,R.Blanco,Houston Astros,Detroit Tigers,1, 7 ,0,0,0,3,8,0,2.43,94,65,27,14,24,7,7,82,0.251,0.58,0.06,0.21,3.3,21,616
+14,F.Montas,Cincinnati Reds,Milwaukee Brewers,0, 5 ,4,3,3,3,5,0,4.62,89,53,34,7,12,7,6,49,0.034,1.11,0.02,1.02,0.6,15,616
+15,C.Rea,Milwaukee Brewers,Cincinnati Reds,1, 6 ,4,3,2,1,6,1,3.29,92,60,36,9,15,4,12,59,-0.056,0.69,-0.04,0.91,0.1,18,616
+16,J.Sears,Oakland Athletics,Minnesota Twins,0, 4.1,9,4,4,4,1,3,4.25,95,58,42,4,12,8,13,26,-0.233,0.58,-0.01,0.02,-2.1,13,616
+17,B.Ober,Minnesota Twins,Oakland Athletics,1, 6.1,6,1,1,2,8,1,4.81,96,64,32,16,16,5,10,63,0.212,0.65,0.12,0.63,2.1,19,616
+18,J.Fleming,Pittsburgh Pirates,Colorado Rockies,0, 4 ,4,0,0,0,2,0,4.70,52,32,23,3,6,4,10,56,0.103,0.91,0.04,0.66,1.2,12,616
+19,D.Hudson,Colorado Rockies,Pittsburgh Pirates,1, 5.1,7,3,3,1,5,0,4.89,94,59,35,9,15,7,9,46,0.120,0.95,0.01,0.07,1.3,16,616
+20,B.Joyce,Los Angeles Angels,San Francisco Giants,0, 2 ,1,0,0,1,3,0,7.94,42,22,14,2,6,3,1,56,0.100,0.93,0.01,0.13,0.9,6,616
+21,E.Miller,San Francisco Giants,Los Angeles Angels,1, 1 ,2,1,0,0,0,0,3.58,15,10,6,1,3,4,1,47,-0.061,0.95,-0.03,0.69,-0.5,3,616
+22,D.Thorpe,Chicago White Sox,Arizona Diamondbacks,0, 3.1,6,8,7,5,0,1,8.64,60,32,22,2,7,5,10,13,-0.342,0.69,0.00,0.00,-4.6,10,616
+23,J.Montgomery,Arizona Diamondbacks,Chicago White Sox,1, 5 ,4,1,0,2,7,0,6.00,84,51,22,17,12,3,9,62,0.105,0.80,0.05,0.59,1.4,15,616
+24,B.Singer,Kansas City Royals,Los Angeles Dodgers,0, 6 ,5,3,3,2,4,3,3.39,90,60,32,10,18,7,11,52,-0.033,0.73,-0.02,0.82,-0.0,18,616
+25,T.Glasnow,Los Angeles Dodgers,Kansas City Royals,1, 7 ,3,0,0,1,9,0,3.00,85,62,35,13,14,11,3,79,0.411,1.13,0.30,1.35,3.5,21,616
+26,D.Dunning,Texas Rangers,Seattle Mariners,0, 4.2,4,2,2,3,8,0,4.73,98,67,40,9,18,3,7,53,-0.038,0.83,-0.02,0.61,0.1,14,616
+27,L.Gilbert,Seattle Mariners,Texas Rangers,1, 8 ,2,0,0,0,9,0,2.93,101,72,38,19,15,5,12,87,0.436,0.77,0.30,0.89,3.6,24,616
+28,M.Stroman,New York Yankees,Boston Red Sox,0, 5 ,7,4,4,4,3,0,3.08,102,58,35,6,17,8,9,36,-0.199,0.92,-0.10,0.75,-1.5,15,616
+29,K.Crawford,Boston Red Sox,New York Yankees,1, 6 ,3,3,3,1,9,2,3.54,84,59,26,16,17,5,6,62,0.043,0.85,0.02,0.56,0.0,18,616
+30,J.Estes,Oakland Athletics,Minnesota Twins,0, 2.2,8,6,6,1,2,2,5.97,65,44,32,5,7,4,10,19,-0.557,1.04,-0.01,0.03,-4.9,8,616
+31,C.Paddack,Minnesota Twins,Oakland Athletics,1, 2.1,5,5,5,1,0,2,5.25,46,31,20,2,9,3,9,26,-0.425,1.11,-0.26,1.15,-3.8,7,616
