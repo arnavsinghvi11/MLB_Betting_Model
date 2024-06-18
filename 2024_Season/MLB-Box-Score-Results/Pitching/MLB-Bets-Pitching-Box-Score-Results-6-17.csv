@@ -1,0 +1,19 @@
+,Name,Team,Opponent,Hmcrt_adv,IP,H,R,ER,BB,SO,HR,ERA,Pit,Str,Ctct,StS,StL,GB,FB,GSc,WPA,aLI,cWPA,acLI,RE24,PO,Date
+0,S.Gray,St Louis Cardinals,Miami Marlins,0, 7.2,5,2,2,2,4,0,2.95,84,54,37,10,7,11,10,63,0.314,1.29,0.17,1.17,2.9,23,617
+1,B.Garrett,Miami Marlins,St. Louis Cardinals,1, 6 ,5,1,1,0,6,1,5.35,93,67,37,9,21,8,10,64,0.193,0.92,0.00,0.01,2.1,18,617
+2,R.Vasquez,San Diego Padres,Philadelphia Phillies,0, 4.1,12,6,6,2,2,2,5.70,89,56,39,6,11,8,12,15,-0.281,0.90,-0.15,0.79,-4.2,13,617
+3,C.Sanchez,Philadelphia Phillies,San Diego Padres,1, 7 ,6,2,1,1,5,0,2.91,94,66,39,8,19,11,8,63,0.206,0.74,0.09,0.56,1.5,21,617
+4,C.Spiers,Cincinnati Reds,Pittsburgh Pirates,0, 6 ,7,4,4,1,5,0,3.20,104,74,46,12,16,9,11,46,-0.219,0.64,-0.10,0.49,-1.0,18,617
+5,P.Skenes,Pittsburgh Pirates,Cincinnati Reds,1, 6 ,6,1,1,1,7,0,2.29,96,69,37,17,15,4,12,62,0.178,0.83,0.08,0.66,2.0,18,617
+6,N.Pivetta,Boston Red Sox,Toronto Blue Jays,0, 7 ,9,3,3,1,4,2,3.88,109,73,53,6,14,5,19,50,0.107,0.83,0.05,0.62,0.3,21,617
+7,Y.Kikuchi,Toronto Blue Jays,Boston Red Sox,1, 4 ,7,5,5,0,7,4,3.65,79,55,27,12,16,1,10,35,-0.327,0.56,-0.12,0.34,-3.1,12,617
+8,R.Olson,Detroit Tigers,Atlanta Braves,0, 6 ,4,0,0,0,8,0,3.39,100,64,32,15,17,6,8,72,0.370,1.01,0.11,0.52,3.1,18,617
+9,M.Fried,Atlanta Braves,Detroit Tigers,1, 5.1,4,1,1,3,6,0,3.11,103,60,32,8,20,7,7,59,0.082,1.15,0.05,1.19,1.1,16,617
+10,J.Hicks,San Francisco Giants,Chicago Cubs,0, 5 ,4,0,0,4,4,0,2.82,87,48,26,8,14,6,7,59,0.296,1.25,0.14,1.02,2.5,15,617
+11,J.Assad,Chicago Cubs,San Francisco Giants,1, 5 ,5,1,1,2,7,0,2.75,92,54,25,7,22,3,10,58,0.135,1.12,0.06,0.77,1.5,15,617
+12,D.Peterson,New York Mets,Texas Rangers,0, 6 ,4,2,2,3,6,1,3.97,100,62,36,10,16,6,9,59,0.049,0.28,0.02,0.16,0.9,18,617
+13,J.Gray,Texas Rangers,New York Mets,1, 3 ,11,9,9,0,2,2,3.31,55,42,29,5,8,7,11,3,-0.442,0.95,-0.13,0.47,-7.6,9,617
+14,J.Paxton,Los Angeles Dodgers,Colorado Rockies,0, 7 ,2,1,1,1,8,1,3.65,91,63,39,13,11,8,8,76,0.331,0.82,0.22,0.93,2.8,21,617
+15,C.Quantrill,Colorado Rockies,Los Angeles Dodgers,1, 5 ,7,3,3,3,3,0,3.43,99,63,35,8,20,8,11,41,-0.056,0.86,-0.00,0.04,-0.3,15,617
+16,C.Rodriguez,Milwaukee Brewers,Los Angeles Angels,0, 4.2,5,5,4,2,3,1,6.48,90,57,37,9,11,5,11,37,-0.352,0.87,-0.24,1.01,-2.9,14,617
+17,Z.Plesac,Los Angeles Angels,Milwaukee Brewers,1, 6 ,4,3,3,2,1,2,4.50,86,55,39,4,12,4,16,51,0.025,0.81,0.00,0.08,-0.0,18,617
