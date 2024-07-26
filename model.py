@@ -18,6 +18,8 @@ from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.preprocessing import StandardScaler
+from sklearn.preprocessing import LabelEncoder
+import numpy as np
 
 class Model:
     def convert_dummies(self, all_evals, column, prefix):
@@ -87,6 +89,11 @@ class Model:
         #split into training and testing sets 
         X_train, X_test, y_train, y_test = train_test_split(X, Y, test_size=0.4, random_state=0)
 
+
+        encoder = LabelEncoder()
+        y_train_encoded = encoder.fit_transform(y_train.ravel())
+        y_test_encoded = encoder.transform(y_test.ravel())
+
         scaler = StandardScaler()
         train_scaled = scaler.fit_transform(X_train)
         test_scaled = scaler.transform(X_test)
@@ -107,10 +114,12 @@ class Model:
         # evaluate each model in turn
         predictions, top5_models, final_models = [], [], []
         for name, model in models:
-            model.fit(train_scaled, y_train)
+            model.fit(train_scaled, y_train_encoded)
             print(name)
-            print(model.score(test_scaled, y_test))
-            top5_models.append([model, model.score(test_scaled, y_test)])
+            print(test_scaled)
+            print(y_test)
+            print(model.score(test_scaled, y_test_encoded))
+            top5_models.append([model, model.score(test_scaled, y_test_encoded)])
         top5_models.sort(key = lambda x: x[1], reverse = True)
         top5_models = top5_models[:5]
         for model1 in top5_models:
