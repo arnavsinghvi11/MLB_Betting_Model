@@ -116,8 +116,8 @@ class Model:
         for name, model in models:
             model.fit(train_scaled, y_train_encoded)
             print(name)
-            print(test_scaled)
-            print(y_test)
+            # print(test_scaled)
+            # print(y_test)
             print(model.score(test_scaled, y_test_encoded))
             top5_models.append([model, model.score(test_scaled, y_test_encoded)])
         top5_models.sort(key = lambda x: x[1], reverse = True)
