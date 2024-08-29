@@ -11,13 +11,13 @@
 9,K.Montero u2.5 Earned Runs,PlayerPropSavant,-125,1.25,K.Montero,2.25,1.0,Detroit Tigers,Chicago White Sox,0,0.4,0,0.4,0,0.4,0,Y
 10,S.Ohtani o0.5 Hits,JBBets1,184,1.0,S.Ohtani,2.84,1.84,Los Angeles Dodgers,Tampa Bay Rays,1,0.7398373983739838,1,1.0,1,0.8,1,Y
 11,S.Ohtani o1.5 Total Bases,MJCLocks,100,1.0,S.Ohtani,2.0,1.0,Los Angeles Dodgers,Tampa Bay Rays,1,0.5528455284552846,1,0.6,1,0.5,0,Y
-12,T.Walker o2.5 strikeouts,Rotowire,100,0.75,T.Walker,1.5,0.75,Philadelphia Phillies,Kansas City Royals,0,0.9166666666666666,1,1.0,1,0.9,1,X
-13,K.Freeland o3.5 strikeouts,Rotowire,100,0.75,K.Freeland,1.5,0.75,Colorado Rockies,New York Yankees,0,0.5,0,0.6,1,0.7,1,X
-14,M.Toglia o0.5 total bases,Rotowire Prizepicks,100,1.5,M.Toglia,3.0,1.5,Colorado Rockies,New York Yankees,0,0.6049382716049383,1,0.6,1,0.8,1,X
-15,K.Hendricks o3.5 strikeouts,Rotowire Prizepicks,100,1.5,K.Hendricks,3.0,1.5,Chicago Cubs,Miami Marlins,0,0.5294117647058824,1,0.6,1,0.5,0,X
-16,F.Lindor o1.5 hits+runs+rbi,Rotowire Prizepicks,100,1.5,F.Lindor,3.0,1.5,New York Mets,San Diego Padres,0,0.5625,1,0.8,1,0.9,1,X
+12,T.Walker o2.5 strikeouts,Rotowire,100,0.75,T.Walker,1.5,0.75,Philadelphia Phillies,Kansas City Royals,0,0.9166666666666666,1,1.0,1,0.9,1,Y
+13,K.Freeland o3.5 strikeouts,Rotowire,100,0.75,K.Freeland,1.5,0.75,Colorado Rockies,New York Yankees,0,0.5,0,0.6,1,0.7,1,N
+14,M.Toglia o0.5 total bases,Rotowire Prizepicks,100,1.5,M.Toglia,3.0,1.5,Colorado Rockies,New York Yankees,0,0.6049382716049383,1,0.6,1,0.8,1,Y
+15,K.Hendricks o3.5 strikeouts,Rotowire Prizepicks,100,1.5,K.Hendricks,3.0,1.5,Chicago Cubs,Miami Marlins,0,0.5294117647058824,1,0.6,1,0.5,0,N
+16,F.Lindor o1.5 hits+runs+rbi,Rotowire Prizepicks,100,1.5,F.Lindor,3.0,1.5,New York Mets,San Diego Padres,0,0.5625,1,0.8,1,0.9,1,N
 17,C.Bassitt o1.5 BB,Markus_Markets,-135,1.0,C.Bassitt,1.7407407407407407,0.7407407407407407,Toronto Blue Jays,Los Angeles Angels,1,0.72,1,0.6,1,0.6,1,Y
-18,J.Polanco o0.5 total bases,Rotowire Prizepicks,100,1.5,J.Polanco,3.0,1.5,Seattle Mariners,San Francisco Giants,1,0.6136363636363636,1,0.8,1,0.7,1,X
+18,J.Polanco o0.5 total bases,Rotowire Prizepicks,100,1.5,J.Polanco,3.0,1.5,Seattle Mariners,San Francisco Giants,1,0.6136363636363636,1,0.8,1,0.7,1,Y
 19,A.Abbott o15.5 outs,Rotowire,100,0.75,A.Abbott,1.5,0.75,Cincinnati Reds,Pittsburgh Pirates,0,0.52,1,0.2,0,0.4,0,X
 20,G.Henderson o1.5 Total Bases,charliedisturco,165,0.5,G.Henderson,1.325,0.825,Baltimore Orioles,Houston Astros,1,0.4724409448818897,0,0.4,0,0.5,0,N
 21,F.Lindor o1.5 Total Bases,charliedisturco,135,0.68,F.Lindor,1.598,0.918,New York Mets,San Diego Padres,0,0.453125,0,0.6,1,0.7,1,Y

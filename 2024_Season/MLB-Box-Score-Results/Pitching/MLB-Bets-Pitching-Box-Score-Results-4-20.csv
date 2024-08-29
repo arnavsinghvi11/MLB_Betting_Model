@@ -1,33 +1,33 @@
-,Name,Team,Opponent,Hmcrt_adv,IP,H,R,ER,BB,SO,HR,ERA,Pit,Str,Ctct,StS,StL,GB,FB,GSc,WPA,aLI,cWPA,acLI,RE24,PO,Date
-0,Z.Eflin,Tampa Bay Rays,New York Yankees,0, 6 ,3,0,0,0,6,0,3.68,78,49,22,11,16,7,8,72,0.361,0.91,0.22,0.92,3.1,18,420
-1,N.Cortes,New York Yankees,Tampa Bay Rays,1, 7 ,6,0,0,0,9,0,3.41,102,69,41,14,14,7,10,74,0.450,1.29,0.33,1.56,3.6,21,420
-2,R.Olson,Detroit Tigers,Minnesota Twins,0, 5 ,5,4,2,2,4,0,3.80,95,60,35,12,13,8,8,47,-0.142,0.93,-0.09,0.95,-1.4,15,420
-3,B.Ober,Minnesota Twins,Detroit Tigers,1, 6 ,2,1,1,1,6,0,4.91,82,57,31,13,13,2,12,69,0.270,0.75,0.11,0.51,2.1,18,420
-4,D.Hall,Milwaukee Brewers,St. Louis Cardinals,0, 3.2,5,4,4,5,3,0,7.71,90,50,22,8,20,6,6,33,-0.237,1.09,-0.18,1.35,-2.1,11,420
-5,M.Mikolas,St Louis Cardinals,St. Louis Cardinals,0, 4.2,9,5,5,0,5,3,6.49,80,57,33,8,16,6,12,31,-0.313,1.00,-0.16,0.87,-2.6,14,420
-6,J.Luzardo,Miami Marlins,Chicago Cubs,0, 6 ,3,2,2,3,6,0,6.58,104,64,36,14,14,5,10,61,0.077,0.99,0.01,0.33,1.3,18,420
-7,J.Assad,Chicago Cubs,Miami Marlins,1, 4.2,3,1,1,3,3,0,2.11,87,51,30,3,18,3,11,54,0.109,1.32,0.07,1.44,1.2,14,420
-8,J.Butto,New York Mets,Los Angeles Dodgers,0, 4.1,3,2,2,5,6,0,1.65,95,47,24,8,15,5,5,50,0.033,1.37,0.02,1.53,0.5,13,420
-9,G.Stone,Los Angeles Dodgers,New York Mets,1, 3.1,4,2,2,5,1,0,6.00,72,38,26,4,8,7,5,40,0.007,1.19,0.01,1.27,0.2,10,420
-10,K.Crawford,Boston Red Sox,Pittsburgh Pirates,0, 6 ,7,1,1,3,6,0,0.66,100,68,33,16,19,4,14,57,0.245,1.48,0.13,1.35,2.1,18,420
-11,M.Keller,Pittsburgh Pirates,Boston Red Sox,1, 6 ,5,4,4,4,4,1,4.80,88,57,32,4,21,10,8,46,-0.147,0.88,-0.09,0.85,-0.9,18,420
-12,Z.Gallen,Arizona Diamondbacks,San Francisco Giants,0, 5 ,9,5,5,1,6,2,3.00,99,64,34,15,15,6,12,34,-0.328,1.05,-0.20,1.06,-2.5,15,420
-13,K.Harrison,San Francisco Giants,Arizona Diamondbacks,1, 4 ,6,3,3,1,5,0,5.00,74,46,28,6,12,7,6,42,-0.114,1.11,-0.07,1.04,-1.0,12,420
-14,R.Blanco,Houston Astros,Washington Nationals,0, 6 ,5,2,2,3,6,1,1.33,98,63,41,11,11,9,8,57,0.071,1.23,0.02,0.69,1.1,18,420
-15,T.Williams,Washington Nationals,Houston Astros,1, 6 ,3,1,1,0,4,0,2.91,77,52,33,3,16,9,6,66,0.264,0.96,0.12,0.73,2.1,18,420
-16,M.Soroka,Chicago White Sox,Philadelphia Phillies,0, 4.2,6,5,5,3,2,1,7.50,100,61,42,7,12,6,12,31,-0.139,0.60,-0.02,0.17,-0.9,14,420
-17,Z.Wheeler,Philadelphia Phillies,Chicago White Sox,1, 7.1,1,0,0,2,8,0,2.30,106,75,45,13,17,10,5,82,0.268,0.59,0.16,0.60,3.6,22,420
-18,A.Wood,Oakland Athletics,Cleveland Guardians,0, 5 ,8,4,4,1,4,1,7.89,86,57,35,7,15,5,13,38,-0.270,0.95,-0.13,0.76,-1.5,15,420
-19,L.Allen,Cleveland Guardians,Oakland Athletics,1, 5.1,5,3,3,3,4,2,5.06,93,59,32,9,18,6,10,47,-0.037,0.97,-0.03,1.14,0.0,16,420
-20,P.Sandoval,Los Angeles Angels,Cincinnati Reds,0, 4 ,6,7,7,5,6,1,6.75,83,46,22,9,15,4,6,23,-0.399,0.77,-0.21,0.69,-4.8,12,420
-21,G.Ashcraft,Cincinnati Reds,Los Angeles Angels,1, 5 ,5,5,5,3,4,1,5.24,88,53,35,7,11,11,5,38,-0.084,0.87,-0.05,0.81,-1.7,15,420
-22,C.Burnes,Baltimore Orioles,Kansas City Royals,0, 5.2,4,3,3,1,4,1,2.76,98,62,38,9,15,6,11,52,0.058,0.27,0.04,0.31,-0.0,17,420
-23,C.Ragans,Kansas City Royals,Baltimore Orioles,1, 1.2,9,7,7,0,4,0,4.32,62,47,30,9,8,4,6,13,-0.399,1.00,-0.27,1.15,-6.2,5,420
-24,N.Eovaldi,Texas Rangers,Atlanta Braves,0, 5.1,5,3,3,6,6,0,3.30,105,62,32,15,15,9,4,46,-0.092,1.30,-0.06,1.31,-0.7,16,420
-25,C.Morton,Atlanta Braves,Texas Rangers,1, 6 ,4,2,2,2,4,0,4.70,91,53,32,5,16,10,8,58,0.176,1.17,0.12,1.37,1.3,18,420
-26,R.Munoz,Miami Marlins,Chicago Cubs,0, 5 ,2,2,2,1,7,2,3.60,77,48,26,8,14,5,5,61,0.054,0.80,0.01,0.30,0.7,15,420
-27,S.Imanaga,Chicago Cubs,Miami Marlins,1, 6 ,5,3,2,0,5,1,0.84,92,64,44,15,5,10,8,57,-0.041,0.89,-0.03,0.96,0.3,18,420
-28,L.Castillo,Seattle Mariners,Colorado Rockies,0, 7 ,2,0,0,1,9,0,4.40,96,67,39,17,11,5,9,81,0.268,0.54,0.13,0.45,4.2,21,420
-29,D.Hudson,Colorado Rockies,Seattle Mariners,1, 4 ,7,4,4,5,1,1,5.06,91,46,27,7,12,9,8,28,-0.107,1.05,-0.03,0.44,-1.0,12,420
-30,J.Berrios,Toronto Blue Jays,San Diego Padres,0, 6 ,5,0,0,2,6,0,0.85,91,63,36,4,23,7,10,66,0.236,0.95,0.13,0.90,3.0,18,420
-31,R.Vasquez,San Diego Padres,Toronto Blue Jays,1, 5 ,5,4,1,1,3,1,1.80,97,59,36,4,19,7,10,49,-0.222,0.68,-0.13,0.65,-1.5,15,420
+Name,Team,Opponent,Hmcrt_adv,IP,H,R,ER,BB,SO,HR,ERA,Pit,Str,Ctct,StS,StL,GB,FB,GSc,WPA,aLI,cWPA,acLI,RE24,PO,Date
+Z.Eflin,Tampa Bay Rays,New York Yankees,0,6.0,3,0,0,0,6,0,3.68,78,49,22,11,16,7,8,72,0.361,0.91,0.22,0.92,3.1,18,420
+N.Cortes,New York Yankees,Tampa Bay Rays,1,7.0,6,0,0,0,9,0,3.41,102,69,41,14,14,7,10,74,0.45,1.29,0.33,1.56,3.6,21,420
+R.Olson,Detroit Tigers,Minnesota Twins,0,5.0,5,4,2,2,4,0,3.8,95,60,35,12,13,8,8,47,-0.142,0.93,-0.09,0.95,-1.4,15,420
+B.Ober,Minnesota Twins,Detroit Tigers,1,6.0,2,1,1,1,6,0,4.91,82,57,31,13,13,2,12,69,0.27,0.75,0.11,0.51,2.1,18,420
+D.Hall,Milwaukee Brewers,St. Louis Cardinals,0,3.2,5,4,4,5,3,0,7.71,90,50,22,8,20,6,6,33,-0.237,1.09,-0.18,1.35,-2.1,11,420
+M.Mikolas,St Louis Cardinals,St. Louis Cardinals,0,4.2,9,5,5,0,5,3,6.49,80,57,33,8,16,6,12,31,-0.313,1.0,-0.16,0.87,-2.6,14,420
+J.Luzardo,Miami Marlins,Chicago Cubs,0,6.0,3,2,2,3,6,0,6.58,104,64,36,14,14,5,10,61,0.077,0.99,0.01,0.33,1.3,18,420
+J.Assad,Chicago Cubs,Miami Marlins,1,4.2,3,1,1,3,3,0,2.11,87,51,30,3,18,3,11,54,0.109,1.32,0.07,1.44,1.2,14,420
+J.Butto,New York Mets,Los Angeles Dodgers,0,4.1,3,2,2,5,6,0,1.65,95,47,24,8,15,5,5,50,0.033,1.37,0.02,1.53,0.5,13,420
+G.Stone,Los Angeles Dodgers,New York Mets,1,3.1,4,2,2,5,1,0,6.0,72,38,26,4,8,7,5,40,0.007,1.19,0.01,1.27,0.2,10,420
+K.Crawford,Boston Red Sox,Pittsburgh Pirates,0,6.0,7,1,1,3,6,0,0.66,100,68,33,16,19,4,14,57,0.245,1.48,0.13,1.35,2.1,18,420
+M.Keller,Pittsburgh Pirates,Boston Red Sox,1,6.0,5,4,4,4,4,1,4.8,88,57,32,4,21,10,8,46,-0.147,0.88,-0.09,0.85,-0.9,18,420
+Z.Gallen,Arizona Diamondbacks,San Francisco Giants,0,5.0,9,5,5,1,6,2,3.0,99,64,34,15,15,6,12,34,-0.328,1.05,-0.2,1.06,-2.5,15,420
+K.Harrison,San Francisco Giants,Arizona Diamondbacks,1,4.0,6,3,3,1,5,0,5.0,74,46,28,6,12,7,6,42,-0.114,1.11,-0.07,1.04,-1.0,12,420
+R.Blanco,Houston Astros,Washington Nationals,0,6.0,5,2,2,3,6,1,1.33,98,63,41,11,11,9,8,57,0.071,1.23,0.02,0.69,1.1,18,420
+T.Williams,Washington Nationals,Houston Astros,1,6.0,3,1,1,0,4,0,2.91,77,52,33,3,16,9,6,66,0.264,0.96,0.12,0.73,2.1,18,420
+M.Soroka,Chicago White Sox,Philadelphia Phillies,0,4.2,6,5,5,3,2,1,7.5,100,61,42,7,12,6,12,31,-0.139,0.6,-0.02,0.17,-0.9,14,420
+Z.Wheeler,Philadelphia Phillies,Chicago White Sox,1,7.1,1,0,0,2,8,0,2.3,106,75,45,13,17,10,5,82,0.268,0.59,0.16,0.6,3.6,22,420
+A.Wood,Oakland Athletics,Cleveland Guardians,0,5.0,8,4,4,1,4,1,7.89,86,57,35,7,15,5,13,38,-0.27,0.95,-0.13,0.76,-1.5,15,420
+L.Allen,Cleveland Guardians,Oakland Athletics,1,5.1,5,3,3,3,4,2,5.06,93,59,32,9,18,6,10,47,-0.037,0.97,-0.03,1.14,0.0,16,420
+P.Sandoval,Los Angeles Angels,Cincinnati Reds,0,4.0,6,7,7,5,6,1,6.75,83,46,22,9,15,4,6,23,-0.399,0.77,-0.21,0.69,-4.8,12,420
+G.Ashcraft,Cincinnati Reds,Los Angeles Angels,1,5.0,5,5,5,3,4,1,5.24,88,53,35,7,11,11,5,38,-0.084,0.87,-0.05,0.81,-1.7,15,420
+C.Burnes,Baltimore Orioles,Kansas City Royals,0,5.2,4,3,3,1,4,1,2.76,98,62,38,9,15,6,11,52,0.058,0.27,0.04,0.31,-0.0,17,420
+C.Ragans,Kansas City Royals,Baltimore Orioles,1,1.2,9,7,7,0,4,0,4.32,62,47,30,9,8,4,6,13,-0.399,1.0,-0.27,1.15,-6.2,5,420
+N.Eovaldi,Texas Rangers,Atlanta Braves,0,5.1,5,3,3,6,6,0,3.3,105,62,32,15,15,9,4,46,-0.092,1.3,-0.06,1.31,-0.7,16,420
+C.Morton,Atlanta Braves,Texas Rangers,1,6.0,4,2,2,2,4,0,4.7,91,53,32,5,16,10,8,58,0.176,1.17,0.12,1.37,1.3,18,420
+R.Munoz,Miami Marlins,Chicago Cubs,0,5.0,2,2,2,1,7,2,3.6,77,48,26,8,14,5,5,61,0.054,0.8,0.01,0.3,0.7,15,420
+S.Imanaga,Chicago Cubs,Miami Marlins,1,6.0,5,3,2,0,5,1,0.84,92,64,44,15,5,10,8,57,-0.041,0.89,-0.03,0.96,0.3,18,420
+L.Castillo,Seattle Mariners,Colorado Rockies,0,7.0,2,0,0,1,9,0,4.4,96,67,39,17,11,5,9,81,0.268,0.54,0.13,0.45,4.2,21,420
+D.Hudson,Colorado Rockies,Seattle Mariners,1,4.0,7,4,4,5,1,1,5.06,91,46,27,7,12,9,8,28,-0.107,1.05,-0.03,0.44,-1.0,12,420
+J.Berrios,Toronto Blue Jays,San Diego Padres,0,6.0,5,0,0,2,6,0,0.85,91,63,36,4,23,7,10,66,0.236,0.95,0.13,0.9,3.0,18,420
+R.Vasquez,San Diego Padres,Toronto Blue Jays,1,5.0,5,4,1,1,3,1,1.8,97,59,36,4,19,7,10,49,-0.222,0.68,-0.13,0.65,-1.5,15,420

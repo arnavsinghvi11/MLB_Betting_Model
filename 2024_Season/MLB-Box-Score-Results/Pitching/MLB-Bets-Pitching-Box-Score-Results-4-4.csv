@@ -1,13 +1,13 @@
-,Name,Team,Opponent,Hmcrt_adv,IP,H,R,ER,BB,SO,HR,ERA,Pit,Str,Ctct,StS,StL,GB,FB,GSc,WPA,aLI,cWPA,acLI,RE24,PO
-0,Matt Manning,Detroit Tigers,New York Mets,0, 5.2,0,0,0,4,3,0,0.00,90,54,32,7,15,3,11,68,0.352,1.15,0.21,1.17,2.9,17
-1,Jose Buttó,New York Mets,Detroit Tigers,1, 6 ,3,1,1,3,6,0,1.50,90,52,27,11,14,7,7,65,0.202,0.97,0.08,0.67,2.1,18
-2,Casey Mize,Detroit Tigers,New York Mets,0, 4.1,5,3,3,2,4,0,6.23,87,56,35,8,13,6,8,43,-0.040,0.89,-0.02,0.88,0.0,13
-3,Adrian Houser,New York Mets,Detroit Tigers,1, 5 ,3,1,1,3,3,0,1.80,67,42,21,8,13,7,7,57,0.133,1.16,0.06,0.86,1.2,15
-4,Martín Pérez,Pittsburgh Pirates,Washington Nationals,0, 6.2,6,2,2,2,6,1,2.45,85,61,36,8,17,8,12,58,0.127,0.59,0.08,0.62,1.1,20
-5,Josiah Gray,Washington Nationals,Pittsburgh Pirates,1, 4.1,7,6,6,3,3,0,14.04,96,58,37,10,11,5,11,25,-0.297,0.74,-0.17,0.70,-3.0,13
-6,Tanner Bibee,Cleveland Guardians,Minnesota Twins,0, 5.1,5,1,1,0,9,1,3.86,91,60,31,16,13,3,10,63,0.206,1.25,0.14,1.40,1.8,16
-7,Pablo López,Minnesota Twins,Cleveland Guardians,1, 5.2,6,4,3,1,2,0,2.84,95,60,37,11,12,8,13,44,-0.079,0.85,-0.05,0.88,-0.1,17
-8,Ryan Weathers,Miami Marlins,St. Louis Cardinals,0, 5 ,3,3,1,3,6,1,4.00,85,47,22,10,15,5,7,56,-0.050,1.16,-0.02,0.74,-0.4,15
-9,Lance Lynn,St Louis Cardinals,St. Louis Cardinals,0, 4.2,8,4,4,1,7,3,4.15,83,59,34,13,12,8,7,38,-0.227,1.03,-0.12,0.94,-1.7,14
-10,Michael Soroka,Chicago White Sox,Kansas City Royals,0, 6 ,6,2,2,0,2,1,4.91,91,57,34,7,16,14,6,54,0.052,0.74,0.02,0.56,1.1,18
-11,Seth Lugo,Kansas City Royals,Chicago White Sox,1, 6.2,8,1,1,2,3,0,0.71,86,57,36,4,17,11,11,55,0.276,1.45,0.13,1.15,2.3,20
+Name,Team,Opponent,Hmcrt_adv,IP,H,R,ER,BB,SO,HR,ERA,Pit,Str,Ctct,StS,StL,GB,FB,GSc,WPA,aLI,cWPA,acLI,RE24,PO
+Matt Manning,Detroit Tigers,New York Mets,0,5.2,0,0,0,4,3,0,0.0,90,54,32,7,15,3,11,68,0.352,1.15,0.21,1.17,2.9,17
+Jose Buttó,New York Mets,Detroit Tigers,1,6.0,3,1,1,3,6,0,1.5,90,52,27,11,14,7,7,65,0.202,0.97,0.08,0.67,2.1,18
+Casey Mize,Detroit Tigers,New York Mets,0,4.1,5,3,3,2,4,0,6.23,87,56,35,8,13,6,8,43,-0.04,0.89,-0.02,0.88,0.0,13
+Adrian Houser,New York Mets,Detroit Tigers,1,5.0,3,1,1,3,3,0,1.8,67,42,21,8,13,7,7,57,0.133,1.16,0.06,0.86,1.2,15
+Martín Pérez,Pittsburgh Pirates,Washington Nationals,0,6.2,6,2,2,2,6,1,2.45,85,61,36,8,17,8,12,58,0.127,0.59,0.08,0.62,1.1,20
+Josiah Gray,Washington Nationals,Pittsburgh Pirates,1,4.1,7,6,6,3,3,0,14.04,96,58,37,10,11,5,11,25,-0.297,0.74,-0.17,0.7,-3.0,13
+Tanner Bibee,Cleveland Guardians,Minnesota Twins,0,5.1,5,1,1,0,9,1,3.86,91,60,31,16,13,3,10,63,0.206,1.25,0.14,1.4,1.8,16
+Pablo López,Minnesota Twins,Cleveland Guardians,1,5.2,6,4,3,1,2,0,2.84,95,60,37,11,12,8,13,44,-0.079,0.85,-0.05,0.88,-0.1,17
+Ryan Weathers,Miami Marlins,St. Louis Cardinals,0,5.0,3,3,1,3,6,1,4.0,85,47,22,10,15,5,7,56,-0.05,1.16,-0.02,0.74,-0.4,15
+Lance Lynn,St Louis Cardinals,St. Louis Cardinals,0,4.2,8,4,4,1,7,3,4.15,83,59,34,13,12,8,7,38,-0.227,1.03,-0.12,0.94,-1.7,14
+Michael Soroka,Chicago White Sox,Kansas City Royals,0,6.0,6,2,2,0,2,1,4.91,91,57,34,7,16,14,6,54,0.052,0.74,0.02,0.56,1.1,18
+Seth Lugo,Kansas City Royals,Chicago White Sox,1,6.2,8,1,1,2,3,0,0.71,86,57,36,4,17,11,11,55,0.276,1.45,0.13,1.15,2.3,20

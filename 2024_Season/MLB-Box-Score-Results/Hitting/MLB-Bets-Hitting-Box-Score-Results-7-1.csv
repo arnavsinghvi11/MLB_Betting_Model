@@ -1,61 +1,61 @@
-,Name,Team,Opponent,Hmcrt_adv,AB,R,H,RBI,BB,SO,PA,OBP,SLG,OPS,WPA,aLI,cWPA,acLI,RE24,H+R+RBI,1B,2B,3B,HR,TB,Date
-0,A.Bregman,Houston Astros,Toronto Blue Jays,0,4,1,2,0,0,0,4,.309,.401,.711,0.000,0.76,0,0.62,0.1,3,-15,17,0,0,0,701
-1,J.Meyers,Houston Astros,Toronto Blue Jays,0,4,0,0,0,0,3,4,.322,.430,.753,-0.094,0.93,-0.05,0.76,-1.0,0,0,0,0,0,0,701
-2,Y.Alvarez,Houston Astros,Toronto Blue Jays,0,3,1,1,2,1,0,4,.372,.528,.900,0.136,0.67,0.07,0.55,1.9,4,-16,0,0,17,4,701
-3,Y.Diaz,Houston Astros,Toronto Blue Jays,0,4,0,0,0,0,0,4,.303,.415,.718,-0.132,0.93,-0.07,0.76,-1.4,0,0,0,0,0,0,701
-4,J.Singleton,Houston Astros,Toronto Blue Jays,0,3,0,0,0,1,3,4,.330,.348,.678,-0.026,0.52,-0.01,0.42,-0.3,0,0,0,0,0,0,701
-5,J.Pena,Houston Astros,Toronto Blue Jays,0,3,1,1,1,0,0,3,.320,.385,.705,0.121,0.63,0.06,0.51,0.7,3,-5,0,0,6,4,701
-6,M.Dubon,Houston Astros,Toronto Blue Jays,0,3,0,0,0,0,1,3,.311,.403,.714,-0.058,0.77,-0.03,0.63,-0.6,0,0,0,0,0,0,701
-7,T.Cabbage,Houston Astros,Toronto Blue Jays,0,3,0,0,0,0,1,3,.296,.423,.719,-0.057,0.77,-0.03,0.63,-0.5,0,0,0,0,0,0,701
-8,C.McCormick,Houston Astros,Toronto Blue Jays,0,3,0,0,0,0,1,3,.273,.331,.604,-0.040,0.53,-0.02,0.44,-0.3,0,0,0,0,0,0,701
-9,B.Bichette,Toronto Blue Jays,Houston Astros,1,3,0,0,0,1,1,4,.287,.332,.619,-0.107,1.77,-0.02,0.45,-0.6,0,0,0,0,0,0,701
-10,S.Horwitz,Toronto Blue Jays,Houston Astros,1,4,0,1,0,0,0,4,.452,.466,.918,0.144,1.81,0.02,0.46,0.1,1,-2,3,0,0,2,701
-11,J.Turner,Toronto Blue Jays,Houston Astros,1,3,0,0,0,0,2,4,.354,.374,.728,-0.055,1.68,-0.01,0.43,-0.3,0,0,0,0,0,0,701
-12,G.Springer,Toronto Blue Jays,Houston Astros,1,4,0,1,0,0,1,4,.302,.339,.641,-0.186,2.27,-0.03,0.58,-0.6,1,1,0,0,0,1,701
-13,D.Varsho,Toronto Blue Jays,Houston Astros,1,3,0,0,0,1,1,4,.278,.402,.679,-0.204,2.69,-0.03,0.68,-0.6,0,0,0,0,0,0,701
-14,A.Kirk,Toronto Blue Jays,Houston Astros,1,4,0,0,0,0,1,4,.282,.289,.571,-0.085,1.32,-0.01,0.33,-0.6,0,0,0,0,0,0,701
-15,D.Schneider,Toronto Blue Jays,Houston Astros,1,3,0,0,0,1,0,4,.309,.406,.715,-0.070,1.21,-0.01,0.30,-0.4,0,0,0,0,0,0,701
-16,E.Clement,Toronto Blue Jays,Houston Astros,1,4,1,2,1,0,0,4,.286,.423,.709,-0.053,1.16,-0.01,0.30,0.4,4,-2,0,0,4,5,701
-17,K.Kiermaier,Toronto Blue Jays,Houston Astros,1,2,0,0,0,0,1,2,.233,.281,.514,-0.118,2.42,-0.02,0.61,-1.0,0,0,0,0,0,0,701
-18,A.Barger,Toronto Blue Jays,Houston Astros,1,1,0,0,0,1,0,2,.192,.180,.372,0.084,1.50,0.01,0.38,0.3,0,0,0,0,0,0,701
-19,F.Lindor,New York Mets,Washington Nationals,0,5,1,1,0,0,3,5,.312,.435,.746,-0.052,0.86,-0.02,0.64,-0.2,2,1,0,0,0,1,701
-20,H.Bader,New York Mets,Washington Nationals,0,4,2,2,0,0,0,5,.319,.411,.730,0.050,1.52,0.02,1.13,0.1,4,2,0,0,0,2,701
-21,J.Martinez,New York Mets,Washington Nationals,0,3,1,1,3,2,2,5,.360,.493,.853,0.311,1.82,0.14,1.35,1.8,5,-9,0,0,10,0,701
-22,P.Alonso,New York Mets,Washington Nationals,0,5,0,1,0,0,1,5,.331,.470,.801,-0.109,1.01,-0.05,0.75,-1.1,1,1,0,0,0,1,701
-23,M.Vientos,New York Mets,Washington Nationals,0,4,1,2,1,0,2,4,.360,.581,.941,0.103,1.03,0.05,0.76,0.8,4,-6,8,0,0,3,701
-24,B.Gamel,New York Mets,Washington Nationals,0,1,0,0,0,0,0,1,.500,.000,.500,-0.007,0.24,-0.00,0.18,-0.2,0,0,0,0,0,0,701
-25,T.Taylor,New York Mets,Washington Nationals,0,5,2,1,0,0,1,5,.276,.370,.646,-0.047,1.11,-0.02,0.82,-0.4,3,-8,9,0,0,2,701
-26,F.Alvarez,New York Mets,Washington Nationals,0,5,1,2,3,0,2,5,.372,.528,.900,0.321,1.08,0.14,0.80,2.4,6,-9,10,1,0,5,701
-27,J.Iglesias,New York Mets,Washington Nationals,0,5,1,1,2,0,0,5,.438,.556,.993,-0.104,1.13,-0.05,0.84,0.8,4,0,0,0,1,4,701
-28,J.McNeil,New York Mets,Washington Nationals,0,5,0,1,0,0,2,5,.276,.304,.580,-0.062,0.82,-0.03,0.61,-0.5,1,1,0,0,0,1,701
-29,C.Abrams,Washington Nationals,New York Mets,1,3,2,1,0,2,1,5,.348,.512,.860,-0.001,0.93,0,0.54,0.6,3,1,0,0,0,1,701
-30,L.Thomas,Washington Nationals,New York Mets,1,5,1,1,0,0,1,5,.300,.413,.713,-0.053,1.05,-0.02,0.61,-0.8,2,1,0,0,0,1,701
-31,H.Ramirez,Washington Nationals,New York Mets,1,3,0,1,1,0,0,3,.286,.321,.606,0.073,1.64,0.03,0.95,0.8,2,1,0,0,0,1,701
-32,J.Winker,Washington Nationals,New York Mets,1,1,2,1,1,1,0,2,.376,.409,.785,0.053,0.71,0.02,0.41,1.6,4,-11,12,0,0,2,701
-33,J.Meneses,Washington Nationals,New York Mets,1,5,0,2,2,0,1,5,.292,.311,.603,0.352,1.32,0.12,0.77,0.7,4,-10,12,0,0,3,701
-34,I.Vargas,Washington Nationals,New York Mets,1,5,1,1,2,0,0,5,.317,.340,.657,-0.169,1.19,-0.06,0.69,0.2,4,-11,12,0,0,2,701
-35,J.Wood,Washington Nationals,New York Mets,1,4,0,1,0,1,1,5,.400,.250,.650,0.162,1.18,0.06,0.69,0.5,1,1,0,0,0,1,701
-36,K.Ruiz,Washington Nationals,New York Mets,1,5,0,3,1,0,0,5,.251,.302,.553,0.047,1.45,0.02,0.84,1.3,4,3,0,0,0,3,701
-37,N.Senzel,Washington Nationals,New York Mets,1,2,0,0,0,0,0,2,.308,.367,.675,-0.129,1.15,-0.04,0.67,-1.3,0,0,0,0,0,0,701
-38,L.Garcia,Washington Nationals,New York Mets,1,3,0,0,0,0,1,3,.289,.388,.677,-0.217,3.07,-0.08,1.78,-1.0,0,0,0,0,0,0,701
-39,J.Young,Washington Nationals,New York Mets,1,4,1,0,0,0,1,4,.323,.333,.656,-0.213,2.00,-0.07,1.16,-1.0,1,0,0,0,0,0,701
-40,J.Ortiz,Milwaukee Brewers,Colorado Rockies,0,5,0,0,0,0,2,5,.373,.444,.817,-0.164,1.21,-0.11,1.36,-1.2,0,0,0,0,0,0,701
-41,W.Contreras,Milwaukee Brewers,Colorado Rockies,0,5,2,3,1,0,1,5,.355,.451,.806,0.130,1.10,0.09,1.23,1.4,6,-27,20,0,10,7,701
-42,C.Yelich,Milwaukee Brewers,Colorado Rockies,0,5,2,2,0,0,0,5,.399,.493,.892,0.152,1.50,0.10,1.68,1.0,4,-1,0,3,0,4,701
-43,W.Adames,Milwaukee Brewers,Colorado Rockies,0,5,1,3,1,0,0,5,.324,.410,.735,0.080,2.16,0.05,2.41,1.0,5,3,0,0,0,3,701
-44,J.Chourio,Milwaukee Brewers,Colorado Rockies,0,3,1,1,2,0,0,3,.289,.391,.680,-0.027,1.97,-0.02,2.20,0.1,4,1,0,0,0,1,701
-45,S.Frelick,Milwaukee Brewers,Colorado Rockies,0,1,1,1,0,1,0,2,.345,.341,.686,0.220,5.10,0.15,5.70,1.1,2,1,0,0,0,1,701
-46,R.Hoskins,Milwaukee Brewers,Colorado Rockies,0,4,0,0,1,0,0,5,.316,.405,.722,-0.367,3.03,-0.25,3.39,-2.4,1,0,0,0,0,0,701
-47,B.Perkins,Milwaukee Brewers,Colorado Rockies,0,2,0,1,1,0,1,2,.320,.358,.678,0.096,0.91,0.06,1.01,0.8,2,1,0,0,0,1,701
-48,G.Mitchell,Milwaukee Brewers,Colorado Rockies,0,2,0,1,0,1,1,3,.667,.500,1.167,-0.059,2.93,-0.04,3.27,0.1,1,1,0,0,0,1,701
-49,E.Haase,Milwaukee Brewers,Colorado Rockies,0,4,0,2,1,0,1,4,.500,.500,1.000,0.144,1.95,0.10,2.18,0.2,3,2,0,0,0,2,701
-50,B.Turang,Milwaukee Brewers,Colorado Rockies,0,4,0,0,0,0,1,4,.350,.411,.761,-0.142,1.43,-0.10,1.59,-1.2,0,0,0,0,0,0,701
-51,C.Blackmon,Colorado Rockies,Milwaukee Brewers,1,5,1,2,1,0,0,5,.328,.409,.737,0.094,1.34,0,0.00,1.1,4,-2,0,0,4,5,701
-52,E.Tovar,Colorado Rockies,Milwaukee Brewers,1,5,0,0,0,0,2,5,.309,.465,.774,-0.066,1.10,0,0.00,-1.0,0,0,0,0,0,0,701
-53,R.McMahon,Colorado Rockies,Milwaukee Brewers,1,5,1,1,1,0,1,5,.347,.458,.805,0.059,1.31,0,0.00,-0.0,3,1,0,0,0,1,701
-54,E.Diaz,Colorado Rockies,Milwaukee Brewers,1,5,0,1,0,0,1,5,.351,.440,.791,-0.106,1.52,0,0.01,-0.9,1,1,0,0,0,1,701
-55,B.Rodgers,Colorado Rockies,Milwaukee Brewers,1,3,1,2,1,2,0,5,.327,.412,.738,0.112,2.00,0,0.01,1.0,4,2,0,0,0,2,701
-56,M.Toglia,Colorado Rockies,Milwaukee Brewers,1,4,0,0,0,1,0,5,.238,.427,.665,-0.209,1.97,-0.00,0.01,-1.2,0,0,0,0,0,0,701
-57,B.Doyle,Colorado Rockies,Milwaukee Brewers,1,4,3,3,3,1,0,5,.323,.408,.731,0.500,2.01,0.00,0.01,3.1,9,-18,12,0,9,10,701
-58,N.Jones,Colorado Rockies,Milwaukee Brewers,1,4,0,2,1,1,0,5,.296,.321,.618,0.051,1.99,0,0.01,0.8,3,-5,7,0,0,3,701
-59,J.Cave,Colorado Rockies,Milwaukee Brewers,1,5,1,2,1,0,0,5,.300,.322,.622,0.127,2.00,0,0.01,0.6,4,2,0,0,0,2,701
+Name,Team,Opponent,Hmcrt_adv,AB,R,H,RBI,BB,SO,PA,OBP,SLG,OPS,WPA,aLI,cWPA,acLI,RE24,H+R+RBI,1B,2B,3B,HR,TB,Date
+A.Bregman,Houston Astros,Toronto Blue Jays,0,4,1,2,0,0,0,4,0.309,0.401,0.711,0.0,0.76,0.0,0.62,0.1,3,-15,17,0,0,0,701
+J.Meyers,Houston Astros,Toronto Blue Jays,0,4,0,0,0,0,3,4,0.322,0.43,0.753,-0.094,0.93,-0.05,0.76,-1.0,0,0,0,0,0,0,701
+Y.Alvarez,Houston Astros,Toronto Blue Jays,0,3,1,1,2,1,0,4,0.372,0.528,0.9,0.136,0.67,0.07,0.55,1.9,4,-16,0,0,17,4,701
+Y.Diaz,Houston Astros,Toronto Blue Jays,0,4,0,0,0,0,0,4,0.303,0.415,0.718,-0.132,0.93,-0.07,0.76,-1.4,0,0,0,0,0,0,701
+J.Singleton,Houston Astros,Toronto Blue Jays,0,3,0,0,0,1,3,4,0.33,0.348,0.678,-0.026,0.52,-0.01,0.42,-0.3,0,0,0,0,0,0,701
+J.Pena,Houston Astros,Toronto Blue Jays,0,3,1,1,1,0,0,3,0.32,0.385,0.705,0.121,0.63,0.06,0.51,0.7,3,-5,0,0,6,4,701
+M.Dubon,Houston Astros,Toronto Blue Jays,0,3,0,0,0,0,1,3,0.311,0.403,0.714,-0.058,0.77,-0.03,0.63,-0.6,0,0,0,0,0,0,701
+T.Cabbage,Houston Astros,Toronto Blue Jays,0,3,0,0,0,0,1,3,0.296,0.423,0.719,-0.057,0.77,-0.03,0.63,-0.5,0,0,0,0,0,0,701
+C.McCormick,Houston Astros,Toronto Blue Jays,0,3,0,0,0,0,1,3,0.273,0.331,0.604,-0.04,0.53,-0.02,0.44,-0.3,0,0,0,0,0,0,701
+B.Bichette,Toronto Blue Jays,Houston Astros,1,3,0,0,0,1,1,4,0.287,0.332,0.619,-0.107,1.77,-0.02,0.45,-0.6,0,0,0,0,0,0,701
+S.Horwitz,Toronto Blue Jays,Houston Astros,1,4,0,1,0,0,0,4,0.452,0.466,0.918,0.144,1.81,0.02,0.46,0.1,1,-2,3,0,0,2,701
+J.Turner,Toronto Blue Jays,Houston Astros,1,3,0,0,0,0,2,4,0.354,0.374,0.728,-0.055,1.68,-0.01,0.43,-0.3,0,0,0,0,0,0,701
+G.Springer,Toronto Blue Jays,Houston Astros,1,4,0,1,0,0,1,4,0.302,0.339,0.641,-0.186,2.27,-0.03,0.58,-0.6,1,1,0,0,0,1,701
+D.Varsho,Toronto Blue Jays,Houston Astros,1,3,0,0,0,1,1,4,0.278,0.402,0.679,-0.204,2.69,-0.03,0.68,-0.6,0,0,0,0,0,0,701
+A.Kirk,Toronto Blue Jays,Houston Astros,1,4,0,0,0,0,1,4,0.282,0.289,0.571,-0.085,1.32,-0.01,0.33,-0.6,0,0,0,0,0,0,701
+D.Schneider,Toronto Blue Jays,Houston Astros,1,3,0,0,0,1,0,4,0.309,0.406,0.715,-0.07,1.21,-0.01,0.3,-0.4,0,0,0,0,0,0,701
+E.Clement,Toronto Blue Jays,Houston Astros,1,4,1,2,1,0,0,4,0.286,0.423,0.709,-0.053,1.16,-0.01,0.3,0.4,4,-2,0,0,4,5,701
+K.Kiermaier,Toronto Blue Jays,Houston Astros,1,2,0,0,0,0,1,2,0.233,0.281,0.514,-0.118,2.42,-0.02,0.61,-1.0,0,0,0,0,0,0,701
+A.Barger,Toronto Blue Jays,Houston Astros,1,1,0,0,0,1,0,2,0.192,0.18,0.372,0.084,1.5,0.01,0.38,0.3,0,0,0,0,0,0,701
+F.Lindor,New York Mets,Washington Nationals,0,5,1,1,0,0,3,5,0.312,0.435,0.746,-0.052,0.86,-0.02,0.64,-0.2,2,1,0,0,0,1,701
+H.Bader,New York Mets,Washington Nationals,0,4,2,2,0,0,0,5,0.319,0.411,0.73,0.05,1.52,0.02,1.13,0.1,4,2,0,0,0,2,701
+J.Martinez,New York Mets,Washington Nationals,0,3,1,1,3,2,2,5,0.36,0.493,0.853,0.311,1.82,0.14,1.35,1.8,5,-9,0,0,10,0,701
+P.Alonso,New York Mets,Washington Nationals,0,5,0,1,0,0,1,5,0.331,0.47,0.801,-0.109,1.01,-0.05,0.75,-1.1,1,1,0,0,0,1,701
+M.Vientos,New York Mets,Washington Nationals,0,4,1,2,1,0,2,4,0.36,0.581,0.941,0.103,1.03,0.05,0.76,0.8,4,-6,8,0,0,3,701
+B.Gamel,New York Mets,Washington Nationals,0,1,0,0,0,0,0,1,0.5,0.0,0.5,-0.007,0.24,-0.0,0.18,-0.2,0,0,0,0,0,0,701
+T.Taylor,New York Mets,Washington Nationals,0,5,2,1,0,0,1,5,0.276,0.37,0.646,-0.047,1.11,-0.02,0.82,-0.4,3,-8,9,0,0,2,701
+F.Alvarez,New York Mets,Washington Nationals,0,5,1,2,3,0,2,5,0.372,0.528,0.9,0.321,1.08,0.14,0.8,2.4,6,-9,10,1,0,5,701
+J.Iglesias,New York Mets,Washington Nationals,0,5,1,1,2,0,0,5,0.438,0.556,0.993,-0.104,1.13,-0.05,0.84,0.8,4,0,0,0,1,4,701
+J.McNeil,New York Mets,Washington Nationals,0,5,0,1,0,0,2,5,0.276,0.304,0.58,-0.062,0.82,-0.03,0.61,-0.5,1,1,0,0,0,1,701
+C.Abrams,Washington Nationals,New York Mets,1,3,2,1,0,2,1,5,0.348,0.512,0.86,-0.001,0.93,0.0,0.54,0.6,3,1,0,0,0,1,701
+L.Thomas,Washington Nationals,New York Mets,1,5,1,1,0,0,1,5,0.3,0.413,0.713,-0.053,1.05,-0.02,0.61,-0.8,2,1,0,0,0,1,701
+H.Ramirez,Washington Nationals,New York Mets,1,3,0,1,1,0,0,3,0.286,0.321,0.606,0.073,1.64,0.03,0.95,0.8,2,1,0,0,0,1,701
+J.Winker,Washington Nationals,New York Mets,1,1,2,1,1,1,0,2,0.376,0.409,0.785,0.053,0.71,0.02,0.41,1.6,4,-11,12,0,0,2,701
+J.Meneses,Washington Nationals,New York Mets,1,5,0,2,2,0,1,5,0.292,0.311,0.603,0.352,1.32,0.12,0.77,0.7,4,-10,12,0,0,3,701
+I.Vargas,Washington Nationals,New York Mets,1,5,1,1,2,0,0,5,0.317,0.34,0.657,-0.169,1.19,-0.06,0.69,0.2,4,-11,12,0,0,2,701
+J.Wood,Washington Nationals,New York Mets,1,4,0,1,0,1,1,5,0.4,0.25,0.65,0.162,1.18,0.06,0.69,0.5,1,1,0,0,0,1,701
+K.Ruiz,Washington Nationals,New York Mets,1,5,0,3,1,0,0,5,0.251,0.302,0.553,0.047,1.45,0.02,0.84,1.3,4,3,0,0,0,3,701
+N.Senzel,Washington Nationals,New York Mets,1,2,0,0,0,0,0,2,0.308,0.367,0.675,-0.129,1.15,-0.04,0.67,-1.3,0,0,0,0,0,0,701
+L.Garcia,Washington Nationals,New York Mets,1,3,0,0,0,0,1,3,0.289,0.388,0.677,-0.217,3.07,-0.08,1.78,-1.0,0,0,0,0,0,0,701
+J.Young,Washington Nationals,New York Mets,1,4,1,0,0,0,1,4,0.323,0.333,0.656,-0.213,2.0,-0.07,1.16,-1.0,1,0,0,0,0,0,701
+J.Ortiz,Milwaukee Brewers,Colorado Rockies,0,5,0,0,0,0,2,5,0.373,0.444,0.817,-0.164,1.21,-0.11,1.36,-1.2,0,0,0,0,0,0,701
+W.Contreras,Milwaukee Brewers,Colorado Rockies,0,5,2,3,1,0,1,5,0.355,0.451,0.806,0.13,1.1,0.09,1.23,1.4,6,-27,20,0,10,7,701
+C.Yelich,Milwaukee Brewers,Colorado Rockies,0,5,2,2,0,0,0,5,0.399,0.493,0.892,0.152,1.5,0.1,1.68,1.0,4,-1,0,3,0,4,701
+W.Adames,Milwaukee Brewers,Colorado Rockies,0,5,1,3,1,0,0,5,0.324,0.41,0.735,0.08,2.16,0.05,2.41,1.0,5,3,0,0,0,3,701
+J.Chourio,Milwaukee Brewers,Colorado Rockies,0,3,1,1,2,0,0,3,0.289,0.391,0.68,-0.027,1.97,-0.02,2.2,0.1,4,1,0,0,0,1,701
+S.Frelick,Milwaukee Brewers,Colorado Rockies,0,1,1,1,0,1,0,2,0.345,0.341,0.686,0.22,5.1,0.15,5.7,1.1,2,1,0,0,0,1,701
+R.Hoskins,Milwaukee Brewers,Colorado Rockies,0,4,0,0,1,0,0,5,0.316,0.405,0.722,-0.367,3.03,-0.25,3.39,-2.4,1,0,0,0,0,0,701
+B.Perkins,Milwaukee Brewers,Colorado Rockies,0,2,0,1,1,0,1,2,0.32,0.358,0.678,0.096,0.91,0.06,1.01,0.8,2,1,0,0,0,1,701
+G.Mitchell,Milwaukee Brewers,Colorado Rockies,0,2,0,1,0,1,1,3,0.667,0.5,1.167,-0.059,2.93,-0.04,3.27,0.1,1,1,0,0,0,1,701
+E.Haase,Milwaukee Brewers,Colorado Rockies,0,4,0,2,1,0,1,4,0.5,0.5,1.0,0.144,1.95,0.1,2.18,0.2,3,2,0,0,0,2,701
+B.Turang,Milwaukee Brewers,Colorado Rockies,0,4,0,0,0,0,1,4,0.35,0.411,0.761,-0.142,1.43,-0.1,1.59,-1.2,0,0,0,0,0,0,701
+C.Blackmon,Colorado Rockies,Milwaukee Brewers,1,5,1,2,1,0,0,5,0.328,0.409,0.737,0.094,1.34,0.0,0.0,1.1,4,-2,0,0,4,5,701
+E.Tovar,Colorado Rockies,Milwaukee Brewers,1,5,0,0,0,0,2,5,0.309,0.465,0.774,-0.066,1.1,0.0,0.0,-1.0,0,0,0,0,0,0,701
+R.McMahon,Colorado Rockies,Milwaukee Brewers,1,5,1,1,1,0,1,5,0.347,0.458,0.805,0.059,1.31,0.0,0.0,-0.0,3,1,0,0,0,1,701
+E.Diaz,Colorado Rockies,Milwaukee Brewers,1,5,0,1,0,0,1,5,0.351,0.44,0.791,-0.106,1.52,0.0,0.01,-0.9,1,1,0,0,0,1,701
+B.Rodgers,Colorado Rockies,Milwaukee Brewers,1,3,1,2,1,2,0,5,0.327,0.412,0.738,0.112,2.0,0.0,0.01,1.0,4,2,0,0,0,2,701
+M.Toglia,Colorado Rockies,Milwaukee Brewers,1,4,0,0,0,1,0,5,0.238,0.427,0.665,-0.209,1.97,-0.0,0.01,-1.2,0,0,0,0,0,0,701
+B.Doyle,Colorado Rockies,Milwaukee Brewers,1,4,3,3,3,1,0,5,0.323,0.408,0.731,0.5,2.01,0.0,0.01,3.1,9,-18,12,0,9,10,701
+N.Jones,Colorado Rockies,Milwaukee Brewers,1,4,0,2,1,1,0,5,0.296,0.321,0.618,0.051,1.99,0.0,0.01,0.8,3,-5,7,0,0,3,701
+J.Cave,Colorado Rockies,Milwaukee Brewers,1,5,1,2,1,0,0,5,0.3,0.322,0.622,0.127,2.0,0.0,0.01,0.6,4,2,0,0,0,2,701

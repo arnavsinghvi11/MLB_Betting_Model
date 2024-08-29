@@ -1,271 +1,271 @@
-,Name,Team,Opponent,Hmcrt_adv,AB,R,H,RBI,BB,SO,PA,OBP,SLG,OPS,WPA,aLI,cWPA,acLI,RE24,H+R+RBI,1B,2B,3B,HR,TB,Date
-0,G.Springer,Toronto Blue Jays,Chicago Cubs,0,5,0,1,2,0,1,5,.301,.368,.669,0.272,1.50,0.01,0.09,0.9,3,-1,0,2,0,3,816
-1,D.Varsho,Toronto Blue Jays,Chicago Cubs,0,5,0,1,0,0,2,5,.293,.405,.698,-0.144,1.37,-0.01,0.08,-0.5,1,1,0,0,0,1,816
-2,V.Guerrero,Toronto Blue Jays,Chicago Cubs,0,5,0,0,0,0,0,5,.389,.551,.940,-0.188,1.42,-0.01,0.08,-1.2,0,0,0,0,0,0,816
-3,S.Horwitz,Toronto Blue Jays,Chicago Cubs,0,5,1,1,0,0,2,5,.356,.410,.766,-0.136,1.38,-0.01,0.08,-0.8,2,1,0,0,0,1,816
-4,A.Kirk,Toronto Blue Jays,Chicago Cubs,0,5,0,1,0,0,1,5,.307,.324,.632,-0.069,1.57,-0.00,0.09,0.1,1,1,0,0,0,1,816
-5,W.Wagner,Toronto Blue Jays,Chicago Cubs,0,4,1,2,0,0,1,4,.583,.833,1.417,0.098,1.80,0.00,0.10,1.0,3,2,0,0,0,2,816
-6,E.Clement,Toronto Blue Jays,Chicago Cubs,0,4,1,2,1,0,1,4,.296,.417,.713,0.038,1.77,0.00,0.10,0.5,4,2,0,0,0,2,816
-7,J.Loperfido,Toronto Blue Jays,Chicago Cubs,0,4,1,1,0,0,1,4,.265,.309,.574,-0.058,1.84,-0.00,0.11,-0.6,2,1,0,0,0,1,816
-8,L.Jimenez,Toronto Blue Jays,Chicago Cubs,0,4,1,1,1,0,2,4,.303,.368,.671,-0.022,1.68,-0.00,0.10,-0.2,3,-1,0,0,2,4,816
-9,I.Happ,Chicago Cubs,Toronto Blue Jays,1,4,3,2,1,1,0,5,.340,.452,.791,0.105,0.81,0.01,0.17,1.9,6,-45,26,0,21,6,816
-10,M.Busch,Chicago Cubs,Toronto Blue Jays,1,4,0,0,0,1,2,5,.346,.453,.799,-0.083,1.04,-0.01,0.22,-0.9,0,0,0,0,0,0,816
-11,S.Suzuki,Chicago Cubs,Toronto Blue Jays,1,5,0,1,1,0,2,5,.337,.472,.808,0.112,1.15,0.01,0.24,-0.0,2,1,0,0,0,1,816
-12,C.Bellinger,Chicago Cubs,Toronto Blue Jays,1,4,1,1,2,0,0,4,.334,.432,.766,0.133,0.66,0.02,0.14,1.1,4,-12,0,0,13,4,816
-13,I.Paredes,Chicago Cubs,Toronto Blue Jays,1,4,0,0,0,0,1,4,.345,.421,.766,-0.042,0.41,-0.01,0.09,-0.8,0,0,0,0,0,0,816
-14,N.Hoerner,Chicago Cubs,Toronto Blue Jays,1,4,0,1,0,0,0,4,.325,.348,.674,-0.019,0.40,-0.00,0.09,-0.4,1,-23,24,0,0,2,816
-15,D.Swanson,Chicago Cubs,Toronto Blue Jays,1,3,0,0,0,1,0,4,.297,.350,.648,0.018,0.55,0.00,0.12,0.3,0,0,0,0,0,0,816
-16,P.Crow-Armstrong,Chicago Cubs,Toronto Blue Jays,1,2,1,1,1,1,0,3,.253,.357,.610,0.127,1.05,0.02,0.22,0.9,3,-4,0,0,5,4,816
-17,P.Wisdom,Chicago Cubs,Toronto Blue Jays,1,1,0,0,0,0,1,1,.267,.429,.696,-0.058,2.27,-0.01,0.48,-0.2,0,0,0,0,0,0,816
-18,M.Amaya,Chicago Cubs,Toronto Blue Jays,1,4,1,1,1,0,0,4,.279,.326,.605,0.001,1.22,0,0.26,-0.2,3,-4,0,0,5,4,816
-19,M.Massey,Kansas City Royals,Cincinnati Reds,0,5,0,0,0,0,2,5,.281,.463,.745,-0.132,0.96,-0.10,1.19,-1.6,0,0,0,0,0,0,816
-20,B.Witt,Kansas City Royals,Cincinnati Reds,0,4,3,3,1,1,0,5,.400,.621,1.022,0.200,0.59,0.15,0.73,1.8,7,-56,34,0,25,0,816
-21,V.Pasquantino,Kansas City Royals,Cincinnati Reds,0,5,2,2,3,0,2,5,.314,.450,.764,0.042,0.74,0.03,0.92,2.7,7,-16,0,0,18,5,816
-22,S.Perez,Kansas City Royals,Cincinnati Reds,0,5,0,2,1,0,1,5,.337,.475,.813,0.036,0.66,0.03,0.83,0.3,3,-19,21,0,0,3,816
-23,M.Melendez,Kansas City Royals,Cincinnati Reds,0,4,0,1,0,0,0,4,.264,.406,.670,-0.075,0.88,-0.06,1.10,-1.0,1,-17,18,0,0,2,816
-24,P.DeJong,Kansas City Royals,Cincinnati Reds,0,4,0,1,0,0,3,4,.285,.440,.725,-0.033,0.77,-0.03,0.95,-0.5,1,1,0,0,0,1,816
-25,A.Frazier,Kansas City Royals,Cincinnati Reds,0,3,0,2,1,0,1,4,.291,.296,.587,0.049,1.05,0.04,1.31,0.9,3,2,0,0,0,2,816
-26,F.Fermin,Kansas City Royals,Cincinnati Reds,0,4,1,2,1,0,0,4,.352,.424,.776,0.051,0.84,0.04,1.05,1.1,4,-9,11,0,0,3,816
-27,K.Isbel,Kansas City Royals,Cincinnati Reds,0,3,0,0,0,0,0,4,.288,.377,.665,-0.097,0.83,-0.07,1.03,-1.4,0,0,0,0,0,0,816
-28,J.India,Cincinnati Reds,Kansas City Royals,1,2,1,1,0,2,0,4,.356,.398,.754,0.087,0.88,0.03,0.42,1.0,2,-23,24,0,0,0,816
-29,E.De,Cincinnati Reds,Kansas City Royals,1,4,0,0,0,0,1,4,.344,.489,.833,-0.125,1.14,-0.04,0.55,-1.2,0,0,0,0,0,0,816
-30,T.Stephenson,Cincinnati Reds,Kansas City Royals,1,4,0,2,1,0,1,4,.323,.458,.780,0.019,0.86,0.01,0.41,0.9,3,-18,20,0,0,4,816
-31,T.Friedl,Cincinnati Reds,Kansas City Royals,1,4,0,0,0,0,3,4,.319,.411,.730,-0.111,1.00,-0.03,0.48,-1.3,0,0,0,0,0,0,816
-32,S.Steer,Cincinnati Reds,Kansas City Royals,1,3,0,0,0,1,1,4,.324,.427,.751,-0.021,0.78,-0.01,0.38,-0.3,0,0,0,0,0,0,816
-33,J.Candelario,Cincinnati Reds,Kansas City Royals,1,4,0,0,0,0,2,4,.277,.425,.703,-0.081,0.98,-0.02,0.47,-1.0,0,0,0,0,0,0,816
-34,T.France,Cincinnati Reds,Kansas City Royals,1,3,0,1,0,0,0,3,.307,.370,.677,-0.026,0.96,-0.01,0.46,-0.3,1,-16,17,0,0,2,816
-35,W.Benson,Cincinnati Reds,Kansas City Royals,1,2,0,0,0,0,0,2,.279,.389,.668,-0.051,0.92,-0.01,0.45,-0.4,0,0,0,0,0,0,816
-36,J.Fraley,Cincinnati Reds,Kansas City Royals,1,1,0,0,0,0,1,1,.331,.375,.706,-0.052,1.78,-0.01,0.86,-0.3,0,0,0,0,0,0,816
-37,N.Marte,Cincinnati Reds,Kansas City Royals,1,3,0,0,0,0,0,3,.221,.298,.519,-0.099,1.27,-0.03,0.61,-0.7,0,0,0,0,0,0,816
-38,G.Torres,New York Yankees,Detroit Tigers,0,4,1,2,0,0,0,4,.311,.353,.663,0.036,0.83,0.03,1.01,0.4,3,-17,19,0,0,3,816
-39,J.Soto,New York Yankees,Detroit Tigers,0,3,0,0,0,1,0,4,.436,.610,1.047,-0.031,0.89,-0.02,1.08,-0.5,0,0,0,0,0,0,816
-40,A.Judge,New York Yankees,Detroit Tigers,0,4,1,1,1,0,1,4,.466,.709,1.175,-0.024,0.95,-0.02,1.17,-0.1,3,-43,0,0,44,4,816
-41,G.Stanton,New York Yankees,Detroit Tigers,0,3,0,0,0,1,2,4,.298,.482,.780,0.027,0.80,0.02,0.97,0.2,0,0,0,0,0,0,816
-42,A.Verdugo,New York Yankees,Detroit Tigers,0,3,0,0,1,0,1,4,.294,.366,.660,-0.044,1.01,-0.03,1.24,-0.6,1,0,0,0,0,0,816
-43,A.Volpe,New York Yankees,Detroit Tigers,0,4,0,0,0,0,1,4,.298,.385,.683,-0.067,0.65,-0.05,0.80,-0.9,0,0,0,0,0,0,816
-44,J.Trevino,New York Yankees,Detroit Tigers,0,3,0,1,0,1,0,4,.307,.415,.722,0.086,0.66,0.06,0.80,1.0,1,-4,5,0,0,0,816
-45,D.LeMahieu,New York Yankees,Detroit Tigers,0,4,0,0,0,0,2,4,.266,.256,.522,-0.094,0.72,-0.07,0.89,-1.2,0,0,0,0,0,0,816
-46,O.Peraza,New York Yankees,Detroit Tigers,0,3,1,1,1,0,1,3,.333,1.333,1.667,0.064,0.89,0.05,1.09,0.3,3,0,0,0,1,4,816
-47,P.Meadows,Detroit Tigers,New York Yankees,1,4,0,1,0,0,0,4,.273,.368,.641,-0.117,1.63,-0.01,0.20,-0.7,1,1,0,0,0,1,816
-48,K.Carpenter,Detroit Tigers,New York Yankees,1,4,0,1,0,0,1,4,.339,.602,.941,-0.045,1.04,-0.00,0.13,-0.5,1,1,0,0,0,1,816
-49,M.Vierling,Detroit Tigers,New York Yankees,1,4,0,1,0,0,1,4,.297,.440,.737,-0.007,1.08,-0.00,0.13,-0.2,1,1,0,0,0,1,816
-50,B.Madris,Detroit Tigers,New York Yankees,1,4,0,0,0,0,1,4,.324,.358,.683,-0.108,1.42,-0.01,0.17,-0.9,0,0,0,0,0,0,816
-51,J.Jung,Detroit Tigers,New York Yankees,1,2,0,0,0,2,2,4,.500,.000,.500,-0.112,1.45,-0.01,0.18,-0.7,0,0,0,0,0,0,816
-52,J.Malloy,Detroit Tigers,New York Yankees,1,4,0,1,0,0,3,4,.305,.392,.697,-0.026,0.98,-0.00,0.12,-0.1,1,1,0,0,0,1,816
-53,Z.McKinstry,Detroit Tigers,New York Yankees,1,4,0,0,0,0,1,4,.247,.308,.555,-0.113,1.17,-0.01,0.14,-1.0,0,0,0,0,0,0,816
-54,T.Sweeney,Detroit Tigers,New York Yankees,1,3,0,1,0,0,1,3,.333,.333,.667,-0.047,1.11,-0.00,0.14,-0.5,1,1,0,0,0,1,816
-55,J.Rogers,Detroit Tigers,New York Yankees,1,3,0,0,0,0,1,3,.242,.368,.610,0.028,1.50,0.00,0.18,0.0,0,0,0,0,0,0,816
-56,A.Call,Washington Nationals,Philadelphia Phillies,0,5,0,0,0,0,1,5,.444,.506,.951,-0.257,1.97,-0.00,0.03,-1.7,0,0,0,0,0,0,816
-57,C.Abrams,Washington Nationals,Philadelphia Phillies,0,4,0,0,0,0,2,5,.322,.445,.767,-0.170,1.52,-0.00,0.03,-0.8,0,0,0,0,0,0,816
-58,J.Wood,Washington Nationals,Philadelphia Phillies,0,3,0,3,0,1,0,4,.373,.450,.822,0.136,1.30,0.00,0.02,1.2,3,-3,6,0,0,4,816
-59,A.Chaparro,Washington Nationals,Philadelphia Phillies,0,4,0,0,0,0,1,4,.375,.500,.875,-0.231,1.61,-0.00,0.03,-2.1,0,0,0,0,0,0,816
-60,K.Ruiz,Washington Nationals,Philadelphia Phillies,0,4,0,1,0,0,1,4,.260,.361,.621,-0.035,1.07,0,0.02,-0.3,1,1,0,0,0,1,816
-61,L.Garcia,Washington Nationals,Philadelphia Phillies,0,4,1,2,0,0,1,4,.328,.459,.787,0.013,1.47,0,0.03,-0.1,3,2,0,0,0,0,816
-62,J.Yepez,Washington Nationals,Philadelphia Phillies,0,4,0,1,0,0,0,4,.346,.443,.789,-0.004,1.56,0,0.03,-0.5,1,1,0,0,0,1,816
-63,J.Tena,Washington Nationals,Philadelphia Phillies,0,3,0,2,1,1,1,4,.353,.313,.665,0.311,1.78,0.00,0.03,1.6,3,2,0,0,0,2,816
-64,J.Young,Washington Nationals,Philadelphia Phillies,0,4,0,2,1,0,1,4,.314,.327,.641,0.042,2.06,0,0.03,0.0,3,-16,18,0,0,3,816
-65,K.Schwarber,Philadelphia Phillies,Washington Nationals,1,4,0,0,0,1,0,5,.380,.484,.865,-0.102,1.17,-0.07,1.30,-0.7,0,0,0,0,0,0,816
-66,T.Turner,Philadelphia Phillies,Washington Nationals,1,5,1,4,1,0,1,5,.352,.475,.828,0.159,1.00,0.11,1.11,2.1,6,-14,18,0,0,5,816
-67,B.Harper,Philadelphia Phillies,Washington Nationals,1,3,0,0,0,1,0,4,.373,.538,.911,-0.013,0.93,-0.01,1.03,-0.4,0,0,0,0,0,0,816
-68,A.Bohm,Philadelphia Phillies,Washington Nationals,1,4,0,1,0,0,0,4,.350,.481,.831,-0.111,0.95,-0.07,1.05,-1.4,1,1,0,0,0,1,816
-69,N.Castellanos,Philadelphia Phillies,Washington Nationals,1,4,1,1,1,0,0,4,.303,.417,.720,0.046,0.95,0.03,1.06,0.1,3,1,0,0,0,1,816
-70,J.Realmuto,Philadelphia Phillies,Washington Nationals,1,3,0,1,1,1,1,4,.314,.386,.700,0.059,0.65,0.04,0.72,0.6,2,1,0,0,0,0,816
-71,B.Stott,Philadelphia Phillies,Washington Nationals,1,3,0,0,0,1,0,4,.312,.345,.657,0.010,0.61,0.01,0.68,-0.2,0,0,0,0,0,0,816
-72,W.Wilson,Philadelphia Phillies,Washington Nationals,1,2,0,0,0,1,1,3,.349,.650,.999,-0.044,0.71,-0.03,0.79,-0.5,0,0,0,0,0,0,816
-73,B.Marsh,Philadelphia Phillies,Washington Nationals,1,1,1,1,0,0,0,1,.318,.399,.717,0.173,2.26,0.11,2.51,0.6,2,1,0,0,0,1,816
-74,J.Rojas,Philadelphia Phillies,Washington Nationals,1,3,0,1,0,0,1,3,.284,.307,.592,0.002,1.00,0.00,1.11,-0.1,1,1,0,0,0,1,816
-75,C.Stevenson,Philadelphia Phillies,Washington Nationals,1,1,0,1,0,0,0,1,.429,.333,.762,0.126,2.57,0.08,2.86,0.7,1,1,0,0,0,1,816
-76,V.Robles,Seattle Mariners,Pittsburgh Pirates,0,4,0,0,0,0,0,4,.324,.358,.681,-0.112,1.08,-0.07,1.09,-1.0,0,0,0,0,0,0,816
-77,R.Arozarena,Seattle Mariners,Pittsburgh Pirates,0,3,0,0,0,0,2,4,.333,.393,.726,0.024,0.80,0.01,0.80,0.2,0,0,0,0,0,0,816
-78,C.Raleigh,Seattle Mariners,Pittsburgh Pirates,0,4,0,0,0,0,1,4,.305,.435,.741,-0.135,1.00,-0.08,1.00,-1.3,0,0,0,0,0,0,816
-79,J.Rodriguez,Seattle Mariners,Pittsburgh Pirates,0,4,0,2,0,0,0,4,.315,.375,.690,0.105,0.74,0.06,0.74,0.7,2,-9,11,0,0,0,816
-80,J.Polanco,Seattle Mariners,Pittsburgh Pirates,0,3,2,1,1,1,1,4,.302,.362,.664,0.042,1.47,0.03,1.48,0.9,4,-11,0,0,12,4,816
-81,L.Raley,Seattle Mariners,Pittsburgh Pirates,0,3,1,2,2,1,1,4,.301,.433,.734,0.244,1.54,0.15,1.54,1.8,5,-13,0,0,15,5,816
-82,D.Canzone,Seattle Mariners,Pittsburgh Pirates,0,3,0,0,0,1,2,4,.285,.390,.674,-0.244,1.80,-0.15,1.80,-1.5,0,0,0,0,0,0,816
-83,J.Rojas,Seattle Mariners,Pittsburgh Pirates,0,3,0,0,0,0,1,3,.310,.343,.653,-0.086,1.16,-0.05,1.16,-0.7,0,0,0,0,0,0,816
-84,M.Haniger,Seattle Mariners,Pittsburgh Pirates,0,1,0,0,0,0,1,1,.287,.342,.630,-0.050,2.10,-0.03,2.11,-0.3,0,0,0,0,0,0,816
-85,L.Rivas,Seattle Mariners,Pittsburgh Pirates,0,2,0,0,0,1,0,3,.250,.242,.492,-0.020,0.81,-0.01,0.81,-0.1,0,0,0,0,0,0,816
-86,J.Turner,Seattle Mariners,Pittsburgh Pirates,0,1,0,0,0,0,1,1,.347,.365,.712,-0.036,1.23,-0.02,1.23,-0.2,0,0,0,0,0,0,816
-87,A.McCutchen,Pittsburgh Pirates,Seattle Mariners,1,3,0,1,1,0,1,4,.336,.405,.741,0.047,1.18,0.00,0.12,0.4,2,1,0,0,0,1,816
-88,B.Reynolds,Pittsburgh Pirates,Seattle Mariners,1,3,1,0,0,1,2,4,.350,.465,.816,-0.014,0.94,-0.00,0.09,-0.3,1,0,0,0,0,0,816
-89,O.Cruz,Pittsburgh Pirates,Seattle Mariners,1,4,0,1,2,0,1,4,.316,.467,.783,0.090,1.17,0.01,0.12,1.3,3,-25,26,0,0,2,816
-90,I.Kiner-Falefa,Pittsburgh Pirates,Seattle Mariners,1,4,0,2,1,0,1,4,.332,.417,.749,0.147,0.91,0.01,0.09,1.1,3,-9,11,0,0,3,816
-91,R.Tellez,Pittsburgh Pirates,Seattle Mariners,1,4,0,0,0,0,1,4,.298,.383,.681,-0.068,0.87,-0.00,0.09,-0.9,0,0,0,0,0,0,816
-92,B.De,Pittsburgh Pirates,Seattle Mariners,1,4,0,1,0,0,1,4,.282,.395,.676,-0.118,0.93,-0.01,0.09,-0.8,1,1,0,0,0,1,816
-93,K.Hayes,Pittsburgh Pirates,Seattle Mariners,1,4,0,0,0,0,2,4,.286,.294,.579,-0.102,0.97,-0.01,0.10,-1.1,0,0,0,0,0,0,816
-94,Y.Grandal,Pittsburgh Pirates,Seattle Mariners,1,4,1,2,1,0,0,4,.247,.344,.591,0.163,0.64,0.01,0.07,0.8,4,-3,0,0,5,5,816
-95,M.A.,Pittsburgh Pirates,Seattle Mariners,1,2,2,1,0,1,0,3,.271,.304,.575,0.087,1.07,0.01,0.11,0.6,3,1,0,0,0,0,816
-96,C.Carroll,Arizona Diamondbacks,Tampa Bay Rays,0,5,2,1,2,0,2,5,.309,.387,.696,0.350,0.81,0.27,1.05,1.6,5,-11,0,0,12,4,816
-97,J.McCarthy,Arizona Diamondbacks,Tampa Bay Rays,0,5,1,2,0,0,0,5,.384,.456,.839,0.068,1.22,0.05,1.58,0.2,3,2,0,0,0,2,816
-98,J.Pederson,Arizona Diamondbacks,Tampa Bay Rays,0,2,0,1,1,1,0,3,.395,.545,.940,0.125,1.19,0.10,1.54,1.3,2,1,0,0,0,1,816
-99,R.Grichuk,Arizona Diamondbacks,Tampa Bay Rays,0,2,0,1,0,0,0,2,.335,.438,.772,-0.078,2.14,-0.06,2.77,-0.1,1,1,0,0,0,1,816
-100,J.Bell,Arizona Diamondbacks,Tampa Bay Rays,0,4,0,0,0,0,0,4,.307,.418,.724,-0.085,1.19,-0.07,1.54,-1.1,0,0,0,0,0,0,816
-101,L.Gurriel,Arizona Diamondbacks,Tampa Bay Rays,0,3,0,2,1,1,0,4,.307,.412,.719,0.063,1.26,0.05,1.63,0.8,3,2,0,0,0,0,816
-102,A.Del,Arizona Diamondbacks,Tampa Bay Rays,0,4,0,0,0,0,2,4,.407,.542,.949,-0.142,1.33,-0.11,1.73,-1.5,0,0,0,0,0,0,816
-103,E.Suarez,Arizona Diamondbacks,Tampa Bay Rays,0,4,1,1,0,0,1,4,.309,.428,.738,0.018,0.98,0.01,1.27,-0.2,2,1,0,0,0,1,816
-104,G.Perdomo,Arizona Diamondbacks,Tampa Bay Rays,0,4,0,1,0,0,0,4,.339,.370,.709,-0.108,1.15,-0.08,1.49,-0.9,1,1,0,0,0,1,816
-105,B.Alexander,Arizona Diamondbacks,Tampa Bay Rays,0,3,0,0,0,1,2,4,.322,.345,.668,-0.054,0.83,-0.04,1.07,-0.4,0,0,0,0,0,0,816
-106,Y.Diaz,Tampa Bay Rays,Arizona Diamondbacks,1,5,1,1,0,0,1,5,.325,.391,.716,-0.073,1.53,-0.01,0.33,-0.6,2,1,0,0,0,1,816
-107,B.Lowe,Tampa Bay Rays,Arizona Diamondbacks,1,5,0,1,0,0,3,5,.330,.488,.818,0.289,1.70,0.04,0.37,0.2,1,1,0,0,0,1,816
-108,C.Morel,Tampa Bay Rays,Arizona Diamondbacks,1,4,1,2,0,0,1,4,.295,.357,.653,0.047,1.08,0.01,0.23,0.1,3,2,0,0,0,2,816
-109,J.Lowe,Tampa Bay Rays,Arizona Diamondbacks,1,4,1,2,2,0,0,4,.300,.408,.709,0.553,1.63,0.07,0.35,1.7,5,-13,15,0,0,3,816
-110,J.Caminero,Tampa Bay Rays,Arizona Diamondbacks,1,3,0,2,0,1,0,4,.417,.300,.717,0.071,1.22,0.01,0.26,0.4,2,2,0,0,0,2,816
-111,D.Carlson,Tampa Bay Rays,Arizona Diamondbacks,1,4,1,2,2,0,1,4,.294,.310,.603,0.139,1.45,0.02,0.31,1.6,5,-1,0,0,3,5,816
-112,B.Rortvedt,Tampa Bay Rays,Arizona Diamondbacks,1,2,0,0,0,0,0,2,.343,.341,.683,-0.058,1.11,-0.01,0.24,-0.4,0,0,0,0,0,0,816
-113,A.Jackson,Tampa Bay Rays,Arizona Diamondbacks,1,2,0,0,0,0,1,2,.185,.244,.428,-0.090,1.62,-0.01,0.35,-0.9,0,0,0,0,0,0,816
-114,J.Caballero,Tampa Bay Rays,Arizona Diamondbacks,1,4,0,0,0,0,2,4,.290,.367,.658,-0.180,1.73,-0.02,0.37,-0.9,0,0,0,0,0,0,816
-115,K.Misner,Tampa Bay Rays,Arizona Diamondbacks,1,2,0,0,0,0,2,2,.000,.000,.000,-0.034,0.68,-0.00,0.15,-0.2,0,0,0,0,0,0,816
-116,J.DeLuca,Tampa Bay Rays,Arizona Diamondbacks,1,1,1,0,0,1,0,2,.252,.290,.542,-0.008,2.10,-0.00,0.46,0.0,1,0,0,0,0,0,816
-117,J.Duran,Boston Red Sox,Baltimore Orioles,0,5,3,3,1,1,1,6,.350,.505,.855,0.157,0.76,0.10,0.78,2.0,7,-49,37,0,15,7,816
-118,W.Abreu,Boston Red Sox,Baltimore Orioles,0,6,1,1,1,0,3,6,.335,.508,.844,0.025,0.78,0.02,0.80,-0.1,3,-24,25,0,0,2,816
-119,T.Casas,Boston Red Sox,Baltimore Orioles,0,5,1,1,0,0,2,5,.337,.494,.831,-0.045,0.92,-0.03,0.94,-0.6,2,1,0,0,0,1,816
-120,R.Devers,Boston Red Sox,Baltimore Orioles,0,4,2,2,3,1,1,5,.379,.588,.967,0.215,1.04,0.13,1.06,2.2,7,-56,32,0,26,6,816
-121,C.Wong,Boston Red Sox,Baltimore Orioles,0,5,2,2,1,0,1,5,.350,.440,.790,0.092,0.83,0.06,0.85,0.5,5,-12,14,0,0,3,816
-122,M.Yoshida,Boston Red Sox,Baltimore Orioles,0,4,1,3,4,1,0,5,.366,.429,.795,0.318,0.83,0.20,0.85,3.7,8,-5,0,0,8,6,816
-123,N.Sogard,Boston Red Sox,Baltimore Orioles,0,4,1,0,0,1,3,5,.300,.250,.550,-0.029,0.57,-0.02,0.59,-0.6,1,0,0,0,0,0,816
-124,D.Hamilton,Boston Red Sox,Baltimore Orioles,0,4,1,2,2,1,1,5,.309,.404,.714,0.113,0.48,0.07,0.49,2.0,5,-5,0,0,7,5,816
-125,C.Rafaela,Boston Red Sox,Baltimore Orioles,0,5,0,0,0,0,0,5,.295,.410,.705,-0.061,0.43,-0.04,0.44,-1.3,0,0,0,0,0,0,816
-126,C.Cowser,Baltimore Orioles,Boston Red Sox,1,6,1,1,0,0,2,6,.325,.451,.776,-0.321,1.73,-0.25,2.25,-2.5,2,1,0,0,0,1,816
-127,A.Santander,Baltimore Orioles,Boston Red Sox,1,5,0,1,0,1,2,6,.310,.532,.842,-0.045,1.26,-0.03,1.64,-0.2,1,1,0,0,0,1,816
-128,G.Henderson,Baltimore Orioles,Boston Red Sox,1,4,0,0,1,2,2,6,.374,.553,.927,0.002,1.34,0.00,1.75,0.2,1,0,0,0,0,0,816
-129,R.Mountcastle,Baltimore Orioles,Boston Red Sox,1,6,1,2,0,0,0,6,.312,.435,.747,-0.039,0.94,-0.03,1.22,-0.1,3,-25,27,0,0,4,816
-130,E.Jimenez,Baltimore Orioles,Boston Red Sox,1,3,2,2,1,0,0,3,.316,.368,.683,0.064,1.28,0.05,1.67,0.8,5,-10,12,0,0,3,816
-131,R.O'Hearn,Baltimore Orioles,Boston Red Sox,1,2,1,1,0,0,0,2,.356,.452,.807,-0.034,1.48,-0.03,1.92,-0.2,2,1,0,0,0,1,816
-132,J.Holliday,Baltimore Orioles,Boston Red Sox,1,5,3,4,1,0,0,5,.250,.400,.650,0.352,1.64,0.27,2.13,3.0,8,3,0,1,0,6,816
-133,C.Mullins,Baltimore Orioles,Boston Red Sox,1,3,1,1,0,2,0,5,.283,.401,.684,0.052,1.86,0.04,2.43,1.0,2,1,0,0,0,1,816
-134,R.Urias,Baltimore Orioles,Boston Red Sox,1,3,1,3,5,1,0,5,.313,.390,.703,0.241,2.05,0.19,2.66,3.7,9,-4,0,0,7,6,816
-135,J.McCann,Baltimore Orioles,Boston Red Sox,1,4,0,2,1,0,2,5,.275,.323,.598,0.012,1.86,0.01,2.42,0.1,3,2,0,0,0,2,816
-136,X.Edwards,Miami Marlins,New York Mets,0,3,0,1,0,1,0,4,.438,.437,.875,0.058,0.65,0,0.00,0.4,1,-6,7,0,0,2,816
-137,J.Burger,Miami Marlins,New York Mets,0,4,1,1,1,0,1,4,.304,.480,.784,-0.047,0.81,0,0.00,0.2,3,-23,0,0,24,4,816
-138,J.Bride,Miami Marlins,New York Mets,0,4,1,1,0,0,1,4,.376,.473,.849,0.039,0.68,0,0.00,0.1,2,-2,3,0,0,2,816
-139,J.Sanchez,Miami Marlins,New York Mets,0,4,0,1,0,0,1,4,.295,.418,.713,-0.089,0.97,0,0.00,-0.6,1,1,0,0,0,1,816
-140,D.Hill,Miami Marlins,New York Mets,0,4,1,1,1,0,0,4,.284,.444,.729,0.064,0.92,0,0.00,-0.1,3,-2,3,0,0,2,816
-141,O.Lopez,Miami Marlins,New York Mets,0,3,0,1,0,1,1,4,.266,.301,.566,0.040,0.62,0,0.00,0.4,1,1,0,0,0,1,816
-142,E.Rivera,Miami Marlins,New York Mets,0,3,0,0,1,0,0,3,.290,.264,.554,-0.006,1.10,0,0.00,-0.3,1,0,0,0,0,0,816
-143,K.Stowers,Miami Marlins,New York Mets,0,1,0,0,0,0,1,1,.230,.280,.510,-0.004,0.15,0,0.00,-0.2,0,0,0,0,0,0,816
-144,D.Hensley,Miami Marlins,New York Mets,0,3,0,0,0,0,1,3,.294,.214,.508,-0.058,0.73,0,0.00,-0.6,0,0,0,0,0,0,816
-145,A.Sanchez,Miami Marlins,New York Mets,0,3,0,0,0,0,0,3,.203,.159,.362,-0.034,0.45,0,0.00,-0.5,0,0,0,0,0,0,816
-146,F.Lindor,New York Mets,Miami Marlins,1,5,1,1,1,0,1,5,.335,.465,.800,0.068,0.76,0.03,0.65,0.3,3,0,0,1,0,3,816
-147,M.Vientos,New York Mets,Miami Marlins,1,3,1,1,0,1,2,5,.338,.555,.893,0.027,0.55,0.01,0.47,0.3,2,1,0,0,0,1,816
-148,B.Nimmo,New York Mets,Miami Marlins,1,5,2,2,3,0,1,5,.343,.405,.747,0.092,0.68,0.05,0.58,1.8,7,-15,0,0,17,5,816
-149,J.Martinez,New York Mets,Miami Marlins,1,5,0,2,1,0,1,5,.346,.437,.782,0.071,0.52,0.04,0.45,0.3,3,-19,21,0,0,0,816
-150,P.Alonso,New York Mets,Miami Marlins,1,4,0,0,0,0,3,4,.328,.468,.795,-0.050,0.44,-0.03,0.38,-1.0,0,0,0,0,0,0,816
-151,J.Winker,New York Mets,Miami Marlins,1,3,0,1,0,1,0,4,.368,.409,.777,-0.045,0.56,-0.02,0.48,-0.2,1,1,0,0,0,1,816
-152,F.Alvarez,New York Mets,Miami Marlins,1,3,1,1,0,1,0,4,.320,.405,.725,0.042,0.47,0.02,0.41,-0.2,2,1,0,0,0,1,816
-153,J.McNeil,New York Mets,Miami Marlins,1,4,1,2,2,0,0,4,.296,.396,.692,0.233,0.74,0.12,0.64,1.8,5,-34,24,0,12,6,816
-154,H.Bader,New York Mets,Miami Marlins,1,2,1,0,0,2,0,4,.307,.393,.700,0.028,0.41,0.01,0.36,-0.1,1,0,0,0,0,0,816
-155,M.Margot,Minnesota Twins,Texas Rangers,0,4,1,1,0,0,1,4,.295,.342,.638,-0.004,0.91,-0.00,1.15,-0.1,2,1,0,0,0,1,816
-156,C.Santana,Minnesota Twins,Texas Rangers,0,3,1,1,3,1,0,4,.330,.429,.758,0.291,1.14,0.22,1.43,2.5,5,-16,0,0,17,4,816
-157,M.Kepler,Minnesota Twins,Texas Rangers,0,4,0,0,0,0,0,4,.316,.404,.719,-0.077,0.79,-0.06,0.99,-0.8,0,0,0,0,0,0,816
-158,R.Lewis,Minnesota Twins,Texas Rangers,0,4,0,1,0,0,1,4,.354,.628,.982,-0.014,0.77,-0.01,0.97,-0.2,1,1,0,0,0,1,816
-159,J.Miranda,Minnesota Twins,Texas Rangers,0,4,0,1,0,0,2,4,.349,.492,.841,-0.060,0.89,-0.04,1.11,-0.7,1,1,0,0,0,1,816
-160,M.Wallner,Minnesota Twins,Texas Rangers,0,3,0,0,0,1,2,4,.398,.587,.985,-0.032,0.83,-0.02,1.04,-0.5,0,0,0,0,0,0,816
-161,K.Farmer,Minnesota Twins,Texas Rangers,0,3,0,0,0,0,2,3,.294,.297,.591,-0.084,1.07,-0.06,1.34,-0.7,0,0,0,0,0,0,816
-162,T.Larnach,Minnesota Twins,Texas Rangers,0,1,0,0,0,0,1,1,.318,.413,.731,-0.012,0.47,-0.01,0.59,-0.2,0,0,0,0,0,0,816
-163,R.Jeffers,Minnesota Twins,Texas Rangers,0,3,2,1,1,0,0,4,.307,.453,.759,0.133,0.88,0.10,1.09,1.1,4,-17,0,0,18,4,816
-164,E.Julien,Minnesota Twins,Texas Rangers,0,3,0,0,0,0,2,3,.307,.348,.654,-0.087,1.22,-0.07,1.53,-0.7,0,0,0,0,0,0,816
-165,M.Semien,Texas Rangers,Minnesota Twins,1,5,1,1,1,0,1,5,.312,.404,.716,-0.046,1.72,-0.00,0.07,0.5,3,-17,0,0,18,4,816
-166,C.Seager,Texas Rangers,Minnesota Twins,1,3,0,0,0,1,1,4,.354,.495,.849,-0.062,1.11,-0.00,0.04,-0.3,0,0,0,0,0,0,816
-167,J.Smith,Texas Rangers,Minnesota Twins,1,3,0,0,0,0,0,3,.358,.423,.780,-0.076,1.03,-0.00,0.04,-0.6,0,0,0,0,0,0,816
-168,R.Grossman,Texas Rangers,Minnesota Twins,1,1,0,0,0,0,0,1,.338,.327,.666,-0.051,1.83,-0.00,0.07,-0.2,0,0,0,0,0,0,816
-169,A.Garcia,Texas Rangers,Minnesota Twins,1,4,1,1,0,0,1,4,.292,.405,.696,-0.073,1.31,-0.00,0.06,-0.2,2,1,0,0,0,1,816
-170,N.Lowe,Texas Rangers,Minnesota Twins,1,3,1,1,0,1,1,4,.354,.382,.736,0.005,1.25,0,0.05,0.3,2,1,0,0,0,1,816
-171,J.Jung,Texas Rangers,Minnesota Twins,1,4,0,1,0,0,1,4,.291,.453,.744,-0.034,1.29,-0.00,0.05,-0.3,1,1,0,0,0,1,816
-172,W.Langford,Texas Rangers,Minnesota Twins,1,3,0,1,2,0,1,4,.309,.368,.678,0.075,2.15,0.00,0.09,0.8,3,1,0,0,0,1,816
-173,C.Kelly,Texas Rangers,Minnesota Twins,1,4,0,1,0,0,1,4,.330,.401,.731,-0.177,1.99,-0.00,0.08,-0.8,1,1,0,0,0,1,816
-174,L.Taveras,Texas Rangers,Minnesota Twins,1,4,0,2,0,0,1,4,.292,.358,.650,-0.007,2.06,0,0.09,-0.6,2,2,0,0,0,2,816
-175,N.Lopez,Chicago White Sox,Houston Astros,0,5,1,2,0,0,1,5,.312,.296,.608,-0.005,0.87,0,0.00,-0.5,3,2,0,0,0,2,816
-176,L.Robert,Chicago White Sox,Houston Astros,0,5,2,4,4,0,0,5,.272,.424,.695,0.325,1.03,0,0.00,3.2,10,-10,0,0,14,0,816
-177,A.Benintendi,Chicago White Sox,Houston Astros,0,5,0,2,0,0,1,5,.267,.369,.636,-0.018,0.57,0,0.00,-0.4,2,2,0,0,0,2,816
-178,A.Vaughn,Chicago White Sox,Houston Astros,0,4,1,1,0,1,0,5,.297,.403,.700,0.045,0.66,0,0.00,0.2,2,1,0,0,0,1,816
-179,G.Sheets,Chicago White Sox,Houston Astros,0,4,0,0,0,1,3,5,.309,.374,.683,-0.076,0.89,0,0.00,-0.7,0,0,0,0,0,0,816
-180,K.Lee,Chicago White Sox,Houston Astros,0,5,0,1,0,0,1,5,.250,.364,.614,0.007,0.90,0,0.00,-0.2,1,-10,11,0,0,2,816
-181,M.Vargas,Chicago White Sox,Houston Astros,0,3,0,0,0,1,0,4,.284,.333,.617,-0.035,0.89,0,0.00,-0.5,0,0,0,0,0,0,816
-182,D.Fletcher,Chicago White Sox,Houston Astros,0,3,1,1,1,1,0,4,.289,.269,.559,0.028,1.03,0,0.00,0.3,3,1,0,0,0,1,816
-183,B.Baldwin,Chicago White Sox,Houston Astros,0,3,0,0,0,1,1,4,.247,.353,.600,-0.078,1.07,0,0.00,-0.7,0,0,0,0,0,0,816
-184,J.Altuve,Houston Astros,Chicago White Sox,1,5,1,1,0,0,2,5,.348,.434,.782,-0.162,1.50,-0.11,1.78,-0.9,2,-21,22,0,0,2,816
-185,Y.Alvarez,Houston Astros,Chicago White Sox,1,4,0,1,1,0,0,4,.394,.552,.946,-0.069,1.36,-0.05,1.61,-0.3,2,1,0,0,0,1,816
-186,Y.Diaz,Houston Astros,Chicago White Sox,1,4,0,0,0,0,4,4,.322,.443,.764,-0.086,0.82,-0.06,0.97,-0.7,0,0,0,0,0,0,816
-187,J.Pena,Houston Astros,Chicago White Sox,1,4,0,2,0,0,1,4,.324,.406,.730,0.030,1.12,0.02,1.32,0.4,2,2,0,0,0,2,816
-188,V.Caratini,Houston Astros,Chicago White Sox,1,4,1,1,0,0,3,4,.325,.449,.774,-0.096,1.28,-0.07,1.51,-0.7,2,1,0,0,0,1,816
-189,J.Meyers,Houston Astros,Chicago White Sox,1,4,1,1,2,0,2,4,.291,.390,.681,0.113,1.07,0.08,1.27,1.2,4,-11,0,0,12,4,816
-190,Z.Dezenzo,Houston Astros,Chicago White Sox,1,3,0,0,0,1,3,4,.233,.321,.555,-0.076,1.11,-0.05,1.31,-0.6,0,0,0,0,0,0,816
-191,M.Dubon,Houston Astros,Chicago White Sox,1,3,0,1,0,1,1,4,.285,.366,.651,0.058,1.14,0.04,1.34,0.4,1,-20,21,0,0,2,816
-192,C.McCormick,Houston Astros,Chicago White Sox,1,2,0,0,0,0,0,3,.262,.289,.551,-0.050,2.02,-0.03,2.38,-0.1,0,0,0,0,0,0,816
-193,J.Singleton,Houston Astros,Chicago White Sox,1,1,1,1,1,0,0,1,.321,.367,.688,0.031,0.54,0.02,0.64,1.0,3,-9,0,0,10,4,816
-194,S.Kwan,Cleveland Guardians,Milwaukee Brewers,0,5,0,0,0,0,0,5,.379,.474,.853,-0.064,0.49,-0.04,0.52,-0.9,0,0,0,0,0,0,816
-195,W.Brennan,Cleveland Guardians,Milwaukee Brewers,0,4,1,3,0,0,0,4,.305,.397,.702,0.015,0.34,0.01,0.37,0.5,4,3,0,0,0,3,816
-196,J.Ramirez,Cleveland Guardians,Milwaukee Brewers,0,4,1,1,2,0,1,4,.335,.547,.881,0.000,0.50,0,0.54,1.0,4,-31,0,0,32,4,816
-197,J.Naylor,Cleveland Guardians,Milwaukee Brewers,0,4,0,1,0,0,0,4,.326,.477,.804,-0.026,0.71,-0.02,0.76,-0.3,1,1,0,0,0,1,816
-198,D.Fry,Cleveland Guardians,Milwaukee Brewers,0,4,1,1,1,0,0,4,.367,.449,.817,0.003,0.65,0.00,0.69,0.3,3,-11,0,0,12,4,816
-199,A.Gimenez,Cleveland Guardians,Milwaukee Brewers,0,4,0,1,0,0,1,4,.306,.339,.644,0.029,0.59,0.02,0.63,0.5,1,1,0,0,0,1,816
-200,J.Noel,Cleveland Guardians,Milwaukee Brewers,0,3,0,0,0,1,2,4,.296,.578,.874,-0.055,0.77,-0.03,0.83,-0.8,0,0,0,0,0,0,816
-201,D.Schneemann,Cleveland Guardians,Milwaukee Brewers,0,4,0,0,0,0,4,4,.299,.390,.689,-0.119,1.12,-0.08,1.20,-1.4,0,0,0,0,0,0,816
-202,B.Naylor,Cleveland Guardians,Milwaukee Brewers,0,3,0,0,0,1,1,4,.261,.353,.615,-0.055,0.61,-0.03,0.65,-0.5,0,0,0,0,0,0,816
-203,B.Turang,Milwaukee Brewers,Cleveland Guardians,1,4,0,1,1,0,0,4,.317,.361,.679,-0.015,0.41,-0.01,0.49,0.0,2,1,0,0,0,1,816
-204,J.Chourio,Milwaukee Brewers,Cleveland Guardians,1,4,0,1,0,0,3,4,.319,.444,.763,0.047,0.34,0.03,0.40,-0.1,1,0,0,1,0,3,816
-205,T.Black,Milwaukee Brewers,Cleveland Guardians,1,4,2,1,0,0,0,4,.294,.244,.539,-0.066,0.48,-0.05,0.57,-0.9,3,1,0,0,0,1,816
-206,W.Contreras,Milwaukee Brewers,Cleveland Guardians,1,2,1,0,0,1,1,4,.357,.463,.820,0.026,0.44,0.02,0.52,0.1,1,0,0,0,0,0,816
-207,W.Adames,Milwaukee Brewers,Cleveland Guardians,1,3,1,1,3,1,1,4,.333,.452,.784,0.218,0.72,0.15,0.85,2.3,5,-21,0,0,22,4,816
-208,G.Mitchell,Milwaukee Brewers,Cleveland Guardians,1,3,0,1,1,1,1,4,.345,.371,.716,0.054,0.35,0.04,0.41,0.7,2,-6,7,0,0,2,816
-209,R.Hoskins,Milwaukee Brewers,Cleveland Guardians,1,4,0,0,0,0,3,4,.308,.435,.743,-0.046,0.41,-0.03,0.48,-1.4,0,0,0,0,0,0,816
-210,S.Frelick,Milwaukee Brewers,Cleveland Guardians,1,3,0,0,0,0,0,3,.330,.328,.658,-0.018,0.23,-0.01,0.27,-0.6,0,0,0,0,0,0,816
-211,J.Ortiz,Milwaukee Brewers,Cleveland Guardians,1,2,1,1,0,1,1,3,.348,.406,.754,0.029,0.17,0.02,0.20,0.7,2,-3,0,4,0,3,816
-212,S.Ohtani,Los Angeles Dodgers,St. Louis Cardinals,0,5,0,0,0,0,2,5,.378,.606,.984,-0.089,0.66,-0.07,0.88,-1.1,0,0,0,0,0,0,816
-213,M.Betts,Los Angeles Dodgers,St. Louis Cardinals,0,5,1,2,1,0,1,5,.405,.505,.910,0.072,0.84,0.06,1.12,0.6,4,-27,17,0,12,6,816
-214,F.Freeman,Los Angeles Dodgers,St. Louis Cardinals,0,5,0,2,0,0,2,5,.391,.489,.880,-0.045,0.86,-0.04,1.16,-0.3,2,2,0,0,0,2,816
-215,T.Hernandez,Los Angeles Dodgers,St. Louis Cardinals,0,4,0,0,0,0,1,4,.331,.494,.824,-0.093,0.90,-0.07,1.21,-0.8,0,0,0,0,0,0,816
-216,G.Lux,Los Angeles Dodgers,St. Louis Cardinals,0,4,2,2,1,0,1,4,.311,.381,.691,0.068,0.92,0.05,1.23,0.7,5,-6,0,0,8,5,816
-217,W.Smith,Los Angeles Dodgers,St. Louis Cardinals,0,4,1,1,0,0,2,4,.329,.440,.769,-0.033,0.97,-0.03,1.30,-0.4,2,1,0,0,0,1,816
-218,M.Rojas,Los Angeles Dodgers,St. Louis Cardinals,0,4,2,2,1,0,0,4,.318,.403,.721,0.190,1.45,0.15,1.94,1.3,5,-17,19,0,0,3,816
-219,K.Kiermaier,Los Angeles Dodgers,St. Louis Cardinals,0,4,1,2,4,0,1,4,.244,.321,.565,0.377,1.47,0.30,1.96,3.1,7,-3,0,0,5,5,816
-220,E.Hernandez,Los Angeles Dodgers,St. Louis Cardinals,0,4,0,1,0,0,1,4,.277,.336,.612,-0.061,0.69,-0.05,0.93,-0.6,1,1,0,0,0,1,816
-221,M.Winn,St Louis Cardinals,St. Louis Cardinals,0,4,1,1,1,1,1,5,.325,.415,.741,-0.014,1.29,-0.01,0.69,0.4,3,-9,0,0,10,4,816
-222,W.Contreras,St Louis Cardinals,St. Louis Cardinals,0,5,0,0,0,0,2,5,.372,.478,.850,-0.139,1.12,-0.04,0.59,-0.9,0,0,0,0,0,0,816
-223,T.Pham,St Louis Cardinals,St. Louis Cardinals,0,2,1,0,0,2,0,4,.331,.396,.728,0.054,0.70,0.02,0.37,0.3,1,0,0,0,0,0,816
-224,N.Arenado,St Louis Cardinals,St. Louis Cardinals,0,3,1,0,0,1,0,4,.324,.390,.713,-0.077,1.38,-0.03,0.73,-0.5,1,0,0,0,0,0,816
-225,P.Goldschmidt,St Louis Cardinals,St. Louis Cardinals,0,3,2,1,2,1,0,4,.292,.395,.687,0.139,1.54,0.04,0.81,1.6,5,-18,0,0,19,4,816
-226,B.Donovan,St Louis Cardinals,St. Louis Cardinals,0,3,0,2,1,1,0,4,.337,.396,.732,0.178,1.44,0.06,0.76,1.2,3,-25,27,0,0,0,816
-227,J.Walker,St Louis Cardinals,St. Louis Cardinals,0,3,0,0,0,0,2,3,.237,.242,.479,-0.122,1.66,-0.04,0.88,-1.0,0,0,0,0,0,0,816
-228,A.Burleson,St Louis Cardinals,St. Louis Cardinals,0,1,0,0,0,0,0,1,.307,.455,.762,-0.080,3.34,-0.03,1.76,-0.3,0,0,0,0,0,0,816
-229,P.Pages,St Louis Cardinals,St. Louis Cardinals,0,4,1,2,2,0,1,4,.296,.362,.657,0.169,1.57,0.05,0.83,1.7,5,-1,0,0,3,5,816
-230,V.Scott,St Louis Cardinals,St. Louis Cardinals,0,4,0,0,0,0,2,4,.153,.207,.360,-0.219,2.06,-0.07,1.09,-1.2,0,0,0,0,0,0,816
-231,L.Arraez,San Diego Padres,Colorado Rockies,0,5,0,2,0,0,0,5,.340,.382,.721,-0.006,0.97,-0.01,1.30,0.1,2,2,0,0,0,2,816
-232,J.Profar,San Diego Padres,Colorado Rockies,0,4,0,1,0,0,1,5,.393,.479,.872,-0.030,1.09,-0.02,1.47,-0.6,1,1,0,0,0,1,816
-233,J.Cronenworth,San Diego Padres,Colorado Rockies,0,2,0,0,0,3,1,5,.321,.410,.730,0.046,0.80,0.04,1.08,0.6,0,0,0,0,0,0,816
-234,M.Machado,San Diego Padres,Colorado Rockies,0,5,0,0,0,0,1,5,.315,.437,.752,-0.157,0.96,-0.13,1.29,-2.6,0,0,0,0,0,0,816
-235,X.Bogaerts,San Diego Padres,Colorado Rockies,0,4,1,1,1,0,1,4,.308,.373,.681,-0.119,1.16,-0.10,1.55,-1.1,3,-5,0,0,6,4,816
-236,J.Merrill,San Diego Padres,Colorado Rockies,0,4,0,2,0,0,0,4,.322,.486,.808,0.031,0.64,0.03,0.86,0.4,2,-4,0,6,0,4,816
-237,D.Peralta,San Diego Padres,Colorado Rockies,0,3,1,2,0,1,1,4,.337,.447,.785,0.075,0.76,0.06,1.01,0.6,3,-6,8,0,0,3,816
-238,H.Kim,San Diego Padres,Colorado Rockies,0,3,1,1,2,1,1,4,.328,.365,.694,0.015,1.12,0.01,1.50,0.5,4,-10,0,0,11,4,816
-239,K.Higashioka,San Diego Padres,Colorado Rockies,0,2,0,0,0,1,2,3,.270,.506,.776,-0.035,1.11,-0.03,1.49,-0.3,0,0,0,0,0,0,816
-240,D.Solano,San Diego Padres,Colorado Rockies,0,1,0,0,0,0,0,1,.356,.427,.784,0.019,0.39,0.01,0.52,0.4,0,0,0,0,0,0,816
-241,C.Blackmon,Colorado Rockies,San Diego Padres,1,3,1,2,2,1,0,4,.328,.402,.730,0.147,0.57,0,0.00,2.2,5,-6,0,0,8,5,816
-242,E.Tovar,Colorado Rockies,San Diego Padres,1,4,1,1,0,0,1,4,.296,.459,.755,0.023,0.61,0,0.00,-0.3,2,1,0,0,0,1,816
-243,B.Doyle,Colorado Rockies,San Diego Padres,1,4,1,1,0,0,1,4,.324,.465,.789,-0.043,0.55,0,0.00,-0.6,2,1,0,0,0,1,816
-244,R.McMahon,Colorado Rockies,San Diego Padres,1,4,1,1,1,0,1,4,.338,.415,.753,0.064,0.70,0,0.00,0.2,3,1,0,0,0,1,816
-245,B.Rodgers,Colorado Rockies,San Diego Padres,1,4,1,1,3,0,2,4,.325,.422,.748,0.147,0.62,0,0.00,1.7,5,-9,0,0,10,4,816
-246,M.Toglia,Colorado Rockies,San Diego Padres,1,3,1,1,0,1,1,4,.296,.489,.785,0.014,0.19,0,0.00,0.9,2,-7,8,0,0,2,816
-247,J.Cave,Colorado Rockies,San Diego Padres,1,4,0,0,0,0,1,4,.298,.401,.699,-0.022,0.28,0,0.00,-1.0,0,0,0,0,0,0,816
-248,J.Stallings,Colorado Rockies,San Diego Padres,1,4,0,0,0,0,2,4,.361,.447,.808,-0.051,0.40,0,0.00,-1.4,0,0,0,0,0,0,816
-249,J.Beck,Colorado Rockies,San Diego Padres,1,4,1,3,1,0,0,4,.237,.333,.570,0.060,0.35,0,0.00,0.9,5,3,0,0,0,3,816
-250,M.Harris,Atlanta Braves,Los Angeles Angels,0,5,0,1,0,0,2,5,.291,.361,.652,-0.175,1.66,-0.13,2.05,-1.1,1,1,0,0,0,1,816
-251,A.Riley,Atlanta Braves,Los Angeles Angels,0,5,0,0,0,0,2,5,.322,.464,.786,-0.156,1.28,-0.12,1.58,-0.9,0,0,0,0,0,0,816
-252,M.Ozuna,Atlanta Braves,Los Angeles Angels,0,4,1,3,0,1,0,5,.374,.580,.954,0.148,1.06,0.11,1.31,0.9,4,3,0,0,0,3,816
-253,M.Olson,Atlanta Braves,Los Angeles Angels,0,2,1,1,0,2,0,5,.313,.427,.741,0.139,1.94,0.10,2.39,1.6,2,1,0,0,0,1,816
-254,S.Murphy,Atlanta Braves,Los Angeles Angels,0,3,0,1,1,1,2,4,.315,.399,.713,0.069,2.47,0.05,3.05,1.2,2,1,0,0,0,1,816
-255,O.Arcia,Atlanta Braves,Los Angeles Angels,0,3,0,0,0,1,1,4,.274,.353,.626,-0.122,2.34,-0.09,2.90,-1.6,0,0,0,0,0,0,816
-256,J.Kelenic,Atlanta Braves,Los Angeles Angels,0,2,0,1,1,1,1,3,.291,.405,.696,0.040,1.60,0.03,1.98,0.3,2,1,0,0,0,1,816
-257,A.Duvall,Atlanta Braves,Los Angeles Angels,0,1,0,0,0,0,0,1,.239,.314,.553,-0.081,3.49,-0.06,4.32,-0.4,0,0,0,0,0,0,816
-258,R.Laureano,Atlanta Braves,Los Angeles Angels,0,4,0,1,0,0,0,4,.282,.364,.646,-0.121,2.15,-0.09,2.66,-1.5,1,1,0,0,0,1,816
-259,W.Merrifield,Atlanta Braves,Los Angeles Angels,0,3,0,0,0,1,1,4,.303,.296,.599,-0.223,1.91,-0.17,2.36,-1.1,0,0,0,0,0,0,816
-260,T.Ward,Los Angeles Angels,Atlanta Braves,1,4,0,2,0,0,1,4,.313,.399,.712,0.007,0.69,0,0.00,0.1,2,-20,22,0,0,3,816
-261,Z.Neto,Los Angeles Angels,Atlanta Braves,1,4,0,0,0,0,3,4,.327,.458,.785,-0.086,0.79,0,0.00,-0.9,0,0,0,0,0,0,816
-262,N.Schanuel,Los Angeles Angels,Atlanta Braves,1,3,2,1,0,1,1,4,.340,.367,.707,0.084,0.99,0,0.01,0.6,3,-12,13,0,0,2,816
-263,N.Kavadas,Los Angeles Angels,Atlanta Braves,1,3,0,0,0,1,2,4,.250,.000,.250,-0.017,1.29,0,0.01,-0.3,0,0,0,0,0,0,816
-264,L.O'Hoppe,Los Angeles Angels,Atlanta Braves,1,4,1,1,2,0,2,4,.314,.434,.748,0.105,1.27,0,0.01,0.7,4,-16,0,0,17,4,816
-265,A.Rendon,Los Angeles Angels,Atlanta Braves,1,0,0,0,0,0,0,1,.312,.281,.593,0.013,0.43,0,0.00,0.1,0,0,0,0,0,0,816
-266,B.Drury,Los Angeles Angels,Atlanta Braves,1,3,0,1,0,0,0,3,.247,.202,.449,-0.009,1.28,0,0.00,-0.1,1,-5,6,0,0,0,816
-267,M.Moniak,Los Angeles Angels,Atlanta Braves,1,3,0,1,1,0,0,3,.264,.360,.624,0.113,1.69,0,0.01,0.6,2,-13,14,0,0,2,816
-268,J.Adell,Los Angeles Angels,Atlanta Braves,1,3,0,0,0,0,1,3,.277,.397,.673,-0.126,1.51,0,0.01,-1.2,0,0,0,0,0,0,816
-269,M.Stefanic,Los Angeles Angels,Atlanta Braves,1,3,0,0,0,0,3,3,.338,.313,.651,-0.067,0.88,0,0.00,-0.6,0,0,0,0,0,0,816
+Name,Team,Opponent,Hmcrt_adv,AB,R,H,RBI,BB,SO,PA,OBP,SLG,OPS,WPA,aLI,cWPA,acLI,RE24,H+R+RBI,1B,2B,3B,HR,TB,Date
+G.Springer,Toronto Blue Jays,Chicago Cubs,0,5,0,1,2,0,1,5,0.301,0.368,0.669,0.272,1.5,0.01,0.09,0.9,3,-1,0,2,0,3,816
+D.Varsho,Toronto Blue Jays,Chicago Cubs,0,5,0,1,0,0,2,5,0.293,0.405,0.698,-0.144,1.37,-0.01,0.08,-0.5,1,1,0,0,0,1,816
+V.Guerrero,Toronto Blue Jays,Chicago Cubs,0,5,0,0,0,0,0,5,0.389,0.551,0.94,-0.188,1.42,-0.01,0.08,-1.2,0,0,0,0,0,0,816
+S.Horwitz,Toronto Blue Jays,Chicago Cubs,0,5,1,1,0,0,2,5,0.356,0.41,0.766,-0.136,1.38,-0.01,0.08,-0.8,2,1,0,0,0,1,816
+A.Kirk,Toronto Blue Jays,Chicago Cubs,0,5,0,1,0,0,1,5,0.307,0.324,0.632,-0.069,1.57,-0.0,0.09,0.1,1,1,0,0,0,1,816
+W.Wagner,Toronto Blue Jays,Chicago Cubs,0,4,1,2,0,0,1,4,0.583,0.833,1.417,0.098,1.8,0.0,0.1,1.0,3,2,0,0,0,2,816
+E.Clement,Toronto Blue Jays,Chicago Cubs,0,4,1,2,1,0,1,4,0.296,0.417,0.713,0.038,1.77,0.0,0.1,0.5,4,2,0,0,0,2,816
+J.Loperfido,Toronto Blue Jays,Chicago Cubs,0,4,1,1,0,0,1,4,0.265,0.309,0.574,-0.058,1.84,-0.0,0.11,-0.6,2,1,0,0,0,1,816
+L.Jimenez,Toronto Blue Jays,Chicago Cubs,0,4,1,1,1,0,2,4,0.303,0.368,0.671,-0.022,1.68,-0.0,0.1,-0.2,3,-1,0,0,2,4,816
+I.Happ,Chicago Cubs,Toronto Blue Jays,1,4,3,2,1,1,0,5,0.34,0.452,0.791,0.105,0.81,0.01,0.17,1.9,6,-45,26,0,21,6,816
+M.Busch,Chicago Cubs,Toronto Blue Jays,1,4,0,0,0,1,2,5,0.346,0.453,0.799,-0.083,1.04,-0.01,0.22,-0.9,0,0,0,0,0,0,816
+S.Suzuki,Chicago Cubs,Toronto Blue Jays,1,5,0,1,1,0,2,5,0.337,0.472,0.808,0.112,1.15,0.01,0.24,-0.0,2,1,0,0,0,1,816
+C.Bellinger,Chicago Cubs,Toronto Blue Jays,1,4,1,1,2,0,0,4,0.334,0.432,0.766,0.133,0.66,0.02,0.14,1.1,4,-12,0,0,13,4,816
+I.Paredes,Chicago Cubs,Toronto Blue Jays,1,4,0,0,0,0,1,4,0.345,0.421,0.766,-0.042,0.41,-0.01,0.09,-0.8,0,0,0,0,0,0,816
+N.Hoerner,Chicago Cubs,Toronto Blue Jays,1,4,0,1,0,0,0,4,0.325,0.348,0.674,-0.019,0.4,-0.0,0.09,-0.4,1,-23,24,0,0,2,816
+D.Swanson,Chicago Cubs,Toronto Blue Jays,1,3,0,0,0,1,0,4,0.297,0.35,0.648,0.018,0.55,0.0,0.12,0.3,0,0,0,0,0,0,816
+P.Crow-Armstrong,Chicago Cubs,Toronto Blue Jays,1,2,1,1,1,1,0,3,0.253,0.357,0.61,0.127,1.05,0.02,0.22,0.9,3,-4,0,0,5,4,816
+P.Wisdom,Chicago Cubs,Toronto Blue Jays,1,1,0,0,0,0,1,1,0.267,0.429,0.696,-0.058,2.27,-0.01,0.48,-0.2,0,0,0,0,0,0,816
+M.Amaya,Chicago Cubs,Toronto Blue Jays,1,4,1,1,1,0,0,4,0.279,0.326,0.605,0.001,1.22,0.0,0.26,-0.2,3,-4,0,0,5,4,816
+M.Massey,Kansas City Royals,Cincinnati Reds,0,5,0,0,0,0,2,5,0.281,0.463,0.745,-0.132,0.96,-0.1,1.19,-1.6,0,0,0,0,0,0,816
+B.Witt,Kansas City Royals,Cincinnati Reds,0,4,3,3,1,1,0,5,0.4,0.621,1.022,0.2,0.59,0.15,0.73,1.8,7,-56,34,0,25,0,816
+V.Pasquantino,Kansas City Royals,Cincinnati Reds,0,5,2,2,3,0,2,5,0.314,0.45,0.764,0.042,0.74,0.03,0.92,2.7,7,-16,0,0,18,5,816
+S.Perez,Kansas City Royals,Cincinnati Reds,0,5,0,2,1,0,1,5,0.337,0.475,0.813,0.036,0.66,0.03,0.83,0.3,3,-19,21,0,0,3,816
+M.Melendez,Kansas City Royals,Cincinnati Reds,0,4,0,1,0,0,0,4,0.264,0.406,0.67,-0.075,0.88,-0.06,1.1,-1.0,1,-17,18,0,0,2,816
+P.DeJong,Kansas City Royals,Cincinnati Reds,0,4,0,1,0,0,3,4,0.285,0.44,0.725,-0.033,0.77,-0.03,0.95,-0.5,1,1,0,0,0,1,816
+A.Frazier,Kansas City Royals,Cincinnati Reds,0,3,0,2,1,0,1,4,0.291,0.296,0.587,0.049,1.05,0.04,1.31,0.9,3,2,0,0,0,2,816
+F.Fermin,Kansas City Royals,Cincinnati Reds,0,4,1,2,1,0,0,4,0.352,0.424,0.776,0.051,0.84,0.04,1.05,1.1,4,-9,11,0,0,3,816
+K.Isbel,Kansas City Royals,Cincinnati Reds,0,3,0,0,0,0,0,4,0.288,0.377,0.665,-0.097,0.83,-0.07,1.03,-1.4,0,0,0,0,0,0,816
+J.India,Cincinnati Reds,Kansas City Royals,1,2,1,1,0,2,0,4,0.356,0.398,0.754,0.087,0.88,0.03,0.42,1.0,2,-23,24,0,0,0,816
+E.De,Cincinnati Reds,Kansas City Royals,1,4,0,0,0,0,1,4,0.344,0.489,0.833,-0.125,1.14,-0.04,0.55,-1.2,0,0,0,0,0,0,816
+T.Stephenson,Cincinnati Reds,Kansas City Royals,1,4,0,2,1,0,1,4,0.323,0.458,0.78,0.019,0.86,0.01,0.41,0.9,3,-18,20,0,0,4,816
+T.Friedl,Cincinnati Reds,Kansas City Royals,1,4,0,0,0,0,3,4,0.319,0.411,0.73,-0.111,1.0,-0.03,0.48,-1.3,0,0,0,0,0,0,816
+S.Steer,Cincinnati Reds,Kansas City Royals,1,3,0,0,0,1,1,4,0.324,0.427,0.751,-0.021,0.78,-0.01,0.38,-0.3,0,0,0,0,0,0,816
+J.Candelario,Cincinnati Reds,Kansas City Royals,1,4,0,0,0,0,2,4,0.277,0.425,0.703,-0.081,0.98,-0.02,0.47,-1.0,0,0,0,0,0,0,816
+T.France,Cincinnati Reds,Kansas City Royals,1,3,0,1,0,0,0,3,0.307,0.37,0.677,-0.026,0.96,-0.01,0.46,-0.3,1,-16,17,0,0,2,816
+W.Benson,Cincinnati Reds,Kansas City Royals,1,2,0,0,0,0,0,2,0.279,0.389,0.668,-0.051,0.92,-0.01,0.45,-0.4,0,0,0,0,0,0,816
+J.Fraley,Cincinnati Reds,Kansas City Royals,1,1,0,0,0,0,1,1,0.331,0.375,0.706,-0.052,1.78,-0.01,0.86,-0.3,0,0,0,0,0,0,816
+N.Marte,Cincinnati Reds,Kansas City Royals,1,3,0,0,0,0,0,3,0.221,0.298,0.519,-0.099,1.27,-0.03,0.61,-0.7,0,0,0,0,0,0,816
+G.Torres,New York Yankees,Detroit Tigers,0,4,1,2,0,0,0,4,0.311,0.353,0.663,0.036,0.83,0.03,1.01,0.4,3,-17,19,0,0,3,816
+J.Soto,New York Yankees,Detroit Tigers,0,3,0,0,0,1,0,4,0.436,0.61,1.047,-0.031,0.89,-0.02,1.08,-0.5,0,0,0,0,0,0,816
+A.Judge,New York Yankees,Detroit Tigers,0,4,1,1,1,0,1,4,0.466,0.709,1.175,-0.024,0.95,-0.02,1.17,-0.1,3,-43,0,0,44,4,816
+G.Stanton,New York Yankees,Detroit Tigers,0,3,0,0,0,1,2,4,0.298,0.482,0.78,0.027,0.8,0.02,0.97,0.2,0,0,0,0,0,0,816
+A.Verdugo,New York Yankees,Detroit Tigers,0,3,0,0,1,0,1,4,0.294,0.366,0.66,-0.044,1.01,-0.03,1.24,-0.6,1,0,0,0,0,0,816
+A.Volpe,New York Yankees,Detroit Tigers,0,4,0,0,0,0,1,4,0.298,0.385,0.683,-0.067,0.65,-0.05,0.8,-0.9,0,0,0,0,0,0,816
+J.Trevino,New York Yankees,Detroit Tigers,0,3,0,1,0,1,0,4,0.307,0.415,0.722,0.086,0.66,0.06,0.8,1.0,1,-4,5,0,0,0,816
+D.LeMahieu,New York Yankees,Detroit Tigers,0,4,0,0,0,0,2,4,0.266,0.256,0.522,-0.094,0.72,-0.07,0.89,-1.2,0,0,0,0,0,0,816
+O.Peraza,New York Yankees,Detroit Tigers,0,3,1,1,1,0,1,3,0.333,1.333,1.667,0.064,0.89,0.05,1.09,0.3,3,0,0,0,1,4,816
+P.Meadows,Detroit Tigers,New York Yankees,1,4,0,1,0,0,0,4,0.273,0.368,0.641,-0.117,1.63,-0.01,0.2,-0.7,1,1,0,0,0,1,816
+K.Carpenter,Detroit Tigers,New York Yankees,1,4,0,1,0,0,1,4,0.339,0.602,0.941,-0.045,1.04,-0.0,0.13,-0.5,1,1,0,0,0,1,816
+M.Vierling,Detroit Tigers,New York Yankees,1,4,0,1,0,0,1,4,0.297,0.44,0.737,-0.007,1.08,-0.0,0.13,-0.2,1,1,0,0,0,1,816
+B.Madris,Detroit Tigers,New York Yankees,1,4,0,0,0,0,1,4,0.324,0.358,0.683,-0.108,1.42,-0.01,0.17,-0.9,0,0,0,0,0,0,816
+J.Jung,Detroit Tigers,New York Yankees,1,2,0,0,0,2,2,4,0.5,0.0,0.5,-0.112,1.45,-0.01,0.18,-0.7,0,0,0,0,0,0,816
+J.Malloy,Detroit Tigers,New York Yankees,1,4,0,1,0,0,3,4,0.305,0.392,0.697,-0.026,0.98,-0.0,0.12,-0.1,1,1,0,0,0,1,816
+Z.McKinstry,Detroit Tigers,New York Yankees,1,4,0,0,0,0,1,4,0.247,0.308,0.555,-0.113,1.17,-0.01,0.14,-1.0,0,0,0,0,0,0,816
+T.Sweeney,Detroit Tigers,New York Yankees,1,3,0,1,0,0,1,3,0.333,0.333,0.667,-0.047,1.11,-0.0,0.14,-0.5,1,1,0,0,0,1,816
+J.Rogers,Detroit Tigers,New York Yankees,1,3,0,0,0,0,1,3,0.242,0.368,0.61,0.028,1.5,0.0,0.18,0.0,0,0,0,0,0,0,816
+A.Call,Washington Nationals,Philadelphia Phillies,0,5,0,0,0,0,1,5,0.444,0.506,0.951,-0.257,1.97,-0.0,0.03,-1.7,0,0,0,0,0,0,816
+C.Abrams,Washington Nationals,Philadelphia Phillies,0,4,0,0,0,0,2,5,0.322,0.445,0.767,-0.17,1.52,-0.0,0.03,-0.8,0,0,0,0,0,0,816
+J.Wood,Washington Nationals,Philadelphia Phillies,0,3,0,3,0,1,0,4,0.373,0.45,0.822,0.136,1.3,0.0,0.02,1.2,3,-3,6,0,0,4,816
+A.Chaparro,Washington Nationals,Philadelphia Phillies,0,4,0,0,0,0,1,4,0.375,0.5,0.875,-0.231,1.61,-0.0,0.03,-2.1,0,0,0,0,0,0,816
+K.Ruiz,Washington Nationals,Philadelphia Phillies,0,4,0,1,0,0,1,4,0.26,0.361,0.621,-0.035,1.07,0.0,0.02,-0.3,1,1,0,0,0,1,816
+L.Garcia,Washington Nationals,Philadelphia Phillies,0,4,1,2,0,0,1,4,0.328,0.459,0.787,0.013,1.47,0.0,0.03,-0.1,3,2,0,0,0,0,816
+J.Yepez,Washington Nationals,Philadelphia Phillies,0,4,0,1,0,0,0,4,0.346,0.443,0.789,-0.004,1.56,0.0,0.03,-0.5,1,1,0,0,0,1,816
+J.Tena,Washington Nationals,Philadelphia Phillies,0,3,0,2,1,1,1,4,0.353,0.313,0.665,0.311,1.78,0.0,0.03,1.6,3,2,0,0,0,2,816
+J.Young,Washington Nationals,Philadelphia Phillies,0,4,0,2,1,0,1,4,0.314,0.327,0.641,0.042,2.06,0.0,0.03,0.0,3,-16,18,0,0,3,816
+K.Schwarber,Philadelphia Phillies,Washington Nationals,1,4,0,0,0,1,0,5,0.38,0.484,0.865,-0.102,1.17,-0.07,1.3,-0.7,0,0,0,0,0,0,816
+T.Turner,Philadelphia Phillies,Washington Nationals,1,5,1,4,1,0,1,5,0.352,0.475,0.828,0.159,1.0,0.11,1.11,2.1,6,-14,18,0,0,5,816
+B.Harper,Philadelphia Phillies,Washington Nationals,1,3,0,0,0,1,0,4,0.373,0.538,0.911,-0.013,0.93,-0.01,1.03,-0.4,0,0,0,0,0,0,816
+A.Bohm,Philadelphia Phillies,Washington Nationals,1,4,0,1,0,0,0,4,0.35,0.481,0.831,-0.111,0.95,-0.07,1.05,-1.4,1,1,0,0,0,1,816
+N.Castellanos,Philadelphia Phillies,Washington Nationals,1,4,1,1,1,0,0,4,0.303,0.417,0.72,0.046,0.95,0.03,1.06,0.1,3,1,0,0,0,1,816
+J.Realmuto,Philadelphia Phillies,Washington Nationals,1,3,0,1,1,1,1,4,0.314,0.386,0.7,0.059,0.65,0.04,0.72,0.6,2,1,0,0,0,0,816
+B.Stott,Philadelphia Phillies,Washington Nationals,1,3,0,0,0,1,0,4,0.312,0.345,0.657,0.01,0.61,0.01,0.68,-0.2,0,0,0,0,0,0,816
+W.Wilson,Philadelphia Phillies,Washington Nationals,1,2,0,0,0,1,1,3,0.349,0.65,0.999,-0.044,0.71,-0.03,0.79,-0.5,0,0,0,0,0,0,816
+B.Marsh,Philadelphia Phillies,Washington Nationals,1,1,1,1,0,0,0,1,0.318,0.399,0.717,0.173,2.26,0.11,2.51,0.6,2,1,0,0,0,1,816
+J.Rojas,Philadelphia Phillies,Washington Nationals,1,3,0,1,0,0,1,3,0.284,0.307,0.592,0.002,1.0,0.0,1.11,-0.1,1,1,0,0,0,1,816
+C.Stevenson,Philadelphia Phillies,Washington Nationals,1,1,0,1,0,0,0,1,0.429,0.333,0.762,0.126,2.57,0.08,2.86,0.7,1,1,0,0,0,1,816
+V.Robles,Seattle Mariners,Pittsburgh Pirates,0,4,0,0,0,0,0,4,0.324,0.358,0.681,-0.112,1.08,-0.07,1.09,-1.0,0,0,0,0,0,0,816
+R.Arozarena,Seattle Mariners,Pittsburgh Pirates,0,3,0,0,0,0,2,4,0.333,0.393,0.726,0.024,0.8,0.01,0.8,0.2,0,0,0,0,0,0,816
+C.Raleigh,Seattle Mariners,Pittsburgh Pirates,0,4,0,0,0,0,1,4,0.305,0.435,0.741,-0.135,1.0,-0.08,1.0,-1.3,0,0,0,0,0,0,816
+J.Rodriguez,Seattle Mariners,Pittsburgh Pirates,0,4,0,2,0,0,0,4,0.315,0.375,0.69,0.105,0.74,0.06,0.74,0.7,2,-9,11,0,0,0,816
+J.Polanco,Seattle Mariners,Pittsburgh Pirates,0,3,2,1,1,1,1,4,0.302,0.362,0.664,0.042,1.47,0.03,1.48,0.9,4,-11,0,0,12,4,816
+L.Raley,Seattle Mariners,Pittsburgh Pirates,0,3,1,2,2,1,1,4,0.301,0.433,0.734,0.244,1.54,0.15,1.54,1.8,5,-13,0,0,15,5,816
+D.Canzone,Seattle Mariners,Pittsburgh Pirates,0,3,0,0,0,1,2,4,0.285,0.39,0.674,-0.244,1.8,-0.15,1.8,-1.5,0,0,0,0,0,0,816
+J.Rojas,Seattle Mariners,Pittsburgh Pirates,0,3,0,0,0,0,1,3,0.31,0.343,0.653,-0.086,1.16,-0.05,1.16,-0.7,0,0,0,0,0,0,816
+M.Haniger,Seattle Mariners,Pittsburgh Pirates,0,1,0,0,0,0,1,1,0.287,0.342,0.63,-0.05,2.1,-0.03,2.11,-0.3,0,0,0,0,0,0,816
+L.Rivas,Seattle Mariners,Pittsburgh Pirates,0,2,0,0,0,1,0,3,0.25,0.242,0.492,-0.02,0.81,-0.01,0.81,-0.1,0,0,0,0,0,0,816
+J.Turner,Seattle Mariners,Pittsburgh Pirates,0,1,0,0,0,0,1,1,0.347,0.365,0.712,-0.036,1.23,-0.02,1.23,-0.2,0,0,0,0,0,0,816
+A.McCutchen,Pittsburgh Pirates,Seattle Mariners,1,3,0,1,1,0,1,4,0.336,0.405,0.741,0.047,1.18,0.0,0.12,0.4,2,1,0,0,0,1,816
+B.Reynolds,Pittsburgh Pirates,Seattle Mariners,1,3,1,0,0,1,2,4,0.35,0.465,0.816,-0.014,0.94,-0.0,0.09,-0.3,1,0,0,0,0,0,816
+O.Cruz,Pittsburgh Pirates,Seattle Mariners,1,4,0,1,2,0,1,4,0.316,0.467,0.783,0.09,1.17,0.01,0.12,1.3,3,-25,26,0,0,2,816
+I.Kiner-Falefa,Pittsburgh Pirates,Seattle Mariners,1,4,0,2,1,0,1,4,0.332,0.417,0.749,0.147,0.91,0.01,0.09,1.1,3,-9,11,0,0,3,816
+R.Tellez,Pittsburgh Pirates,Seattle Mariners,1,4,0,0,0,0,1,4,0.298,0.383,0.681,-0.068,0.87,-0.0,0.09,-0.9,0,0,0,0,0,0,816
+B.De,Pittsburgh Pirates,Seattle Mariners,1,4,0,1,0,0,1,4,0.282,0.395,0.676,-0.118,0.93,-0.01,0.09,-0.8,1,1,0,0,0,1,816
+K.Hayes,Pittsburgh Pirates,Seattle Mariners,1,4,0,0,0,0,2,4,0.286,0.294,0.579,-0.102,0.97,-0.01,0.1,-1.1,0,0,0,0,0,0,816
+Y.Grandal,Pittsburgh Pirates,Seattle Mariners,1,4,1,2,1,0,0,4,0.247,0.344,0.591,0.163,0.64,0.01,0.07,0.8,4,-3,0,0,5,5,816
+M.A.,Pittsburgh Pirates,Seattle Mariners,1,2,2,1,0,1,0,3,0.271,0.304,0.575,0.087,1.07,0.01,0.11,0.6,3,1,0,0,0,0,816
+C.Carroll,Arizona Diamondbacks,Tampa Bay Rays,0,5,2,1,2,0,2,5,0.309,0.387,0.696,0.35,0.81,0.27,1.05,1.6,5,-11,0,0,12,4,816
+J.McCarthy,Arizona Diamondbacks,Tampa Bay Rays,0,5,1,2,0,0,0,5,0.384,0.456,0.839,0.068,1.22,0.05,1.58,0.2,3,2,0,0,0,2,816
+J.Pederson,Arizona Diamondbacks,Tampa Bay Rays,0,2,0,1,1,1,0,3,0.395,0.545,0.94,0.125,1.19,0.1,1.54,1.3,2,1,0,0,0,1,816
+R.Grichuk,Arizona Diamondbacks,Tampa Bay Rays,0,2,0,1,0,0,0,2,0.335,0.438,0.772,-0.078,2.14,-0.06,2.77,-0.1,1,1,0,0,0,1,816
+J.Bell,Arizona Diamondbacks,Tampa Bay Rays,0,4,0,0,0,0,0,4,0.307,0.418,0.724,-0.085,1.19,-0.07,1.54,-1.1,0,0,0,0,0,0,816
+L.Gurriel,Arizona Diamondbacks,Tampa Bay Rays,0,3,0,2,1,1,0,4,0.307,0.412,0.719,0.063,1.26,0.05,1.63,0.8,3,2,0,0,0,0,816
+A.Del,Arizona Diamondbacks,Tampa Bay Rays,0,4,0,0,0,0,2,4,0.407,0.542,0.949,-0.142,1.33,-0.11,1.73,-1.5,0,0,0,0,0,0,816
+E.Suarez,Arizona Diamondbacks,Tampa Bay Rays,0,4,1,1,0,0,1,4,0.309,0.428,0.738,0.018,0.98,0.01,1.27,-0.2,2,1,0,0,0,1,816
+G.Perdomo,Arizona Diamondbacks,Tampa Bay Rays,0,4,0,1,0,0,0,4,0.339,0.37,0.709,-0.108,1.15,-0.08,1.49,-0.9,1,1,0,0,0,1,816
+B.Alexander,Arizona Diamondbacks,Tampa Bay Rays,0,3,0,0,0,1,2,4,0.322,0.345,0.668,-0.054,0.83,-0.04,1.07,-0.4,0,0,0,0,0,0,816
+Y.Diaz,Tampa Bay Rays,Arizona Diamondbacks,1,5,1,1,0,0,1,5,0.325,0.391,0.716,-0.073,1.53,-0.01,0.33,-0.6,2,1,0,0,0,1,816
+B.Lowe,Tampa Bay Rays,Arizona Diamondbacks,1,5,0,1,0,0,3,5,0.33,0.488,0.818,0.289,1.7,0.04,0.37,0.2,1,1,0,0,0,1,816
+C.Morel,Tampa Bay Rays,Arizona Diamondbacks,1,4,1,2,0,0,1,4,0.295,0.357,0.653,0.047,1.08,0.01,0.23,0.1,3,2,0,0,0,2,816
+J.Lowe,Tampa Bay Rays,Arizona Diamondbacks,1,4,1,2,2,0,0,4,0.3,0.408,0.709,0.553,1.63,0.07,0.35,1.7,5,-13,15,0,0,3,816
+J.Caminero,Tampa Bay Rays,Arizona Diamondbacks,1,3,0,2,0,1,0,4,0.417,0.3,0.717,0.071,1.22,0.01,0.26,0.4,2,2,0,0,0,2,816
+D.Carlson,Tampa Bay Rays,Arizona Diamondbacks,1,4,1,2,2,0,1,4,0.294,0.31,0.603,0.139,1.45,0.02,0.31,1.6,5,-1,0,0,3,5,816
+B.Rortvedt,Tampa Bay Rays,Arizona Diamondbacks,1,2,0,0,0,0,0,2,0.343,0.341,0.683,-0.058,1.11,-0.01,0.24,-0.4,0,0,0,0,0,0,816
+A.Jackson,Tampa Bay Rays,Arizona Diamondbacks,1,2,0,0,0,0,1,2,0.185,0.244,0.428,-0.09,1.62,-0.01,0.35,-0.9,0,0,0,0,0,0,816
+J.Caballero,Tampa Bay Rays,Arizona Diamondbacks,1,4,0,0,0,0,2,4,0.29,0.367,0.658,-0.18,1.73,-0.02,0.37,-0.9,0,0,0,0,0,0,816
+K.Misner,Tampa Bay Rays,Arizona Diamondbacks,1,2,0,0,0,0,2,2,0.0,0.0,0.0,-0.034,0.68,-0.0,0.15,-0.2,0,0,0,0,0,0,816
+J.DeLuca,Tampa Bay Rays,Arizona Diamondbacks,1,1,1,0,0,1,0,2,0.252,0.29,0.542,-0.008,2.1,-0.0,0.46,0.0,1,0,0,0,0,0,816
+J.Duran,Boston Red Sox,Baltimore Orioles,0,5,3,3,1,1,1,6,0.35,0.505,0.855,0.157,0.76,0.1,0.78,2.0,7,-49,37,0,15,7,816
+W.Abreu,Boston Red Sox,Baltimore Orioles,0,6,1,1,1,0,3,6,0.335,0.508,0.844,0.025,0.78,0.02,0.8,-0.1,3,-24,25,0,0,2,816
+T.Casas,Boston Red Sox,Baltimore Orioles,0,5,1,1,0,0,2,5,0.337,0.494,0.831,-0.045,0.92,-0.03,0.94,-0.6,2,1,0,0,0,1,816
+R.Devers,Boston Red Sox,Baltimore Orioles,0,4,2,2,3,1,1,5,0.379,0.588,0.967,0.215,1.04,0.13,1.06,2.2,7,-56,32,0,26,6,816
+C.Wong,Boston Red Sox,Baltimore Orioles,0,5,2,2,1,0,1,5,0.35,0.44,0.79,0.092,0.83,0.06,0.85,0.5,5,-12,14,0,0,3,816
+M.Yoshida,Boston Red Sox,Baltimore Orioles,0,4,1,3,4,1,0,5,0.366,0.429,0.795,0.318,0.83,0.2,0.85,3.7,8,-5,0,0,8,6,816
+N.Sogard,Boston Red Sox,Baltimore Orioles,0,4,1,0,0,1,3,5,0.3,0.25,0.55,-0.029,0.57,-0.02,0.59,-0.6,1,0,0,0,0,0,816
+D.Hamilton,Boston Red Sox,Baltimore Orioles,0,4,1,2,2,1,1,5,0.309,0.404,0.714,0.113,0.48,0.07,0.49,2.0,5,-5,0,0,7,5,816
+C.Rafaela,Boston Red Sox,Baltimore Orioles,0,5,0,0,0,0,0,5,0.295,0.41,0.705,-0.061,0.43,-0.04,0.44,-1.3,0,0,0,0,0,0,816
+C.Cowser,Baltimore Orioles,Boston Red Sox,1,6,1,1,0,0,2,6,0.325,0.451,0.776,-0.321,1.73,-0.25,2.25,-2.5,2,1,0,0,0,1,816
+A.Santander,Baltimore Orioles,Boston Red Sox,1,5,0,1,0,1,2,6,0.31,0.532,0.842,-0.045,1.26,-0.03,1.64,-0.2,1,1,0,0,0,1,816
+G.Henderson,Baltimore Orioles,Boston Red Sox,1,4,0,0,1,2,2,6,0.374,0.553,0.927,0.002,1.34,0.0,1.75,0.2,1,0,0,0,0,0,816
+R.Mountcastle,Baltimore Orioles,Boston Red Sox,1,6,1,2,0,0,0,6,0.312,0.435,0.747,-0.039,0.94,-0.03,1.22,-0.1,3,-25,27,0,0,4,816
+E.Jimenez,Baltimore Orioles,Boston Red Sox,1,3,2,2,1,0,0,3,0.316,0.368,0.683,0.064,1.28,0.05,1.67,0.8,5,-10,12,0,0,3,816
+R.O'Hearn,Baltimore Orioles,Boston Red Sox,1,2,1,1,0,0,0,2,0.356,0.452,0.807,-0.034,1.48,-0.03,1.92,-0.2,2,1,0,0,0,1,816
+J.Holliday,Baltimore Orioles,Boston Red Sox,1,5,3,4,1,0,0,5,0.25,0.4,0.65,0.352,1.64,0.27,2.13,3.0,8,3,0,1,0,6,816
+C.Mullins,Baltimore Orioles,Boston Red Sox,1,3,1,1,0,2,0,5,0.283,0.401,0.684,0.052,1.86,0.04,2.43,1.0,2,1,0,0,0,1,816
+R.Urias,Baltimore Orioles,Boston Red Sox,1,3,1,3,5,1,0,5,0.313,0.39,0.703,0.241,2.05,0.19,2.66,3.7,9,-4,0,0,7,6,816
+J.McCann,Baltimore Orioles,Boston Red Sox,1,4,0,2,1,0,2,5,0.275,0.323,0.598,0.012,1.86,0.01,2.42,0.1,3,2,0,0,0,2,816
+X.Edwards,Miami Marlins,New York Mets,0,3,0,1,0,1,0,4,0.438,0.437,0.875,0.058,0.65,0.0,0.0,0.4,1,-6,7,0,0,2,816
+J.Burger,Miami Marlins,New York Mets,0,4,1,1,1,0,1,4,0.304,0.48,0.784,-0.047,0.81,0.0,0.0,0.2,3,-23,0,0,24,4,816
+J.Bride,Miami Marlins,New York Mets,0,4,1,1,0,0,1,4,0.376,0.473,0.849,0.039,0.68,0.0,0.0,0.1,2,-2,3,0,0,2,816
+J.Sanchez,Miami Marlins,New York Mets,0,4,0,1,0,0,1,4,0.295,0.418,0.713,-0.089,0.97,0.0,0.0,-0.6,1,1,0,0,0,1,816
+D.Hill,Miami Marlins,New York Mets,0,4,1,1,1,0,0,4,0.284,0.444,0.729,0.064,0.92,0.0,0.0,-0.1,3,-2,3,0,0,2,816
+O.Lopez,Miami Marlins,New York Mets,0,3,0,1,0,1,1,4,0.266,0.301,0.566,0.04,0.62,0.0,0.0,0.4,1,1,0,0,0,1,816
+E.Rivera,Miami Marlins,New York Mets,0,3,0,0,1,0,0,3,0.29,0.264,0.554,-0.006,1.1,0.0,0.0,-0.3,1,0,0,0,0,0,816
+K.Stowers,Miami Marlins,New York Mets,0,1,0,0,0,0,1,1,0.23,0.28,0.51,-0.004,0.15,0.0,0.0,-0.2,0,0,0,0,0,0,816
+D.Hensley,Miami Marlins,New York Mets,0,3,0,0,0,0,1,3,0.294,0.214,0.508,-0.058,0.73,0.0,0.0,-0.6,0,0,0,0,0,0,816
+A.Sanchez,Miami Marlins,New York Mets,0,3,0,0,0,0,0,3,0.203,0.159,0.362,-0.034,0.45,0.0,0.0,-0.5,0,0,0,0,0,0,816
+F.Lindor,New York Mets,Miami Marlins,1,5,1,1,1,0,1,5,0.335,0.465,0.8,0.068,0.76,0.03,0.65,0.3,3,0,0,1,0,3,816
+M.Vientos,New York Mets,Miami Marlins,1,3,1,1,0,1,2,5,0.338,0.555,0.893,0.027,0.55,0.01,0.47,0.3,2,1,0,0,0,1,816
+B.Nimmo,New York Mets,Miami Marlins,1,5,2,2,3,0,1,5,0.343,0.405,0.747,0.092,0.68,0.05,0.58,1.8,7,-15,0,0,17,5,816
+J.Martinez,New York Mets,Miami Marlins,1,5,0,2,1,0,1,5,0.346,0.437,0.782,0.071,0.52,0.04,0.45,0.3,3,-19,21,0,0,0,816
+P.Alonso,New York Mets,Miami Marlins,1,4,0,0,0,0,3,4,0.328,0.468,0.795,-0.05,0.44,-0.03,0.38,-1.0,0,0,0,0,0,0,816
+J.Winker,New York Mets,Miami Marlins,1,3,0,1,0,1,0,4,0.368,0.409,0.777,-0.045,0.56,-0.02,0.48,-0.2,1,1,0,0,0,1,816
+F.Alvarez,New York Mets,Miami Marlins,1,3,1,1,0,1,0,4,0.32,0.405,0.725,0.042,0.47,0.02,0.41,-0.2,2,1,0,0,0,1,816
+J.McNeil,New York Mets,Miami Marlins,1,4,1,2,2,0,0,4,0.296,0.396,0.692,0.233,0.74,0.12,0.64,1.8,5,-34,24,0,12,6,816
+H.Bader,New York Mets,Miami Marlins,1,2,1,0,0,2,0,4,0.307,0.393,0.7,0.028,0.41,0.01,0.36,-0.1,1,0,0,0,0,0,816
+M.Margot,Minnesota Twins,Texas Rangers,0,4,1,1,0,0,1,4,0.295,0.342,0.638,-0.004,0.91,-0.0,1.15,-0.1,2,1,0,0,0,1,816
+C.Santana,Minnesota Twins,Texas Rangers,0,3,1,1,3,1,0,4,0.33,0.429,0.758,0.291,1.14,0.22,1.43,2.5,5,-16,0,0,17,4,816
+M.Kepler,Minnesota Twins,Texas Rangers,0,4,0,0,0,0,0,4,0.316,0.404,0.719,-0.077,0.79,-0.06,0.99,-0.8,0,0,0,0,0,0,816
+R.Lewis,Minnesota Twins,Texas Rangers,0,4,0,1,0,0,1,4,0.354,0.628,0.982,-0.014,0.77,-0.01,0.97,-0.2,1,1,0,0,0,1,816
+J.Miranda,Minnesota Twins,Texas Rangers,0,4,0,1,0,0,2,4,0.349,0.492,0.841,-0.06,0.89,-0.04,1.11,-0.7,1,1,0,0,0,1,816
+M.Wallner,Minnesota Twins,Texas Rangers,0,3,0,0,0,1,2,4,0.398,0.587,0.985,-0.032,0.83,-0.02,1.04,-0.5,0,0,0,0,0,0,816
+K.Farmer,Minnesota Twins,Texas Rangers,0,3,0,0,0,0,2,3,0.294,0.297,0.591,-0.084,1.07,-0.06,1.34,-0.7,0,0,0,0,0,0,816
+T.Larnach,Minnesota Twins,Texas Rangers,0,1,0,0,0,0,1,1,0.318,0.413,0.731,-0.012,0.47,-0.01,0.59,-0.2,0,0,0,0,0,0,816
+R.Jeffers,Minnesota Twins,Texas Rangers,0,3,2,1,1,0,0,4,0.307,0.453,0.759,0.133,0.88,0.1,1.09,1.1,4,-17,0,0,18,4,816
+E.Julien,Minnesota Twins,Texas Rangers,0,3,0,0,0,0,2,3,0.307,0.348,0.654,-0.087,1.22,-0.07,1.53,-0.7,0,0,0,0,0,0,816
+M.Semien,Texas Rangers,Minnesota Twins,1,5,1,1,1,0,1,5,0.312,0.404,0.716,-0.046,1.72,-0.0,0.07,0.5,3,-17,0,0,18,4,816
+C.Seager,Texas Rangers,Minnesota Twins,1,3,0,0,0,1,1,4,0.354,0.495,0.849,-0.062,1.11,-0.0,0.04,-0.3,0,0,0,0,0,0,816
+J.Smith,Texas Rangers,Minnesota Twins,1,3,0,0,0,0,0,3,0.358,0.423,0.78,-0.076,1.03,-0.0,0.04,-0.6,0,0,0,0,0,0,816
+R.Grossman,Texas Rangers,Minnesota Twins,1,1,0,0,0,0,0,1,0.338,0.327,0.666,-0.051,1.83,-0.0,0.07,-0.2,0,0,0,0,0,0,816
+A.Garcia,Texas Rangers,Minnesota Twins,1,4,1,1,0,0,1,4,0.292,0.405,0.696,-0.073,1.31,-0.0,0.06,-0.2,2,1,0,0,0,1,816
+N.Lowe,Texas Rangers,Minnesota Twins,1,3,1,1,0,1,1,4,0.354,0.382,0.736,0.005,1.25,0.0,0.05,0.3,2,1,0,0,0,1,816
+J.Jung,Texas Rangers,Minnesota Twins,1,4,0,1,0,0,1,4,0.291,0.453,0.744,-0.034,1.29,-0.0,0.05,-0.3,1,1,0,0,0,1,816
+W.Langford,Texas Rangers,Minnesota Twins,1,3,0,1,2,0,1,4,0.309,0.368,0.678,0.075,2.15,0.0,0.09,0.8,3,1,0,0,0,1,816
+C.Kelly,Texas Rangers,Minnesota Twins,1,4,0,1,0,0,1,4,0.33,0.401,0.731,-0.177,1.99,-0.0,0.08,-0.8,1,1,0,0,0,1,816
+L.Taveras,Texas Rangers,Minnesota Twins,1,4,0,2,0,0,1,4,0.292,0.358,0.65,-0.007,2.06,0.0,0.09,-0.6,2,2,0,0,0,2,816
+N.Lopez,Chicago White Sox,Houston Astros,0,5,1,2,0,0,1,5,0.312,0.296,0.608,-0.005,0.87,0.0,0.0,-0.5,3,2,0,0,0,2,816
+L.Robert,Chicago White Sox,Houston Astros,0,5,2,4,4,0,0,5,0.272,0.424,0.695,0.325,1.03,0.0,0.0,3.2,10,-10,0,0,14,0,816
+A.Benintendi,Chicago White Sox,Houston Astros,0,5,0,2,0,0,1,5,0.267,0.369,0.636,-0.018,0.57,0.0,0.0,-0.4,2,2,0,0,0,2,816
+A.Vaughn,Chicago White Sox,Houston Astros,0,4,1,1,0,1,0,5,0.297,0.403,0.7,0.045,0.66,0.0,0.0,0.2,2,1,0,0,0,1,816
+G.Sheets,Chicago White Sox,Houston Astros,0,4,0,0,0,1,3,5,0.309,0.374,0.683,-0.076,0.89,0.0,0.0,-0.7,0,0,0,0,0,0,816
+K.Lee,Chicago White Sox,Houston Astros,0,5,0,1,0,0,1,5,0.25,0.364,0.614,0.007,0.9,0.0,0.0,-0.2,1,-10,11,0,0,2,816
+M.Vargas,Chicago White Sox,Houston Astros,0,3,0,0,0,1,0,4,0.284,0.333,0.617,-0.035,0.89,0.0,0.0,-0.5,0,0,0,0,0,0,816
+D.Fletcher,Chicago White Sox,Houston Astros,0,3,1,1,1,1,0,4,0.289,0.269,0.559,0.028,1.03,0.0,0.0,0.3,3,1,0,0,0,1,816
+B.Baldwin,Chicago White Sox,Houston Astros,0,3,0,0,0,1,1,4,0.247,0.353,0.6,-0.078,1.07,0.0,0.0,-0.7,0,0,0,0,0,0,816
+J.Altuve,Houston Astros,Chicago White Sox,1,5,1,1,0,0,2,5,0.348,0.434,0.782,-0.162,1.5,-0.11,1.78,-0.9,2,-21,22,0,0,2,816
+Y.Alvarez,Houston Astros,Chicago White Sox,1,4,0,1,1,0,0,4,0.394,0.552,0.946,-0.069,1.36,-0.05,1.61,-0.3,2,1,0,0,0,1,816
+Y.Diaz,Houston Astros,Chicago White Sox,1,4,0,0,0,0,4,4,0.322,0.443,0.764,-0.086,0.82,-0.06,0.97,-0.7,0,0,0,0,0,0,816
+J.Pena,Houston Astros,Chicago White Sox,1,4,0,2,0,0,1,4,0.324,0.406,0.73,0.03,1.12,0.02,1.32,0.4,2,2,0,0,0,2,816
+V.Caratini,Houston Astros,Chicago White Sox,1,4,1,1,0,0,3,4,0.325,0.449,0.774,-0.096,1.28,-0.07,1.51,-0.7,2,1,0,0,0,1,816
+J.Meyers,Houston Astros,Chicago White Sox,1,4,1,1,2,0,2,4,0.291,0.39,0.681,0.113,1.07,0.08,1.27,1.2,4,-11,0,0,12,4,816
+Z.Dezenzo,Houston Astros,Chicago White Sox,1,3,0,0,0,1,3,4,0.233,0.321,0.555,-0.076,1.11,-0.05,1.31,-0.6,0,0,0,0,0,0,816
+M.Dubon,Houston Astros,Chicago White Sox,1,3,0,1,0,1,1,4,0.285,0.366,0.651,0.058,1.14,0.04,1.34,0.4,1,-20,21,0,0,2,816
+C.McCormick,Houston Astros,Chicago White Sox,1,2,0,0,0,0,0,3,0.262,0.289,0.551,-0.05,2.02,-0.03,2.38,-0.1,0,0,0,0,0,0,816
+J.Singleton,Houston Astros,Chicago White Sox,1,1,1,1,1,0,0,1,0.321,0.367,0.688,0.031,0.54,0.02,0.64,1.0,3,-9,0,0,10,4,816
+S.Kwan,Cleveland Guardians,Milwaukee Brewers,0,5,0,0,0,0,0,5,0.379,0.474,0.853,-0.064,0.49,-0.04,0.52,-0.9,0,0,0,0,0,0,816
+W.Brennan,Cleveland Guardians,Milwaukee Brewers,0,4,1,3,0,0,0,4,0.305,0.397,0.702,0.015,0.34,0.01,0.37,0.5,4,3,0,0,0,3,816
+J.Ramirez,Cleveland Guardians,Milwaukee Brewers,0,4,1,1,2,0,1,4,0.335,0.547,0.881,0.0,0.5,0.0,0.54,1.0,4,-31,0,0,32,4,816
+J.Naylor,Cleveland Guardians,Milwaukee Brewers,0,4,0,1,0,0,0,4,0.326,0.477,0.804,-0.026,0.71,-0.02,0.76,-0.3,1,1,0,0,0,1,816
+D.Fry,Cleveland Guardians,Milwaukee Brewers,0,4,1,1,1,0,0,4,0.367,0.449,0.817,0.003,0.65,0.0,0.69,0.3,3,-11,0,0,12,4,816
+A.Gimenez,Cleveland Guardians,Milwaukee Brewers,0,4,0,1,0,0,1,4,0.306,0.339,0.644,0.029,0.59,0.02,0.63,0.5,1,1,0,0,0,1,816
+J.Noel,Cleveland Guardians,Milwaukee Brewers,0,3,0,0,0,1,2,4,0.296,0.578,0.874,-0.055,0.77,-0.03,0.83,-0.8,0,0,0,0,0,0,816
+D.Schneemann,Cleveland Guardians,Milwaukee Brewers,0,4,0,0,0,0,4,4,0.299,0.39,0.689,-0.119,1.12,-0.08,1.2,-1.4,0,0,0,0,0,0,816
+B.Naylor,Cleveland Guardians,Milwaukee Brewers,0,3,0,0,0,1,1,4,0.261,0.353,0.615,-0.055,0.61,-0.03,0.65,-0.5,0,0,0,0,0,0,816
+B.Turang,Milwaukee Brewers,Cleveland Guardians,1,4,0,1,1,0,0,4,0.317,0.361,0.679,-0.015,0.41,-0.01,0.49,0.0,2,1,0,0,0,1,816
+J.Chourio,Milwaukee Brewers,Cleveland Guardians,1,4,0,1,0,0,3,4,0.319,0.444,0.763,0.047,0.34,0.03,0.4,-0.1,1,0,0,1,0,3,816
+T.Black,Milwaukee Brewers,Cleveland Guardians,1,4,2,1,0,0,0,4,0.294,0.244,0.539,-0.066,0.48,-0.05,0.57,-0.9,3,1,0,0,0,1,816
+W.Contreras,Milwaukee Brewers,Cleveland Guardians,1,2,1,0,0,1,1,4,0.357,0.463,0.82,0.026,0.44,0.02,0.52,0.1,1,0,0,0,0,0,816
+W.Adames,Milwaukee Brewers,Cleveland Guardians,1,3,1,1,3,1,1,4,0.333,0.452,0.784,0.218,0.72,0.15,0.85,2.3,5,-21,0,0,22,4,816
+G.Mitchell,Milwaukee Brewers,Cleveland Guardians,1,3,0,1,1,1,1,4,0.345,0.371,0.716,0.054,0.35,0.04,0.41,0.7,2,-6,7,0,0,2,816
+R.Hoskins,Milwaukee Brewers,Cleveland Guardians,1,4,0,0,0,0,3,4,0.308,0.435,0.743,-0.046,0.41,-0.03,0.48,-1.4,0,0,0,0,0,0,816
+S.Frelick,Milwaukee Brewers,Cleveland Guardians,1,3,0,0,0,0,0,3,0.33,0.328,0.658,-0.018,0.23,-0.01,0.27,-0.6,0,0,0,0,0,0,816
+J.Ortiz,Milwaukee Brewers,Cleveland Guardians,1,2,1,1,0,1,1,3,0.348,0.406,0.754,0.029,0.17,0.02,0.2,0.7,2,-3,0,4,0,3,816
+S.Ohtani,Los Angeles Dodgers,St. Louis Cardinals,0,5,0,0,0,0,2,5,0.378,0.606,0.984,-0.089,0.66,-0.07,0.88,-1.1,0,0,0,0,0,0,816
+M.Betts,Los Angeles Dodgers,St. Louis Cardinals,0,5,1,2,1,0,1,5,0.405,0.505,0.91,0.072,0.84,0.06,1.12,0.6,4,-27,17,0,12,6,816
+F.Freeman,Los Angeles Dodgers,St. Louis Cardinals,0,5,0,2,0,0,2,5,0.391,0.489,0.88,-0.045,0.86,-0.04,1.16,-0.3,2,2,0,0,0,2,816
+T.Hernandez,Los Angeles Dodgers,St. Louis Cardinals,0,4,0,0,0,0,1,4,0.331,0.494,0.824,-0.093,0.9,-0.07,1.21,-0.8,0,0,0,0,0,0,816
+G.Lux,Los Angeles Dodgers,St. Louis Cardinals,0,4,2,2,1,0,1,4,0.311,0.381,0.691,0.068,0.92,0.05,1.23,0.7,5,-6,0,0,8,5,816
+W.Smith,Los Angeles Dodgers,St. Louis Cardinals,0,4,1,1,0,0,2,4,0.329,0.44,0.769,-0.033,0.97,-0.03,1.3,-0.4,2,1,0,0,0,1,816
+M.Rojas,Los Angeles Dodgers,St. Louis Cardinals,0,4,2,2,1,0,0,4,0.318,0.403,0.721,0.19,1.45,0.15,1.94,1.3,5,-17,19,0,0,3,816
+K.Kiermaier,Los Angeles Dodgers,St. Louis Cardinals,0,4,1,2,4,0,1,4,0.244,0.321,0.565,0.377,1.47,0.3,1.96,3.1,7,-3,0,0,5,5,816
+E.Hernandez,Los Angeles Dodgers,St. Louis Cardinals,0,4,0,1,0,0,1,4,0.277,0.336,0.612,-0.061,0.69,-0.05,0.93,-0.6,1,1,0,0,0,1,816
+M.Winn,St Louis Cardinals,St. Louis Cardinals,0,4,1,1,1,1,1,5,0.325,0.415,0.741,-0.014,1.29,-0.01,0.69,0.4,3,-9,0,0,10,4,816
+W.Contreras,St Louis Cardinals,St. Louis Cardinals,0,5,0,0,0,0,2,5,0.372,0.478,0.85,-0.139,1.12,-0.04,0.59,-0.9,0,0,0,0,0,0,816
+T.Pham,St Louis Cardinals,St. Louis Cardinals,0,2,1,0,0,2,0,4,0.331,0.396,0.728,0.054,0.7,0.02,0.37,0.3,1,0,0,0,0,0,816
+N.Arenado,St Louis Cardinals,St. Louis Cardinals,0,3,1,0,0,1,0,4,0.324,0.39,0.713,-0.077,1.38,-0.03,0.73,-0.5,1,0,0,0,0,0,816
+P.Goldschmidt,St Louis Cardinals,St. Louis Cardinals,0,3,2,1,2,1,0,4,0.292,0.395,0.687,0.139,1.54,0.04,0.81,1.6,5,-18,0,0,19,4,816
+B.Donovan,St Louis Cardinals,St. Louis Cardinals,0,3,0,2,1,1,0,4,0.337,0.396,0.732,0.178,1.44,0.06,0.76,1.2,3,-25,27,0,0,0,816
+J.Walker,St Louis Cardinals,St. Louis Cardinals,0,3,0,0,0,0,2,3,0.237,0.242,0.479,-0.122,1.66,-0.04,0.88,-1.0,0,0,0,0,0,0,816
+A.Burleson,St Louis Cardinals,St. Louis Cardinals,0,1,0,0,0,0,0,1,0.307,0.455,0.762,-0.08,3.34,-0.03,1.76,-0.3,0,0,0,0,0,0,816
+P.Pages,St Louis Cardinals,St. Louis Cardinals,0,4,1,2,2,0,1,4,0.296,0.362,0.657,0.169,1.57,0.05,0.83,1.7,5,-1,0,0,3,5,816
+V.Scott,St Louis Cardinals,St. Louis Cardinals,0,4,0,0,0,0,2,4,0.153,0.207,0.36,-0.219,2.06,-0.07,1.09,-1.2,0,0,0,0,0,0,816
+L.Arraez,San Diego Padres,Colorado Rockies,0,5,0,2,0,0,0,5,0.34,0.382,0.721,-0.006,0.97,-0.01,1.3,0.1,2,2,0,0,0,2,816
+J.Profar,San Diego Padres,Colorado Rockies,0,4,0,1,0,0,1,5,0.393,0.479,0.872,-0.03,1.09,-0.02,1.47,-0.6,1,1,0,0,0,1,816
+J.Cronenworth,San Diego Padres,Colorado Rockies,0,2,0,0,0,3,1,5,0.321,0.41,0.73,0.046,0.8,0.04,1.08,0.6,0,0,0,0,0,0,816
+M.Machado,San Diego Padres,Colorado Rockies,0,5,0,0,0,0,1,5,0.315,0.437,0.752,-0.157,0.96,-0.13,1.29,-2.6,0,0,0,0,0,0,816
+X.Bogaerts,San Diego Padres,Colorado Rockies,0,4,1,1,1,0,1,4,0.308,0.373,0.681,-0.119,1.16,-0.1,1.55,-1.1,3,-5,0,0,6,4,816
+J.Merrill,San Diego Padres,Colorado Rockies,0,4,0,2,0,0,0,4,0.322,0.486,0.808,0.031,0.64,0.03,0.86,0.4,2,-4,0,6,0,4,816
+D.Peralta,San Diego Padres,Colorado Rockies,0,3,1,2,0,1,1,4,0.337,0.447,0.785,0.075,0.76,0.06,1.01,0.6,3,-6,8,0,0,3,816
+H.Kim,San Diego Padres,Colorado Rockies,0,3,1,1,2,1,1,4,0.328,0.365,0.694,0.015,1.12,0.01,1.5,0.5,4,-10,0,0,11,4,816
+K.Higashioka,San Diego Padres,Colorado Rockies,0,2,0,0,0,1,2,3,0.27,0.506,0.776,-0.035,1.11,-0.03,1.49,-0.3,0,0,0,0,0,0,816
+D.Solano,San Diego Padres,Colorado Rockies,0,1,0,0,0,0,0,1,0.356,0.427,0.784,0.019,0.39,0.01,0.52,0.4,0,0,0,0,0,0,816
+C.Blackmon,Colorado Rockies,San Diego Padres,1,3,1,2,2,1,0,4,0.328,0.402,0.73,0.147,0.57,0.0,0.0,2.2,5,-6,0,0,8,5,816
+E.Tovar,Colorado Rockies,San Diego Padres,1,4,1,1,0,0,1,4,0.296,0.459,0.755,0.023,0.61,0.0,0.0,-0.3,2,1,0,0,0,1,816
+B.Doyle,Colorado Rockies,San Diego Padres,1,4,1,1,0,0,1,4,0.324,0.465,0.789,-0.043,0.55,0.0,0.0,-0.6,2,1,0,0,0,1,816
+R.McMahon,Colorado Rockies,San Diego Padres,1,4,1,1,1,0,1,4,0.338,0.415,0.753,0.064,0.7,0.0,0.0,0.2,3,1,0,0,0,1,816
+B.Rodgers,Colorado Rockies,San Diego Padres,1,4,1,1,3,0,2,4,0.325,0.422,0.748,0.147,0.62,0.0,0.0,1.7,5,-9,0,0,10,4,816
+M.Toglia,Colorado Rockies,San Diego Padres,1,3,1,1,0,1,1,4,0.296,0.489,0.785,0.014,0.19,0.0,0.0,0.9,2,-7,8,0,0,2,816
+J.Cave,Colorado Rockies,San Diego Padres,1,4,0,0,0,0,1,4,0.298,0.401,0.699,-0.022,0.28,0.0,0.0,-1.0,0,0,0,0,0,0,816
+J.Stallings,Colorado Rockies,San Diego Padres,1,4,0,0,0,0,2,4,0.361,0.447,0.808,-0.051,0.4,0.0,0.0,-1.4,0,0,0,0,0,0,816
+J.Beck,Colorado Rockies,San Diego Padres,1,4,1,3,1,0,0,4,0.237,0.333,0.57,0.06,0.35,0.0,0.0,0.9,5,3,0,0,0,3,816
+M.Harris,Atlanta Braves,Los Angeles Angels,0,5,0,1,0,0,2,5,0.291,0.361,0.652,-0.175,1.66,-0.13,2.05,-1.1,1,1,0,0,0,1,816
+A.Riley,Atlanta Braves,Los Angeles Angels,0,5,0,0,0,0,2,5,0.322,0.464,0.786,-0.156,1.28,-0.12,1.58,-0.9,0,0,0,0,0,0,816
+M.Ozuna,Atlanta Braves,Los Angeles Angels,0,4,1,3,0,1,0,5,0.374,0.58,0.954,0.148,1.06,0.11,1.31,0.9,4,3,0,0,0,3,816
+M.Olson,Atlanta Braves,Los Angeles Angels,0,2,1,1,0,2,0,5,0.313,0.427,0.741,0.139,1.94,0.1,2.39,1.6,2,1,0,0,0,1,816
+S.Murphy,Atlanta Braves,Los Angeles Angels,0,3,0,1,1,1,2,4,0.315,0.399,0.713,0.069,2.47,0.05,3.05,1.2,2,1,0,0,0,1,816
+O.Arcia,Atlanta Braves,Los Angeles Angels,0,3,0,0,0,1,1,4,0.274,0.353,0.626,-0.122,2.34,-0.09,2.9,-1.6,0,0,0,0,0,0,816
+J.Kelenic,Atlanta Braves,Los Angeles Angels,0,2,0,1,1,1,1,3,0.291,0.405,0.696,0.04,1.6,0.03,1.98,0.3,2,1,0,0,0,1,816
+A.Duvall,Atlanta Braves,Los Angeles Angels,0,1,0,0,0,0,0,1,0.239,0.314,0.553,-0.081,3.49,-0.06,4.32,-0.4,0,0,0,0,0,0,816
+R.Laureano,Atlanta Braves,Los Angeles Angels,0,4,0,1,0,0,0,4,0.282,0.364,0.646,-0.121,2.15,-0.09,2.66,-1.5,1,1,0,0,0,1,816
+W.Merrifield,Atlanta Braves,Los Angeles Angels,0,3,0,0,0,1,1,4,0.303,0.296,0.599,-0.223,1.91,-0.17,2.36,-1.1,0,0,0,0,0,0,816
+T.Ward,Los Angeles Angels,Atlanta Braves,1,4,0,2,0,0,1,4,0.313,0.399,0.712,0.007,0.69,0.0,0.0,0.1,2,-20,22,0,0,3,816
+Z.Neto,Los Angeles Angels,Atlanta Braves,1,4,0,0,0,0,3,4,0.327,0.458,0.785,-0.086,0.79,0.0,0.0,-0.9,0,0,0,0,0,0,816
+N.Schanuel,Los Angeles Angels,Atlanta Braves,1,3,2,1,0,1,1,4,0.34,0.367,0.707,0.084,0.99,0.0,0.01,0.6,3,-12,13,0,0,2,816
+N.Kavadas,Los Angeles Angels,Atlanta Braves,1,3,0,0,0,1,2,4,0.25,0.0,0.25,-0.017,1.29,0.0,0.01,-0.3,0,0,0,0,0,0,816
+L.O'Hoppe,Los Angeles Angels,Atlanta Braves,1,4,1,1,2,0,2,4,0.314,0.434,0.748,0.105,1.27,0.0,0.01,0.7,4,-16,0,0,17,4,816
+A.Rendon,Los Angeles Angels,Atlanta Braves,1,0,0,0,0,0,0,1,0.312,0.281,0.593,0.013,0.43,0.0,0.0,0.1,0,0,0,0,0,0,816
+B.Drury,Los Angeles Angels,Atlanta Braves,1,3,0,1,0,0,0,3,0.247,0.202,0.449,-0.009,1.28,0.0,0.0,-0.1,1,-5,6,0,0,0,816
+M.Moniak,Los Angeles Angels,Atlanta Braves,1,3,0,1,1,0,0,3,0.264,0.36,0.624,0.113,1.69,0.0,0.01,0.6,2,-13,14,0,0,2,816
+J.Adell,Los Angeles Angels,Atlanta Braves,1,3,0,0,0,0,1,3,0.277,0.397,0.673,-0.126,1.51,0.0,0.01,-1.2,0,0,0,0,0,0,816
+M.Stefanic,Los Angeles Angels,Atlanta Braves,1,3,0,0,0,0,3,3,0.338,0.313,0.651,-0.067,0.88,0.0,0.0,-0.6,0,0,0,0,0,0,816

@@ -250,6 +250,8 @@ class BoxScore:
                         pitching_box_scores = pd.concat([pitching_box_scores, df], ignore_index=True)
                         pitching_box_scores = pitching_box_scores.drop_duplicates()
 
+        hitting_box_scores = hitting_box_scores.loc[:, ~hitting_box_scores.columns.str.contains('^Unnamed')]
+        pitching_box_scores = pitching_box_scores.loc[:, ~pitching_box_scores.columns.str.contains('^Unnamed')]
         return hitting_box_scores, pitching_box_scores
 
     def update_all_box_score_results(self,  date, month, day, is_hitting):

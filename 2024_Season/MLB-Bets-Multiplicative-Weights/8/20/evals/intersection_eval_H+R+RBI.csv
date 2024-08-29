@@ -1,2 +1,6 @@
 ,Play,Expert,Odds,Units,Payout,Team,Name,Opponent,Hmcrt_adv,Profit,Correct,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 10 Percentages,Last 10 Correct
 0,J.Bart o1.5 Hits + Runs + RBIs,therocketplays,105,1.0,2.05,Pittsburgh Pirates,J.Bart,Texas Rangers,0.0,1.0499999999999998,N,0.490566037735849,0.0,0.8,1.0,0.7,1.0
+1,T.Turner o1.5 hits+runs+rbi,Rotowire,100,0.75,1.5,Philadelphia Phillies,T.Turner,Atlanta Braves,0.0,N,0.6144578313253012,1.0,0.8,1.0,0.7,1.0
+2,J.Kelenic o0.5 hits+runs+rbi,Rotowire,100,0.75,1.5,Atlanta Braves,J.Kelenic,Philadelphia Phillies,1.0,Y,0.6481481481481481,1.0,1.0,1.0,0.7,1.0
+3,R.Laureano o0.5 hits+runs+rbi,Rotowire,100,0.75,1.5,Atlanta Braves,R.Laureano,Philadelphia Phillies,1.0,Y,0.6896551724137931,1.0,0.8,1.0,0.8,1.0
+4,G.Mitchell o0.5 hits+runs+rbi,Rotowire,100,0.75,1.5,Milwaukee Brewers,G.Mitchell,St Louis Cardinals,0.0,Y,0.7297297297297297,1.0,1.0,1.0,0.6,1.0

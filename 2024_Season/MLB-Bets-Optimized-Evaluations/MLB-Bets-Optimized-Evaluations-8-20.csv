@@ -3,28 +3,28 @@
 1,J.Rodriguez o1.5 Hits + Runs + RBIs,MJCLocks,-130,1.3,J.Rodriguez,2.3,0.9999999999999998,Seattle Mariners,Los Angeles Dodgers,0,0.4903846153846153,0,0.8,1,0.5,0,N
 2,D.Kremer o4.5 Ks,JBBets1,-124,1.0,D.Kremer,1.806451612903225,0.8064516129032258,Baltimore Orioles,New York Mets,0,0.4705882352941176,0,0.4,0,0.4,0,Y
 3,C.Ragans o6.5 Ks,PropBetGuy,-135,1.35,C.Ragans,2.35,1.0,Kansas City Royals,Los Angeles Angels,1,0.64,1,0.6,1,0.7,1,Y
-4,T.Turner o1.5 hits+runs+rbi,Rotowire,100,0.75,T.Turner,1.5,0.75,Philadelphia Phillies,Atlanta Braves,0,0.6144578313253012,1,0.8,1,0.7,1,X
-5,R.Lopez o4.5 strikeouts,Rotowire,100,0.75,R.Lopez,1.5,0.75,Atlanta Braves,Philadelphia Phillies,1,0.7368421052631579,1,0.6,1,0.8,1,X
-6,C.Spiers u4.5 strikeouts,Rotowire,100,0.75,C.Spiers,1.5,0.75,Cincinnati Reds,Toronto Blue Jays,0,0.375,0,0.4,0,0.375,0,X
-7,D.Herz u6.5 strikeouts,Rotowire,100,0.75,D.Herz,1.5,0.75,Washington Nationals,Colorado Rockies,1,0.7692307692307693,1,0.8,1,0.8,1,X
-8,M.Boyd o4.5 strikeouts,Rotowire,100,0.75,M.Boyd,1.5,0.75,Cleveland Guardians,New York Yankees,0,1.0,1,1.0,1,1.0,1,X
+4,T.Turner o1.5 hits+runs+rbi,Rotowire,100,0.75,T.Turner,1.5,0.75,Philadelphia Phillies,Atlanta Braves,0,0.6144578313253012,1,0.8,1,0.7,1,N
+5,R.Lopez o4.5 strikeouts,Rotowire,100,0.75,R.Lopez,1.5,0.75,Atlanta Braves,Philadelphia Phillies,1,0.7368421052631579,1,0.6,1,0.8,1,Y
+6,C.Spiers u4.5 strikeouts,Rotowire,100,0.75,C.Spiers,1.5,0.75,Cincinnati Reds,Toronto Blue Jays,0,0.375,0,0.4,0,0.375,0,Y
+7,D.Herz u6.5 strikeouts,Rotowire,100,0.75,D.Herz,1.5,0.75,Washington Nationals,Colorado Rockies,1,0.7692307692307693,1,0.8,1,0.8,1,N
+8,M.Boyd o4.5 strikeouts,Rotowire,100,0.75,M.Boyd,1.5,0.75,Cleveland Guardians,New York Yankees,0,1.0,1,1.0,1,1.0,1,N
 9,E.Cabrera u15.5 Outs,PlayerPropSavant,-155,1.0,E.Cabrera,1.6451612903225803,0.6451612903225805,Miami Marlins,Arizona Diamondbacks,1,0.8333333333333334,1,0.8,1,0.9,1,N
 10,C.Ragans o6.5 Ks,PlayerPropSavant,-135,1.0,C.Ragans,1.7407407407407407,0.7407407407407407,Kansas City Royals,Los Angeles Angels,1,0.64,1,0.6,1,0.7,1,Y
-11,J.Kelenic o0.5 hits+runs+rbi,Rotowire,100,0.75,J.Kelenic,1.5,0.75,Atlanta Braves,Philadelphia Phillies,1,0.6481481481481481,1,1.0,1,0.7,1,X
+11,J.Kelenic o0.5 hits+runs+rbi,Rotowire,100,0.75,J.Kelenic,1.5,0.75,Atlanta Braves,Philadelphia Phillies,1,0.6481481481481481,1,1.0,1,0.7,1,Y
 12,M.Perez u4.5 strikeouts,Rotowire,100,0.75,M.Perez,1.5,0.75,San Diego Padres,Minnesota Twins,1,0.0,0,0.0,0,0.0,0,Y
-13,J.Berrios u5.5 strikeouts,Rotowire,100,0.75,J.Berrios,1.5,0.75,Toronto Blue Jays,Cincinnati Reds,1,0.6153846153846154,1,0.6,1,0.6,1,X
+13,J.Berrios u5.5 strikeouts,Rotowire,100,0.75,J.Berrios,1.5,0.75,Toronto Blue Jays,Cincinnati Reds,1,0.6153846153846154,1,0.6,1,0.6,1,N
 14,D.Kremer u16.5 Outs,PropBetGuy,-104,1.04,D.Kremer,2.04,1.0,Baltimore Orioles,New York Mets,0,0.5882352941176471,1,0.6,1,0.7,1,N
-15,C.Spiers o4.5 strikeouts,Rotowire Prizepicks,100,1.5,C.Spiers,3.0,1.5,Cincinnati Reds,Toronto Blue Jays,0,0.625,1,0.6,1,0.625,1,X
-16,R.Blanco u5.5 strikeouts,Rotowire Prizepicks,100,1.5,R.Blanco,3.0,1.5,Houston Astros,Boston Red Sox,1,0.5217391304347826,1,0.6,1,0.7,1,X
-17,R.Laureano o0.5 hits+runs+rbi,Rotowire,100,0.75,R.Laureano,1.5,0.75,Atlanta Braves,Philadelphia Phillies,1,0.6896551724137931,1,0.8,1,0.8,1,X
-18,D.Herz o5.5 strikeouts,Rotowire,100,0.75,D.Herz,1.5,0.75,Washington Nationals,Colorado Rockies,1,0.3076923076923077,0,0.4,0,0.3,0,X
-19,R.Blanco u5.5 strikeouts,Rotowire,100,0.75,R.Blanco,1.5,0.75,Houston Astros,Boston Red Sox,1,0.5217391304347826,1,0.6,1,0.7,1,X
-20,R.Lopez o4.5 strikeouts,Rotowire Prizepicks,100,1.5,R.Lopez,3.0,1.5,Atlanta Braves,Philadelphia Phillies,1,0.7368421052631579,1,0.6,1,0.8,1,X
-21,G.Mitchell o0.5 hits+runs+rbi,Rotowire,100,0.75,G.Mitchell,1.5,0.75,Milwaukee Brewers,St Louis Cardinals,0,0.7297297297297297,1,1.0,1,0.6,1,X
-22,Z.Wheeler u6.5 strikeouts,Rotowire Prizepicks,100,1.5,Z.Wheeler,3.0,1.5,Philadelphia Phillies,Atlanta Braves,0,0.48,0,0.4,0,0.3,0,X
+15,C.Spiers o4.5 strikeouts,Rotowire Prizepicks,100,1.5,C.Spiers,3.0,1.5,Cincinnati Reds,Toronto Blue Jays,0,0.625,1,0.6,1,0.625,1,N
+16,R.Blanco u5.5 strikeouts,Rotowire Prizepicks,100,1.5,R.Blanco,3.0,1.5,Houston Astros,Boston Red Sox,1,0.5217391304347826,1,0.6,1,0.7,1,N
+17,R.Laureano o0.5 hits+runs+rbi,Rotowire,100,0.75,R.Laureano,1.5,0.75,Atlanta Braves,Philadelphia Phillies,1,0.6896551724137931,1,0.8,1,0.8,1,Y
+18,D.Herz o5.5 strikeouts,Rotowire,100,0.75,D.Herz,1.5,0.75,Washington Nationals,Colorado Rockies,1,0.3076923076923077,0,0.4,0,0.3,0,Y
+19,R.Blanco u5.5 strikeouts,Rotowire,100,0.75,R.Blanco,1.5,0.75,Houston Astros,Boston Red Sox,1,0.5217391304347826,1,0.6,1,0.7,1,N
+20,R.Lopez o4.5 strikeouts,Rotowire Prizepicks,100,1.5,R.Lopez,3.0,1.5,Atlanta Braves,Philadelphia Phillies,1,0.7368421052631579,1,0.6,1,0.8,1,Y
+21,G.Mitchell o0.5 hits+runs+rbi,Rotowire,100,0.75,G.Mitchell,1.5,0.75,Milwaukee Brewers,St Louis Cardinals,0,0.7297297297297297,1,1.0,1,0.6,1,Y
+22,Z.Wheeler u6.5 strikeouts,Rotowire Prizepicks,100,1.5,Z.Wheeler,3.0,1.5,Philadelphia Phillies,Atlanta Braves,0,0.48,0,0.4,0,0.3,0,N
 23,C.Seager o1.5 Total Bases,theprophunter0_,-105,1.58,C.Seager,3.084761904761905,1.5047619047619047,Texas Rangers,Pittsburgh Pirates,1,0.4196428571428571,0,0.4,0,0.5,0,N
-24,A.Faedo u1.5 strikeouts,Rotowire,100,0.75,A.Faedo,1.5,0.75,Detroit Tigers,Chicago Cubs,0,0.4,0,0.4,0,0.4,0,X
-25,C.Ragans o6.5 strikeouts,Rotowire,100,0.75,C.Ragans,1.5,0.75,Kansas City Royals,Los Angeles Angels,1,0.64,1,0.6,1,0.7,1,X
+24,A.Faedo u1.5 strikeouts,Rotowire,100,0.75,A.Faedo,1.5,0.75,Detroit Tigers,Chicago Cubs,0,0.4,0,0.4,0,0.4,0,Y
+25,C.Ragans o6.5 strikeouts,Rotowire,100,0.75,C.Ragans,1.5,0.75,Kansas City Royals,Los Angeles Angels,1,0.64,1,0.6,1,0.7,1,Y
 26,D.Kremer o4.5 Ks,JBBets1,-124,1.0,D.Kremer,1.806451612903225,0.8064516129032258,Baltimore Orioles,New York Mets,0,0.4705882352941176,0,0.4,0,0.4,0,Y
 27,J.Rodriguez o1.5 Hits + Runs + RBIs,MJCLocks,-130,1.3,J.Rodriguez,2.3,0.9999999999999998,Seattle Mariners,Los Angeles Dodgers,0,0.4903846153846153,0,0.8,1,0.5,0,N
 28,C.Seager o1.5 Total Bases,theprophunter0_,-105,1.58,C.Seager,3.084761904761905,1.5047619047619047,Texas Rangers,Pittsburgh Pirates,1,0.4196428571428571,0,0.4,0,0.5,0,N

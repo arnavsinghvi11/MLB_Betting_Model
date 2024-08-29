@@ -11,29 +11,29 @@
 9,F.Lindor o1.5 Total Bases,moneybadger24_,-105.0,1.05,F.Lindor,2.05,0.9999999999999998,New York Mets,San Diego Padres,0.0,0.4615384615384615,0,1.0,1,0.7,1,N
 10,Z.Matthews u1.5 BB,SBK5065,-140.0,1.4,Z.Matthews,2.4,1.0,Minnesota Twins,St Louis Cardinals,1.0,0.5,0,0.5,0,0.5,0,Y
 11,C.Bradford u17.5 Outs,PlayerPropSavant,-110.0,1.1,C.Bradford,2.1,1.0,Texas Rangers,Cleveland Guardians,0.0,0.4285714285714285,0,0.4,0,0.4285714285714285,0,N
-12,J.Loperfido o0.5 hits+runs+rbi,Rotowire,100.0,0.75,J.Loperfido,1.5,0.75,Toronto Blue Jays,Los Angeles Angels,1.0,0.6470588235294118,1,0.8,1,0.7,1,X
+12,J.Loperfido o0.5 hits+runs+rbi,Rotowire,100.0,0.75,J.Loperfido,1.5,0.75,Toronto Blue Jays,Los Angeles Angels,1.0,0.6470588235294118,1,0.8,1,0.7,1,Y
 13,Y.Kikuchi o5.5 strikeouts,Rotowire,100.0,0.75,Y.Kikuchi,1.5,0.75,Houston Astros,Baltimore Orioles,0.0,0.75,1,0.75,1,0.75,1,N
-14,K.Allard o2.5 strikeouts,Rotowire,100.0,0.75,K.Allard,1.5,0.75,Philadelphia Phillies,Kansas City Royals,0.0,0.5,0,0.5,0,0.5,0,X
-15,M.Haniger o0.5 total bases,Rotowire Prizepicks,100.0,1.5,M.Haniger,3.0,1.5,Seattle Mariners,San Francisco Giants,1.0,0.5660377358490566,1,0.6,1,0.6,1,X
-16,J.Cannon o4.5 strikeouts,Rotowire Prizepicks,100.0,1.5,J.Cannon,3.0,1.5,Chicago White Sox,Detroit Tigers,1.0,0.2857142857142857,0,0.2,0,0.1,0,X
-17,T.Houck o4.5 strikeouts,Rotowire Prizepicks,100.0,1.5,T.Houck,3.0,1.5,Boston Red Sox,Arizona Diamondbacks,1.0,0.64,1,0.4,0,0.4,0,X
-18,J.Ramirez o1.5 hits+runs+rbi,Rotowire,100.0,0.75,J.Ramirez,1.5,0.75,Cleveland Guardians,Texas Rangers,1.0,0.608,1,0.4,0,0.4,0,X
+14,K.Allard o2.5 strikeouts,Rotowire,100.0,0.75,K.Allard,1.5,0.75,Philadelphia Phillies,Kansas City Royals,0.0,0.5,0,0.5,0,0.5,0,Y
+15,M.Haniger o0.5 total bases,Rotowire Prizepicks,100.0,1.5,M.Haniger,3.0,1.5,Seattle Mariners,San Francisco Giants,1.0,0.5660377358490566,1,0.6,1,0.6,1,N
+16,J.Cannon o4.5 strikeouts,Rotowire Prizepicks,100.0,1.5,J.Cannon,3.0,1.5,Chicago White Sox,Detroit Tigers,1.0,0.2857142857142857,0,0.2,0,0.1,0,N
+17,T.Houck o4.5 strikeouts,Rotowire Prizepicks,100.0,1.5,T.Houck,3.0,1.5,Boston Red Sox,Arizona Diamondbacks,1.0,0.64,1,0.4,0,0.4,0,N
+18,J.Ramirez o1.5 hits+runs+rbi,Rotowire,100.0,0.75,J.Ramirez,1.5,0.75,Cleveland Guardians,Texas Rangers,1.0,0.608,1,0.4,0,0.4,0,Y
 19,S.Lugo u6.5 Hits Allowed,JBBets1,-155.0,1.0,S.Lugo,1.6451612903225803,0.6451612903225805,Kansas City Royals,Philadelphia Phillies,1.0,0.7692307692307693,1,0.8,1,0.8,1,N
 20,S.Ohtani o1.5 Total Bases,theprophunter0_,-110.0,1.1,S.Ohtani,2.1,1.0,Los Angeles Dodgers,Tampa Bay Rays,1.0,0.56,1,0.6,1,0.5,0,N
-21,T.Estrada o0.5 hits+runs+rbi,Rotowire,100.0,0.75,T.Estrada,1.5,0.75,San Francisco Giants,Seattle Mariners,0.0,0.6774193548387096,1,1.0,1,0.6,1,X
-22,M.Yastrzemski o0.5 hits+runs+rbi,Rotowire,100.0,0.75,M.Yastrzemski,1.5,0.75,San Francisco Giants,Seattle Mariners,0.0,0.5412844036697247,1,0.4,0,0.4,0,X
+21,T.Estrada o0.5 hits+runs+rbi,Rotowire,100.0,0.75,T.Estrada,1.5,0.75,San Francisco Giants,Seattle Mariners,0.0,0.6774193548387096,1,1.0,1,0.6,1,N
+22,M.Yastrzemski o0.5 hits+runs+rbi,Rotowire,100.0,0.75,M.Yastrzemski,1.5,0.75,San Francisco Giants,Seattle Mariners,0.0,0.5412844036697247,1,0.4,0,0.4,0,Y
 23,L.Raley o0.5 total bases,Rotowire Prizepicks,100.0,1.5,L.Raley,3.0,1.5,Seattle Mariners,San Francisco Giants,1.0,0.490566037735849,0,0.4,0,0.5,0,X
-24,M.Perez o4.5 strikeouts,Rotowire Prizepicks,100.0,1.5,M.Perez,3.0,1.5,San Diego Padres,New York Mets,1.0,0.75,1,0.75,1,0.75,1,X
-25,C.Taylor o0.5 hits+runs+rbi,Rotowire,100.0,0.75,C.Taylor,1.5,0.75,Los Angeles Dodgers,Tampa Bay Rays,1.0,0.4754098360655737,0,0.8,1,0.7,1,X
-26,T.Hernandez o1.5 hits+runs+rbi,Rotowire,100.0,0.75,T.Hernandez,1.5,0.75,Los Angeles Dodgers,Tampa Bay Rays,1.0,0.536,1,0.4,0,0.3,0,X
-27,D.Kremer o3.5 strikeouts,Rotowire,100.0,0.75,D.Kremer,1.5,0.75,Baltimore Orioles,Houston Astros,1.0,0.6111111111111112,1,0.6,1,0.5,0,X
-28,J.Quintana o3.5 strikeouts,Rotowire,100.0,0.75,J.Quintana,1.5,0.75,New York Mets,San Diego Padres,0.0,0.6923076923076923,1,0.6,1,0.7,1,X
-29,J.Quintana o3.5 strikeouts,Rotowire Prizepicks,100.0,1.5,J.Quintana,3.0,1.5,New York Mets,San Diego Padres,0.0,0.6923076923076923,1,0.6,1,0.7,1,X
+24,M.Perez o4.5 strikeouts,Rotowire Prizepicks,100.0,1.5,M.Perez,3.0,1.5,San Diego Padres,New York Mets,1.0,0.75,1,0.75,1,0.75,1,N
+25,C.Taylor o0.5 hits+runs+rbi,Rotowire,100.0,0.75,C.Taylor,1.5,0.75,Los Angeles Dodgers,Tampa Bay Rays,1.0,0.4754098360655737,0,0.8,1,0.7,1,N
+26,T.Hernandez o1.5 hits+runs+rbi,Rotowire,100.0,0.75,T.Hernandez,1.5,0.75,Los Angeles Dodgers,Tampa Bay Rays,1.0,0.536,1,0.4,0,0.3,0,N
+27,D.Kremer o3.5 strikeouts,Rotowire,100.0,0.75,D.Kremer,1.5,0.75,Baltimore Orioles,Houston Astros,1.0,0.6111111111111112,1,0.6,1,0.5,0,Y
+28,J.Quintana o3.5 strikeouts,Rotowire,100.0,0.75,J.Quintana,1.5,0.75,New York Mets,San Diego Padres,0.0,0.6923076923076923,1,0.6,1,0.7,1,N
+29,J.Quintana o3.5 strikeouts,Rotowire Prizepicks,100.0,1.5,J.Quintana,3.0,1.5,New York Mets,San Diego Padres,0.0,0.6923076923076923,1,0.6,1,0.7,1,N
 30,L.Raley o0.5 hits+runs+rbi,Rotowire,100.0,0.75,L.Raley,1.5,0.75,Seattle Mariners,San Francisco Giants,1.0,0.5471698113207547,1,0.8,1,0.7,1,X
-31,Y.Diaz o1.5 hits+runs+rbi,Rotowire,100.0,0.75,Y.Diaz,1.5,0.75,Houston Astros,Baltimore Orioles,0.0,0.559322033898305,1,0.8,1,0.7,1,X
-32,J.Holliday o0.5 hits+runs+rbi,Rotowire,100.0,0.75,J.Holliday,1.5,0.75,Baltimore Orioles,Houston Astros,1.0,0.6363636363636364,1,0.4,0,0.5,0,X
-33,B.Woo u5.5 strikeouts,Rotowire,100.0,0.75,B.Woo,1.5,0.75,Seattle Mariners,San Francisco Giants,1.0,0.6666666666666666,1,0.4,0,0.6,1,X
+31,Y.Diaz o1.5 hits+runs+rbi,Rotowire,100.0,0.75,Y.Diaz,1.5,0.75,Houston Astros,Baltimore Orioles,0.0,0.559322033898305,1,0.8,1,0.7,1,Y
+32,J.Holliday o0.5 hits+runs+rbi,Rotowire,100.0,0.75,J.Holliday,1.5,0.75,Baltimore Orioles,Houston Astros,1.0,0.6363636363636364,1,0.4,0,0.5,0,N
+33,B.Woo u5.5 strikeouts,Rotowire,100.0,0.75,B.Woo,1.5,0.75,Seattle Mariners,San Francisco Giants,1.0,0.6666666666666666,1,0.4,0,0.6,1,N
 34,Y.Kikuchi o6.5 strikeouts,Rotowire Prizepicks,100.0,1.5,Y.Kikuchi,3.0,1.5,Houston Astros,Baltimore Orioles,0.0,0.75,1,0.75,1,0.75,1,N
 35,D.Kremer o4.5 strikeouts,Rotowire Prizepicks,100.0,1.5,D.Kremer,3.0,1.5,Baltimore Orioles,Houston Astros,1.0,0.5,0,0.6,1,0.4,0,Y
-36,D.Kremer u4.5 strikeouts,Rotowire,100.0,0.75,D.Kremer,1.5,0.75,Baltimore Orioles,Houston Astros,1.0,0.5,0,0.4,0,0.6,1,X
-37,Y.Kikuchi u6.5 strikeouts,Rotowire,100.0,0.75,Y.Kikuchi,1.5,0.75,Houston Astros,Baltimore Orioles,0.0,0.25,0,0.25,0,0.25,0,X
+36,D.Kremer u4.5 strikeouts,Rotowire,100.0,0.75,D.Kremer,1.5,0.75,Baltimore Orioles,Houston Astros,1.0,0.5,0,0.4,0,0.6,1,N
+37,Y.Kikuchi u6.5 strikeouts,Rotowire,100.0,0.75,Y.Kikuchi,1.5,0.75,Houston Astros,Baltimore Orioles,0.0,0.25,0,0.25,0,0.25,0,Y

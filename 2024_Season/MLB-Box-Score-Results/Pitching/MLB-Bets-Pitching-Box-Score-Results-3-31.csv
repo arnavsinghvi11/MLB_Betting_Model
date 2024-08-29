@@ -1,31 +1,31 @@
-,Name,Team,Opponent,Hmcrt_adv,IP,H,R,ER,BB,SO,HR,ERA,Pit,Str,Ctct,StS,StL,GB,FB,GSc,WPA,aLI,cWPA,acLI,RE24,PO
-0,Reid Detmers,Los Angeles Angels,Baltimore Orioles,0, 5 ,2,1,1,3,7,0,1.80,88,52,24,15,13,6,4,63,0.173,1.01,0.09,0.86,1.5,15
-1,Tyler Wells,Baltimore Orioles,Los Angeles Angels,1, 6 ,5,4,3,0,7,1,4.50,82,61,32,14,15,7,9,55,-0.172,0.65,-0.10,0.65,-1.1,18
-2,Chris Sale,Atlanta Braves,Philadelphia Phillies,0, 5.1,5,2,2,2,7,1,3.38,83,56,29,12,15,4,8,55,0.079,1.46,0.05,1.53,0.6,16
-3,Ranger Suárez,Philadelphia Phillies,Atlanta Braves,1, 5 ,3,3,3,1,7,1,5.40,83,55,34,9,12,7,3,55,-0.076,0.76,-0.04,0.69,-0.4,15
-4,Jake Irvin,Washington Nationals,Cincinnati Reds,0, 5 ,7,3,3,2,4,0,5.40,80,46,26,5,15,6,9,43,-0.065,1.08,-0.04,1.06,-0.3,15
-5,Nick Martinez,Cincinnati Reds,Washington Nationals,1, 5 ,6,3,3,1,3,1,5.40,90,61,42,9,10,6,12,45,-0.065,1.21,-0.03,1.10,-0.3,15
-6,Bailey Falter,Pittsburgh Pirates,Miami Marlins,0, 4 ,5,6,6,3,2,2,13.50,67,40,23,6,11,4,11,27,-0.327,0.71,-0.21,0.76,-3.9,12
-7,Trevor Rogers,Miami Marlins,Pittsburgh Pirates,1, 5 ,7,4,4,4,6,0,7.20,97,58,30,13,15,7,9,39,-0.018,1.11,-0.01,0.92,-1.3,15
-8,Colin Rea,Milwaukee Brewers,New York Mets,0, 5 ,5,1,1,2,2,0,1.80,84,56,42,5,9,6,12,53,0.198,1.08,0.12,1.06,1.6,15
-9,Tylor Megill,New York Mets,Milwaukee Brewers,1, 4 ,3,2,1,3,4,0,2.25,78,44,22,11,10,2,7,51,-0.008,0.96,-0.00,0.83,0.1,12
-10,Kevin Gausman,Toronto Blue Jays,Tampa Bay Rays,0, 4.1,2,1,1,0,6,1,2.08,69,48,26,9,13,4,5,61,0.099,0.66,0.06,0.63,1.0,13
-11,Shawn Armstrong,Tampa Bay Rays,Toronto Blue Jays,1, 1 ,3,2,1,1,1,0,11.57,26,16,11,3,2,2,2,41,-0.152,1.40,-0.09,1.42,-1.5,3
-12,Jack Flaherty,Detroit Tigers,Chicago White Sox,0, 6 ,4,1,1,0,7,1,1.50,87,57,29,12,16,9,6,67,0.262,1.09,0.16,1.14,2.2,18
-13,Erick Fedde,Chicago White Sox,Detroit Tigers,1, 4.2,5,2,2,1,7,2,3.86,96,58,29,10,19,4,8,52,0.003,0.97,0.00,0.85,0.5,14
-14,Clarke Schmidt,New York Yankees,Houston Astros,0, 5.1,7,3,3,0,5,1,5.06,75,48,25,10,13,5,11,47,0.003,1.10,0.00,1.17,0.4,16
-15,J.P. France,Houston Astros,New York Yankees,1, 5.2,6,3,3,1,5,0,4.76,94,54,26,12,16,3,15,49,-0.077,1.04,-0.04,0.81,-0.0,17
-16,Bailey Ober,Minnesota Twins,Kansas City Royals,0, 1.1,9,8,8,1,1,3,54.00,53,35,22,1,12,3,9,4,-0.371,0.68,-0.23,0.71,-6.4,4
-17,Brady Singer,Kansas City Royals,Minnesota Twins,1, 7 ,3,0,0,1,10,0,0.00,98,64,27,18,19,11,3,80,0.104,0.25,0.05,0.21,3.6,21
-18,Jordan Wicks,Chicago Cubs,Texas Rangers,0, 4 ,5,5,2,3,6,0,4.50,85,51,27,17,7,6,7,41,-0.305,1.32,-0.14,1.04,-2.9,12
-19,Jon Gray,Texas Rangers,Chicago Cubs,1, 3.2,7,5,4,3,2,1,9.82,67,34,22,3,9,6,10,28,-0.331,0.83,-0.19,0.81,-3.3,11
-20,Carlos Carrasco,Cleveland Guardians,Oakland Athletics,0, 5 ,6,3,3,1,3,0,5.40,79,47,26,11,10,7,9,45,-0.142,0.65,-0.09,0.68,-0.7,15
-21,Paul Blackburn,Oakland Athletics,Cleveland Guardians,1, 7 ,3,0,0,1,3,0,0.00,88,55,32,8,15,11,10,73,0.321,0.89,0.16,0.73,3.3,21
-22,Ryan Feltner,Colorado Rockies,Arizona Diamondbacks,0, 5 ,5,5,3,2,4,1,5.40,86,60,37,11,12,5,10,43,-0.254,0.66,-0.15,0.64,-2.4,15
-23,Brandon Pfaadt,Arizona Diamondbacks,Colorado Rockies,1, 5 ,5,1,1,0,6,0,1.80,87,61,39,7,15,8,5,59,0.162,1.28,0.10,1.27,1.6,15
-24,Daulton Jefferies,San Francisco Giants,San Diego Padres,0, 2 ,9,9,5,0,1,2,22.50,55,37,28,2,7,7,8,11,-0.412,0.68,-0.26,0.72,-8.0,6
-25,Michael King,San Diego Padres,San Francisco Giants,1, 4 ,2,2,2,7,6,1,6.14,88,47,22,4,21,2,6,49,0.080,0.41,0.05,0.39,-0.0,12
-26,Garrett Whitlock,Boston Red Sox,Seattle Mariners,0, 5 ,3,1,1,0,8,0,1.80,81,51,29,7,15,6,4,65,0.141,1.15,0.07,1.02,1.4,15
-27,Bryce Miller,Seattle Mariners,Boston Red Sox,1, 5 ,6,4,4,2,6,2,7.20,91,53,26,16,11,4,10,43,-0.230,0.94,-0.14,0.93,-1.6,15
-28,Steven Matz,St Louis Cardinals,Los Angeles Dodgers,0, 5.1,5,2,2,2,3,0,3.38,81,51,29,10,12,6,10,51,0.217,1.03,0.12,0.92,1.5,16
-29,Gavin Stone,Los Angeles Dodgers,St. Louis Cardinals,1, 5 ,7,3,3,1,6,0,5.40,85,55,30,16,9,7,9,46,0.002,1.06,0.00,1.04,0.3,15
+Name,Team,Opponent,Hmcrt_adv,IP,H,R,ER,BB,SO,HR,ERA,Pit,Str,Ctct,StS,StL,GB,FB,GSc,WPA,aLI,cWPA,acLI,RE24,PO
+Reid Detmers,Los Angeles Angels,Baltimore Orioles,0,5.0,2,1,1,3,7,0,1.8,88,52,24,15,13,6,4,63,0.173,1.01,0.09,0.86,1.5,15
+Tyler Wells,Baltimore Orioles,Los Angeles Angels,1,6.0,5,4,3,0,7,1,4.5,82,61,32,14,15,7,9,55,-0.172,0.65,-0.1,0.65,-1.1,18
+Chris Sale,Atlanta Braves,Philadelphia Phillies,0,5.1,5,2,2,2,7,1,3.38,83,56,29,12,15,4,8,55,0.079,1.46,0.05,1.53,0.6,16
+Ranger Suárez,Philadelphia Phillies,Atlanta Braves,1,5.0,3,3,3,1,7,1,5.4,83,55,34,9,12,7,3,55,-0.076,0.76,-0.04,0.69,-0.4,15
+Jake Irvin,Washington Nationals,Cincinnati Reds,0,5.0,7,3,3,2,4,0,5.4,80,46,26,5,15,6,9,43,-0.065,1.08,-0.04,1.06,-0.3,15
+Nick Martinez,Cincinnati Reds,Washington Nationals,1,5.0,6,3,3,1,3,1,5.4,90,61,42,9,10,6,12,45,-0.065,1.21,-0.03,1.1,-0.3,15
+Bailey Falter,Pittsburgh Pirates,Miami Marlins,0,4.0,5,6,6,3,2,2,13.5,67,40,23,6,11,4,11,27,-0.327,0.71,-0.21,0.76,-3.9,12
+Trevor Rogers,Miami Marlins,Pittsburgh Pirates,1,5.0,7,4,4,4,6,0,7.2,97,58,30,13,15,7,9,39,-0.018,1.11,-0.01,0.92,-1.3,15
+Colin Rea,Milwaukee Brewers,New York Mets,0,5.0,5,1,1,2,2,0,1.8,84,56,42,5,9,6,12,53,0.198,1.08,0.12,1.06,1.6,15
+Tylor Megill,New York Mets,Milwaukee Brewers,1,4.0,3,2,1,3,4,0,2.25,78,44,22,11,10,2,7,51,-0.008,0.96,-0.0,0.83,0.1,12
+Kevin Gausman,Toronto Blue Jays,Tampa Bay Rays,0,4.1,2,1,1,0,6,1,2.08,69,48,26,9,13,4,5,61,0.099,0.66,0.06,0.63,1.0,13
+Shawn Armstrong,Tampa Bay Rays,Toronto Blue Jays,1,1.0,3,2,1,1,1,0,11.57,26,16,11,3,2,2,2,41,-0.152,1.4,-0.09,1.42,-1.5,3
+Jack Flaherty,Detroit Tigers,Chicago White Sox,0,6.0,4,1,1,0,7,1,1.5,87,57,29,12,16,9,6,67,0.262,1.09,0.16,1.14,2.2,18
+Erick Fedde,Chicago White Sox,Detroit Tigers,1,4.2,5,2,2,1,7,2,3.86,96,58,29,10,19,4,8,52,0.003,0.97,0.0,0.85,0.5,14
+Clarke Schmidt,New York Yankees,Houston Astros,0,5.1,7,3,3,0,5,1,5.06,75,48,25,10,13,5,11,47,0.003,1.1,0.0,1.17,0.4,16
+J.P. France,Houston Astros,New York Yankees,1,5.2,6,3,3,1,5,0,4.76,94,54,26,12,16,3,15,49,-0.077,1.04,-0.04,0.81,-0.0,17
+Bailey Ober,Minnesota Twins,Kansas City Royals,0,1.1,9,8,8,1,1,3,54.0,53,35,22,1,12,3,9,4,-0.371,0.68,-0.23,0.71,-6.4,4
+Brady Singer,Kansas City Royals,Minnesota Twins,1,7.0,3,0,0,1,10,0,0.0,98,64,27,18,19,11,3,80,0.104,0.25,0.05,0.21,3.6,21
+Jordan Wicks,Chicago Cubs,Texas Rangers,0,4.0,5,5,2,3,6,0,4.5,85,51,27,17,7,6,7,41,-0.305,1.32,-0.14,1.04,-2.9,12
+Jon Gray,Texas Rangers,Chicago Cubs,1,3.2,7,5,4,3,2,1,9.82,67,34,22,3,9,6,10,28,-0.331,0.83,-0.19,0.81,-3.3,11
+Carlos Carrasco,Cleveland Guardians,Oakland Athletics,0,5.0,6,3,3,1,3,0,5.4,79,47,26,11,10,7,9,45,-0.142,0.65,-0.09,0.68,-0.7,15
+Paul Blackburn,Oakland Athletics,Cleveland Guardians,1,7.0,3,0,0,1,3,0,0.0,88,55,32,8,15,11,10,73,0.321,0.89,0.16,0.73,3.3,21
+Ryan Feltner,Colorado Rockies,Arizona Diamondbacks,0,5.0,5,5,3,2,4,1,5.4,86,60,37,11,12,5,10,43,-0.254,0.66,-0.15,0.64,-2.4,15
+Brandon Pfaadt,Arizona Diamondbacks,Colorado Rockies,1,5.0,5,1,1,0,6,0,1.8,87,61,39,7,15,8,5,59,0.162,1.28,0.1,1.27,1.6,15
+Daulton Jefferies,San Francisco Giants,San Diego Padres,0,2.0,9,9,5,0,1,2,22.5,55,37,28,2,7,7,8,11,-0.412,0.68,-0.26,0.72,-8.0,6
+Michael King,San Diego Padres,San Francisco Giants,1,4.0,2,2,2,7,6,1,6.14,88,47,22,4,21,2,6,49,0.08,0.41,0.05,0.39,-0.0,12
+Garrett Whitlock,Boston Red Sox,Seattle Mariners,0,5.0,3,1,1,0,8,0,1.8,81,51,29,7,15,6,4,65,0.141,1.15,0.07,1.02,1.4,15
+Bryce Miller,Seattle Mariners,Boston Red Sox,1,5.0,6,4,4,2,6,2,7.2,91,53,26,16,11,4,10,43,-0.23,0.94,-0.14,0.93,-1.6,15
+Steven Matz,St Louis Cardinals,Los Angeles Dodgers,0,5.1,5,2,2,2,3,0,3.38,81,51,29,10,12,6,10,51,0.217,1.03,0.12,0.92,1.5,16
+Gavin Stone,Los Angeles Dodgers,St. Louis Cardinals,1,5.0,7,3,3,1,6,0,5.4,85,55,30,16,9,7,9,46,0.002,1.06,0.0,1.04,0.3,15

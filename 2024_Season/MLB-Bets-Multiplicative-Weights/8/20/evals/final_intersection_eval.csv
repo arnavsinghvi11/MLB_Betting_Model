@@ -3,3 +3,13 @@ J.Soto o0.5 HR,gneiffer07,480,1.0,5.8,New York Yankees,J.Soto,Cleveland Guardian
 J.Bart o1.5 Hits + Runs + RBIs,therocketplays,105,1.0,2.05,Pittsburgh Pirates,J.Bart,Texas Rangers,0.0,1.0499999999999998,N,0.490566037735849,0.0,0.8,1.0,0.7,1.0
 C.Seager o1.5 Total Bases,theprophunter0_,-105,1.58,3.084761904761905,Texas Rangers,C.Seager,Pittsburgh Pirates,1.0,1.5047619047619047,N,0.4196428571428571,0.0,0.4,0.0,0.5,0.0
 E.Cabrera u15.5 Outs,PlayerPropSavant,-155,1.0,1.6451612903225803,Miami Marlins,E.Cabrera,Arizona Diamondbacks,1.0,0.6451612903225805,N,0.8333333333333334,1.0,0.8,1.0,0.9,1.0
+T.Turner o1.5 hits+runs+rbi,Rotowire,100,0.75,1.5,Philadelphia Phillies,T.Turner,Atlanta Braves,0.0,N,0.6144578313253012,1.0,0.8,1.0,0.7,1.0
+J.Kelenic o0.5 hits+runs+rbi,Rotowire,100,0.75,1.5,Atlanta Braves,J.Kelenic,Philadelphia Phillies,1.0,Y,0.6481481481481481,1.0,1.0,1.0,0.7,1.0
+R.Laureano o0.5 hits+runs+rbi,Rotowire,100,0.75,1.5,Atlanta Braves,R.Laureano,Philadelphia Phillies,1.0,Y,0.6896551724137931,1.0,0.8,1.0,0.8,1.0
+G.Mitchell o0.5 hits+runs+rbi,Rotowire,100,0.75,1.5,Milwaukee Brewers,G.Mitchell,St Louis Cardinals,0.0,Y,0.7297297297297297,1.0,1.0,1.0,0.6,1.0
+C.Spiers u4.5 strikeouts,Rotowire,100,0.75,1.5,Cincinnati Reds,C.Spiers,Toronto Blue Jays,0.0,0.75,Y,0.375,0,0.4,0,0.375,0
+D.Herz u6.5 strikeouts,Rotowire,100,0.75,1.5,Washington Nationals,D.Herz,Colorado Rockies,1.0,0.75,N,0.7692307692307693,1,0.8,1,0.8,1
+M.Boyd o4.5 strikeouts,Rotowire,100,0.75,1.5,Cleveland Guardians,M.Boyd,New York Yankees,0.0,0.75,N,1.0,1,1.0,1,1.0,1
+J.Berrios u5.5 strikeouts,Rotowire,100,0.75,1.5,Toronto Blue Jays,J.Berrios,Cincinnati Reds,1.0,0.75,N,0.6153846153846154,1,0.6,1,0.6,1
+R.Blanco u5.5 strikeouts,Rotowire Prizepicks,100,1.5,3.0,Houston Astros,R.Blanco,Boston Red Sox,1.0,1.5,N,0.5217391304347826,1,0.6,1,0.7,1
+Z.Wheeler u6.5 strikeouts,Rotowire Prizepicks,100,1.5,3.0,Philadelphia Phillies,Z.Wheeler,Atlanta Braves,0.0,1.5,N,0.48,0,0.4,0,0.3,0

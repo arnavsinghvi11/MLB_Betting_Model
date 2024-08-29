@@ -19,3 +19,23 @@ S.Ohtani o1.5 Total Bases,theprophunter0_,-110,1.1,2.1,Los Angeles Dodgers,S.Oht
 V.Guerrero o1.5 Total Bases,theprophunter0_,-105,1.05,2.05,Toronto Blue Jays,V.Guerrero,Los Angeles Angels,1.0,0.9999999999999998,N,0.0,0.0,0.0,0.0,0.0,0.0
 J.Burger o1.5 Total Bases,theprophunter0_,110,1.0,2.1,Miami Marlins,J.Burger,Chicago Cubs,1.0,1.1,Y,0.4380952380952381,0.0,0.4,0.0,0.6,1.0
 J.Soto o1.5 Total Bases,theprophunter0_,110,0.95,1.995,New York Yankees,J.Soto,Colorado Rockies,1.0,1.045,Y,0.4285714285714285,0.0,0.4,0.0,0.4,0.0
+M.Haniger o0.5 total bases,Rotowire Prizepicks,100,1.5,3.0,Seattle Mariners,M.Haniger,San Francisco Giants,1.0,1.5,N,0.5660377358490566,1,0.6,1,0.6,1
+K.Allard o2.5 strikeouts,Rotowire,100,0.75,1.5,Philadelphia Phillies,K.Allard,Kansas City Royals,0.0,0.75,Y,0.5,0,0.5,0,0.5,0
+J.Cannon o4.5 strikeouts,Rotowire Prizepicks,100,1.5,3.0,Chicago White Sox,J.Cannon,Detroit Tigers,1.0,1.5,N,0.2857142857142857,0,0.2,0,0.1,0
+T.Houck o4.5 strikeouts,Rotowire Prizepicks,100,1.5,3.0,Boston Red Sox,T.Houck,Arizona Diamondbacks,1.0,1.5,N,0.64,1,0.4,0,0.4,0
+M.Perez o4.5 strikeouts,Rotowire Prizepicks,100,1.5,3.0,San Diego Padres,M.Perez,New York Mets,1.0,1.5,N,0.75,1,0.75,1,0.75,1
+D.Kremer o3.5 strikeouts,Rotowire,100,0.75,1.5,Baltimore Orioles,D.Kremer,Houston Astros,1.0,0.75,Y,0.6111111111111112,1,0.6,1,0.5,0
+D.Kremer u4.5 strikeouts,Rotowire,100,0.75,1.5,Baltimore Orioles,D.Kremer,Houston Astros,1.0,0.75,N,0.5,0,0.4,0,0.6,1
+J.Quintana o3.5 strikeouts,Rotowire,100,0.75,1.5,New York Mets,J.Quintana,San Diego Padres,0.0,0.75,N,0.6923076923076923,1,0.6,1,0.7,1
+J.Quintana o3.5 strikeouts,Rotowire Prizepicks,100,1.5,3.0,New York Mets,J.Quintana,San Diego Padres,0.0,1.5,N,0.6923076923076923,1,0.6,1,0.7,1
+R.Ray u7.5 strikeouts,Rotowire,100,0.75,1.5,San Francisco Giants,R.Ray,Seattle Mariners,0.0,0.75,Y,0.6,1,0.6,1,0.6,1
+B.Woo u5.5 strikeouts,Rotowire,100,0.75,1.5,Seattle Mariners,B.Woo,San Francisco Giants,1.0,0.75,N,0.6666666666666666,1,0.4,0,0.6,1
+Y.Kikuchi u6.5 strikeouts,Rotowire,100,0.75,1.5,Houston Astros,Y.Kikuchi,Baltimore Orioles,0.0,0.75,Y,0.25,0,0.25,0,0.25,0
+J.Loperfido o0.5 hits+runs+rbi,Rotowire,100,0.75,1.5,Toronto Blue Jays,J.Loperfido,Los Angeles Angels,1.0,0.75,Y,0.6470588235294118,1,0.8,1,0.7,1
+J.Ramirez o1.5 hits+runs+rbi,Rotowire,100,0.75,1.5,Cleveland Guardians,J.Ramirez,Texas Rangers,1.0,0.75,Y,0.608,1,0.4,0,0.4,0
+T.Estrada o0.5 hits+runs+rbi,Rotowire,100,0.75,1.5,San Francisco Giants,T.Estrada,Seattle Mariners,0.0,0.75,N,0.6774193548387096,1,1.0,1,0.6,1
+M.Yastrzemski o0.5 hits+runs+rbi,Rotowire,100,0.75,1.5,San Francisco Giants,M.Yastrzemski,Seattle Mariners,0.0,0.75,Y,0.5412844036697247,1,0.4,0,0.4,0
+Y.Diaz o1.5 hits+runs+rbi,Rotowire,100,0.75,1.5,Houston Astros,Y.Diaz,Baltimore Orioles,0.0,0.75,Y,0.559322033898305,1,0.8,1,0.7,1
+C.Taylor o0.5 hits+runs+rbi,Rotowire,100,0.75,1.5,Los Angeles Dodgers,C.Taylor,Tampa Bay Rays,1.0,0.75,N,0.4754098360655737,0,0.8,1,0.7,1
+T.Hernandez o1.5 hits+runs+rbi,Rotowire,100,0.75,1.5,Los Angeles Dodgers,T.Hernandez,Tampa Bay Rays,1.0,0.75,N,0.536,1,0.4,0,0.3,0
+J.Holliday o0.5 hits+runs+rbi,Rotowire,100,0.75,1.5,Baltimore Orioles,J.Holliday,Houston Astros,1.0,0.75,N,0.6363636363636364,1,0.4,0,0.5,0

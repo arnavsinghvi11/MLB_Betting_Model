@@ -36,3 +36,26 @@
 34,S.Baz u5.5 strikeouts,Rotowire,100,0.75,S.Baz,1.5,0.75,Tampa Bay Rays,Oakland Athletics,0.0,0.5714285714285714,1.0,0.6,1.0,0.5714285714285714,1.0,Y
 35,B.Ober o4.5 strikeouts,Rotowire,100,0.75,B.Ober,1.5,0.75,Minnesota Twins,San Diego Padres,0.0,0.6521739130434783,1.0,0.6,1.0,0.8,1.0,Y
 36,R.Ray o6.5 strikeouts,Rotowire,100,0.75,R.Ray,1.5,0.75,San Francisco Giants,Chicago White Sox,1.0,0.5,0.0,0.5,0.0,0.5,0.0,Y
+37,T.Turner o1.5 hits+runs+rbi,Rotowire,100,0.75,T.Turner,1.5,0.75,Philadelphia Phillies,Atlanta Braves,0,0.6144578313253012,1,0.8,1,0.7,1,N
+38,R.Lopez o4.5 strikeouts,Rotowire,100,0.75,R.Lopez,1.5,0.75,Atlanta Braves,Philadelphia Phillies,1,0.7368421052631579,1,0.6,1,0.8,1,Y
+39,C.Spiers u4.5 strikeouts,Rotowire,100,0.75,C.Spiers,1.5,0.75,Cincinnati Reds,Toronto Blue Jays,0,0.375,0,0.4,0,0.375,0,Y
+40,D.Herz u6.5 strikeouts,Rotowire,100,0.75,D.Herz,1.5,0.75,Washington Nationals,Colorado Rockies,1,0.7692307692307693,1,0.8,1,0.8,1,N
+41,M.Boyd o4.5 strikeouts,Rotowire,100,0.75,M.Boyd,1.5,0.75,Cleveland Guardians,New York Yankees,0,1.0,1,1.0,1,1.0,1,N
+42,J.Kelenic o0.5 hits+runs+rbi,Rotowire,100,0.75,J.Kelenic,1.5,0.75,Atlanta Braves,Philadelphia Phillies,1,0.6481481481481481,1,1.0,1,0.7,1,Y
+43,C.Spiers o4.5 strikeouts,Rotowire Prizepicks,100,1.5,C.Spiers,3.0,1.5,Cincinnati Reds,Toronto Blue Jays,0,0.625,1,0.6,1,0.625,1,N
+44,R.Blanco u5.5 strikeouts,Rotowire Prizepicks,100,1.5,R.Blanco,3.0,1.5,Houston Astros,Boston Red Sox,1,0.5217391304347826,1,0.6,1,0.7,1,N
+45,R.Laureano o0.5 hits+runs+rbi,Rotowire,100,0.75,R.Laureano,1.5,0.75,Atlanta Braves,Philadelphia Phillies,1,0.6896551724137931,1,0.8,1,0.8,1,Y
+46,D.Herz o5.5 strikeouts,Rotowire,100,0.75,D.Herz,1.5,0.75,Washington Nationals,Colorado Rockies,1,0.3076923076923077,0,0.4,0,0.3,0,Y
+47,R.Blanco u5.5 strikeouts,Rotowire,100,0.75,R.Blanco,1.5,0.75,Houston Astros,Boston Red Sox,1,0.5217391304347826,1,0.6,1,0.7,1,N
+48,R.Lopez o4.5 strikeouts,Rotowire Prizepicks,100,1.5,R.Lopez,3.0,1.5,Atlanta Braves,Philadelphia Phillies,1,0.7368421052631579,1,0.6,1,0.8,1,Y
+49,G.Mitchell o0.5 hits+runs+rbi,Rotowire,100,0.75,G.Mitchell,1.5,0.75,Milwaukee Brewers,St Louis Cardinals,0,0.7297297297297297,1,1.0,1,0.6,1,Y
+50,Z.Wheeler u6.5 strikeouts,Rotowire Prizepicks,100,1.5,Z.Wheeler,3.0,1.5,Philadelphia Phillies,Atlanta Braves,0,0.48,0,0.4,0,0.3,0,N
+51,J.Berrios u5.5 strikeouts,Rotowire,100,0.75,J.Berrios,1.5,0.75,Toronto Blue Jays,Cincinnati Reds,1,0.6153846153846154,1,0.6,1,0.6,1,N
+52,A.Faedo u1.5 strikeouts,Rotowire,100,0.75,A.Faedo,1.5,0.75,Detroit Tigers,Chicago Cubs,0,0.4,0,0.4,0,0.4,0,Y
+53,C.Ragans o6.5 strikeouts,Rotowire,100,0.75,C.Ragans,1.5,0.75,Kansas City Royals,Los Angeles Angels,1,0.64,1,0.6,1,0.7,1,Y
+54,S.Baz u16.5 outs,Rotowire Prizepicks,100,1.5,S.Baz,3.0,1.5,Tampa Bay Rays,Oakland Athletics,0.0,0.5714285714285714,1,0.6,1,0.5714285714285714,1,N
+55,M.Perez o3.5 strikeouts,Rotowire,100,0.75,M.Perez,1.5,0.75,San Diego Padres,Minnesota Twins,1.0,1.0,1,1.0,1,1.0,1,N
+56,L.Gil o5.5 strikeouts,Rotowire Prizepicks,100,1.5,L.Gil,3.0,1.5,New York Yankees,Cleveland Guardians,1.0,0.6666666666666666,1,0.8,1,0.6,1,N
+57,T.Anderson o3.5 strikeouts,Rotowire,100,0.75,T.Anderson,1.5,0.75,Los Angeles Angels,Kansas City Royals,0.0,0.7083333333333334,1,0.8,1,0.7,1,N
+58,E.Cabrera u4.5 strikeouts,Rotowire,100,0.75,E.Cabrera,1.5,0.75,Miami Marlins,Arizona Diamondbacks,1.0,0.5,0,0.6,1,0.6,1,Y
+59,J.Estes u4.5 strikeouts,Rotowire Prizepicks,100,1.5,J.Estes,3.0,1.5,Oakland Athletics,Tampa Bay Rays,1.0,0.5625,1,0.6,1,0.7,1,N

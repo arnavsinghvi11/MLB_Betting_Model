@@ -28,3 +28,24 @@ A.Judge o1.5 Total Bases,theprophunter0_,-120,1.2,2.2,New York Yankees,A.Judge,C
 J.Burger o1.5 Total Bases,theprophunter0_,-115,1.15,2.1499999999999995,Miami Marlins,J.Burger,Arizona Diamondbacks,1.0,0.9999999999999996,Y,0.4411764705882353,0.0,0.6,1.0,0.8,1.0
 J.Burger o3.5 Total Bases,theprophunter0_,230,0.43,1.4189999999999998,Miami Marlins,J.Burger,Arizona Diamondbacks,1.0,0.989,Y,0.2352941176470588,0.0,0.2,0.0,0.5,0.0
 J.Pederson o1.5 Total Bases,theprophunter0_,110,1.0,2.1,Arizona Diamondbacks,J.Pederson,Miami Marlins,0.0,1.1,N,0.3653846153846153,0.0,0.4,0.0,0.3,0.0
+M.Waldron u5.5 strikeouts,Rotowire,100,0.75,1.5,San Diego Padres,M.Waldron,Minnesota Twins,1.0,0.75,N,0.5416666666666666,1.0,0.4,0.0,0.4,0.0
+K.Gibson o4.5 strikeouts,Rotowire,100,0.75,1.5,St Louis Cardinals,K.Gibson,Milwaukee Brewers,1.0,0.75,Y,0.6086956521739131,1.0,0.8,1.0,0.7,1.0
+C.Criswell o2.5 strikeouts,Rotowire,100,0.75,1.5,Boston Red Sox,C.Criswell,Houston Astros,0.0,0.75,Y,0.7857142857142857,1.0,0.6,1.0,0.7,1.0
+N.Martinez u4.5 strikeouts,Rotowire,100,0.75,1.5,Cincinnati Reds,N.Martinez,Toronto Blue Jays,0.0,0.75,Y,0.625,1.0,0.6,1.0,0.625,1.0
+A.Heaney u5.5 strikeouts,Rotowire Prizepicks,100,1.5,3.0,Texas Rangers,A.Heaney,Pittsburgh Pirates,1.0,1.5,N,0.6666666666666666,1.0,0.8,1.0,0.7,1.0
+M.Lorenzen u4.5 strikeouts,Rotowire,100,0.75,1.5,Kansas City Royals,M.Lorenzen,Los Angeles Angels,1.0,0.75,N,0.6666666666666666,1.0,0.6666666666666666,1.0,0.6666666666666666,1.0
+N.Cortes o4.5 strikeouts,Rotowire,100,0.75,1.5,New York Yankees,N.Cortes,Cleveland Guardians,1.0,0.75,N,0.68,1.0,0.6,1.0,0.7,1.0
+L.Webb u6.5 strikeouts,Rotowire,100,0.75,1.5,San Francisco Giants,L.Webb,Chicago White Sox,1.0,0.75,Y,0.8461538461538461,1.0,0.6,1.0,0.7,1.0
+R.Munoz o3.5 strikeouts,Rotowire,100,0.75,1.5,Miami Marlins,R.Munoz,Arizona Diamondbacks,1.0,0.75,N,0.6428571428571429,1.0,0.4,0.0,0.6,1.0
+M.Parker u6.5 strikeouts,Rotowire,100,0.75,1.5,Washington Nationals,M.Parker,Colorado Rockies,1.0,0.75,Y,0.8571428571428571,1.0,1.0,1.0,0.9,1.0
+M.Parker u5.5 strikeouts,Rotowire,100,0.75,1.5,Washington Nationals,M.Parker,Colorado Rockies,1.0,0.75,N,0.7142857142857143,1.0,0.8,1.0,0.7,1.0
+M.Parker u5.5 strikeouts,Rotowire Prizepicks,100,1.5,3.0,Washington Nationals,M.Parker,Colorado Rockies,1.0,1.5,N,0.7142857142857143,1.0,0.8,1.0,0.7,1.0
+J.Montgomery u4.5 strikeouts,Rotowire Prizepicks,100,1.5,3.0,Arizona Diamondbacks,J.Montgomery,Miami Marlins,0.0,1.5,N,0.7894736842105263,1.0,0.8,1.0,0.7,1.0
+J.Montgomery u17.5 outs,Rotowire Prizepicks,100,1.5,3.0,Arizona Diamondbacks,J.Montgomery,Miami Marlins,0.0,1.5,Y,0.631578947368421,1.0,0.8,1.0,0.8,1.0
+N.Martinez u16.5 outs,Rotowire Prizepicks,100,1.5,3.0,Cincinnati Reds,N.Martinez,Toronto Blue Jays,0.0,1.5,Y,0.625,1.0,0.6,1.0,0.625,1.0
+L.Gurriel o1.5 hits+runs+rbi,Rotowire,100,0.75,1.5,Arizona Diamondbacks,L.Gurriel,Miami Marlins,0.0,0.75,Y,0.6,1.0,0.8,1.0,0.8,1.0
+J.Pena o1.5 hits+runs+rbi,Rotowire,100,0.75,1.5,Houston Astros,J.Pena,Boston Red Sox,1.0,0.75,Y,0.5447154471544715,1.0,0.6,1.0,0.7,1.0
+M.Massey o1.5 hits+runs+rbi,Rotowire,100,0.75,1.5,Kansas City Royals,M.Massey,Los Angeles Angels,1.0,0.75,N,0.5384615384615384,1.0,0.6,1.0,0.7,1.0
+L.Gilbert u5.5 hits allowed,Rotowire Prizepicks,100,1.5,3.0,Seattle Mariners,L.Gilbert,Los Angeles Dodgers,0.0,1.5,N,0.7692307692307693,1.0,0.8,1.0,0.8,1.0
+R.Munoz u4.5 ks,Jason Radowitz,-164,1.0,1.6097560975609757,Miami Marlins,R.Munoz,Arizona Diamondbacks,1.0,0.6097560975609757,Y,0.5,0.0,0.6,1.0,0.6,1.0
+T.Gordon u3.5 ks,Jason Radowitz,112,1.0,2.12,Colorado Rockies,T.Gordon,Washington Nationals,0.0,1.12,Y,0.3333333333333333,0.0,0.4,0.0,0.3333333333333333,0.0

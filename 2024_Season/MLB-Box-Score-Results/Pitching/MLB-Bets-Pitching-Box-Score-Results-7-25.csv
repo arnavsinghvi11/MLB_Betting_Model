@@ -1,17 +1,17 @@
-,Name,Team,Opponent,Hmcrt_adv,IP,H,R,ER,BB,SO,HR,ERA,Pit,Str,Ctct,StS,StL,GB,FB,GSc,WPA,aLI,cWPA,acLI,RE24,PO,Date
-0,D.Cease,San Diego Padres,Washington Nationals,0, 9 ,0,0,0,3,9,0,3.50,114,71,40,16,15,12,4,93,0.426,0.77,0.29,0.89,4.3,27,725
-1,P.Corbin,Washington Nationals,San Diego Padres,1, 7 ,4,3,3,3,7,0,5.26,109,71,43,7,21,10,7,61,-0.095,0.65,-0.01,0.17,0.4,21,725
-2,C.Burnes,Baltimore Orioles,Miami Marlins,0, 7.1,6,3,3,1,5,1,2.45,96,66,36,17,13,11,12,58,0.176,0.49,0.13,0.60,1.7,22,725
-3,R.Munoz,Miami Marlins,Baltimore Orioles,1, 5 ,6,6,6,2,3,3,5.61,91,54,33,6,15,6,12,32,-0.294,0.58,0.00,0.00,-3.3,15,725
-4,T.Holton,Detroit Tigers,Cleveland Guardians,0, 2 ,2,0,0,0,2,0,2.97,36,26,11,4,11,3,3,54,0.092,0.86,0.03,0.38,1.0,6,725
-5,G.Williams,Cleveland Guardians,Detroit Tigers,1, 6 ,6,3,3,2,9,1,4.50,105,76,43,15,18,5,9,55,-0.108,0.74,-0.07,0.77,-0.1,18,725
-6,J.Cannon,Chicago White Sox,Texas Rangers,0, 6 ,8,2,2,2,1,1,4.43,95,59,41,8,10,6,15,47,0.031,1.12,0.00,0.00,0.9,18,725
-7,M.Scherzer,Texas Rangers,Chicago White Sox,1, 6 ,3,1,1,1,9,0,3.57,85,62,29,20,13,5,6,70,0.232,1.12,0.10,0.79,1.9,18,725
-8,T.Bradley,Tampa Bay Rays,Toronto Blue Jays,0, 6 ,2,0,0,1,7,0,2.43,83,56,30,11,15,7,6,74,0.260,0.86,0.09,0.51,2.9,18,725
-9,C.Bassitt,Toronto Blue Jays,Tampa Bay Rays,1, 5 ,5,3,3,1,6,1,3.78,97,61,31,12,18,3,11,50,-0.119,0.68,-0.01,0.09,-0.6,15,725
-10,L.Webb,San Francisco Giants,Los Angeles Dodgers,0, 5 ,9,4,4,3,4,0,3.72,89,57,34,9,14,10,9,34,-0.249,1.21,-0.07,0.53,-1.5,15,725
-11,C.Kershaw,Los Angeles Dodgers,San Francisco Giants,1, 4 ,6,2,2,2,6,0,4.50,72,47,22,15,10,2,10,46,-0.034,1.05,-0.02,1.24,-0.0,12,725
-12,C.Sale,Atlanta Braves,New York Mets,0, 7.1,2,2,2,1,9,1,2.68,94,66,33,14,19,8,5,74,0.196,0.89,0.16,1.17,1.6,22,725
-13,L.Severino,New York Mets,Atlanta Braves,1, 5 ,7,2,2,2,6,0,3.58,95,57,37,9,11,7,8,49,-0.140,1.11,-0.10,1.31,-0.6,15,725
-14,R.Stripling,Oakland Athletics,Los Angeles Angels,0, 5.2,6,5,5,2,3,0,6.02,77,48,31,3,14,8,11,38,-0.198,1.14,-0.00,0.01,-2.3,17,725
-15,K.Rosenberg,Los Angeles Angels,Oakland Athletics,1, 3.1,6,6,6,1,1,3,8.78,65,41,26,6,9,5,9,24,-0.469,0.91,-0.04,0.13,-4.3,10,725
+Name,Team,Opponent,Hmcrt_adv,IP,H,R,ER,BB,SO,HR,ERA,Pit,Str,Ctct,StS,StL,GB,FB,GSc,WPA,aLI,cWPA,acLI,RE24,PO,Date
+D.Cease,San Diego Padres,Washington Nationals,0,9.0,0,0,0,3,9,0,3.5,114,71,40,16,15,12,4,93,0.426,0.77,0.29,0.89,4.3,27,725
+P.Corbin,Washington Nationals,San Diego Padres,1,7.0,4,3,3,3,7,0,5.26,109,71,43,7,21,10,7,61,-0.095,0.65,-0.01,0.17,0.4,21,725
+C.Burnes,Baltimore Orioles,Miami Marlins,0,7.1,6,3,3,1,5,1,2.45,96,66,36,17,13,11,12,58,0.176,0.49,0.13,0.6,1.7,22,725
+R.Munoz,Miami Marlins,Baltimore Orioles,1,5.0,6,6,6,2,3,3,5.61,91,54,33,6,15,6,12,32,-0.294,0.58,0.0,0.0,-3.3,15,725
+T.Holton,Detroit Tigers,Cleveland Guardians,0,2.0,2,0,0,0,2,0,2.97,36,26,11,4,11,3,3,54,0.092,0.86,0.03,0.38,1.0,6,725
+G.Williams,Cleveland Guardians,Detroit Tigers,1,6.0,6,3,3,2,9,1,4.5,105,76,43,15,18,5,9,55,-0.108,0.74,-0.07,0.77,-0.1,18,725
+J.Cannon,Chicago White Sox,Texas Rangers,0,6.0,8,2,2,2,1,1,4.43,95,59,41,8,10,6,15,47,0.031,1.12,0.0,0.0,0.9,18,725
+M.Scherzer,Texas Rangers,Chicago White Sox,1,6.0,3,1,1,1,9,0,3.57,85,62,29,20,13,5,6,70,0.232,1.12,0.1,0.79,1.9,18,725
+T.Bradley,Tampa Bay Rays,Toronto Blue Jays,0,6.0,2,0,0,1,7,0,2.43,83,56,30,11,15,7,6,74,0.26,0.86,0.09,0.51,2.9,18,725
+C.Bassitt,Toronto Blue Jays,Tampa Bay Rays,1,5.0,5,3,3,1,6,1,3.78,97,61,31,12,18,3,11,50,-0.119,0.68,-0.01,0.09,-0.6,15,725
+L.Webb,San Francisco Giants,Los Angeles Dodgers,0,5.0,9,4,4,3,4,0,3.72,89,57,34,9,14,10,9,34,-0.249,1.21,-0.07,0.53,-1.5,15,725
+C.Kershaw,Los Angeles Dodgers,San Francisco Giants,1,4.0,6,2,2,2,6,0,4.5,72,47,22,15,10,2,10,46,-0.034,1.05,-0.02,1.24,-0.0,12,725
+C.Sale,Atlanta Braves,New York Mets,0,7.1,2,2,2,1,9,1,2.68,94,66,33,14,19,8,5,74,0.196,0.89,0.16,1.17,1.6,22,725
+L.Severino,New York Mets,Atlanta Braves,1,5.0,7,2,2,2,6,0,3.58,95,57,37,9,11,7,8,49,-0.14,1.11,-0.1,1.31,-0.6,15,725
+R.Stripling,Oakland Athletics,Los Angeles Angels,0,5.2,6,5,5,2,3,0,6.02,77,48,31,3,14,8,11,38,-0.198,1.14,-0.0,0.01,-2.3,17,725
+K.Rosenberg,Los Angeles Angels,Oakland Athletics,1,3.1,6,6,6,1,1,3,8.78,65,41,26,6,9,5,9,24,-0.469,0.91,-0.04,0.13,-4.3,10,725
